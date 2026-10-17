@@ -20,7 +20,7 @@ r'\section*{Rastreabilidade, dependência e correções}',
 tex('O conjunto vincula RSL-086 e RSL-107 à família de pesquisa de Pittsburgh. A dependência potencial entre outros relatos está registrada na matriz. RSL-003 utiliza a dissertação de Greene (2005), sem contar o congresso vinculado como um estudo adicional. RSL-033 contribui qualitativamente; as diferenças de 30–40% ali descritas comparam TEOM e beta, não filtros. RSL-214 pesa o mesmo filtro do protótipo beta. Em RSL-224, 2017 é o ano do volume e 2016 o da disponibilização online. RSL-101 e RSL-214 receberam correções dos nomes de Jaques, P. A., e Lim, Y. S., confirmadas nos PDFs.'),'',
 tex('O valor de 47% em RSL-001 pertence à discussão bibliográfica e não foi mantido como resultado próprio; em RSL-129, r não foi apresentado como R². Resultados gravimétricos e ópticos de RSL-089 foram separados. RSL-376 contribui somente com instrumentos convencionais, com exclusão do AirBeam. Não se substituíram os textos ausentes por estimativas retiradas apenas de resumos.'),'',
 r'\section*{Estratégias de busca e dados}',
-tex('As estratégias completas e suas datas de execução estão em docs/metodologia/estrategia_busca.md; as ocorrências e sementes de citações, em dados/buscas/. Os dados vigentes desta consolidação estão em dados/consolidacao_2026-10-17/. As bases anteriores foram preservadas como histórico. A exportação mpga_rsl.bib não foi alterada; referencias_revisao.bib registra os relatos utilizados no manuscrito e neste suplemento.'),'',
+tex('As estratégias executadas são transcritas no Apêndice E. O histórico, as ocorrências e as sementes permanecem no repositório, nas pastas ')+r'\path{docs/metodologia/}'+tex(' e ')+r'\path{dados/buscas/}'+tex('. Os dados vigentes estão em ')+r'\path{dados/consolidacao_2026-10-17/}'+tex('. As bases anteriores foram preservadas como histórico. A exportação ')+r'\path{mpga_rsl.bib}'+tex(' não foi alterada; ')+r'\path{referencias_revisao.bib}'+tex(' registra os relatos utilizados no manuscrito e neste suplemento.'),'',
 r'\section*{Indicadores e abreviaturas}',
 tex('Razão entre médias, média de razões, inclinação, diferença de concentração, correlação, coeficiente de determinação, incerteza e erro normalizado não são intercambiáveis. A extração não transforma associação em concordância, conforme ')+r'\textcite{bland1986}'+tex('. Denominador não consolidado significa que a extração focal não o estabeleceu; não prova ausência dessa informação no relato.'),'',
 tex('TEOM: Tapered Element Oscillating Microbalance; FDMS: Filter Dynamics Measurement System; FRM: Federal Reference Method; FEM: Federal Equivalent Method; BAM: beta attenuation monitor; SHARP: Synchronized Hybrid Ambient Real-time Particulate; SMPS: Scanning Mobility Particle Sizer; APS: Aerodynamic Particle Sizer; CAMM: Continuous Ambient Mass Monitor; RAMS: Real-time Ambient Mass Sampler; pDR: personal DataRAM; MOUDI: Micro-Orifice Uniform Deposit Impactor. Nomes comerciais identificam modelos; as frações e os contrastes elegíveis permanecem especificados em cada registro.'),'',
@@ -55,10 +55,13 @@ out+=end()
 out += [r'\section*{Identificação insuficiente}',tex('Seis registros permaneceram sem identificação bibliográfica suficiente. Seus identificadores importados foram conservados para possível resolução posterior.'),'']
 for e in D['selection']:
  if e['Decisão de trabalho'].startswith('Identificação insuficiente'):out.append(r'\noindent '+tex(e['ID']+'; Scopus EID: '+metas[e['ID']].get('Scopus EID',''))+r'\par')
-content='\n'.join(out)+'\n'
+out += [r'\TituloPostextual{APÊNDICE E -- ESTRATÉGIAS DE BUSCA EXECUTADAS}',tex('As transcrições abaixo reproduzem os comandos preservados no histórico das buscas. Scopus e Web of Science: 26/09/2026; PubMed: 05/10/2026. A base é denominada PubMed, sem presumir que todos os registros pertençam à MEDLINE. Estas transcrições não constituem novas execuções.'),'']
+for label,name in [('Scopus','scopus'),('Web of Science Core Collection','wos'),('PubMed','pubmed')]:
+ out += [r'\section*{'+label+'}',r'\VerbatimInput[breaklines=true,breakanywhere=true,fontsize=\footnotesize]{dados/consolidacao_2026-10-17/busca_'+name+'.txt}','']
+content='\n'.join(out).rstrip()+'\n'
 target=R/'latex/suplemento_gerado.tex'
 if '--check' in sys.argv:
  if not target.exists() or target.read_text(encoding='utf-8')!=content:raise SystemExit('Suplemento desatualizado: executar python scripts/gerar_suplemento.py')
  print('Suplemento consistente com a consolidação versionada.')
 else:
- target.write_text(content,encoding='utf-8');print('Gerado',target.relative_to(R))
+ target.write_text(content,encoding='utf-8',newline='\n');print('Gerado',target.relative_to(R))

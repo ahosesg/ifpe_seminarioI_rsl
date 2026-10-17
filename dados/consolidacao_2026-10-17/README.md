@@ -22,3 +22,9 @@ extração focal, não uma declaração de ausência de informação nos artigos
 A matriz não representa um número definitivo de estudos independentes ou
 comparações únicas. Não foi reaplicada uma classificação categórica uniforme
 de risco a todos os relatos; o arquivo de apreciação é narrativo.
+
+Os arquivos `busca_scopus.txt`, `busca_wos.txt` e `busca_pubmed.txt` transcrevem
+os comandos executados preservados no histórico. O suplemento os apresenta
+integralmente. Os caminhos de `Arquivo-fonte` conservam os rótulos de origem;
+nem todos os textos completos recuperados posteriormente estão neste repositório.
+A disponibilidade dos dados extraídos é distinta da disponibilidade dos PDFs.

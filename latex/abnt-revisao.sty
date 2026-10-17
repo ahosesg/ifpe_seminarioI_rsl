@@ -18,8 +18,8 @@
 \setlength{\tabcolsep}{4pt}
 \renewcommand{\arraystretch}{1.15}
 \newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
-\newcommand{\Fonte}[1]{\par\nobreak\noindent{\small\setstretch{1}\selectfont Fonte: #1\par}}
-\newcommand{\NotaQuadro}[1]{\noindent{\small\setstretch{1}\selectfont Nota: #1\par}}
+\newcommand{\Fonte}[1]{\par\nobreak\noindent{\setstretch{1}\fontsize{10}{12}\selectfont Fonte: #1\par}}
+\newcommand{\NotaQuadro}[1]{\noindent{\setstretch{1}\fontsize{10}{12}\selectfont Nota: #1\par}}
 \RequirePackage{titlesec,tocloft}
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{2}
@@ -33,9 +33,9 @@
 \titlespacing*{\subsubsection}{0pt}{\baselineskip}{\baselineskip}
 \titleformat{\paragraph}[hang]{\normalfont\itshape\normalsize}{\theparagraph}{1em}{}
 \titlespacing*{\paragraph}{0pt}{\baselineskip}{\baselineskip}
-\renewcommand{\contentsname}{SUMÁRIO}
+\addto\captionsbrazilian{\renewcommand{\contentsname}{SUMÁRIO}}
 \renewcommand{\cfttoctitlefont}{\hfill\normalfont\bfseries\normalsize}
-\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftaftertoctitle}{\hfill\mbox{}}
 \setlength{\cftbeforetoctitleskip}{0pt}
 \setlength{\cftaftertoctitleskip}{\baselineskip}
 \setlength{\cftchapindent}{0pt}
@@ -57,7 +57,7 @@
   \fancypagestyle{plain}{\fancyhf{}\fancyhead[R]{\normalfont\small\thepage}\renewcommand{\headrulewidth}{0pt}}%
   \fancypagestyle{abnt}{\fancyhf{}\fancyhead[R]{\normalfont\small\thepage}\renewcommand{\headrulewidth}{0pt}}%
   \pagestyle{abnt}}
-\RequirePackage{csquotes,xurl}
+\RequirePackage{csquotes,xurl,fvextra}
 \RequirePackage[backend=biber,style=abnt,sorting=nty,giveninits=true,maxcitenames=3,mincitenames=1,maxbibnames=99,uniquename=false,uniquelist=false,doi=true,url=true,isbn=false]{biblatex}
 % NBR 10520:2023: chamadas com caixa normal; referências preservam caixa alta.
 \ifcsname NormalOrSCCite\endcsname\let\UpperOrSCCite\NormalOrSCCite\fi
@@ -70,7 +70,8 @@
 \RequirePackage[hidelinks,unicode,pdfencoding=auto]{hyperref}
 \hypersetup{bookmarksnumbered=true,pdfdisplaydoctitle=true}
 \newcommand{\TituloPretextual}[1]{\clearpage\phantomsection\begin{center}\bfseries #1\end{center}\vspace{\baselineskip}}
-\newcommand{\TituloPostextual}[1]{\clearpage\phantomsection\addcontentsline{toc}{chapter}{#1}\begin{center}\bfseries #1\end{center}\vspace{\baselineskip}}
+\newcommand{\SumarioRevisao}{\clearpage\tableofcontents\clearpage}
+\newcommand{\TituloPostextual}[1]{\clearpage\phantomsection\addcontentsline{toc}{chapter}{\protect\numberline{}#1}\begin{center}\bfseries #1\end{center}\vspace{\baselineskip}}
 \newcommand{\CapaRevisao}[1]{%
   \thispagestyle{empty}\begin{center}
   {\bfseries\InstituicaoRevisao\par\ProgramaRevisao\par}

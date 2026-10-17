@@ -1,0 +1,41 @@
+(
+  "Particulate Matter"[Mesh]
+  OR "particulate matter"[tiab]
+  OR PM10[tiab] OR "PM 10"[tiab]
+  OR PM2.5[tiab] OR "PM 2.5"[tiab] OR PM25[tiab]
+)
+AND
+(
+  gravimetric*[tiab]
+  OR "filter based"[tiab] OR "filter-based"[tiab]
+  OR "reference method*"[tiab]
+  OR "Federal Reference Method*"[tiab] OR FRM[tiab]
+  OR "manual sampler*"[tiab] OR "filter sampler*"[tiab]
+  OR "high volume sampler*"[tiab] OR "high-volume sampler*"[tiab]
+  OR "low volume sampler*"[tiab] OR "low-volume sampler*"[tiab]
+)
+AND
+(
+  "automatic monitor*"[tiab] OR "automatic monitoring"[tiab]
+  OR "continuous monitor*"[tiab] OR "continuous monitoring"[tiab]
+  OR "real time monitor*"[tiab] OR "real-time monitor*"[tiab]
+  OR BAM[tiab] OR "beta attenuation monitor*"[tiab]
+  OR TEOM[tiab] OR "tapered element oscillating microbalance"[tiab]
+  OR FDMS[tiab] OR "filter dynamics measurement system"[tiab]
+  OR SHARP[tiab] OR nephelomet*[tiab]
+  OR "optical monitor*"[tiab]
+)
+AND
+(
+  compar*[tiab] OR agreement[tiab] OR concordan*[tiab]
+  OR equivalen*[tiab] OR bias[tiab] OR biases[tiab]
+  OR validat*[tiab] OR evaluat*[tiab] OR intercompar*[tiab]
+  OR collocat*[tiab] OR "co-locat*"[tiab]
+  OR "side-by-side"[tiab] OR performance[tiab]
+)
+AND
+(
+  "Environmental Monitoring/instrumentation"[Mesh]
+  OR "Environmental Monitoring/methods"[Mesh]
+  OR "ambient air"[tiab] OR "air quality"[tiab] OR outdoor[tiab]
+)

@@ -1,0 +1,33 @@
+TS=(
+  (
+    "particulate matter" OR PM10 OR "PM 10"
+    OR PM2.5 OR "PM 2.5" OR PM25
+  )
+  AND
+  (
+    gravimetric OR "filter-based" OR "filter based"
+    OR "reference method" OR "Federal Reference Method" OR FRM
+    OR "manual sampler" OR "filter sampler"
+    OR "high volume sampler" OR "low volume sampler"
+  )
+  AND
+  (
+    "automatic monitor" OR "automatic monitoring"
+    OR "continuous monitor" OR "continuous monitoring"
+    OR "real-time monitor"
+    OR BAM OR "beta attenuation monitor"
+    OR TEOM OR "tapered element oscillating microbalance"
+    OR FDMS OR "filter dynamics measurement system"
+    OR SHARP OR nephelometer OR "optical monitor"
+  )
+  AND
+  (
+    compare OR comparison OR agreement OR concordance OR equivalence OR bias
+    OR validation OR evaluation OR intercomparison OR collocated OR "co-located"
+    OR "side-by-side" OR performance
+  )
+  AND
+  (
+    "ambient air" OR "air quality"
+  )
+)
