@@ -12,6 +12,7 @@
 \setlength{\parskip}{0pt}
 \RequirePackage{amsmath,array,booktabs,tabularx,ragged2e,graphicx}
 \RequirePackage{float,caption,dblfloatfix,placeins,balance}
+\floatstyle{plaintop}
 \newfloat{quadro}{tbp}{loq}
 \floatname{quadro}{Quadro}
 \DeclareCaptionLabelSeparator{traco}{\space--\space}
@@ -32,7 +33,7 @@
 \titleformat{\paragraph}[hang]{\normalfont\normalsize}{\theparagraph}{.7em}{}
 \titleformat{\subparagraph}[hang]{\normalfont\itshape\normalsize}{\thesubparagraph}{.7em}{}
 \RequirePackage{fancyhdr}
-\fancypagestyle{plain}{\fancyhf{}\fancyhead[R]{\normalfont\small\thepage}\renewcommand{\headrulewidth}{0pt}}
+\fancypagestyle{plain}{\fancyhf{}\fancyhead[R]{\normalfont\fontsize{10}{12}\selectfont\thepage}\renewcommand{\headrulewidth}{0pt}}
 \pagestyle{plain}
 \RequirePackage{csquotes,xurl}
 \RequirePackage[backend=biber,style=abnt,sorting=nty,giveninits=true,maxcitenames=3,mincitenames=1,maxbibnames=99,uniquename=false,uniquelist=false,doi=true,url=true,isbn=false]{biblatex}
@@ -41,7 +42,7 @@
 \renewcommand*{\bibfont}{\normalfont\normalsize}
 \setlength{\bibitemsep}{\baselineskip}
 \setlength{\bibparsep}{0pt}
-\AtBeginBibliography{\balance\singlespacing\RaggedRight\interlinepenalty=10000\setlength{\bibitemsep}{\baselineskip}}
+\AtBeginBibliography{\balance\singlespacing\RaggedRight\interlinepenalty=500\setlength{\bibitemsep}{\baselineskip}}
 \defbibheading{referencias}[REFERÊNCIAS]{\section*{#1}}
 \RequirePackage[hidelinks,unicode,pdfencoding=auto]{hyperref}
 \hypersetup{bookmarksnumbered=true,pdfdisplaydoctitle=true}

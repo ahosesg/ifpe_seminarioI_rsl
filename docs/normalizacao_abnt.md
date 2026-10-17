@@ -1,7 +1,7 @@
 # Apresentação do artigo e do suplemento em LaTeX
 
 O manuscrito canônico está em `main.tex` e `texto/`. Adota o gênero artigo,
-em duas colunas, com título, autoria, resumo e abstract em largura integral.
+em duas colunas, com título e autoria em largura integral e resumos lado a lado nas duas colunas.
 O suplemento mantém uma coluna para permitir a leitura das matrizes extensas.
 Os PDFs são produtos de compilação dessas fontes.
 
