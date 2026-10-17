@@ -21,6 +21,10 @@ MP2,5 no ar ambiente: revisão sistematizada dos vieses e fatores condicionantes
 O manuscrito e seu suplemento são construídos em LaTeX neste repositório. PDFs
 são produtos da compilação, não versões de edição independentes.
 
+PDFs da versão conferida: [manuscrito](main.pdf) e [suplemento](suplemento.pdf).
+A origem e as somas de verificação estão em
+[registro de compilação](docs/compilacao_2026-10-17.json).
+
 ## Situação científica
 
 Versão de trabalho de 17/10/2026. Foram selecionados 66 relatos entre 84 avaliados

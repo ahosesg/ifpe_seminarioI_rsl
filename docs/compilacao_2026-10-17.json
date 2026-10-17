@@ -1,0 +1,24 @@
+{
+  "source_commit": "0a09bbcb966e695248f64ddcd0c5800bf37344d7",
+  "workflow_run": 39059998076,
+  "workflow_url": "https://github.com/ahosesg/ifpe_seminarioI_rsl/actions/runs/39059998076",
+  "date": "2026-10-17",
+  "validation": [
+    "dados e chaves bibliograficas consistentes",
+    "Biber e referencias cruzadas resolvidas",
+    "PDFs renderizados e conferidos visualmente"
+  ],
+  "status": "versao de trabalho; conferencia autoral cientifica nao documentada",
+  "files": {
+    "main.pdf": {
+      "sha256": "f66682087671385f89febdfadb48d73b8312fe58d9da61cfd6c3cecbc58432cc",
+      "size_bytes": 169039,
+      "pages": 20
+    },
+    "suplemento.pdf": {
+      "sha256": "e552dbe90eeca5f45bf4ae77f08bd16c115d5e45197bcf84e0287a38fc8e77ed",
+      "size_bytes": 264759,
+      "pages": 46
+    }
+  }
+}
