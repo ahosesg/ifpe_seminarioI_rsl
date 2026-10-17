@@ -1,3 +1,9 @@
+# Documentação vigente
+
+A consolidação atual é descrita em [estado_do_projeto.md](estado_do_projeto.md),
+[normalizacao_abnt.md](normalizacao_abnt.md) e na [emenda 0.7](emendas/emenda_encerramento_2026-10-17_0_7.md).
+Os documentos de etapas anteriores abaixo preservam o histórico.
+
 # Documentação
 
 ## `emendas/`

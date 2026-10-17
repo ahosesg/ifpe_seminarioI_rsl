@@ -1,3 +1,10 @@
+# Rotinas da consolidação
+
+`gerar_suplemento.py` gera LaTeX a partir da consolidação versionada;
+`verificar_revisao.py` confere integridade, referências e compilação.
+Os scripts antigos abaixo pertencem ao fluxo histórico e podem sobrescrever
+matrizes anteriores; examinar suas entradas e saídas antes de executá-los.
+
 # Scripts reprodutíveis
 
 - `preparar_pubmed.py`: deduplica a exportação PubMed contra a base inicial.

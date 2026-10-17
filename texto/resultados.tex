@@ -1,0 +1,85 @@
+\chapter{RESULTADOS}
+\section{Seleção e características dos relatos}
+
+Dos 437 registros integrados, 315 foram excluídos por título e resumo e seis permaneceram com identificação insuficiente. Para 116 registros buscou-se um relato; 32 não foram recuperados. Entre os 84 avaliados com relato disponível, 18 foram excluídos e 66 selecionados (Tabela~\ref{tab:selecao}).
+
+\begin{table}[htbp]
+\centering\caption{Identificação e seleção dos registros}\label{tab:selecao}
+\begin{singlespace}
+\begin{tabularx}{\textwidth}{@{}Xr@{}}
+\toprule Etapa & Quantidade \\\midrule
+Registros únicos integrados & 437 \\
+Exclusões por título e resumo & 315 \\
+Referências com identificação insuficiente & 6 \\
+Encaminhados à obtenção de relato & 116 \\
+Textos não recuperados & 32 \\
+Avaliados com relato disponível & 84 \\
+Exclusões após avaliação do relato & 18 \\
+Relatos selecionados & 66 \\\bottomrule
+\end{tabularx}
+\Fonte{Elaboração própria a partir do registro de seleção.}
+\end{singlespace}
+\end{table}
+
+As publicações selecionadas abrangem 1991 a 2025. Há 36 relatos restritos a \MPdoiscinco{}, 18 a \MPdez{} e 12 com ambas as frações: 48 abordam \MPdoiscinco{} e 30 abordam \MPdez{}. O total de relatos não representa um número de estudos independentes. Os motivos individuais das 18 exclusões, os 32 textos não recuperados e as seis identificações insuficientes constam do suplemento.
+
+As exclusões após leitura compreenderam comparações entre estações distintas, ausência de contraste gravimétrico próprio, contextos externos não separáveis e frações incompatíveis. Os resumos dos textos não recuperados não substituíram a extração integral. No estudo de \textcite{rsl376}, foram utilizados apenas instrumentos convencionais, mantendo a exclusão dos resultados do sensor AirBeam.
+
+\section{Comparação entre tecnologias e frações}
+
+O Quadro~\ref{qua:comparabilidade} reúne contrastes que ilustram as condições de comparabilidade. As métricas preservam suas definições e não representam uma escala comum de desempenho. A matriz individual dos 66 relatos e os 78 estratos de relato/fração estão no material suplementar.
+\input{texto/quadro_comparativo}
+
+\section{TEOM, aquecimento e compensação de perdas}
+
+O tratamento térmico modificou a relação com os filtros. Em Erfurt, a razão entre médias TEOM/Harvard Impactor passou de 0,74, com comparador não aquecido, a 1,06 na etapa em que o impactador operou a 50~\textcelsius{} \parencite{rsl201}. Os períodos sucessivos impedem atribuir toda a mudança exclusivamente ao aquecimento, mas o contraste é coerente com diferenças na retenção de semivoláteis. Aproximar o tratamento térmico também modifica a massa operacionalmente comparada.
+
+Sistemas de equilíbrio da amostra reduziram diferenças negativas em campanhas de \MPdoiscinco{}. Em Addison, o desvio médio TEOM--FRM foi de $-2{,}23$~\ugm{} no sistema convencional e de $-1{,}22$~\ugm{} com equilíbrio da amostra; em Queens, passou de $-2{,}37$ a $-0{,}93$~\ugm{} \parencite{rsl144}. Esses resultados sustentam o efeito da configuração, condicionado ao local e ao período.
+
+O sinal da diferença se inverteu quando a perda no comparador ganhou importância. \textcite{rsl101} observaram médias de 36,4~\ugm{} no TEOM diferencial e de 26,8~\ugm{} no FRM, relacionando parte da diferença à volatilização de nitrato no filtro. A avaliação de \textcite{rsl202} também associou discrepâncias entre TEOM diferencial e amostradores integrados a componentes semivoláteis. Valores automáticos maiores não indicam, isoladamente, excesso de massa em relação à existente no ar.
+
+A compensação por dinâmica de filtro, \textit{Filter Dynamics Measurement System} (FDMS), apresentou resultados distintos do TEOM convencional no programa britânico: os sistemas FDMS de \MPdez{} e \MPdoiscinco{} cumpriram os critérios empregados sem correção adicional de inclinação e intercepto, enquanto o TEOM de \MPdez{} não os cumpriu mesmo com fator adicional de 1,3 \parencite{rsl161}. Em outra campanha, o viés normalizado TEOM-FDMS foi de 13,86\% antes do ajuste e de $-0{,}85$\% depois \parencite{rsl085}. O ganho local não demonstra transferência da equação a outra rede.
+
+\section{Atenuação beta e monitoramento híbrido}
+
+A resposta beta variou com água associada às partículas e nível de concentração. Para \MPdez{}, as razões beta/alto volume foram próximas de 1,08--1,09 sem exceder o ponto de deliquescência e de 1,21--1,27 quando essa condição foi excedida, conforme o comparador manual \parencite{rsl170}. Em ar de fundo, a razão monitor/referência foi de $1{,}06\pm0{,}12$, com diferença média de apenas 0,2~\ugm{}, mas discrepâncias maiores em episódios frios e úmidos \parencite{rsl073}. Diferenças absolutas e relativas precisam ser lidas conjuntamente, sobretudo em baixas concentrações.
+
+O desenho da comparação delimitou o que foi validado. No protótipo de \textcite{rsl214}, a inclinação de 0,96, o intercepto de 0,88~\ugm{} e $r=0{,}98$ descrevem a medição beta frente à pesagem do mesmo filtro. O ensaio examina a determinação da massa, sem verificar independentemente a eficiência de coleta de dois sistemas completos.
+
+O monitor híbrido \textit{Synchronized Hybrid Ambient Real-time Particulate} (SHARP) apresentou relação com filtros expressa por $\mathrm{FRM}=0{,}92\times\mathrm{SHARP}+1{,}2$~\ugm{}, com $R^2=0{,}88$, após a exclusão de quatro dos 211 pares iniciais \parencite{rsl059}. A direção da equação e o denominador de 207 pares são parte do resultado; a regressão não pode ser invertida automaticamente.
+
+A análise secundária de 276 estações norte-americanas ampliou a perspectiva espacial: o viés médio na análise de razões anuais FEM/FRM foi de 22\%, com médias de 28\% nos instrumentos por espalhamento e de 12\% nos beta \parencite{rsl026}. Esses números refletem modelos, sítios e agregação anual daquela análise, não propriedades fixas dos princípios físicos.
+
+\section{Instrumentos ópticos e contexto do aerossol}
+
+Respostas distintas ocorreram entre fotômetros convencionais num mesmo contexto. A comparação em Como identificou tendência de subestimação em um equipamento e superestimação em outros, enquanto outra campanha encontrou dependência sazonal e viés proporcional \parencite{rsl388,rsl376}. A classificação ampla ``óptico'' é insuficiente para determinar a direção do desvio.
+
+A correção de umidade melhorou a relação pDR--gravimetria em \textcite{rsl269}, que reportaram $R^2=0{,}88$ nas conclusões. Entretanto, \textcite{rsl224} identificaram condições em que a correção do pDR poderia ser excessiva. Os resultados indicam que o benefício depende do aerossol e do algoritmo, exigindo distinguir a série bruta da corrigida.
+
+Subconjuntos externos de estudos de exposição também forneceram comparações elegíveis. A razão FRM/pDR foi de 0,66 em 28 dias na calibração externa de \textcite{rsl292}. Em outro estudo, as relações externas pDR--Harvard Impactor apresentaram $R^2$ de 0,85 no inverno e de 0,78 no verão; as análises de infiltração subsequentes já incorporavam correções sazonais e não constituíram novas validações \parencite{rsl427}.
+
+O tipo de episódio alterou a resposta. Durante uma implosão, a média pDR de 398~\ugm{} correspondeu a 73\% da média gravimétrica de 545~\ugm{} no mesmo intervalo \parencite{rsl368}. A observação é específica do evento e não define uma relação geral para poeiras urbanas.
+
+\section{Inferência da massa a partir da distribuição de tamanho}
+
+Sistemas que associam a análise de mobilidade elétrica, \textit{Scanning Mobility Particle Sizer} (SMPS), ao dimensionamento aerodinâmico, \textit{Aerodynamic Particle Sizer} (APS), inferem massa por hipóteses sobre densidade e forma. A avaliação de \textcite{rsl288} encontrou melhor comparabilidade na fração fina que na grossa. \textcite{rsl283} reportaram incertezas de 27\% para \MPdez{} e de 29\% para \MPdoiscinco{}, com erros normalizados de 0,66 e de 0,32, respectivamente. Esses indicadores não são vieses percentuais e não foram combinados com razões automático/gravimétrico.
+
+\section{Condicionantes e limitações da evidência}
+
+A síntese identificou seis eixos recorrentes (Quadro~\ref{qua:condicionantes}). Relatos curtos, campanhas restritas e resultados apenas agregados limitaram a generalização. Houve participação de fabricantes em parte da literatura, informação considerada na apreciação narrativa sem constituir prova isolada de viés. O conjunto não recebeu uma classificação global uniforme de risco.
+
+\begin{quadro}[htbp]
+\caption{Fatores condicionantes e implicações para a interpretação}\label{qua:condicionantes}
+\begin{singlespace}\small
+\begin{tabularx}{\textwidth}{|P{0.24\textwidth}|X|}
+\hline \textbf{Condicionante} & \textbf{Implicação para comparar resultados} \\\hline
+Aquecimento e semivoláteis & Registrar tratamento térmico e possíveis perdas nos dois métodos. \\\hline
+Umidade e higroscopicidade & Preservar condições ambientais e distinguir resultados brutos e corrigidos. \\\hline
+Tamanho, densidade e composição & Delimitar a validade das hipóteses de conversão do sinal em massa. \\\hline
+Faixa de concentração & Examinar diferenças absolutas e relativas e a resposta em episódios. \\\hline
+Integração e seleção de dados & Informar pareamento, denominadores, perdas e escala de agregação. \\\hline
+Desenvolvimento da correção & Distinguir ajuste, validação independente e aplicação em novo contexto. \\\hline
+\end{tabularx}
+\Fonte{Elaboração própria a partir dos relatos sintetizados nas seções anteriores.}
+\end{singlespace}
+\end{quadro}

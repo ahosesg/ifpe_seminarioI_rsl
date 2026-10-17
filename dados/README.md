@@ -1,3 +1,8 @@
+# Dados vigentes da revisão sistematizada
+
+O estado consolidado de 17/10/2026 está em [consolidacao_2026-10-17/](consolidacao_2026-10-17/).
+Os diretórios anteriores descritos abaixo preservam etapas históricas.
+
 # Dados da revisão
 
 ## `controle/`

@@ -1,24 +1,27 @@
 
-\documentclass[11pt]{article}
-\usepackage[margin=1in]{geometry}
-
-% Core packages
-\usepackage{amsmath,amssymb}
-\usepackage{tikz-cd}
-\usepackage{multicol}
-
-% Paragraphs
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{1\baselineskip}
-
-\title{Untitled}
-\author{Author Name}
-\date{\today}
-
+% Fonte principal. Compilar com latexmk -pdf main.tex (Biber automático).
+\documentclass[12pt,a4paper,oneside]{report}
+\usepackage{latex/abnt-revisao}
+\input{latex/metadados}
+\addbibresource{referencias_revisao.bib}
+\hypersetup{pdftitle={\TituloRevisao},pdfauthor={\AutorRevisao}}
 \begin{document}
-\maketitle
-
-\section{Introduction}
-
+\CapaRevisao{\TituloRevisao}
+\FolhaRostoRevisao{\TituloRevisao}{Revisão sistematizada desenvolvida no âmbito do Programa de Pós-Graduação em Gestão Ambiental do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco. Versão de trabalho para conferência autoral.}
+\TituloPretextual{RESUMO}
+\input{texto/resumo}
+\TituloPretextual{ABSTRACT}
+\begin{otherlanguage}{english}
+\input{texto/abstract}
+\end{otherlanguage}
+\tableofcontents
+\clearpage
+\AtivarPaginacao
+\input{texto/introducao}
+\input{texto/metodos}
+\input{texto/resultados}
+\input{texto/discussao}
+\input{texto/conclusao}
+\printbibliography[heading=referencias,title={REFERÊNCIAS}]
 \end{document}
 

@@ -1,0 +1,50 @@
+name: Compilar e verificar revisão em LaTeX
+on:
+  push:
+    branches: [main, 'revisao/**']
+    paths: ['**.tex', '**.sty', '**.bib', 'scripts/gerar_suplemento.py', 'scripts/verificar_revisao.py', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
+  pull_request:
+    paths: ['**.tex', '**.sty', '**.bib', 'scripts/**', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: latex-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  compilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Verificar dados, citações e material gerado
+        run: |
+          python3 scripts/gerar_suplemento.py --check
+          python3 scripts/verificar_revisao.py
+      - name: Compilar manuscrito e suplemento com Biber
+        uses: xu-cheng/latex-action@e2f99d4b3685b0da93f97e1b86ad8fab81105098 # v3
+        with:
+          root_file: |
+            main.tex
+            suplemento.tex
+          args: -pdf -file-line-error -halt-on-error -interaction=nonstopmode
+      - name: Conferir os registros de compilação
+        run: python3 scripts/verificar_revisao.py --compiled
+      - name: Disponibilizar PDFs e registros
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: revisao-sistematizada-pdfs
+          if-no-files-found: error
+          retention-days: 30
+          path: |
+            main.pdf
+            suplemento.pdf
+            main.log
+            suplemento.log
+            main.bbl
+            suplemento.bbl
+            main.blg
+            suplemento.blg

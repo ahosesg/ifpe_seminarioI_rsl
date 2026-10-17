@@ -1,105 +1,74 @@
-# Revisão sistemática sobre métodos de medição de material particulado
+# Revisão sistematizada sobre métodos de medição de material particulado
 
-Projeto da revisão sistemática e análise bibliométrica sobre a comparabilidade
-entre métodos automáticos e gravimétricos para MP₁₀ e MP₂,₅ no ar ambiente.
+Comparabilidade entre métodos automáticos e gravimétricos na medição de MP10 e
+MP2,5 no ar ambiente: revisão sistematizada dos vieses e fatores condicionantes.
 
-Documento iniciado em 26 de setembro de 2026. Protocolo atualmente na versão
-0.5, de 5 de outubro de 2026.
+## Documentos canônicos
 
-## Estrutura do repositório
+- [`main.tex`](main.tex): manuscrito, com fontes modulares em [`texto/`](texto/).
+- [`suplemento.tex`](suplemento.tex): material suplementar, gerado a partir dos
+  dados consolidados.
+- [`latex/abnt-revisao.sty`](latex/abnt-revisao.sty): apresentação acadêmica.
+- [`referencias_revisao.bib`](referencias_revisao.bib): bibliografia editorial
+  dos 66 relatos e de duas fontes metodológicas.
+- [`dados/consolidacao_2026-10-17/`](dados/consolidacao_2026-10-17/): seleção de
+  437 registros, extração focal de 66 relatos, 78 estratos e apreciação narrativa.
+- [`docs/normalizacao_abnt.md`](docs/normalizacao_abnt.md): normas, implementação,
+  fontes e limites dos elementos institucionais.
+- [`docs/emendas/emenda_encerramento_2026-10-17_0_7.md`](docs/emendas/emenda_encerramento_2026-10-17_0_7.md):
+  registro metodológico vigente da consolidação.
 
-```text
-.
-├── main.tex                 # manuscrito do artigo, ainda em preparação
-├── protocolo_rsl.tex        # fonte principal do protocolo
-├── protocolo_rsl.pdf        # versão compilada para leitura
-├── mpga_rsl.bib             # exportação do Zotero; somente leitura
-├── docs/                    # documentação metodológica, emendas e análises
-│   ├── emendas/
-│   ├── metodologia/
-│   └── analises/
-├── dados/                   # bases tabulares produzidas pela revisão
-│   ├── controle/
-│   ├── buscas/
-│   ├── triagem/
-│   ├── extracao/
-│   └── avaliacao/
-├── scripts/                 # rotinas reprodutíveis de preparação dos dados
-└── prism-uploads/           # fontes brutas e arquivos enviados ao projeto
+O manuscrito e seu suplemento são construídos em LaTeX neste repositório. PDFs
+são produtos da compilação, não versões de edição independentes.
+
+## Situação científica
+
+Versão de trabalho de 17/10/2026. Foram selecionados 66 relatos entre 84 avaliados
+com relato disponível. Permaneceram 32 textos não recuperados e seis referências
+com identificação insuficiente; 315 registros foram excluídos por título/resumo
+e 18 após avaliação do relato.
+
+A revisão é sistematizada, conduzida por um pesquisador com assistência de IA,
+sem segundo revisor humano independente. A conferência autoral das decisões e
+estimativas não está documentada. A extração é focal e a apreciação é narrativa;
+não houve metanálise, avaliação categórica uniforme de todo o conjunto ou
+quantificação definitiva dos estudos independentes. As buscas não foram
+reexecutadas na data do encerramento documental.
+
+Antes da submissão, conferir e registrar as decisões e os números mobilizados,
+ratificar as alterações metodológicas e adequar a apresentação à modalidade
+institucional ou ao veículo. Não declarar conferência humana ou aprovação
+acadêmica que não tenha ocorrido.
+
+## Compilação e verificações
+
+Requisitos: TeX Live com `latexmk`, pdfLaTeX, Biber, BibLaTeX, `biblatex-abnt`,
+fontes Times, idioma português e pacotes indicados no estilo. A compilação
+completa exige Biber; executar apenas pdfLaTeX uma vez não resolve as referências.
+
+```sh
+python3 scripts/gerar_suplemento.py
+python3 scripts/verificar_revisao.py
+latexmk -pdf -file-line-error -halt-on-error -interaction=nonstopmode main.tex
+latexmk -pdf -file-line-error -halt-on-error -interaction=nonstopmode suplemento.tex
+python3 scripts/verificar_revisao.py --compiled
 ```
 
-Os arquivos LaTeX e a biblioteca bibliográfica permanecem na raiz para manter
-a compilação simples no Prism. Os arquivos de `prism-uploads/` não devem ser
-renomeados nem movidos: seus caminhos são usados na rastreabilidade das buscas.
+O fluxo [`compilar-latex.yml`](.github/workflows/compilar-latex.yml) executa essas
+verificações e compila os dois documentos no GitHub Actions. Os PDFs e os
+registros ficam no artefato `revisao-sistematizada-pdfs` da execução.
 
-## Pontos de entrada
+Os comandos de geração alteram apenas o suplemento derivado, não a seleção ou
+os julgamentos. `--check` verifica se a versão gerada corresponde aos dados.
 
-- `protocolo_rsl.tex`: protocolo metodológico vigente.
-- `main.tex`: ponto de entrada do futuro artigo.
-- `docs/metodologia/estrategia_busca.md`: estratégias e histórico das buscas.
-- `docs/metodologia/instrumento_avaliacao_metodologica.md`: instrumento por
-  domínios.
-- `docs/emendas/emenda_metodologica_2026-10-05.md`: emenda que fundamenta a
-  versão 0.5.
-- `dados/buscas/sementes_busca_citacoes.csv`: controle das buscas de citações.
-- `dados/buscas/ocorrencias_busca_citacoes.csv`: todas as ocorrências, com a
-  proveniência preservada.
-- `dados/triagem/triagem_citacoes.csv`: registros novos deduplicados para a
-  futura triagem.
-- `dados/extracao/extracao_dados.csv`: extração preliminar dos estudos
-  incluídos.
-- `dados/avaliacao/avaliacao_metodologica.csv`: julgamentos metodológicos
-  preliminares.
+## Histórico e fontes preservadas
 
-Mais detalhes estão nos índices de [documentação](docs/README.md),
-[dados](dados/README.md), [scripts](scripts/README.md) e
-[fontes brutas](prism-uploads/README.md).
+`mpga_rsl.bib` é a exportação original do Zotero e permanece somente leitura.
+`protocolo_rsl.tex` registra o protocolo histórico 0.5; a versão 0.6 está em
+`docs/historico/` e o encerramento 0.7, em `docs/emendas/`. Os 40 registros das
+matrizes anteriores não substituem os dados da pasta de consolidação vigente.
 
-## Situação em 5 de outubro de 2026
-
-- buscas bibliográficas principais executadas em Scopus, Web of Science e
-  PubMed;
-- 40 documentos incluídos após a avaliação integral disponível;
-- 17 publicações originais registradas como não recuperadas;
-- revisão conduzida por um pesquisador, com segunda conferência interna;
-- buscas retrospectiva e prospectiva de citações em andamento;
-- seis sementes já possuem ao menos uma direção processada, cinco delas com as
-  duas direções concluídas;
-- 361 ocorrências de citações registradas;
-- 287 registros novos deduplicados aguardando triagem;
-- nenhuma decisão de elegibilidade foi preenchida na base de citações.
-
-## Biblioteca bibliográfica
-
-`mpga_rsl.bib` é uma exportação da biblioteca sincronizada no Zotero e deve ser
-tratado como somente leitura.
-
-- Não editar, reordenar, deduplicar ou corrigir o arquivo manualmente.
-- Não alterar chaves de citação diretamente no `.bib`.
-- Corrigir metadados no Zotero e substituir a exportação completa.
-- Utilizar nos arquivos LaTeX somente as chaves presentes na exportação atual.
-
-## Fluxo de trabalho
-
-1. Preservar as exportações brutas em `prism-uploads/`.
-2. Registrar cada execução em `dados/buscas/registro_buscas.csv`.
-3. Deduplicar sem alterar os arquivos brutos.
-4. Manter seleção, extração e avaliação em seus respectivos subdiretórios de
-   `dados/`.
-5. Registrar mudanças metodológicas em `docs/emendas/` e
-   `dados/controle/registro_emendas.csv`.
-6. Executar os scripts sempre a partir da raiz ou por seu caminho completo; os
-   caminhos internos são resolvidos em relação à raiz do projeto.
-7. Atualizar a busca antes da submissão e relatar o fluxo conforme PRISMA 2020.
-
-## Regras de reprodutibilidade
-
-- Distinguir estudo, publicação, comparação e estimativa.
-- Preservar todas as proveniências quando um registro aparece em várias
-  sementes ou direções.
-- Manter MP₁₀ e MP₂,₅ separados nas sínteses principais.
-- Não forçar meta-análise quando os desenhos, instrumentos ou métricas forem
-  incompatíveis.
-- Registrar toda alteração feita após o conhecimento dos resultados como
-  emenda datada.
-- Não considerar ferramentas de IA como autoras ou revisoras independentes.
+As fontes de `prism-uploads/` e as exportações brutas não foram renomeadas ou
+alteradas. O histórico das buscas continua em `docs/metodologia/` e
+`dados/buscas/`. O relatório da importação original permanece em
+`docs/importacao_prism/`.
