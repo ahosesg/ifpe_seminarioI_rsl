@@ -52,10 +52,10 @@ for e in D['selection']:
  m=metas[e['ID']];link=(r'\url{https://doi.org/'+m['DOI']+'}') if m['DOI'] else tex(m.get('Periódico/Fonte','Identificação disponível na matriz'))
  out.append(tex(e['ID'])+' & '+tex(m['Título'])+' & '+link+r'\\\hline')
 out+=end()
-out += [r'\section*{Identificação insuficiente}',tex('Seis registros permaneceram sem identificação bibliográfica suficiente. Seus identificadores importados foram conservados para possível resolução posterior.'),'']
+out += [r'\begin{samepage}',r'\section*{Identificação insuficiente}',tex('Seis registros permaneceram sem identificação bibliográfica suficiente. Seus identificadores importados foram conservados para possível resolução posterior.'),'']
 for e in D['selection']:
  if e['Decisão de trabalho'].startswith('Identificação insuficiente'):out.append(r'\noindent '+tex(e['ID']+'; Scopus EID: '+metas[e['ID']].get('Scopus EID',''))+r'\par')
-out += [r'\TituloPostextual{APÊNDICE E -- ESTRATÉGIAS DE BUSCA EXECUTADAS}',tex('As transcrições abaixo reproduzem os comandos preservados no histórico das buscas. Scopus e Web of Science: 26/09/2026; PubMed: 05/10/2026. A base é denominada PubMed, sem presumir que todos os registros pertençam à MEDLINE. Estas transcrições não constituem novas execuções.'),'']
+out += [r'\end{samepage}',r'\TituloPostextual{APÊNDICE E -- ESTRATÉGIAS DE BUSCA EXECUTADAS}',tex('As transcrições abaixo reproduzem os comandos preservados no histórico das buscas. Scopus e Web of Science: 26/09/2026; PubMed: 05/10/2026. A base é denominada PubMed, sem presumir que todos os registros pertençam à MEDLINE. Estas transcrições não constituem novas execuções.'),'']
 for label,name in [('Scopus','scopus'),('Web of Science Core Collection','wos'),('PubMed','pubmed')]:
  out += [r'\section*{'+label+'}',r'\VerbatimInput[breaklines=true,breakanywhere=true,fontsize=\footnotesize]{dados/consolidacao_2026-10-17/busca_'+name+'.txt}','']
 content='\n'.join(out).rstrip()+'\n'

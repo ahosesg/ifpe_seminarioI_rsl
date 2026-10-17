@@ -65,7 +65,7 @@
 \renewcommand*{\bibfont}{\normalfont\normalsize}
 \setlength{\bibitemsep}{\baselineskip}
 \setlength{\bibparsep}{0pt}
-\AtBeginBibliography{\singlespacing\RaggedRight\setlength{\bibitemsep}{\baselineskip}}
+\AtBeginBibliography{\singlespacing\RaggedRight\interlinepenalty=10000\setlength{\bibitemsep}{\baselineskip}}
 \defbibheading{referencias}[REFERÊNCIAS]{\TituloPostextual{#1}}
 \RequirePackage[hidelinks,unicode,pdfencoding=auto]{hyperref}
 \hypersetup{bookmarksnumbered=true,pdfdisplaydoctitle=true}
