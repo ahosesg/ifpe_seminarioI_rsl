@@ -1,7 +1,7 @@
 # Apresentação do artigo e do suplemento em LaTeX
 
 O manuscrito canônico está em `main.tex` e `texto/`. Adota o gênero artigo,
-em duas colunas, com título e autoria em largura integral e resumos lado a lado nas duas colunas.
+em duas colunas, com título, autoria e resumo em largura integral. O abstract foi retirado temporariamente, conforme decisão do autor.
 O suplemento mantém uma coluna para permitir a leitura das matrizes extensas.
 Os PDFs são produtos de compilação dessas fontes.
 
@@ -14,7 +14,7 @@ Os PDFs são produtos de compilação dessas fontes.
 | ABNT NBR 6023:2025 | Referências alfabéticas com `biblatex-abnt`, sobrenomes em caixa alta na lista, alinhamento à esquerda, espaçamento simples e separação entre entradas. DOI e endereço quando disponíveis. A saída do pacote é conferida após Biber; o software não substitui a norma. |
 | ABNT NBR 10520:2023 | Citações autor-data, caixa normal dos sobrenomes nas chamadas e distinção entre citações narrativas e parentéticas. Não há transcrição direta longa no artigo. |
 | ABNT NBR 6024:2012 | Numeração progressiva até cinco níveis configurada; apenas seção e subseção são necessárias no corpo atual. Referências sem número. |
-| ABNT NBR 6028:2021 | Resumo informativo e abstract em parágrafo único; faixa editorial de 100–250 palavras para o artigo. Palavras-chave separadas por ponto e vírgula e terminadas por ponto. |
+| ABNT NBR 6028:2021 | Resumo informativo em parágrafo único e coluna única; faixa editorial de 100–250 palavras para o artigo. O texto do abstract permanece preservado nas fontes para inclusão posterior. Palavras-chave separadas por ponto e vírgula e terminadas por ponto. |
 | ABNT NBR 6027:2012 | Sumário automático do suplemento. O artigo dispensa sumário, conforme sua estrutura de gênero. |
 
 O estilo do artigo é `latex/abnt-artigo.sty`; o suplemento utiliza
