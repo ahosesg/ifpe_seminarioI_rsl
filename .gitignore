@@ -1,0 +1,20 @@
+# Ambientes e caches locais
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Arquivos auxiliares de compilação LaTeX; PDFs não são ignorados.
+*.aux
+*.bcf
+*.blg
+*.bbl
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc

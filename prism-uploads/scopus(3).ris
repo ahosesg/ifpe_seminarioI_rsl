@@ -1,0 +1,1256 @@
+TY  - JOUR
+AU  - Lowenthal, D.H.
+AU  - Rogers, C.F.
+AU  - Saxena, P.
+AU  - Watson, J.G.
+AU  - Chow, J.C.
+TI  - Sensitivity of estimated light extinction coefficients to model assumptions and measurement errors
+PY  - 1995
+T2  - Atmospheric Environment
+VL  - 29
+IS  - 7
+SP  - 751
+EP  - 766
+DO  - 10.1016/1352-2310(94)00340-Q
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028974357&doi=10.1016%2f1352-2310%2894%2900340-Q&partnerID=40&md5=62aa28a2f2accc989c05321834089a9c
+AD  - Desert Research Institute, Reno, NV 89506, P. O. Box 60220, United States
+AD  - Electric Power Research Institute, Palo Alto, CA 94303, 3412 Hillview Ave, United States
+AB  - The optical properties of aerosol particles, expressed in terms of scattering and absorption coefficients, determine radiation transfer and visibility in the atmosphere. In principle, given sufficiently detailed input data regarding particle concentration, morphology, size, and index of refraction, particulate scattering and absorption coefficients can be estimated. In reality, the estimation of light extinction is constrained by our limited ability to measure the physical and chemical properties of aerosol particles. To evaluate the reliability of light-extinction estimates under such constraints, we applied impactor size distribution inversion and Mie scattering models to several urban and rural U.S. aerosol data sets. The scattering algorithm includes five chemical components, nitrate, sulfate, organic carbon, elemental carbon, and geological dust in internally mixed particles. Particle composition may be treated as homogeneous or distributed between an insoluble core and an aqueous shell. Liquid water is added to dry aerosol mass in discrete size bins and a distribution number is estimated. Extinction is calculated with Mie theory. For the data sets examined, light scattering estimated with this model agreed with measured scattering to within 26% on average. We describe the sensitivity of the method to input assumptions about particle composition and morphology, liquid water as a function of relative humidity, and particle size distribution. Apportioning estimated scattering to chemical components of an ambient aerosol using species extinction efficiencies has no clear theoretical basis. The merits of several approaches for doing so are examined. © 1995.
+KW  - extinction efficiency
+KW  - internal mixture
+KW  - Mie scattering
+KW  - MLR model
+KW  - size distribution
+KW  - Twomey inversion
+KW  - carbon
+KW  - nitrate
+KW  - sulfate
+KW  - water
+KW  - aerosol data set
+KW  - extinction efficiency
+KW  - light extinction
+KW  - measurement error
+KW  - Mie scattering
+KW  - model assumption
+KW  - Twomey inversion
+KW  - absorption
+KW  - aerosol
+KW  - air pollution
+KW  - airborne particle
+KW  - algorithm
+KW  - article
+KW  - atmosphere
+KW  - chemical composition
+KW  - dust
+KW  - error
+KW  - humidity
+KW  - light scattering
+KW  - measurement
+KW  - morphology
+KW  - particle size
+KW  - priority journal
+KW  - radiation
+KW  - reliability
+KW  - rural area
+KW  - united states
+KW  - urban area
+KW  - visibility
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 78; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Venkataraman, C.
+AU  - Frledlander, S.K.
+TI  - Size Distributions of Polycyclic Aromatic Hydrocarbons and Elemental Carbon. 2. Ambient Measurements and Effects of Atmospheric Processes
+PY  - 1994
+T2  - Environmental Science and Technology
+VL  - 28
+IS  - 4
+SP  - 563
+EP  - 572
+DO  - 10.1021/es00053a006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028161588&doi=10.1021%2fes00053a006&partnerID=40&md5=42ed2f067dd3460931428cc76a987e5a
+AD  - Chemical Engineering Department, University of California, Los Angeles, California 90024, United States
+AB  - A comprehensive data set of polycyclic aromatic hydrocarbon (PAH) and elemental carbon (EC) size distributions has been measured in ambient aerosol and in vehicular emissions, during the same time frame, using identical sampling instruments and analysis methods. Ambient PAH and EC size distributions are bimodal with peaks in the 0.05–0.12-μm (mode I) and 0.5–1.0-μm (mode II) size ranges. Mode I was attributed to primary emissions from combustion sources while mode II was attributed to the accumulation of secondary reaction products on primary aerosol particles. Size distributions of the 4-ring PAHs (FLT, PYR, CHR, BAA) show larger secondary peaks than the 5-ring and larger PAHs (BBF, BKF, BAP, DBA, BGP, INP). This can be explained by differences in their sources or in their gas-particle partitioning behavior. The more reactive PAHs are depleted to greater extents in mode II aerosol, which is evidence for aerosol aging. The shift of mass to the secondary mode by atmospheric processes lowers the average deposition velocity by factors of 1.5–3.5, indicating longer atmospheric residence times for these species. © 1994, American Chemical Society. All rights reserved.
+KW  - carbon
+KW  - polycyclic aromatic hydrocarbon
+KW  - carbon
+KW  - PAHs
+KW  - size distributions
+KW  - air pollution
+KW  - air sampling
+KW  - ambient air
+KW  - article
+KW  - atmospheric transport
+KW  - car
+KW  - exhaust gas
+KW  - measurement
+KW  - nonhuman
+KW  - traffic
+SN  - 0013936X (ISSN)
+LA  - English
+J2  - Environ. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 268
+ER  -
+
+TY  - JOUR
+AU  - Waggoner, A.P.
+AU  - Weiss, R.E.
+TI  - Comparison of fine particle mass concentration and light scattering extinction in ambient aerosol
+PY  - 1980
+T2  - Atmospheric Environment (1967)
+VL  - 14
+IS  - 5
+SP  - 623
+EP  - 626
+DO  - 10.1016/0004-6981(80)90098-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018907639&doi=10.1016%2f0004-6981%2880%2990098-0&partnerID=40&md5=f040218f1cbc98e113ebda74c8419e84
+AD  - Water and Air Resources, Department of Civil Engineering University of Washington, Seattle, WA 98195, United States
+KW  - aerosol
+KW  - methodology
+KW  - particle size
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 99; CODEN: AEATE
+ER  -
+
+TY  - CONF
+AU  - Fung, K.
+TI  - Particulate carbon speciation by MnO2 oxidation
+PY  - 1990
+T2  - Aerosol Science and Technology
+VL  - 12
+IS  - 1
+SP  - 122
+EP  - 127
+DO  - 10.1080/02786829008959332
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025198556&doi=10.1080%2f02786829008959332&partnerID=40&md5=c15c179d988d19730788ef6e544662b9
+AD  - United States
+AB  - A selective thermal oxidation method was developed for the speciation of carbonaceous aerosols collected on filters into organic carbon (OC) and elemental carbon (EC). The technique is based on studying the thermal oxidation of microcrystalline graphite by MnO2 as well as various organic compounds. The procedure uses a modified Dohrmann DC-52 carbon analyzer with a flame ionization detector to detect the CO2 resulting from the oxidation as methane after catalytic conversion. The results led to the selection of 525°C as the optimal temperature for the oxidation of OC while leaving EC intact. After the organic oxidation, the sample is heated at 850°C, at which EC is oxidized rapidly and completely by MnO2. Carbonates that may be present in either the particles or the filter medium are removed by acidification and heating to ~ 120°C prior to performing the organic and EC measurements. Analysis of split ambient particulate samples in which the OC levels had been reduced by solvent extraction produced EC results statistically the same as the original untreated samples. These results suggest that the speciation is not sensitive to the level of organics in the sample. During the Carbonaceous Species Methods Comparison Study (CSMCS) in which the participants analyzed 20 blind samples, with four being triplicates, this technique yielded results in good agreement with the average results of the participants, with coefficients of variation (CV) derived from the triplicate analysis being 2.1%, 2.6%, and 8.1%, respectively, for total, organic, and elemental carbon.; A selective thermal oxidation method was developed for the speciation of carbonaceous aerosols collected on filters into organic carbon (OC) and elemental carbon (EC). The technique is based on studying the thermal oxidation of microcrystalline graphite by MnO2 as well as various organic compounds. The procedure uses a modified Dohrmann DC-52 carbon analyzer with a flame ionization detector to detect the CO2 resulting from the oxidation as methane after catalytic conversion. During the Carbonaceous Species Methods Comparison Study (CSMCS) in which the participants analyzed 20 blind samples, with four being triplicates, this technique yielded results in good agreement with the average results of the participants, with coefficients of variation (CV) derived from the triplicate analysis being 2.1%, 2.6%, and 8.1%, respectively, for total, organic, and elemental carbon.
+KW  - Aerosols--Atmospheric
+KW  - Manganese Compounds--Oxidation
+KW  - carbon
+KW  - organic carbon
+KW  - Particulate Carbon
+KW  - Thermal Oxidation Method
+KW  - aerosols
+KW  - carbon
+KW  - carbonate
+KW  - flame ionisation detector
+KW  - manganese dioxide
+KW  - particulate carbon
+KW  - sampling
+KW  - thermal oxidation
+KW  - aerosol
+KW  - air sampling
+KW  - conference paper
+KW  - Air pollution
+SN  - 02786826 (ISSN)
+LA  - English
+J2  - AEROSOL SCI. TECHNOL.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 120; CODEN: ASTYD
+ER  -
+
+TY  - JOUR
+AU  - Sioutas, C.
+AU  - Koutrakis, P.
+AU  - Burton, R.M.
+TI  - A technique to expose animals to concentrated fine ambient aerosols
+PY  - 1995
+T2  - Environmental Health Perspectives
+VL  - 103
+IS  - 2
+SP  - 172
+EP  - 177
+DO  - 10.1289/ehp.95103172
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028947496&doi=10.1289%2fehp.95103172&partnerID=40&md5=8710d763531d1b42cc3a23cb405881df
+AD  - Harvard University, School of Public Health, Boston, MA 02115, 665 Huntington Avenue, United States
+AB  - This paper presents the development and evaluation of an ambient particle concentrator for conducting animal inhalation exposure studies. The system utilizes the principle of virtual impactors to concentrate ambient particles in the size range 0.1-2.5 μm (aerodynamic diameter; d(p)) by drawing them through a series of three virtual impactors. Each impactor contains the majority of ambient fine mass (d(p)<2.5 μm aerodynamic diameter) in a bleed flow (minor flow) that is 20% of the total flow entering the virtual impactor. The virtual impactors have been characterized using indoor air samples as test aerosols. Fine mass and sulfate concentrations at the outlet of the concentrating system were compared to the ambient fine mass and sulfate levels, which were determined using Harvard-Marple impactors. In each of the stages, particle concentration was increased by a factor of approximately 3. Thus, an overall concentration factor of about 25-30 was achieved. The main goal of this study was to demonstrate the feasibility of conducting animal exposures using the newly developed ambient fine particle concentrator.
+KW  - Ambient particles
+KW  - Animal inhalation exposures
+KW  - Concentrator
+KW  - Virtual impactors
+KW  - Animalia
+KW  - sulfate
+KW  - aerosol
+KW  - ambient air
+KW  - article
+KW  - environmental exposure
+KW  - flow
+KW  - inhalation
+KW  - particle size
+KW  - priority journal
+KW  - technique
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 7737066
+LA  - English
+J2  - ENVIRON. HEALTH PERSPECT.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 149; CODEN: EVHPA
+ER  -
+
+TY  - JOUR
+AU  - John, W.
+AU  - Wall, S.M.
+AU  - Ondo, J.L.
+AU  - Winklmayr, W.
+TI  - Modes in the size distributions of atmospheric inorganic aerosol
+PY  - 1990
+T2  - Atmospheric Environment
+VL  - 22
+SP  - 1627
+EP  - 1635
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0001334310&partnerID=40&md5=a7275af1a059ca035f1c476e6026f88d
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Sioutas, C.
+AU  - Abt, E.
+AU  - Wolfson, J.M.
+AU  - Koutrakis, P.
+TI  - Evaluation of the Measurement Performance of the Scanning Mobility Particle Sizer and Aerodynamic Particle Sizer
+PY  - 1999
+T2  - Aerosol Science and Technology
+VL  - 30
+IS  - 1
+SP  - 84
+EP  - 92
+DO  - 10.1080/027868299304903
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033364251&doi=10.1080%2f027868299304903&partnerID=40&md5=1108f878c13c839f258cc4a96dedf602
+AD  - University of Southern California, Department of Civil Engineering, Los Angeles, CA, 90089, United States
+AD  - Harvard University, School of Public Health, Department of Environmental Health, Boston, MA, 02115, United States
+AB  - The performance of the Scanning Mobility Particle Sizer (SMPS, TSI Model 3934) and the Aerodynamic Particle Sizer (APS, TSI Model 3310A) were evaluated to assess their ability to obtain mass concentrations from near real-time particle number concentration measurements made as a function of particle size. Tests were performed by generating monodisperse (polystyrene latex microspheres, 0.05-9.20 mu m) and polydisperse aerosols (potassium sulfate and ammonium nitrate, mass median aerodynamic diameter (MMAD) U 0.16-0.30 mu m) and comparing mass concentrations determined by the SMPS and APS, with concentrations measured gravimetrically on Teflon filters. Previous performance evaluation tests of these instruments has focused primarily on their ability to measure particle number concentrations (Kinney et al. 1991; Wang and Flagan 1990) or mass concentrations of polydisperse aerosols with mass median aerodynamic diameters (MMAD) of about 0.7-2.5 mu m (Peters et al. 1993). Findings from the monodisperse aerosol tests indicate that the mass concentrations obtained by the APS compared similarly to those obtained using the gravimetric method for particle sizes between 0.5-9.2 mu m. Similarly, SMPS measurements were in good agreement with the gravimetric analysis for particle sizes between 0.3-0.5 mu m. However, for particles less than 0.30 mu m, the SMPS overestimated their mass concentrations by a factor of 1.5-1.6. Tests using polydisperse aerosols showed that at particle size ranges from 0.09-0.18 mu m and from 0.18-0.29 mu m, the SMPS also overestimated mass concentrations. © 1999 Taylor & Francis Group, LLC.
+KW  - aerosol
+KW  - Particle size analysis
+KW  - microsphere
+KW  - polystyrene
+KW  - potassium derivative
+KW  - aerosol
+KW  - analytic method
+KW  - article
+KW  - controlled study
+KW  - device
+KW  - gravimetry
+KW  - intermethod comparison
+KW  - particle size
+KW  - priority journal
+SN  - 02786826 (ISSN)
+LA  - English
+J2  - Aerosol Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 94
+ER  -
+
+TY  - JOUR
+AU  - Marple, V.A.
+AU  - Rubow, K.L.
+AU  - Behm, S.M.
+TI  - A microorifice uniform deposit impactor (moudi): Description, calibration, and use
+PY  - 1991
+T2  - Aerosol Science and Technology
+VL  - 14
+IS  - 4
+SP  - 434
+EP  - 436
+DO  - 10.1080/02786829108959504
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026153519&doi=10.1080%2f02786829108959504&partnerID=40&md5=313080f6b680c5bb07324d6bc2cbd37b
+AD  - Particle Technology Laboratory, Department of Mechanical Engineering, University of Minnesota, Minneapolis, MN, 55455, United States
+AB  - An eight-stage cascade impactor, with cut-sizes ranging from 0.056 to 18 μm at a flow rate of 30 L/min, has been developed, calibrated, and tested in field programs. This impactor, called a microorifice uniform deposit impactor, has several features not normally found in cascade impactors. Ultrafine particles as small as 0.056 μm are collected while keeping the pressure drop moderate by utilizing multiple nozzles (up to 2000) as small as 52 μm in diameter. At each stage the collected particles are deposited uniformly over the entire impaction plate by rotating the impaction plate relative to the nozzles and by the correct radial placement of the nozzles. The particle cutoff characteristics (collection efficiency curves) of each stage and interstage losses were determined by means of monodisperse aerosols. The cutoff characteristics were found to be sharp and similar for all stages. © 1991 Elseiver Science Publishing Co., Inc.
+KW  - Aerodynamics--Orifices
+KW  - Instruments--Calibration
+KW  - Nozzles
+KW  - Particle Size Analysis--Sampling
+KW  - air sampling
+KW  - article
+KW  - impactor
+KW  - particle size
+KW  - particulate matter
+KW  - Impactor Testing
+KW  - Multiple Nozzles
+KW  - Particle Cutoff
+KW  - Ultrafine Particles
+KW  - Aerosols
+SN  - 02786826 (ISSN)
+LA  - English
+J2  - Aerosol Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 618
+ER  -
+
+TY  - JOUR
+AU  - Scheff, P.A.
+AU  - Wadden, R.A.
+TI  - Comparison of three methods of particulate measurement in Chicago air
+PY  - 1979
+T2  - Atmospheric Environment (1967)
+VL  - 13
+IS  - 5
+SP  - 639
+EP  - 643
+DO  - 10.1016/0004-6981(79)90192-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018323286&doi=10.1016%2f0004-6981%2879%2990192-6&partnerID=40&md5=c4021d5055e61f911fc99b3ca33329e0
+AD  - University of Illinois, School of Public Health, Chicago, IL 60680, P.O. Box 6998, United States
+AB  - Simultaneous measurements of suspended particulate concentrations were taken in Chicago over an 8-month period with an integrating nephelometer, a 6-stage fractionating sampler, and a Hi-Vol air sampler. The correlation coefficient (r) between light scattering coefficient, bscat, and the Hi-Vol measurements was 0.75. The light scattering coefficient was found to be highly correlated with the impactor stages which had cut-off diameters of 0.38 μm (r = 0.79) and 0.84 μm (r = 0.89). These associations were independent of relative humidity. In contrast, correlations between bscat and all other size fractions, and with TSP, were greatly affected by relative humidity. Relatively strong relationships were also found between NO2, O3 and bscat which support the contention that nephelometer measurements are a reflection of photochemical activity. © 1979.
+KW  - NEPHELOMETERS
+KW  - air analysis
+KW  - geographic distribution
+KW  - methodology
+KW  - particulate matter
+KW  - united states
+KW  - PARTICULATE MEASUREMENT
+KW  - AIR POLLUTION
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 7; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Mauderly, J.L.
+AU  - Neas, L.M.
+AU  - Schlesinger, R.B.
+TI  - PM monitoring needs related to health effects
+PY  - 1998
+T2  - Atmospheric Observations: Helping Build the Scientific Basis for Decisions Related to Airborne Particulate Matter
+SP  - 9
+EP  - 14
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0001773108&partnerID=40&md5=0258de47a355dde4794d6e7ffd360b7e
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Gong, H.
+TI  - Controlled human exposures to concentrated ambient fine particles in metropolitan los angeles: Methodology and Preliminary Health-Effect Findings
+PY  - 2000
+T2  - Inhalation Toxicology
+VL  - 12
+IS  - SUPPL. 1
+SP  - 107
+EP  - 119
+DO  - 10.1080/089583700196437
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033974731&doi=10.1080%2f089583700196437&partnerID=40&md5=4f70fcba4748cd9fdb44a04c5034cf1f
+AD  - Department of Preventive Medicine, University of Southern California, Los Angeles, CA, United States
+AB  - Copyright ©2000 Taylor & Francis We installed a Harvard particle concentrator with PM2.5 size-selective inlet and t\vo virtual impactor stages, in a movable human exposure laboratory located in metropolitan Los Angeles, where ambient PM2.5 is unusually high. The exposure chamber, a modified body plethysmograph of ~2000 L volume, operated at flow near 200 L/min and pressure near 25 cm H2O below atmospheric. The concentrator usually delivered seven to nine times the ambient concentration of PM2.5. When necessary, part of its output was diverted through a HEPA filter to control the exposure concentration. Occasionally the concentration factor decreased due to rapid fouling of impactor slits under humid and/or highly polluted ambient conditions. Initial tests with an investigator (healthy male, age 53 yr) at rest in the chamber showed no untoward effects except rare transient mild substernal irritation, brief mild middle ear discomfort from pressure changes upon starting or slopping the concentrator, and occasional ectopic heartbeats (which also occurred apart from the exposures). Maximum in-chamber concentrations exceeded 300 vg/m3, 30-min average. Subsequently, healthy adult volunteers (2 female, 2 male, age 19-41 yr) completed 2-h resting exposures to ambient PM2.5 at 2-h average concentrations of 148 to 246 iig/m3, and similar studies with HEPA-filtered air (control condition). No medically significant changes in lung function, symptoms, arterial Oz saturation, or Holler electrocardiograms (recorded during and for 22 h after exposure in 3 subjects) were observed. We conclude that exposures to concentrated ambient particles are operationally and ethically feasible in metropolitan Los Angeles. Larger scale studies of healthy volunteers, and then of volunteers with respiratory or cardiovascular disease, are planned.
+PB  - Taylor and Francis Inc.
+SN  - 08958378 (ISSN)
+LA  - English
+J2  - Inhal. Toxicol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 20; CODEN: INHTE
+ER  -
+
+TY  - JOUR
+AU  - Vedal, S.
+TI  - Ambient Particles and Health: Lines that Divide
+PY  - 1997
+T2  - Journal of the Air and Waste Management Association
+VL  - 47
+IS  - 5
+SP  - 551
+EP  - 581
+DO  - 10.1080/10473289.1997.10463922
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031149957&doi=10.1080%2f10473289.1997.10463922&partnerID=40&md5=cfe90b50cc616b9383c225e036a8704f
+AD  - University of British Columbia, Vancouver, Canada
+KW  - Epidemiology
+KW  - Health hazards
+KW  - Meteorology
+KW  - Particles (particulate matter)
+KW  - Ambient particles
+KW  - air pollutant
+KW  - air pollution
+KW  - ambient air
+KW  - environmental exposure
+KW  - environmental impact assessment
+KW  - health survey
+KW  - human
+KW  - particulate matter
+KW  - priority journal
+KW  - review
+KW  - Air pollution
+SN  - 10962247 (ISSN)
+C2  - 9155246
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 391
+ER  -
+
+TY  - JOUR
+AU  - Kleeman, M.J.
+AU  - Hughes, L.S.
+AU  - Allen, J.O.
+AU  - Cass, G.R.
+TI  - Source contributions to the size and composition distribution of atmospheric particles: Southern California in September 1996
+PY  - 1999
+T2  - Environmental Science and Technology
+VL  - 33
+IS  - 23
+SP  - 4331
+EP  - 4341
+DO  - 10.1021/es990632p
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033486124&doi=10.1021%2fes990632p&partnerID=40&md5=a1703228a1b343b1671ea9adfe594cc2
+AD  - Dept. of Civ. and Environ. Eng., University of California, Davis, CA 95616, United States
+AD  - Environ. Eng. Science Department, California Institute of Technology, Pasadena, CA 91125, United States
+AB  - An air quality model that follows the evolution of single particles in the atmosphere has been combined with new emissions measurements and then used to predict the size distribution and chemical composition of the airborne fine particle mixture observed at Long Beach, Fullerton, and Riverside, CA, during September 1996. Model predictions show good agreement with ambient measurements of particle size and chemical composition at all three air monitoring sites. The air quality model is used to separately track individual particles released from different sources as they evolve over time. Four major classes of particles are observed: (1) large mineral dust and road dust particles that accumulate only small amounts of secondary aerosol products; (2) primary combustion particles (released initially from diesel vehicles, noncatalyst gasoline-powered vehicles, and food processing) that grow by accumulation of secondary reaction products; (3) sea salt particles that are almost completely transformed by conversion from NaCl to NaNO3 during transport across the air basin; and (4) sulfate-containing nonsea salt background particles advected into the air basin from upwind over the ocean. The sulfate-containing nonsea salt background particles have an initial PM2.5 concentration of only 8 μg m-3, but they accumulate significant secondary aerosol reaction products to produce a largely nitrate- containing aerosol having a PM2.5 concentration of 40 μg m-3 by the time that the air masses studied here reach Riverside, CA.
+KW  - United States
+KW  - ammonia
+KW  - diesel fuel
+KW  - gasoline
+KW  - hydrocarbon
+KW  - mineral
+KW  - sodium chloride
+KW  - sodium nitrate
+KW  - sulfate
+KW  - aerosol composition
+KW  - air quality
+KW  - atmospheric particle
+KW  - particle size
+KW  - pollutant source
+KW  - air quality
+KW  - airborne particle
+KW  - article
+KW  - atmosphere
+KW  - chemical composition
+KW  - particle size
+SN  - 0013936X (ISSN)
+LA  - English
+J2  - Environ. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 75; Correspondence Address: G.R. Cass; Envtl. Engg. Science Department, California Institute of Technology, Pasadena, CA 91125, United States; email: glen@eql.caltech.edu; CODEN: ESTHA
+ER  -
+
+TY  - JOUR
+AU  - Sioutas, C.
+AU  - Ferguson, S.T.
+AU  - Wolfson, J.M.
+AU  - Ozkaynak, H.
+AU  - Koutrakis, P.
+TI  - Inertial collection of fine particles using a high-volume rectangular geometry conventional impactor
+PY  - 1997
+T2  - Journal of Aerosol Science
+VL  - 28
+IS  - 6
+SP  - 1015
+EP  - 1028
+DO  - 10.1016/S0021-8502(96)00486-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031239420&doi=10.1016%2fS0021-8502%2896%2900486-7&partnerID=40&md5=7a918cb84c6c5df131e98bb1091e6900
+AD  - Harvard University, School of Public Health, Boston, MA 02115, 665 Huntington Avenue, United States
+AB  - This paper presents the development and evaluation of a high-volume rectangular geometry conventional impactor. Operating with a preselective inlet that removes particles larger than 2.5 μm in aerodynamic size, the impactor has been designed to sample ambient fine particles in the accumulation mode range (0.1 < d(p) < 2.5 μm). Particles are accelerated in a rectangular nozzle, 0.032 cm wide and 28 cm long, and impact on a filter medium attached on a porous glass frit, which is soaked in mineral oil. The impactor operates at a flow rate of 10001 min -1 with a total pressure drop of 30 kPa. The performance of the slit-nozzle impactor was validated in laboratory and field tests. Laboratory experiments conducted with monodisperse fluorescent PSL particles showed that the aerodynamic diameter of the 50% cutpoint of the impactor is approximately 0.09 μm. Laboratory and held intercomparisons between the high-volume slit impactor and the microorifice uniform deposit impactor (MOUDI) showed that particulate nitrate and sulfate concentrations obtained with the two samplers are in good agreement (within 10%). Finally, a comparison between the particulate nitrate concentrations obtained with high-volume impactor and the Harvard/EPA annular denuder system (HEADS) was conducted, using indoor air as the test aerosol. Results from this comparison indicated that losses of nitrate from the impactor are not substantial and range between 5 and 15%. Results from the laboratory and field tests suggest that the high-volume impactor presented in this study constitutes a major improvement in the field of high-volume fine particle sampling.; This paper presents the development and evaluation of a high-volume rectangular geometry conventional impactor. Operating with a preselective inlet that removes particles larger than 2.5 μm in aerodynamic size, the impactor has been designed to sample ambient fine particles in the accumulation mode range (0.1 < dp < 2.5 μm). Particles are accelerated in a rectangular nozzle, 0.032 cm wide and 28 cm long, and impact on a filter medium attached on a porous glass frit, which is soaked in mineral oil. The impactor operates at a flow rate of 1000 1 min-1 with a total pressure drop of 30 kPa. The performance of the slit-nozzle impactor was validated in laboratory and field tests. Laboratory experiments conducted with monodisperse fluorescent PSL particles showed that the aerodynamic diameter of the 50% outpoint of the impactor is approximately 0.09 μm. Laboratory and field intercomparisons between the high-volume slit impactor and the microorifice uniform deposit impactor (MOUDI) showed that particulate nitrate and sulfate concentrations obtained with the two samplers are in good agreement (within 10%). Finally, a comparison between the particulate nitrate concentrations obtained with high-volume impactor and the Harvard/EPA annular denuder system (HEADS) was conducted, using indoor air as the test aerosol. Results from this comparison indicated that losses of nitrate from the impactor are not substantial and range between 5 and 15%. Results from the laboratory and field tests suggest that the high-volume impactor presented in this study constitutes a major improvement in the field of high-volume fine particle sampling.
+KW  - Aerodynamics
+KW  - Dust collectors
+KW  - Filters (for fluids)
+KW  - Flow of fluids
+KW  - Nozzles
+KW  - nitrate
+KW  - sulfate
+KW  - Conventional impactors
+KW  - Particles collection
+KW  - air analysis
+KW  - air pollution
+KW  - air sampling
+KW  - airborne particle
+KW  - airflow
+KW  - ambient air
+KW  - article
+KW  - flow rate
+KW  - particle size
+KW  - pressure
+KW  - priority journal
+KW  - public health
+KW  - Particles (particulate matter)
+PB  - Elsevier Science Ltd
+SN  - 00218502 (ISSN)
+LA  - English
+J2  - J. AEROSOL SCI.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 26; CODEN: JALSB
+ER  -
+
+TY  - JOUR
+AU  - Finlayson-Pitts, B.J.
+AU  - Pitts, J.N.
+PY  - 1986
+T2  - Atmospheric Chemistry
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0003688006&partnerID=40&md5=064f95a77b38b4b92ce25eca1af70edf
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 560
+ER  -
+
+TY  - JOUR
+AU  - Hering, S.
+AU  - Eldering, A.
+AU  - Seinfeld, J.H.
+TI  - Bimodal character of accumulation mode aerosol mass distributions in Southern California
+PY  - 1997
+T2  - Atmospheric Environment
+VL  - 31
+IS  - 1
+SP  - 1
+EP  - 11
+DO  - 10.1016/S1352-2310(96)00175-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030617268&doi=10.1016%2fS1352-2310%2896%2900175-6&partnerID=40&md5=486a00bf58a1b19d80cfb3d7c436089c
+AD  - Aerosol Dynamics Inc., Berkeley, CA 94710, 2329 Fourth Street, United States
+AD  - Dept. of Civ. and Environ. Eng., University of Iowa, Iowa City, IA 52242-1527, United States
+AD  - Div. of Eng. and Applied Science, California Inst. of Technol., 104-44, Pasadena, CA 91125, United States
+AB  - Size-resolved measurements of fine particle chemical composition and physical measurements of fine particle size distributions obtained during the Southern California Air Quality Study (SCAQS) are compared. Number distributions of the ambient aerosols were measured using optical particle counters and electrical aerosol analyzers. Optical counter data are reduced using an ambient-based calibration. Mass size distributions are inferred from the sum of size-resolved chemical composition as measured by impactors. Optical counter data reduced with an ambient-based calibration compare well to impactor measurements. Both sets of data show that the accumulation mode of the total mass size distribution may be bimodal. Condensation and droplet modes previously identified in chemical species size distributions are frequently apparent in the total mass size distribution.
+KW  - Aerosols
+KW  - Mass distributions
+KW  - SCAQS
+KW  - USA, California
+KW  - Air quality
+KW  - Calibration
+KW  - Condensation
+KW  - Data reduction
+KW  - Drop formation
+KW  - Particle size analysis
+KW  - Particles (particulate matter)
+KW  - mass distribution
+KW  - particle size
+KW  - SCAQS
+KW  - Aerosol analyzers
+KW  - Fine particle chemical composition
+KW  - Mass size distribution
+KW  - Optical particle counters
+KW  - Southern California air quality study (SCAQS)
+KW  - aerosol
+KW  - air quality
+KW  - airborne particle
+KW  - analyzer
+KW  - calibration
+KW  - chemical composition
+KW  - drug toxicity
+KW  - particle size
+KW  - priority journal
+KW  - review
+KW  - United States
+KW  - Atmospheric aerosols
+PB  - Elsevier Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - ATMOS. ENVIRON.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 79; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Wilson, W.E.
+TI  - Aerosol exposure, physics, and chemistry
+PY  - 1995
+T2  - Inhalation Toxicology
+VL  - 7
+IS  - 5
+SP  - 769
+EP  - 772
+DO  - 10.3109/08958379509014483
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0013475711&doi=10.3109%2f08958379509014483&partnerID=40&md5=f383cfb9ba608c83960f43b0179b3c18
+AD  - Atmospheric Research and Exposure Assessment Laboratory, U.S. Environmental Protection Agency, Research Triangle Park, NC, United States
+PB  - Informa Healthcare
+SN  - 08958378 (ISSN)
+LA  - English
+J2  - Inhal. Toxicol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 3; CODEN: INHTE
+ER  -
+
+TY  - JOUR
+AU  - Sloane, C.S.
+AU  - Wolff, G.T.
+TI  - Prediction of ambient light scattering using a physical model responsive to relative humidity: Validation with measurements from detroit
+PY  - 1985
+T2  - Atmospheric Environment (1967)
+VL  - 19
+IS  - 4
+SP  - 669
+EP  - 680
+DO  - 10.1016/0004-6981(85)90046-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021890091&doi=10.1016%2f0004-6981%2885%2990046-0&partnerID=40&md5=67f21fc954888fb065ce94f51045cefa
+AD  - Environmental Science Department, General Motors Research Laboratories, Warren, MI 48090-9055, United States
+AB  - A model for the prediction of atmospheric light extinction from field measurements of airborne aerosol concentration, chemical speciation, and size distribution has been tested with field data from the Detroit, Michigan area. The amount of light scattered by airborne particulates in ambient conditions is accurately predicted by the model using measurements of accumulation mode sulfate, nitrate, volatile and nonvolatile carbon. Model predictions were compared with simultaneously measured light scattering. The model is unique amongst physical models in its simulation of the effect of relative humidity on visibility reduction and on the light scattering efficiency of specific chemical constituents of the airborne aerosol. A proven physical model offers an advantage over statistical models in that it should prove reliable for extrapolation of ambient conditions well outside conditions currently realized. Within the range of the available data, the physical model is shown to simulate the light scattering as well as statistical models. Calculations with the physical model indicate that on average sulfate compounds are less efficient scatterers of light in ambient settings than statistical analyses would indicate. © 1985.
+KW  - aerosols
+KW  - atmospheric optics
+KW  - atmospheric sciences
+KW  - carbonaceous aerosols
+KW  - Detroit
+KW  - fine particles
+KW  - impactor
+KW  - light scattering
+KW  - nephelometer
+KW  - particle size distributions
+KW  - sulfate
+KW  - Visibility
+KW  - AEROSOLS - Atmospheric
+KW  - ATMOSPHERIC HUMIDITY
+KW  - LIGHT - Scattering
+KW  - NEPHELOMETERS
+KW  - VISIBILITY
+KW  - sulfate
+KW  - aerosols
+KW  - atmospheric optics
+KW  - nephelometer
+KW  - particle size distributions
+KW  - sulfate
+KW  - aerosol
+KW  - air analysis
+KW  - geographic distribution
+KW  - impactor
+KW  - light scattering
+KW  - model
+KW  - nephelometry
+KW  - nonbiological model
+KW  - nonhuman
+KW  - particle size
+KW  - united states
+KW  - visibility
+KW  - CARBONACEOUS AEROSOLS
+KW  - IMPACTOR
+KW  - SULFATE
+KW  - ATMOSPHERIC OPTICS
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 118; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Sloane, C.S.
+TI  - Optical properties of aerosols of mixed composition
+PY  - 1984
+T2  - Atmospheric Environment (1967)
+VL  - 18
+IS  - 4
+SP  - 871
+EP  - 878
+DO  - 10.1016/0004-6981(84)90273-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021282831&doi=10.1016%2f0004-6981%2884%2990273-7&partnerID=40&md5=3875edc58563bef13da4169fd1b4bf16
+AD  - Environmental Science Dept., General Motors Research Laboratories, Warren, MI 48090, United States
+AB  - A model is developed which relates the reduction in visual air quality to the chemical and physical properties of airborne aerosol particles. The aerosols are considered to be inhomogeneous and to have a mixed chemical composition which varies with particle size. The water content of the aerosol particles is derived from a semi-empirical application of the thermodynamic equations for particle growth. The model is valid for all ranges of relative humidity. The light scattering and absorption coefficients are calculated using Mie theory extended to concentric sphere scatterers. The core of each particle, which is primarily taken to be nonvolatile carbon, is enclosed in a water-soluble exterior. The soluble layer responds to changes in the relative humidity by absorbing (or releasing) water. The model predictions are in excellent agreement with experimental measurements made in Denver in the fall of 1978. © 1984.
+KW  - EARTH ATMOSPHERE - Physical Chemistry
+KW  - PARTICLE SIZE ANALYSIS
+KW  - aerosol
+KW  - air analysis
+KW  - model
+KW  - nonbiological model
+KW  - nonhuman
+KW  - theoretical study
+KW  - visibility
+KW  - PARTICLE GROWTH THERMODYNAMICS
+KW  - VISUAL AIR QUALITY
+KW  - AEROSOLS
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 158; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Lewis, C.W.
+TI  - On the proportionality of fine mass concentration and extinction coefficient for bimodal size distributions
+PY  - 1981
+T2  - Atmospheric Environment (1967)
+VL  - 15
+IS  - 12
+SP  - 2639
+EP  - 2646
+DO  - 10.1016/0004-6981(81)90086-X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0019727688&doi=10.1016%2f0004-6981%2881%2990086-X&partnerID=40&md5=b33bcbac5fa396abe0cd3384312175bf
+AD  - Environmental Sciences Research Laboratory, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, United States
+AB  - For a bimodal size distribution of ambient aerosol the upper particle size limit of the fine aerosol fraction can be chosen in such a way that the extinction coefficient for light scattering and absorption is directly proportional to the fine mass concentration, regardless of the magnitude of the coarse mass concentration. With the size parameters of the modes taken to be the "grand average continental" values of Whitby, the upper size limit is 3.4 μm (aerodynamic diameter). Consequently, the extinction coefficient could be inferred from a measurement of the fine mass concentration only, even in arid regions where coarse aerosol concentrations usually far exceed the fine. © 1981.
+KW  - aerosol
+KW  - extinction coefficent
+KW  - light scattering
+KW  - particle size
+KW  - aerosol
+KW  - particle size
+KW  - theoretical study
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 22; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - McMurry, P.H.
+AU  - Zhang, X.
+AU  - Lee, C.-T.
+TI  - Issues in aerosol measurement for optics assessments
+PY  - 1996
+T2  - Journal of Geophysical Research Atmospheres
+VL  - 101
+IS  - 14
+SP  - 19189
+EP  - 19197
+DO  - 10.1029/95jd02342
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0002375482&doi=10.1029%2f95jd02342&partnerID=40&md5=252114cf5603b2863dbba0cdcb26af4f
+AD  - Particle Technology Laboratory, Department of Mechanical Engineering, University of Minnesota, Minneapolis, MS, United States
+AD  - S. Coast Air Qual. Mgmt. District, Diamond Bar, CA, United States
+AD  - Grad. Inst. of Environ. Engineering, National Central University, Chuag-Li, Taiwan
+AD  - Grad. Inst. of Environ. Engineering, National Central University, Chung-Li, 32054, Taiwan
+AD  - 125 Mechanical Engineering, Univ. of Minnesota, Minneapolis, MN 55455, United States
+AD  - S. Coast Air Qual. Mgmt. District, Ciamond Bar, CA 91765, 21865 E. Copley Drive, United States
+AB  - Size-resolved composition, water content, and mixing characteristics of fine (<2μm) particles were measured during intensive field studies in Los Angeles (Southern California Air Quality Study (SCAQS)(1987)) and at the Grand Canyon (winter 1990, summer 1992). Aerosol optical properties were calculated from these measurements using Mie theory. Calculated scattering coefficients are in reasonable agreement with directly measured values for internal and external mixing models as well as for a hybrid model based on measured mixing characteristics. Calculated dry sulfate mass scattering efficiencies cover the range reported in previous studies based on multiple linear regression analysis (MLR) (∼3to7m2/g) but increase systematically with size and are sensitive to assumptions regarding the chemical mechanism of secondary aerosol formation. Calculated organic carbon (1.4*mass of carbon associated with particulate organics) scattering efficiencies (∼3 to 7 m2/g) show no systematic dependence on median size but are somewhat higher than previously published estimates based largely on MLR. Organic carbon and sulfates were the dominant contributors to fine particle scattering in both Grand Canyon studies (50 and 38% during the 1990 Navajo Generating Station (NGS) study, respectively, and 48 and 40% at Meadview). However, large discrepancies are found for organic carbon concentrations measured with different samplers, especially in the desert Southwest where concentrations are low. These observations underline the need for improved sampling and characterizing methodologies for carbon-containing particulate species.
+KW  - USA, Arizona, Grand Canyon
+KW  - USA, California, Los Angeles
+KW  - absorption
+KW  - aerosol
+KW  - Mie theory
+KW  - optical properties
+KW  - organic carbon
+KW  - SCAQS
+KW  - scattering
+KW  - sulphate
+PB  - Blackwell Publishing Ltd
+SN  - 01480227 (ISSN)
+LA  - English
+J2  - J. Geophys. Res. D Atmos.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 66; Correspondence Address: P.H. McMurry; 125 Mechanical Engineering, Univ. of Minnesota, Minneapolis, MN 55455, United States; email: McMurry@me.umn.edu
+ER  -
+
+TY  - JOUR
+AU  - Pedersen, D.U.
+AU  - Durant, J.L.
+AU  - Penman, B.W.
+AU  - Crespi, C.L.
+AU  - Hemond, H.F.
+AU  - Lafleur, A.L.
+AU  - Cass, G.R.
+TI  - Seasonal and spatial variations in human cell mutagenicity of respirable airborne particles in the northeastern United States
+PY  - 1999
+T2  - Environmental Science and Technology
+VL  - 33
+IS  - 24
+SP  - 4407
+EP  - 4415
+DO  - 10.1021/es9905997
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033572183&doi=10.1021%2fes9905997&partnerID=40&md5=bf2bd312fa7f3f2b95729a2a719a94b4
+AD  - Dept. of Civ. and Environ. Eng., Massachusetts Inst. of Technology, Cambridge, MA 02139, United States
+AD  - Dept. of Civ. and Environ. Eng., Tufts University, Medford, MA 02155, United States
+AD  - Gentest Corporation, Woburn, MA 01801, 6 Henshaw Street, United States
+AD  - Ctr. for Environ. Health Sciences, Massachusetts Inst. of Technology, Cambridge, MA 02139, United States
+AD  - Environ. Eng. Science Department, California Institute of Technology, Pasadena, CA 91125, United States
+AB  - Samples of respirable airborne particles (similar in size to PM2.5) were collected at five sites in the northeastern United States every sixth day during 1995 and tested in a mutagenicity assay based on human cells. Three sites were located in Massachusetts: in downtown Boston, in a suburban area 20 km to the north, and in a rural area 100 km west of Boston. The other two sites were located in downtown Rochester in upstate New York and in a rural area 35 km to the west. Bimonthly composite samples (10-11 sampling days per composite) were extracted in organic solvents and tested for mutagenicity at the thymidine kinase locus in h1A1v2 cells, a line of human B-lymphoblasts that constitutively expresses P450 CYP1a1 cDNA. Mutagenicity levels were significantly higher in winter than in summer at all sites, both per microgram of airborne particulate organic carbon (OC) and per cubic meter of air. Mutagenicity per microgram of OC was significantly inversely correlated with air temperature (r= -0.95 in NY, r= -0.40 in MA) and ambient concentrations of OC (r = -0.4). Annual averages of mutagenicity per microgram of OC in upstate New York were roughly 2-fold higher than in Massachusetts; however, no clear intrastate spatial variations were evident. Mutagenicity per cubic meter of air showed an increase of roughly 1.5-2-fold from rural areas to urban centers within each state. This increase was influenced by higher OC concentrations in the urban locations (up to 2-fold) but not by higher mutagenicity per microgram of OC. These results indicate that cold weather is significantly correlated with the human cell mutagenicity of respirable particles in the northeastern United States and further show that populations of urban centers in this region are exposed to higher levels of airborne human cell mutagens than in nearby rural areas.; Samples of respirable airborne particles (similar in size to PM2.5) were collected at five sites in the northeastern United States every sixth day during 1995 and tested in a mutagenicity assay based on human cells. Three sites were located in Massachusetts: in downtown Boston, in a suburban area 20 km to the north, and in a rural area 100 km west of Boston. The other two sites were located in downtown Rochester in upstate New York and in a rural area 35 km to the west. Bimonthly composite samples (10-11 sampling days per composite) were extracted in organic solvents and tested for mutagenicity at the thymidine kinase locus in h1A1v2 cells, a line of human B-lymphoblasts that constitutively expresses P450 CYP1A1 cDNA. Mutagenicity levels were significantly higher in winter than in summer at all sites, both per microgram of airborne particulate organic carbon (OC) and per cubic meter of air. Mutagenicity per microgram of OC was significantly inversely correlated with air temperature (r = -0.95 in NY, r = -0.40 in MA) and ambient concentrations of OC (r = -0.4). Annual averages of mutagenicity per microgram of OC in upstate New York were roughly 2-fold higher than in Massachusetts; however, no clear intrastate spatial variations were evident. Mutagenicity per cubic meter of air showed an increase of roughly 1.5-2-fold from rural areas to urban centers within each state. This increase was influenced by higher OC concentrations in the urban locations (up to 2-fold) but not by higher mutagenicity per microgram of OC. These results indicate that cold weather is significantly correlated with the human cell mutagenicity of respirable particles in the northeastern United States and further show that populations of urban centers in this region are exposed to higher levels of airborne human cell mutagens than in nearby rural areas.
+KW  - Bioassay
+KW  - Cells
+KW  - Climate change
+KW  - Enzymes
+KW  - Mutagens
+KW  - Organic solvents
+KW  - Particle size analysis
+KW  - Solvent extraction
+KW  - carbon
+KW  - complementary DNA
+KW  - thymidine kinase
+KW  - airborne particle
+KW  - article
+KW  - human
+KW  - human cell
+KW  - mutagenicity
+KW  - seasonal variation
+KW  - United States
+KW  - Mutagenicity assay
+KW  - Particulate organic carbon
+KW  - Thymidine kinase
+KW  - Air pollution
+PB  - ACS
+SN  - 0013936X (ISSN)
+LA  - English
+J2  - Environ. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 23; Correspondence Address: H.F. Hemond; Dept. of Civil and Envtl. Engg., Massachusetts Inst. of Technology, Cambridge, MA 02139, United States; email: hfhemond@mit.edu; CODEN: ESTHA
+ER  -
+
+TY  - JOUR
+AU  - Sioutas, C.
+AU  - Koutrakis, P.
+AU  - Godleski, J.J.
+AU  - Ferguson, S.T.
+AU  - Kim, C.S.
+AU  - Burton, R.M.
+TI  - Fine particle concentrators for inhalation exposures - effect of particle size and composition
+PY  - 1997
+T2  - Journal of Aerosol Science
+VL  - 28
+IS  - 6
+SP  - 1057
+EP  - 1071
+DO  - 10.1016/S0021-8502(96)00493-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031238620&doi=10.1016%2fS0021-8502%2896%2900493-4&partnerID=40&md5=650187539075eacb1617f69c16abde85
+AD  - Harvard University, School of Public Health, Boston, MA 02115, United States
+AD  - Natl. Hlth. Environ. Effects Res. L., U.S. Environmental Protection Agency, Chapel Hill, NC 27599, United States
+AD  - Natl. Exposure Assess. Res. Lab., U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, United States
+AB  - This paper presents the development and evaluation of ambient fine particle concentrators for conducting animal and human exposure studies. These systems utilize the technology of virtual impactors to concentrate particles in the range 0.15-2.5 μm. Ambient particles are first drawn at 5000 lm-1 through a preselective inlet that removes particles above 2.5 μm. Subsequently, the remaining aerosol is drawn through a series of virtual impactors, which increase particle concentration by a factor of about 10 and 30, for human and animal exposures, respectively. Results from the experimental characterization of the concentrators showed that the concentration enrichment process occurs without any distortion in the size distribution and chemical composition of the sampled ambient aerosols. Furthermore, labile constituents of fine particles, such as volatile ammonium nitrate are preserved during this process.; This paper presents the development and evaluation of ambient fine particle concentrators for conducting animal and human exposure studies. These systems utilize the technology of virtual impactors to concentrate particles in the range 0.15-2.5μm. Ambient particles are first drawn at 5000 l m-1 through a preselective inlet that removes particles above 2.5 μm. Subsequently, the remaining aerosol is drawn through a series of virtual impactors, which increase particle concentration by a factor of about 10 and 30, for human and animal exposures, respectively. Results from the experimental characterization of the concentrators showed that the concentration enrichment process occurs without any distortion in the size distribution and chemical composition of the sampled ambient aerosols. Furthermore, labile constituents of fine particles, such as volatile ammonium nitrate are preserved during this process.
+KW  - Animalia
+KW  - Atmospheric aerosols
+KW  - Concentration (process)
+KW  - Particle size analysis
+KW  - Toxicity
+KW  - ammonium nitrate
+KW  - Inhalation exposures
+KW  - Particle concentrators
+KW  - Virtual impactors
+KW  - aerosol
+KW  - air pollution
+KW  - article
+KW  - chemical composition
+KW  - environmental exposure
+KW  - inhalation
+KW  - particle size
+KW  - priority journal
+KW  - Dust collectors
+PB  - Elsevier Science Ltd
+SN  - 00218502 (ISSN)
+LA  - English
+J2  - J. AEROSOL SCI.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 76; CODEN: JALSB
+ER  -
+
+TY  - JOUR
+AU  - Brauer, M.
+TI  - Assessment of indoor aerosols with an integrating nephelometer
+PY  - 1995
+T2  - Journal of Exposure Analysis and Environmental Epidemiology
+VL  - 5
+IS  - 1
+SP  - 45
+EP  - 56
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028810858&partnerID=40&md5=1cc9ad410225e92aedf7a469e90c9826
+AD  - University of British Columbia, Department of Medicine, Respiratory Division, Vancouver, BC V6T 1Z3, 2206 East Mall, Canada
+AB  - A portable nephelometer was used to assess particulate levels inside and outside of homes with indoor air impacted by biomass combustion. Simultaneous sampling with PM10 and PM2.5 inertial impactors was undertaken to determine the relationship between particle light scattering coefficient (σ(sp)) and particle mass concentration. Measurements were conducted in 22 homes in rural Mexico and in 6 homes in rural British Columbia, Canada. In both areas, biomass combustion resulted in high levels of fine particulates, mainly indoors in Mexico and outdoors in British Columbia. Comparisons were made between the average of the nephelometer σ(sp) (unheated nephelometer inlet stream) and the measured particle mass (PM10 and PM2.5) during a defined sampling duration. The two measurements were highly correlated (r2 values of 0.79-0.96) over a wide range of particle mass concentrations (10-1600 μg/m3). A stronger correlation was observed for PM2.5 than for PM10. Colocated outdoor nephelometer and impactor measurements were poorly correlated (r2 = 0.50). Substantially different relationships were observed between the Mexico and British Columbia particulate, indicating the importance of particle composition and ambient conditions as factors affecting light scattering, even indoors. However, in a given series of similar indoor environments, the relationship between particle light scattering and mass concentration is stable enough to use independent nephelometer measurements as estimates of mass concentrations. The fast-response, continuous measurement, portability and datalogging capabilities of this nephelometer, combined with its ease of use, make this an important measurement tool to be used in conjunction with traditional filter sampling in the assessment of indoor particle levels and the evaluation of sources.
+KW  - Air pollution
+KW  - Indoor air pollution
+KW  - Nephelometer
+KW  - Particulates
+KW  - Wood smoke
+KW  - Aerosols
+KW  - Air Pollution, Indoor
+KW  - Biomass
+KW  - British Columbia
+KW  - Feasibility Studies
+KW  - Fossil Fuels
+KW  - Housing
+KW  - Mexico
+KW  - Nephelometry and Turbidimetry
+KW  - Rural Population
+KW  - Support, Non-U.S. Gov't
+KW  - Wood
+KW  - air monitoring
+KW  - air pollution
+KW  - ambient air
+KW  - article
+KW  - biomass
+KW  - canada
+KW  - combustion
+KW  - correlation function
+KW  - home
+KW  - indoor air pollution
+KW  - light scattering
+KW  - mexico
+KW  - nephelometry
+KW  - particulate matter
+SN  - 10534245 (ISSN)
+C2  - 7663149
+LA  - English
+J2  - J. EXPOS. ANAL. ENVIRON. EPIDEMIOL.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 20; CODEN: JEAEE
+ER  -
+
+TY  - JOUR
+AU  - Thomas, A.
+AU  - Gebhart, J.
+TI  - Correlations between gravimetry and light scattering photometry for atmospheric aerosols
+PY  - 1994
+T2  - Atmospheric Environment
+VL  - 28
+IS  - 5
+SP  - 935
+EP  - 938
+DO  - 10.1016/1352-2310(94)90251-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028388852&doi=10.1016%2f1352-2310%2894%2990251-8&partnerID=40&md5=b498d9033607d07587e0dfb21b3d480a
+AD  - GSF-Forschungszentrum fiir Umwelt and Gesundheit GmbH, Institut fiir Biophysikalische Strahlenforschung, D-60596 Frankfurt am Main, Paul- Ehrlich-Str. 20, Germany
+AB  - Light scattering photometers are useful for in situ measurements of mass concentrations of environmental aerosols if certain requirements are fulfilled. For the determination of relative concentrations, the composition of the aerosol (particle size distribution, refractive index) has to be constant during the experiments. Absolute measurements of mass concentrations additionally require a calibration of the photometer in terms of gravimetric units. In the case of atmospheric aerosols special attention has to be paid to the relative humidity which has a strong effect on particle size. Preliminary measurements indicate that for atmospheric background aerosols with a dominating accumulation mode a fairly linear relationship between photometer response and mass (volume) concentration exists, a result, which is in agreement with theoretical predictions. © 1994.
+KW  - accumulation mode
+KW  - atmospheric background aerosol
+KW  - Light scattering photometer
+KW  - mass concentration
+KW  - median refractive index
+KW  - Atmospheric humidity
+KW  - Atmospheric optics
+KW  - Calibration
+KW  - Composition
+KW  - Electromagnetic field theory
+KW  - Gravimetric analysis
+KW  - Light scattering
+KW  - Optical correlation
+KW  - Particle size analysis
+KW  - Photometers
+KW  - Photometry
+KW  - Refractive index
+KW  - accumulation mode
+KW  - aerosol
+KW  - light scattering photometer
+KW  - refractive index
+KW  - aerosol
+KW  - airborne particle
+KW  - atmosphere
+KW  - calibration
+KW  - concentration
+KW  - conference paper
+KW  - gravimetry
+KW  - light scattering
+KW  - particle size
+KW  - photometry
+KW  - priority journal
+KW  - refraction index
+KW  - Accumulation mode
+KW  - Atmospheric background aerosol
+KW  - Gravimetric units
+KW  - Light scattering photometer
+KW  - Mass concentration
+KW  - Atmospheric aerosols
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 51; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Dockery, D.W.
+AU  - Pope, C.A.
+AU  - xu, X.
+AU  - Spengler, J.D.
+AU  - Ware, J.H.
+AU  - Fay, M.E.
+AU  - Ferris, B.G.
+AU  - Speizer, F.E.
+TI  - An Association between Air Pollution and Mortality in Six U.S. Cities
+PY  - 1993
+T2  - New England Journal of Medicine
+VL  - 329
+IS  - 24
+SP  - 1753
+EP  - 1759
+DO  - 10.1056/NEJM199312093292401
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027362097&doi=10.1056%2fNEJM199312093292401&partnerID=40&md5=8f9c7440155c1eca3da0a7d83fcb51dc
+AD  - Environmental Epidemiology Program, Harvard School of Public Health, Boston, United States
+AD  - Exposure Assessment and Engineering Program, Harvard School of Public Health, Boston, United States
+AD  - Interdisciplinary Program in Health, Department of Environmental Health, Harvard School of Public Health, Boston, United States
+AD  - Department of Biostatistics, Harvard School of Public Health, Boston, United States
+AD  - Channing Laboratory, Brigham and Women's Hospital, Harvard Medical School, Boston, United States
+AD  - Economics Department, Brigham Young University, Provo, Utah, United States
+AB  - Recent studies have reported associations between particulate air pollution and daily mortality rates. Population-based, cross-sectional studies of metropolitan areas in the United States have also found associations between particulate air pollution and annual mortality rates, but these studies have been criticized, in part because they did not directly control for cigarette smoking and other health risks. In this prospective cohort study, we estimated the effects of air pollution on mortality, while controlling for individual risk factors. Survival analysis, including Cox proportional-hazards regression modeling, was conducted with data from a 14-to-16-year mortality follow-up of 8111 adults in six U.S. cities. Mortality rates were most strongly associated with cigarette smoking. After adjusting for smoking and other risk factors, we observed statistically significant and robust associations between air pollution and mortality. The adjusted mortality-rate ratio for the most polluted of the cities as compared with the least polluted was 1.26 (95 percent confidence interval, 1.08 to 1.47). Air pollution was positively associated with death from lung cancer and cardiopulmonary disease but not with death from other causes considered together. Mortality was most strongly associated with air pollution with fine particulates, including sulfates. Although the effects of other, unmeasured risk factors cannot be excluded with certainty, these results suggest that fine-particulate air pollution, or a more complex pollution mixture associated with fine particulate matter, contributes to excess mortality in certain U.S. cities., Several cross-sectional investigations have found associations between mortality rates and particulate air pollution in U.S. metropolitan areas1–3. A recent study reported associations between infant mortality and particulate air pollution in the Czech Republic4. These studies have often been criticized because they did not control directly for cigarette smoking or other covariates. Recent daily time-series studies, which are likely to be free of confounding by individual characteristics, have reported associations between daily mortality rates and changes in air pollution, specifically particulate pollution, in London5 and in several cities in the United States6–12. Particulate air pollution is… © 1993, Massachusetts Medical Society. All rights reserved.
+KW  - Adult
+KW  - Aged
+KW  - Air Pollution
+KW  - Cause of Death
+KW  - Confidence Intervals
+KW  - Female
+KW  - Follow-Up Studies
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Mortality
+KW  - Prospective Studies
+KW  - Risk Factors
+KW  - Smoking
+KW  - Survival Analysis
+KW  - United States
+KW  - Urban Health
+KW  - adult
+KW  - aged
+KW  - air pollution
+KW  - air quality
+KW  - article
+KW  - cancer mortality
+KW  - cancer risk
+KW  - cancer survival
+KW  - cause of death
+KW  - cigarette smoking
+KW  - disease association
+KW  - follow up
+KW  - human
+KW  - lung cancer
+KW  - major clinical study
+KW  - mortality
+KW  - particulate matter
+KW  - priority journal
+KW  - regression analysis
+KW  - statistical analysis
+KW  - united states
+SN  - 00284793 (ISSN)
+C2  - 8179653
+LA  - English
+J2  - New Engl. J. Med.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 7102
+ER  -
+
+TY  - JOUR
+AU  - White, W.H.
+AU  - Macias, E.S.
+AU  - Nininger, R.C.
+AU  - Schorran, D.
+TI  - Size-resolved measurements of light scattering by ambient particles in the southwestern U.S.A.
+PY  - 1994
+T2  - Atmospheric Environment
+VL  - 28
+IS  - 5
+SP  - 909
+EP  - 921
+DO  - 10.1016/1352-2310(94)90249-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028388854&doi=10.1016%2f1352-2310%2894%2990249-6&partnerID=40&md5=e7dae11966e3c2b6b4237ae8a86741cd
+AD  - Chemistry Department, Washington University, St Louis, MO 63130, United States
+AD  - Aerovironment Inc., Monrovia, CA 91016, United States
+AD  - Desert Research Institute, Reno, NV 89506, United States
+AB  - Measurements are reported from integrating nephelometers modified sample alternately from a fine-particle (Dzero<2.5 μm) cyclone and an unrestricted inlet. These nephelometers were successfully operated at two sites in the southwest. U.S.A. as part of the SCENES program in the spring and summer of 1989. One of the nephelometers was collocated with a transmissometer monitoring total extinction. Fine-and total-particle samples were collected at each site for determination of m ass and light absorption. Intercomparisons of the collacated daytime scattering, absorption. and total extinction measurements indicate that the nephelometer reported somewhat less than half the actual scattering to coarse particles. When this under-response is corrected for, the nephelometer and transmissometer show good agreement. The corrected data indicate that corse particles were responsible from one-quarter to one-third of the total particle scattering. Predominatly coare-particle dusts are estimated to have contributed one-third to one-half of the total-particle scatterring. © 1994.
+KW  - Absorption
+KW  - aerosol
+KW  - dust
+KW  - extinction haze
+KW  - nephelometer
+KW  - particles
+KW  - regression
+KW  - scattering
+KW  - transmissometer
+KW  - USA(Southwest)
+KW  - Atmospheric aerosols
+KW  - Atmospheric optics
+KW  - Dust
+KW  - Light absorption
+KW  - Light extinction
+KW  - Light measurement
+KW  - Monitoring
+KW  - Nephelometers
+KW  - Particle size analysis
+KW  - Particles (particulate matter)
+KW  - aerosol
+KW  - dust
+KW  - extinction
+KW  - haze
+KW  - nephelometer
+KW  - transmissometer
+KW  - absorption
+KW  - aerosol
+KW  - air sampling
+KW  - airborne particle
+KW  - conference paper
+KW  - cyclone separator
+KW  - light absorption
+KW  - light scattering
+KW  - measurement
+KW  - particle size
+KW  - priority journal
+KW  - united states
+KW  - Ambient particles
+KW  - Coarse particles
+KW  - Haze
+KW  - Mass absorption
+KW  - Particle scattering
+KW  - Transmissometer
+KW  - Light scattering
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 55; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Kerker, M.
+PY  - 1969
+T2  - The Scattering of Light
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0004091787&partnerID=40&md5=72436ccbc1b3d4025a01c6cd76441de4
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 792
+ER  -
+
+TY  - JOUR
+AU  - Lawson, D.R.
+TI  - The Southern California Air Quality Study
+PY  - 1990
+T2  - Journal of the Air and Waste Management Association
+VL  - 40
+IS  - 2
+SP  - 156
+EP  - 165
+DO  - 10.1080/10473289.1990.10466671
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025197826&doi=10.1080%2f10473289.1990.10466671&partnerID=40&md5=1040cfd5c34c507ce39e0e44587b24de
+AD  - California Air Resources Board, Research Division, Sacramento, CA, 95812, P.O. Box 2815, United States
+AB  - During the 82nd Annual Air & Waste Management Association meeting in Anaheim, California, researchers presented preliminary results from the 1987 Southern California Air Quality Study (SCAQS), which was conducted in the South Coast Air Basin. This paper describes the background and study design for SCAQS, presents summaries of the papers presented in the SCAQS Symposium at the A&WMA meeting, and describes the data analysis and air quality modeling efforts currently in progress as part of the SCAQS program. © 1990 Air and Waste Management Association.
+KW  - USA, California
+KW  - air quality
+KW  - modelling approach
+KW  - Southern California Air Quality Study
+KW  - air pollution
+KW  - air quality
+KW  - city
+KW  - computer analysis
+KW  - conference paper
+KW  - data base
+KW  - nonbiological model
+KW  - united states
+SN  - 10473289 (ISSN)
+LA  - English
+J2  - J Air Waste Manage Assoc
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 136
+ER  -
+
+TY  - JOUR
+AU  - Koutrakis, P.
+AU  - Sioutas, C.
+AU  - Ferguson, S.T.
+AU  - Wolfson, J.M.
+AU  - Mulik, J.D.
+AU  - Burton, R.M.
+TI  - Development and Evaluation of a Glass Honeycomb Denuder/Filter Pack System to Collect Atmospheric Gases and Particles
+PY  - 1993
+T2  - Environmental Science and Technology
+VL  - 27
+IS  - 12
+SP  - 2497
+EP  - 2501
+DO  - 10.1021/es00048a029
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027693050&doi=10.1021%2fes00048a029&partnerID=40&md5=69a32829d145c8a194a9bd5aa700fd66
+AD  - Harvard University, School of Public Health, Boston, Massachusetts 02115, 665 Huntington Avenue, United States
+AD  - U.S. Environmental Protection Agency, North Carolina 27711, Research Triangle Park, United States
+AB  - Currently available annular denuder/filter pack technology has been extremely useful for atmospheric studies but has a relatively high cost for both instrumentation and operation. We have developed an alternative system which maintains and improves operational features while being more compact. The main, novel feature of the proposed system is the denuder component, which has a large number of small hexagonal glass tubes sealed inside an outer glass tube. The new system has the following advantages: (1) both the initial cost and the labor required for processing are much less than those of the annular denuder; (2) a length of only 3.8 cm yields the same collection capability as a length of 21 cm for the annular denuder, allowing a much more durable system; (3) this length also allows the use of several more denuders for simultaneous collection of a greater variety of gases; and (4) this new system is more convenient for large-scale monitoring studies. This paper presents the results from the performance evaluation of the impactor/honeycomb denuder/filter pack system. The tests include the impactor size cutoff determination, the honeycomb denuder efficiency and capacity measurements, and measurement of losses of acidic and basic gases on the sampler inlet surfaces. © 1993, American Chemical Society. All rights reserved.
+KW  - Air Pollution
+KW  - Atmosphere
+KW  - Samplers/Sampling
+KW  - Aerosols
+KW  - Air filters
+KW  - Air pollution
+KW  - Filters (for fluids)
+KW  - Gases
+KW  - Particles (particulate matter)
+KW  - nitric acid
+KW  - denuder/filter pack
+KW  - diffusion denuder
+KW  - gas/particle collection
+KW  - glass honeycomb
+KW  - air monitoring
+KW  - air pollution indicator
+KW  - air quality
+KW  - air sampling
+KW  - article
+KW  - atmospheric dispersion
+KW  - pollution control
+KW  - Atmospheric gases
+KW  - Denuders
+KW  - Glass honeycomb denuders
+KW  - Atmospheric composition
+SN  - 0013936X (ISSN)
+LA  - English
+J2  - Environ. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 141
+ER  -
+
+TY  - JOUR
+AU  - Zhang, X.Q.
+AU  - McMurry, P.H.
+TI  - Theoretical analysis of evaporative losses from impactor and filter deposits
+PY  - 1987
+T2  - Atmospheric Environment (1967)
+VL  - 21
+IS  - 8
+SP  - 1779
+EP  - 1789
+DO  - 10.1016/0004-6981(87)90118-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023172591&doi=10.1016%2f0004-6981%2887%2990118-1&partnerID=40&md5=8ebd2c6a47557651c0be7878285f6882
+AD  - Particle Technology Laboratory, Department of Mechanical Engineering, University of Minnesota, Minneapolis, MN 55455-0111, 111 Church Street Southeast, United States
+AB  - The pressure drop in aerosol samplers can lead to evaporation of the collected particles. A theoretical analysis for the evaporative losses from both impactor and filter deposits is developed. Quantitative expressions for the losses are expressed in terms of three dimensionless parameters: dimensionless pressure drop, ratio of the equilibrium vapor density of the aerosol species to its mass concentration, and dimensionless sampling time. In typical atmospheric aerosol sampling, the first two parameters are the dominant factors affecting evaporative loss rates. The results that are presented account for evaporative losses of pure, single component aerosols that are saturated at the inlet of the samplers. The analysis shows that evaporative losses will typically be substantial (10% or more) when the vapor-to-particle mass ratios of the aerosol are larger than about 1.0. It follows that for species present at mass concentrations of 10 μg m-3, evaporative losses will be substantial when vapor pressures exceed about 10-9 atm. The analysis also suggests that evaporative losses from single-stage impactor samplers may be less than from typical filter media. It follows that impactors may offer some advantages over filters for sampling volatile aerosol species. © 1987.
+KW  - AIR FILTERS
+KW  - AIR POLLUTION - Analysis
+KW  - EVAPORATION - Analysis
+KW  - EVAPORATIVE LOSSES
+KW  - FILTER DEPOSITS
+KW  - IMPACTOR
+KW  - AEROSOLS
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 97; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Kim, S.
+AU  - Chang, M.-C.
+AU  - Kim, D.
+AU  - Sioutas, C.
+TI  - A new generation of portable coarse, fine, and ultrafine particle concentrators for use in inhalation toxicology
+PY  - 2000
+T2  - Inhalation Toxicology
+VL  - 12
+IS  - SUPPL. 1
+SP  - 121
+EP  - 137
+DO  - 10.1080/089583700196446
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033981407&doi=10.1080%2f089583700196446&partnerID=40&md5=8231bc55a691f597ac01647d00b60221
+AD  - Department of Civil and Environmental Engineering, University of Southern California, Los Angeles, CA, United States
+AD  - Department of Civil and Environmental Engineering, University of Southern California, Los Angeles, CA 90089-2531, 3620 South Vermont Avenue, United States
+AB  - This study presents the development of prototype portable coarse, fine and ultra fine particle concentrators. A single-round nozzle virtual impactor operating at an intake flow of 120 L/min is used to concentrate coarse particles (e.g., 2.5-10 iim) by a factor up to 40 depending on the minor flow rate. Fine and ultrafine particles are concentrated by first growing to supermicrometer sizes via supersaturation. This is accomplished by first drawing these particles over a pool of warm, deionized, distilled water to achieve saturation and then through a condenser that allows the particles to grow to supermicrometer size, followed by concentration in a virtual impactor. After concentration, particles are returned back to their original size distribution and relative humidity by removing excess moisture in a diffusion drier. The performance of these concentrators was evaluated using generated monodisperse particles as well as ambient air particles. Average concentration enrichment factors were 9.5, 20, and 37 for a minor flow of 12, 6, and 3 L/min, respectively. The average concentration enrichment based on particulate sulfate and nitrate was by a factor of 20 and 22.6, respectively. The HEADS sampler was used as the reference sampler. The enrichment values based on particulate nitrate indicate that no nitrate loss occurs during particle concentration enrichment. The concentration of particular elemental (EC) and organic carbon (OC) was also evaluated, using the MOUDI as a reference sampler. The average concentration enrichment factors obtained for EC and OC were 20.4 and 21.6, respectively. Our experimental results indicated that the enrichment in concentration is not dependent on particle size and chemical composition. Because of their compact size and high concentration efficiency, the concentrators described in this study are inexpensive and portable so can be moved easily to several locations over seasons that differ in PM chemical composition and source profiles. Copyright © 2000 Taylor & Francis.
+PB  - Taylor and Francis Inc.
+SN  - 08958378 (ISSN)
+LA  - English
+J2  - Inhal. Toxicol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 27; Correspondence Address: S. Kim; Department of Civil and Environmental Engineering, University of Southern California, Los Angeles, CA 90089-2531, 3620 South Vermont Avenue, United States; email: sioutas@ref.usc.edu; CODEN: INHTE
+ER  -
+

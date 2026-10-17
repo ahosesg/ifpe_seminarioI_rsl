@@ -1,0 +1,804 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage[brazilian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{csquotes}
+\usepackage{hyperref}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=99,
+  doi=true,isbn=false,url=false]{biblatex}
+
+\addbibresource{mpga_rsl.bib}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!50!black,
+  citecolor=blue!50!black,
+  urlcolor=blue!50!black,
+  pdftitle={Protocolo de revisão sistemática e análise bibliométrica sobre métodos de medição de material particulado}
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.65\baselineskip}
+\setlist[itemize]{topsep=2pt,itemsep=2pt,parsep=0pt}
+\setlist[enumerate]{topsep=2pt,itemsep=2pt,parsep=0pt}
+\renewcommand{\arraystretch}{1.18}
+
+\newcommand{\MPdez}{MP$_{10}$}
+\newcommand{\MPdoiscinco}{MP$_{2,5}$}
+\newcommand{\versao}{0.5}
+\newcommand{\dataversao}{5 de outubro de 2026}
+\newcommand{\pendente}[1]{%
+  \begin{center}
+  \fcolorbox{orange!70!black}{orange!8}{%
+    \parbox{0.92\textwidth}{\textbf{Decisão a ratificar antes do registro:} #1}}
+  \end{center}}
+
+\title{\textbf{Protocolo de revisão sistemática}\\[0.6em]
+\large Comparabilidade entre métodos automáticos e gravimétricos na medição de
+\MPdez{} e \MPdoiscinco{} no ar ambiente: revisão sistemática, análise
+bibliométrica descritiva e síntese dos fatores condicionantes}
+\author{André Henrique Oliveira Santos\\
+\small Revisão conduzida por um único pesquisador}
+\date{Versão \versao{} --- \dataversao}
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+\fcolorbox{red!60!black}{red!5}{%
+  \parbox{0.92\textwidth}{\textbf{Situação do documento.} Protocolo não registrado,
+  emendado após a busca-piloto e após a seleção, a extração inicial e a avaliação
+  metodológica piloto conduzidas por um pesquisador assistido por IA. As buscas em
+  Scopus e Web of Science foram executadas
+  em 26 de setembro de 2026, e a busca na PubMed em 5 de outubro de 2026. O instrumento
+  metodológico já havia sido aplicado em caráter piloto aos 40 documentos incluídos
+  quando a Emenda 3 foi elaborada; 17 publicações originais haviam sido classificadas
+  como definitivamente não recuperadas. A revisão seguirá com pesquisador único e
+  incluirá análise bibliométrica descritiva. Portanto, um registro realizado a partir
+  desta versão não será apresentado como registro prospectivo. Todas as decisões tomadas após o
+  conhecimento dos resultados deverão permanecer datadas e identificadas como
+  emendas.}}
+\end{center}
+
+\section*{Controle de versões}
+
+\begin{tabularx}{\textwidth}{@{}p{1.5cm}p{3.2cm}X@{}}
+\toprule
+\textbf{Versão} & \textbf{Data} & \textbf{Descrição} \\
+\midrule
+0.1 & 26/09/2026 & Estrutura inicial do protocolo, pergunta, critérios de
+elegibilidade, plano de busca, extração, avaliação metodológica e síntese. \\
+0.2 & 27/09/2026 & Emenda após a busca-piloto e a primeira avaliação dos estudos:
+registro transparente do estágio da revisão, buscas adicionais, uso de IA, segunda
+revisão independente e regras do instrumento metodológico. \\
+0.3 & 05/10/2026 & Execução da busca na PubMed e delimitação das bases bibliográficas
+a Scopus, Web of Science e PubMed. SciELO, Compendex e Embase foram retiradas do plano
+antes da execução, com manutenção das buscas retrospectiva e prospectiva de citações. \\
+0.4 & 05/10/2026 & Atualização do andamento após a avaliação integral dos seis
+relatórios novos da PubMed: cinco inclusões e uma exclusão, sem alteração dos
+critérios de elegibilidade ou do plano de síntese. \\
+0.5 & 05/10/2026 & Emenda metodológica consolidada: revisão por pesquisador único,
+segunda conferência interna, encerramento da recuperação de 17 publicações, inclusão
+de bibliometria descritiva sem filtragem multicritério e revisão das unidades e regras
+da avaliação metodológica e do tratamento de estimativas dependentes. \\
+\bottomrule
+\end{tabularx}
+
+\section{Informações administrativas}
+
+\subsection{Título da revisão}
+
+Comparabilidade entre métodos automáticos e gravimétricos na medição de \MPdez{}
+e \MPdoiscinco{} no ar ambiente: revisão sistemática, análise bibliométrica
+descritiva e síntese dos fatores condicionantes.
+
+\subsection{Equipe, responsabilidades e contato}
+
+A revisão será conduzida por André Henrique Oliveira Santos, responsável pela busca,
+seleção, recuperação dos documentos disponíveis, extração, avaliação metodológica,
+análise bibliométrica, síntese e redação. Não haverá segundo revisor humano
+independente. As etapas sujeitas a julgamento serão conferidas pelo próprio
+pesquisador em uma segunda rodada separada, com registro das alterações efetuadas.
+
+Eventuais contribuições adicionais serão descritas no manuscrito final segundo a
+taxonomia CRediT e somente resultarão em autoria quando os critérios editoriais de
+autoria forem atendidos.
+
+\subsection{Uso de ferramentas de inteligência artificial}
+
+O Codex, da OpenAI, foi utilizado a partir de 26 de setembro de 2026 para apoiar a
+organização dos arquivos RIS, a deduplicação, a preparação de planilhas, a triagem
+preliminar, a extração inicial de dados, a leitura assistida de figuras e a avaliação
+metodológica piloto, além da preparação de rotinas reprodutíveis de análise. A
+ferramenta não será considerada autora, revisora independente ou fonte de decisão
+metodológica. A responsabilidade pelas decisões de elegibilidade, pelos valores
+extraídos, pelos julgamentos metodológicos e pela síntese será do pesquisador. Os
+resultados assistidos por IA serão conferidos diretamente contra as fontes em uma
+segunda rodada interna, e as correções serão registradas.
+
+\subsection{Registro e acesso ao protocolo}
+
+O protocolo será depositado no OSF Registries, preferencialmente utilizando o modelo
+\emph{Generalized Systematic Review}. O registro informará que, antes do depósito,
+foram realizadas as buscas em Scopus, Web of Science e PubMed, a primeira triagem, a
+avaliação de textos completos, a extração preliminar e a avaliação metodológica
+piloto. O
+endereço e o identificador serão inseridos nesta seção e no resumo do artigo. O
+depósito não será descrito como pré-registro ou registro prospectivo.
+
+\subsection{Emendas}
+
+Cada emenda deverá informar data, seção afetada, descrição, justificativa, momento
+da revisão em que ocorreu e possível efeito sobre os resultados. Mudanças realizadas
+após o conhecimento dos resultados não poderão ser apresentadas como decisões
+definidas previamente.
+
+A primeira emenda foi elaborada em 27 de setembro de 2026, após a recuperação e a
+avaliação preliminar dos resultados de Scopus e Web of Science. Ela documenta o estágio
+real da revisão, determina a execução de buscas adicionais e exige uma segunda revisão
+independente. A segunda emenda, de 5 de outubro de 2026, registra a execução da PubMed
+e a delimitação das bases bibliográficas. A terceira emenda, também de 5 de outubro de
+2026, substitui a exigência de duplicação humana por uma segunda conferência interna,
+encerra a tentativa de recuperação de 17 publicações, incorpora análise bibliométrica
+descritiva sem seleção por indicadores de impacto e consolida as unidades e as regras
+da avaliação metodológica e do tratamento de estimativas dependentes após o
+teste-piloto. A Emenda 3 prevalece sobre a exigência de segundo revisor constante da
+Emenda 1. Os registros completos das emendas serão disponibilizados com o protocolo.
+
+\subsection{Apoio, financiamento e conflitos de interesse}
+
+As fontes de apoio financeiro e não financeiro, a participação dos financiadores e
+os conflitos de interesse dos autores serão declarados antes do registro. Não haverá
+participação de fabricantes de equipamentos nas decisões de elegibilidade, extração,
+avaliação ou síntese.
+
+\section{Justificativa}
+
+Os métodos gravimétricos determinam a concentração de material particulado a partir
+da massa coletada em filtro e do volume de ar amostrado durante um período definido.
+Os métodos automáticos produzem observações em maior resolução temporal por meio de
+princípios como atenuação beta, microbalança oscilante e detecção óptica. As duas
+categorias de método podem diferir em razão do princípio de medição, do sistema de
+entrada, do condicionamento da amostra, da perda de componentes semivoláteis, da
+umidade, da composição do aerossol e dos procedimentos de calibração e correção.
+
+Estudos de campo frequentemente avaliam equipamentos automáticos por comparação
+simultânea com amostradores gravimétricos. Entretanto, os resultados podem ser
+expressos como diferenças médias, vieses relativos, razões, regressões, correlações,
+limites de concordância ou atendimento a critérios regulatórios. Essa diversidade
+dificulta a interpretação conjunta da comparabilidade e a identificação das condições
+em que os métodos podem ou não produzir resultados intercambiáveis.
+
+A revisão pretende organizar essa evidência sem antecipar a pergunta empírica da
+futura dissertação. Enquanto a dissertação avaliará a incerteza decorrente da escolha
+temporal dos dias de amostragem, esta revisão examinará a incerteza associada aos
+próprios métodos de medição.
+
+O relatório final seguirá o PRISMA 2020 e seu documento de explicação e elaboração
+\parencite{page_prisma_statement_2021,page_prisma_explanation_2021}. Este protocolo
+será conferido com o PRISMA-P, e as estratégias de busca serão documentadas segundo
+o PRISMA-S. Caso a combinação quantitativa não seja apropriada, a apresentação da
+síntese seguirá também os princípios do SWiM. As CEE Guidelines serão utilizadas como
+fonte de orientação, mas não será reivindicada conformidade integral, pois o protocolo
+não foi registrado antes do início da revisão e não haverá avaliação humana
+independente. A análise bibliométrica terá finalidade descritiva e não será usada para
+determinar elegibilidade, qualidade ou peso dos estudos.
+
+\section{Objetivos}
+
+\subsection{Objetivo geral}
+
+Avaliar sistematicamente a comparabilidade entre métodos automáticos e gravimétricos
+na determinação de concentrações de \MPdez{} e \MPdoiscinco{} no ar ambiente,
+quantificando os vieses relatados e identificando fatores ambientais, operacionais e
+instrumentais associados às diferenças entre os métodos.
+
+\subsection{Objetivos específicos}
+
+\begin{enumerate}[label=\alph*)]
+  \item caracterizar os locais, períodos, equipamentos, métodos de referência e
+  desenhos dos estudos comparativos;
+  \item reunir e padronizar, quando possível, medidas de diferença, viés, razão,
+  concordância, regressão, erro e equivalência;
+  \item comparar separadamente os resultados referentes a \MPdez{} e
+  \MPdoiscinco{};
+  \item avaliar diferenças entre tecnologias automáticas, incluindo BAM, TEOM,
+  TEOM-FDMS e outros métodos elegíveis;
+  \item investigar a influência de umidade, temperatura, sazonalidade, composição
+  do aerossol, faixa de concentração, tipo de local, tratamento da amostra e
+  correções instrumentais;
+  \item caracterizar a evolução temporal, as fontes, os países, os autores, as
+  palavras-chave e as tecnologias presentes no conjunto de documentos incluídos;
+  \item avaliar as limitações metodológicas e a consistência da evidência disponível;
+  \item identificar lacunas relevantes para o monitoramento ambiental e para estudos
+  futuros de representatividade temporal.
+\end{enumerate}
+
+\section{Pergunta da revisão e estrutura conceitual}
+
+\textbf{Pergunta:} Em estudos de monitoramento do ar ambiente com equipamentos
+operados simultaneamente e no mesmo local, qual é a concordância entre as
+concentrações de \MPdez{} e \MPdoiscinco{} determinadas por métodos automáticos e
+por métodos gravimétricos de referência, e quais fatores ambientais, operacionais e
+instrumentais influenciam as diferenças observadas?
+
+Será utilizada uma estrutura PICOS adaptada a estudos de comparação de métodos.
+
+\begin{longtable}{@{}p{3.6cm}p{10.9cm}@{}}
+\toprule
+\textbf{Componente} & \textbf{Definição} \\
+\midrule
+\endhead
+População/contexto & Locais de monitoramento de ar ambiente externo nos quais foram
+realizadas medições de \MPdez{} e/ou \MPdoiscinco{}. \\
+Método índice & Equipamento automático ou contínuo destinado à determinação da
+concentração em massa de material particulado. \\
+Comparador & Método com coleta em filtro e determinação gravimétrica da massa,
+descrito como método de referência, equivalente ou comparador validado. \\
+Desfechos & Diferença, viés, razão, concordância, erro, regressão, precisão,
+correlação e atendimento a critérios de equivalência. \\
+Desenho & Estudo primário de comparação em campo, com medições simultâneas ou
+temporalmente coincidentes e equipamentos colocalizados ou representativos da mesma
+massa de ar. \\
+\bottomrule
+\end{longtable}
+
+\section{Critérios de elegibilidade}
+
+\subsection{Critérios de inclusão}
+
+Serão elegíveis estudos que atendam conjuntamente aos seguintes critérios:
+
+\begin{enumerate}
+  \item apresentem dados primários obtidos em monitoramento de ar ambiente externo;
+  \item avaliem \MPdez{}, \MPdoiscinco{} ou ambas as frações;
+  \item comparem um método automático com um método gravimétrico baseado em filtro;
+  \item realizem as medições em períodos coincidentes e em equipamentos colocalizados
+  ou posicionados de modo que representem justificadamente a mesma massa de ar;
+  \item informem dados quantitativos de comparabilidade ou dados suficientes para
+  calcular ao menos uma medida de comparação;
+  \item descrevam suficientemente os equipamentos e os períodos de amostragem para
+  permitir a interpretação dos resultados;
+  \item sejam artigos completos revisados por pares ou relatórios técnicos oficiais
+  com método e resultados primários suficientemente documentados.
+\end{enumerate}
+
+Não será estabelecida duração mínima a priori. A duração, o número de pares, a
+completude e a cobertura sazonal serão extraídos e considerados na avaliação
+metodológica e nas análises de sensibilidade.
+
+\subsection{Critérios de exclusão}
+
+Serão excluídos:
+
+\begin{itemize}
+  \item estudos exclusivamente laboratoriais, de câmara ou de bancada;
+  \item monitoramento interno, ocupacional, pessoal ou de emissões em chaminés;
+  \item estudos que comparem somente dois equipamentos automáticos ou somente dois
+  métodos gravimétricos;
+  \item estudos sem coincidência temporal entre os métodos;
+  \item estudos de composição química sem comparação da concentração em massa;
+  \item estudos de partículas totais em suspensão sem resultados separados para
+  \MPdez{} ou \MPdoiscinco{};
+  \item resumos de eventos, editoriais, cartas sem dados primários, revisões e
+  protocolos;
+  \item publicações duplicadas do mesmo estudo sem resultados adicionais.
+\end{itemize}
+
+Sensores classificados como de baixo custo serão excluídos da análise principal. Um
+equipamento compacto somente será elegível quando o estudo o apresentar como método
+de monitoramento ambiental de desempenho equivalente, de referência ou
+\emph{research grade}, com documentação de calibração e comparação direta com o
+método gravimétrico.
+
+\pendente{Ratificar a inclusão de relatórios técnicos oficiais como evidência
+primária. A recomendação inicial é incluí-los em um estrato separado dos artigos
+revisados por pares, reduzindo o risco de perda de estudos de equivalência sem misturar
+automaticamente fontes com processos editoriais diferentes.}
+
+\subsection{Idiomas, período e situação de publicação}
+
+Não serão aplicados filtros de idioma ou data durante as buscas. Textos em idiomas
+não dominados pelo pesquisador serão avaliados com tradução assistida e, quando necessário,
+apoio externo. A data final corresponderá ao dia de execução de cada busca. A busca
+será atualizada próximo à submissão do manuscrito.
+
+\section{Fontes de informação}
+
+As seguintes bases integram o plano emendado:
+
+\begin{itemize}
+  \item Scopus, busca executada em 26 de setembro de 2026;
+  \item Web of Science Core Collection, busca executada em 26 de setembro de 2026;
+  \item MEDLINE via PubMed, busca executada em 5 de outubro de 2026.
+\end{itemize}
+
+Na PubMed foram recuperados 64 registros sem filtros de idioma, data ou tipo
+documental. A deduplicação confirmou 31 coincidências por DOI e duas por título,
+autores, ano e periódico. As duas coincidências sem DOI foram confirmadas pelo usuário
+em 5 de outubro de 2026. Assim, 33 duplicatas foram removidas e 31 registros foram
+encaminhados para triagem. A triagem de título e resumo excluiu 25 registros e
+encaminhou seis para localização e avaliação do texto completo.
+
+Os seis relatórios foram recuperados e avaliados integralmente em 5 de outubro de
+2026. Foram incluídos RSL-126, RSL-129, RSL-136, RSL-144 e RSL-145. O RSL-143 foi
+excluído porque o QT-50 é apresentado como sensor óptico de baixo custo, sem
+classificação como método ambiental equivalente, de referência ou
+\emph{research grade}, conforme o critério específico estabelecido neste protocolo.
+
+As estratégias preparadas para SciELO, Compendex e Embase na versão 0.5 não foram
+executadas e foram retiradas do plano corrente em 5 de outubro de 2026. Essa decisão
+ocorreu após o início da revisão e será declarada como emenda e como possível limitação
+de cobertura no relatório final.
+
+Considerando as três bases, foram identificados 233 registros brutos e removidas 83
+duplicatas. Dos 150 registros únicos triados, 90 foram excluídos por título e resumo e
+60 publicações originais foram procuradas para leitura integral. Dezessete publicações
+originais não puderam ser obtidas e as tentativas de recuperação foram encerradas em
+5 de outubro de 2026. Esses registros serão apresentados como relatórios não
+recuperados, sem atribuição de motivo de exclusão por conteúdo. Foram avaliadas 43
+publicações originais e uma fonte alternativa; quatro documentos foram excluídos e 40
+foram incluídos, representando no máximo 39 estudos independentes antes das buscas de
+citações.
+
+Serão examinadas as listas de referências dos estudos incluídos e das revisões
+relevantes. Também será realizada busca de citações posteriores dos estudos incluídos.
+Caso os relatórios oficiais permaneçam elegíveis, serão definidos previamente os
+portais institucionais e os procedimentos reproduzíveis de busca.
+
+Autores poderão ser contatados quando informações essenciais de método ou resultados
+dos documentos incluídos não puderem ser obtidas no texto e nos suplementos. Serão
+registradas a data, a forma de contato e a resposta recebida. Não serão realizadas
+novas tentativas de obtenção das 17 publicações classificadas nesta emenda como não
+recuperadas.
+
+\section{Estratégia de busca}
+
+A estratégia combinará cinco blocos conceituais:
+
+\begin{enumerate}
+  \item material particulado e suas frações;
+  \item método gravimétrico ou baseado em filtro;
+  \item método automático ou tecnologia instrumental;
+  \item comparação, concordância, viés ou equivalência;
+  \item ar ambiente e qualidade do ar.
+\end{enumerate}
+
+A versão 0.3 efetivamente executada na Scopus é apresentada a seguir. A mesma estrutura
+foi adaptada à Web of Science e, com termos livres e descritores MeSH, à PubMed. Os
+conceitos essenciais e cada comando completo foram registrados separadamente:
+
+\begin{verbatim}
+TITLE-ABS-KEY (
+  ("particulate matter" OR PM10 OR "PM 10"
+   OR PM2.5 OR "PM 2.5" OR PM25)
+  AND
+  (gravimetric OR "filter-based" OR "filter based"
+   OR "reference method" OR "Federal Reference Method" OR FRM
+   OR "manual sampler" OR "filter sampler"
+   OR "high volume sampler" OR "low volume sampler")
+  AND
+  ("automatic monitor" OR "automatic monitoring"
+   OR "continuous monitor" OR "continuous monitoring"
+   OR "real-time monitor" OR BAM OR "beta attenuation monitor"
+   OR TEOM OR "tapered element oscillating microbalance"
+   OR FDMS OR "filter dynamics measurement system"
+   OR SHARP OR nephelometer OR "optical monitor")
+  AND
+  (compare OR comparison OR agreement OR concordance OR equivalence OR bias
+   OR validation OR evaluation OR intercomparison OR collocated
+   OR "co-located" OR "side-by-side" OR performance)
+  AND
+  ("ambient air" OR "air quality")
+)
+\end{verbatim}
+
+A busca-piloto foi realizada em Scopus e Web of Science sem artigos-semente, e a busca
+adicional foi executada na PubMed. A calibração utilizou quantidade e relevância dos
+resultados, sinônimos encontrados e motivos de irrelevância. A recuperação dos estudos
+incluídos será verificada retrospectivamente como avaliação de cobertura, sem apresentar
+esse procedimento como validação prospectiva. As estratégias não receberão revisão
+independente por segundo pesquisador; essa ausência será declarada como limitação.
+
+PTS/TSP poderá ser acrescentada apenas a uma busca-piloto exploratória. Sua inclusão
+na revisão principal exigirá nova emenda anterior à incorporação dos resultados e
+apresentação separada das frações \MPdez{} e \MPdoiscinco{}.
+
+Para cada fonte serão arquivados nome da base e plataforma, comando completo, data,
+limites, número de registros e formato de exportação.
+
+\section{Gerenciamento dos registros e seleção}
+
+O arquivo \texttt{mpga\_rsl.bib} contém referências metodológicas e modelos de artigo
+gerenciados no Zotero. Ele é somente leitura neste projeto e não será editado,
+deduplicado ou ampliado automaticamente. Os resultados das buscas da revisão serão
+mantidos em coleção e exportações próprias, separadas desse arquivo.
+
+Após a reunião dos resultados, duplicatas serão identificadas por DOI, título, autores,
+ano e conferência manual. O número removido antes da triagem será registrado no
+fluxograma PRISMA.
+
+A seleção ocorrerá em duas etapas, conduzidas pelo pesquisador responsável:
+
+\begin{enumerate}
+  \item leitura de títulos e resumos;
+  \item leitura dos textos completos considerados potencialmente elegíveis.
+\end{enumerate}
+
+A seleção já realizada será considerada a primeira rodada de um pesquisador assistido
+por IA. O mesmo pesquisador realizará uma segunda conferência dos registros em rodada
+separada e, quando operacionalmente possível, sem visualizar inicialmente a decisão
+anterior. Mudanças entre as rodadas serão resolvidas pela releitura do registro ou do
+texto completo e acompanhadas de justificativa. Na etapa de texto completo, será
+atribuído um único motivo principal de exclusão, segundo uma lista padronizada. Não
+serão calculadas medidas de concordância entre revisores, pois não haverá avaliações
+humanas independentes.
+
+As 17 publicações não recuperadas permanecerão separadas das exclusões. Não será
+inferida sua elegibilidade a partir do título ou do resumo, e seu possível efeito sobre
+a completude da revisão será discutido como limitação.
+
+Relatórios múltiplos de um mesmo estudo serão vinculados a uma identificação comum.
+O estudo, e não cada publicação isolada, será a unidade principal da síntese.
+
+Será adotada a seguinte hierarquia de identificação: família de estudo, relatório,
+comparação elegível e estimativa. Uma comparação elegível corresponde a uma combinação
+específica de local, período, fração de material particulado, método automático,
+configuração instrumental e comparador gravimétrico. Uma comparação poderá produzir
+mais de uma estimativa, sem que essas estimativas sejam consideradas independentes.
+
+\section{Coleta de dados}
+
+Um formulário padronizado foi testado em uma amostra e revisado antes da extração dos
+documentos disponíveis. A extração produzida com assistência de IA será considerada a
+primeira rodada. O pesquisador responsável verificará os campos diretamente contra os
+textos e suplementos em uma segunda rodada, priorizando os dados quantitativos, a
+identificação dos equipamentos, a colocalização, a coincidência temporal e o número de
+observações. A forma de conferência e as correções serão declaradas no registro e no
+relatório final.
+
+\subsection{Variáveis bibliográficas e contextuais}
+
+\begin{itemize}
+  \item autores, ano, país e fonte de publicação;
+  \item coordenadas ou descrição do local, quando disponíveis;
+  \item ambiente urbano, industrial, rural, de tráfego ou de fundo;
+  \item período, duração, estações do ano e condições meteorológicas;
+  \item fração de material particulado e faixa de concentração;
+  \item fontes predominantes ou composição do aerossol, quando informadas.
+\end{itemize}
+
+\subsection{Características dos métodos}
+
+\begin{itemize}
+  \item fabricante, modelo, princípio e situação regulatória do equipamento automático;
+  \item método gravimétrico, amostrador, entrada seletiva, vazão, filtro e duração;
+  \item distância horizontal, diferença de altura e descrição da colocalização;
+  \item resolução original e regra de agregação do equipamento automático;
+  \item aquecimento, secagem, correções, calibração e manutenção;
+  \item critérios de validade, completude, exclusão de dados e controle de qualidade;
+  \item número de observações pareadas e tratamento de dados ausentes.
+\end{itemize}
+
+\subsection{Resultados}
+
+Serão extraídos, sempre que disponíveis:
+
+\begin{itemize}
+  \item médias, desvios-padrão, medianas e intervalos dos dois métodos;
+  \item diferença média e viés relativo;
+  \item razão entre as concentrações;
+  \item inclinação, intercepto e incerteza da regressão;
+  \item limites de concordância;
+  \item RMSE, MAE e outras medidas de erro;
+  \item coeficientes de correlação e determinação;
+  \item precisão, repetibilidade e incerteza;
+  \item fatores de correção aplicados;
+  \item atendimento ou não a critérios formais de equivalência.
+\end{itemize}
+
+Resultados obtidos diretamente de tabelas terão prioridade. Extrações de figuras,
+conversões de unidades, cálculos derivados e respostas de autores serão identificados
+separadamente.
+
+\section{Análise bibliométrica descritiva}
+
+O corpus bibliométrico compreenderá todos os documentos que atenderem aos critérios de
+elegibilidade ao final das buscas de citações. Na data desta emenda, o corpus contém 40
+documentos. A unidade bibliométrica será o documento, enquanto a síntese de evidências
+utilizará o estudo, a família de estudo ou a comparação elegível, conforme a análise.
+
+Serão descritos, conforme a completude dos metadados, ano de publicação, fonte,
+autores, países ou locais estudados, palavras-chave, frações de material particulado,
+tecnologias automáticas e tipos de comparador gravimétrico. Poderão ser apresentados
+gráficos de evolução temporal, distribuição geográfica e frequência das tecnologias.
+Redes de colaboração ou coocorrência serão exploradas somente se o tamanho e a
+qualidade do corpus produzirem resultados interpretáveis.
+
+Registros excluídos e publicações não recuperadas não integrarão a bibliometria
+principal, embora permaneçam contabilizados no fluxo da revisão. Indicadores de
+citação, produtividade autoral ou centralidade de periódicos não serão usados para
+selecionar, excluir ou ponderar documentos. Não será aplicado refinamento
+multicritério para reduzir o conjunto elegível. O processamento será realizado com
+rotinas reproduzíveis, preferencialmente no ambiente R com o pacote
+\texttt{bibliometrix}, e o código será disponibilizado.
+
+\section{Desfechos e medidas de comparabilidade}
+
+O desfecho principal será a direção e a magnitude da diferença entre o método
+automático e o gravimétrico. Quando os dados permitirem, o viés relativo será expresso
+por:
+
+\begin{equation}
+  B_{\%}=100\left(\frac{C_{\mathrm{auto}}-C_{\mathrm{grav}}}
+  {C_{\mathrm{grav}}}\right),
+\end{equation}
+
+em que $C_{\mathrm{auto}}$ representa a concentração obtida pelo método automático e
+$C_{\mathrm{grav}}$ a concentração gravimétrica correspondente. Valores positivos
+indicam superestimação pelo método automático e valores negativos indicam
+subestimação.
+
+As medidas serão hierarquizadas da seguinte forma:
+
+\begin{enumerate}
+  \item viés relativo ou diferença média baseada em observações pareadas;
+  \item razão entre métodos e limites de concordância;
+  \item inclinação e intercepto de regressões de comparação;
+  \item medidas de erro e precisão;
+  \item correlação e $R^2$, tratados somente como medidas de associação complementar;
+  \item classificação de equivalência conforme critério declarado pelo estudo.
+\end{enumerate}
+
+Não serão combinados em uma única estimativa resultados que representem propriedades
+estatísticas distintas, como correlação, inclinação da regressão e diferença média.
+
+\section{Caracterização e avaliação metodológica}
+
+Será utilizada uma avaliação por domínios, específica para estudos de comparação de
+métodos ambientais. A versão emendada compreenderá:
+
+\begin{enumerate}
+  \item seleção e descrição do local e do período;
+  \item colocalização e coincidência temporal;
+  \item adequação e rastreabilidade do método gravimétrico;
+  \item calibração, manutenção e controle de qualidade do método automático;
+  \item completude, exclusões e tratamento dos dados;
+  \item cobertura da faixa de concentração e das condições ambientais;
+  \item adequação das análises de concordância e comparabilidade;
+  \item transparência e completude do relato;
+  \item risco de relato seletivo e participação de financiadores ou fabricantes.
+\end{enumerate}
+
+Cada domínio será classificado como baixo risco, algumas preocupações, alto risco ou
+informação insuficiente, acompanhado de justificativa textual. Não será produzida uma
+pontuação total pela simples soma dos domínios. Os termos serão utilizados como
+sinalizações metodológicas específicas desta revisão, e não como aplicação de um
+instrumento externo validado. O pesquisador responsável avaliará as comparações e
+repetirá a conferência em uma segunda rodada, sem consultar inicialmente o julgamento
+anterior quando isso for operacionalmente possível. O teste-piloto assistido por IA
+será tratado como primeira aplicação e não como avaliação independente.
+
+A unidade operacional de julgamento será a comparação elegível, e não necessariamente
+a publicação inteira. Informações comuns ao estudo ou ao relatório poderão ser
+reutilizadas, mas diferenças entre locais, períodos, instrumentos, configurações ou
+subconjuntos receberão julgamentos próprios. Será mantida também uma síntese por
+família de estudo para evitar que publicações ou comparações múltiplas aumentem
+artificialmente o peso da evidência.
+
+As categorias de julgamento serão operacionalizadas da seguinte forma:
+
+\begin{itemize}
+  \item \textbf{baixo risco}: informação suficiente e ausência de limitação com efeito
+  material provável sobre a comparação;
+  \item \textbf{algumas preocupações}: omissão ou limitação plausivelmente relevante,
+  sem evidência de comprometimento grave;
+  \item \textbf{alto risco}: limitação com probabilidade substancial de alterar a
+  direção ou a magnitude da comparação;
+  \item \textbf{informação insuficiente}: relato que não permite julgamento, sem que
+  isso seja convertido automaticamente em baixo ou alto risco.
+\end{itemize}
+
+Para cada domínio foram definidas regras específicas de julgamento, registradas no
+instrumento de avaliação. Os domínios de seleção do local e cobertura ambiental serão
+interpretados como ameaças à validade da comparação somente quando a seleção puder
+alterar a direção ou a magnitude do resultado; limitações exclusivas de generalização
+serão registradas separadamente como aplicabilidade.
+
+Uma sinalização global, usada apenas nas análises de sensibilidade, será classificada
+como alto risco quando houver alto risco em colocalização e coincidência temporal,
+adequação do comparador gravimétrico, controle do método automático, completude dos
+dados ou análise de comparabilidade, ou quando dois ou mais dos demais domínios forem
+classificados como alto risco. Na ausência dessas condições, preocupações ou informação
+insuficiente nos domínios 1 a 8 resultarão em sinalização global de algumas
+preocupações.
+
+A ausência isolada de declaração formal de financiamento ou conflitos de interesse,
+frequente em publicações antigas, será mantida como informação insuficiente no domínio
+9 e como marcador de transparência, mas não elevará automaticamente a sinalização
+global. Participação de fabricante, seleção plausível de resultados ou influência do
+financiador sobre desenho, análise ou relato continuarão contribuindo para a
+sinalização global e para análises de sensibilidade. Baixo risco global exigirá baixo
+risco nos domínios 1 a 8 e ausência de indício material de relato seletivo ou influência
+indevida no domínio 9.
+
+O teste-piloto foi aplicado a 40 documentos e, pelas regras anteriores, resultou em
+quatro sinalizações de alto risco e 36 de algumas preocupações; em 30 documentos, a
+informação sobre conflitos de interesse foi considerada insuficiente. Esses resultados
+serão preservados como piloto. As sinalizações globais serão recalculadas no nível da
+comparação depois da segunda conferência interna da versão emendada do instrumento.
+Alterações serão registradas sem apagar as justificativas da primeira rodada. A
+ausência de avaliação humana independente será considerada limitação do processo.
+
+\pendente{Concluir a segunda conferência interna do instrumento emendado, registrar as
+alterações em relação ao piloto e ratificar as regras antes da síntese definitiva.}
+
+\section{Plano de síntese}
+
+\subsection{Preparação e agrupamento}
+
+Os estudos serão inicialmente agrupados por:
+
+\begin{enumerate}
+  \item fração: \MPdez{} ou \MPdoiscinco{};
+  \item tecnologia automática: BAM, TEOM, TEOM-FDMS, óptica ou outra;
+  \item natureza do método gravimétrico e situação de referência;
+  \item artigo revisado por pares ou relatório técnico oficial;
+  \item escala temporal da comparação;
+  \item tipo de ambiente monitorado.
+\end{enumerate}
+
+Conversões de unidade serão documentadas. Quando um estudo apresentar múltiplos
+equipamentos, locais, estações ou períodos, sua estrutura de dependência será
+preservada; estimativas do mesmo estudo não serão tratadas automaticamente como
+evidências independentes.
+
+Todas as estimativas elegíveis serão mantidas na matriz longa. Para sínteses
+quantitativas, relatórios da mesma base de dados serão reunidos sob uma única família
+de estudo, utilizando-se o relatório mais completo e os demais como fontes
+complementares. Se houver estimativas múltiplas dentro do mesmo estrato, será preferida
+modelagem multinível ou estimação robusta da variância quando a quantidade de estudos
+independentes e a estrutura dos dados permitirem. Caso isso não seja viável, será
+selecionada uma estimativa por estudo e estrato, priorizando, nesta ordem: comparação
+direta e estritamente colocalizada; coincidência temporal exata; período completo com
+maior completude; estimativa acompanhada de incerteza e número de pares; e resultado
+obtido de tabela ou texto em vez de digitalização de figura. Escolhas alternativas
+plausíveis serão examinadas em análise de sensibilidade.
+
+\subsection{Síntese descritiva}
+
+Todos os estudos elegíveis integrarão tabelas de características e resultados. Serão
+apresentados mapas ou gráficos de distribuição geográfica, cronologia das publicações,
+tecnologias avaliadas, duração, quantidade de pares, faixa de concentração e direção
+dos vieses. Os dados individuais serão exibidos sempre que isso favorecer a
+interpretação e a rastreabilidade. Os resultados bibliométricos serão apresentados
+separadamente dos resultados de comparabilidade e não determinarão o peso atribuído às
+evidências.
+
+\subsection{Síntese quantitativa}
+
+Uma meta-análise será considerada somente quando houver pelo menos três estudos
+independentes com fração, tecnologia, comparador e medida de resultado suficientemente
+compatíveis. O agrupamento será realizado com modelo de efeitos aleatórios. Serão
+informados estimativa combinada, intervalo de confiança, $\tau^2$, $I^2$ e, quando
+viável, intervalo de predição.
+
+Razões poderão ser analisadas em escala logarítmica. Diferenças absolutas poderão ser
+agrupadas quando as unidades e os períodos forem compatíveis. Vieses percentuais
+calculados por definições diferentes não serão combinados sem harmonização
+demonstrável. Regressões, correlações e limites de concordância serão sintetizados em
+estratos próprios.
+
+Quando houver múltiplas estimativas dependentes, será aplicado o procedimento definido
+na preparação e no agrupamento. A decisão analítica para cada estrato será registrada
+antes do cálculo de qualquer estimativa combinada.
+
+\subsection{Heterogeneidade e fatores condicionantes}
+
+Se houver quantidade suficiente de estudos, serão examinados:
+
+\begin{itemize}
+  \item tecnologia e modelo do equipamento;
+  \item \MPdez{} versus \MPdoiscinco{};
+  \item umidade, temperatura e estação do ano;
+  \item aquecimento, secagem e fatores de correção;
+  \item tipo de ambiente e fontes predominantes;
+  \item faixa de concentração;
+  \item duração, número de pares e completude;
+  \item situação regulatória do método automático e do comparador;
+  \item sinalização das limitações metodológicas.
+\end{itemize}
+
+Subgrupos e meta-regressões somente serão utilizados quando houver base conceitual,
+quantidade de estudos e distribuição de dados suficientes. Resultados exploratórios
+serão identificados como tais.
+
+\subsection{Análises de sensibilidade}
+
+Estão previstas análises que:
+
+\begin{itemize}
+  \item excluam comparações com sinalização global de alto risco metodológico;
+  \item incluam apenas artigos revisados por pares;
+  \item incluam apenas métodos com reconhecimento regulatório declarado;
+  \item incluam apenas comparações com colocalização estrita e demonstrada;
+  \item excluam estudos sem agregação temporal exatamente coincidente;
+  \item excluam resultados calculados a partir de figuras ou dados incompletos;
+  \item avaliem o efeito de estudos com pequena quantidade de pares;
+  \item excluam avaliações conduzidas por fabricantes sem salvaguardas independentes;
+  \item comparem escolhas alternativas entre estimativas dependentes do mesmo estudo.
+\end{itemize}
+
+\subsection{Síntese sem meta-análise}
+
+Quando o agrupamento quantitativo não for apropriado, será utilizada síntese
+estruturada, com regras explícitas para agrupamento, métrica padronizada, ordenação,
+apresentação gráfica e interpretação. A contagem simples de resultados
+``significativos'' não será utilizada como medida de evidência. A direção, magnitude,
+precisão e limitações metodológicas dos resultados permanecerão visíveis.
+
+\subsection{Vieses de relato e confiança na evidência}
+
+Assimetria de funil e testes associados somente serão avaliados quando houver pelo
+menos dez estimativas comparáveis e quando as premissas desses procedimentos forem
+razoáveis. A confiança no conjunto de evidências será discutida por resultado com base
+nas limitações metodológicas, consistência, precisão, aplicabilidade direta e
+possibilidade de resultados ausentes. A condução por um único pesquisador e as 17
+publicações não recuperadas serão consideradas nessa discussão. Não será atribuída
+automaticamente uma classificação clínica a estudos de desempenho instrumental.
+
+\section{Disponibilidade, ética e disseminação}
+
+A revisão utilizará documentos públicos e não envolverá participantes humanos nem
+coleta de dados identificáveis. Serão disponibilizados, conforme as restrições das
+bases e dos editores:
+
+\begin{itemize}
+  \item protocolo e histórico de emendas;
+  \item estratégias completas de busca;
+  \item formulários de seleção e extração;
+  \item lista de textos completos excluídos e motivos;
+  \item lista das publicações não recuperadas;
+  \item dados extraídos, decisões de avaliação metodológica e registro das correções
+  realizadas na segunda conferência interna;
+  \item matriz bibliométrica e código das análises, tabelas e figuras;
+  \item checklist PRISMA preenchido.
+\end{itemize}
+
+Os resultados serão submetidos como artigo científico e poderão subsidiar a
+dissertação e o procedimento técnico relacionado ao planejamento de campanhas de
+monitoramento. A revisão não estabelecerá equivalência regulatória por conta própria;
+ela sintetizará as evidências e os critérios utilizados nas fontes incluídas.
+
+\section{Decisões necessárias antes do registro e da síntese definitiva}
+
+\begin{enumerate}
+  \item decidir definitivamente sobre relatórios técnicos oficiais;
+  \item fechar a lista de portais institucionais, caso haja literatura cinzenta;
+  \item realizar as buscas retrospectiva e prospectiva de citações dos cinco
+  estudos incluídos na busca adicional da PubMed e dos demais estudos elegíveis;
+  \item realizar a segunda conferência interna da seleção, da extração e da avaliação
+  metodológica, preservando o registro das correções;
+  \item estruturar a matriz longa com identificadores de família, relatório,
+  comparação e estimativa antes da síntese quantitativa;
+  \item preparar e validar a matriz bibliométrica dos documentos incluídos;
+  \item escolher o periódico-alvo ou ao menos seus limites gerais de extensão;
+  \item adicionar ao Zotero as referências metodológicas de PRISMA-P, PRISMA-S,
+  SWiM, CEE e análise bibliométrica e atualizar a exportação bibliográfica;
+  \item aprovar a versão 1.0 e registrá-la com declaração explícita do estágio já
+  alcançado, antes da síntese definitiva.
+\end{enumerate}
+
+\printbibliography[title={Referências disponíveis na biblioteca do projeto}]
+
+\end{document}

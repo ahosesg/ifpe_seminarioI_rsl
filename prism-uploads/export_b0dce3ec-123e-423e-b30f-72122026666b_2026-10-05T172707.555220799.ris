@@ -1,0 +1,409 @@
+TY  - JOUR
+AU  - Watson, J.G.
+AU  - Chow, J.C.
+AU  - Chen, L.-W.A.
+AU  - Kohl, S.D.
+AU  - Casuccio, G.S.
+AU  - Lersch, T.L.
+AU  - Langston, R.
+TI  - Elemental and morphological analyses of filter tape deposits from a beta attenuation monitor
+PY  - 2012
+T2  - Atmospheric Research
+VL  - 106
+SP  - 181
+EP  - 189
+DO  - 10.1016/j.atmosres.2011.12.004
+UR  - https://www.scopus.com/pages/publications/84855982947?origin=resultslist
+AD  - Division of Atmospheric Sciences, Desert Research Institute, Reno, NV 89512, 2215 Raggio Parkway, United States
+AD  - State Key Laboratory of Loess and Quaternary Geology, Institute of Earth Environment, Chinese Academy of Science, Xi'an High-Tech Zone,s Xi'an, 710075, 10 Fenghui South Road, China
+AD  - RJ Lee Group, Inc., Monroeville, PA, United States
+AD  - Department of Air Quality and Environmental Management, Las Vegas, NV, Clark County, United States
+AB  - An hourly average PM 10 concentration of 1402μgm -3 was registered at 1400 Pacific Standard Time (PST), 1/11/2007, on the beta attenuation monitor (BAM) at a North Las Vegas, Nevada sampling site. The high PM 10 concentration at ~1245-~1331 PST was a microscale event, limited strictly to the PM 10 sampler; it did not affect the adjacent PM 2.5 concentrations. A method was developed for retrospective compositional analysis of BAM glass-fiber filter tape sample deposits. Sample punches were submitted for optical examination, followed by elemental and morphological analyses with X-ray fluorescence (XRF) and scanning electron microscopy (SEM)-energy dispersive X-ray spectroscopy (EDS) analyses, respectively. Geological samples surrounding the sampling site were acquired to establish source profiles and identify source markers.Although blank levels for many elements were high on the glass-fiber filter tape from the BAM, they were consistent enough to allow background subtraction from the deposit concentrations for most chemical components. Chemical mass balance (CMB) receptor model source apportionment for the event closely matched the paved road dust sample collected adjacent to the sampling site. It is likely that this high mass event was the result of environmental vandalism. This study demonstrates the feasibility of analyzing BAM filter tape deposits for source attribution, especially for short-duration fugitive dust events. Filter tapes should be time-stamped and immediately retained after an event for future analysis. © 2011 Elsevier B.V..
+KW  - Beta attenuation monitor
+KW  - Chemical mass balance
+KW  - PM <sub>10</sub> 
+KW  - Receptor modeling
+KW  - Scanning electron microscopy
+KW  - X-ray fluorescence
+KW  - Air filters
+KW  - Deposits
+KW  - Dust
+KW  - Fluorescence
+KW  - Glass
+KW  - Morphology
+KW  - Scanning electron microscopy
+KW  - X ray spectroscopy
+KW  - Beta attenuation
+KW  - Chemical mass balance
+KW  - Receptor modeling
+KW  - Scanning electrons
+KW  - X ray fluorescence
+KW  - chemical mass balance
+KW  - concentration (composition)
+KW  - filter
+KW  - particulate matter
+KW  - scanning electron microscopy
+KW  - X-ray fluorescence
+KW  - X ray analysis
+SN  - 01698095 (ISSN)
+LA  - English
+J2  - Atmos. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84855982947
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 26
+N1  - Funding details: Clark County Department of Air Quality and Environmental Management; DAQEM
+N1  - Funding text 1: This study was sponsored by the Clark County Department of Air Quality and Environmental Management (DAQEM). The authors would like to acknowledge the support of DAQEM staff Mike Sword and Randy White for retrieving the BAM filter tape and their assistance in geological sample collection. Ms. Jo Gerrard of DRI assisted in assembling and editing the manuscript. Mention of commercially available products and supplies does not constitute an endorsement of those products and supplies. 
+N1  - Correspondence Address: J.G. Watson; Division of Atmospheric Sciences, Desert Research Institute, Reno, NV 89512, 2215 Raggio Parkway, United States; email: john.watson@dri.edu
+ER  -
+
+TY  - JOUR
+AU  - Qin, Y.
+AU  - Zhang, D.
+AU  - Zheng, W.
+AU  - Chen, X.
+AU  - Sun, X.
+AU  - Gong, Z.
+TI  - Earthquake-triggered landslide susceptibility modeling based on fault geometry
+PY  - 2026
+T2  - Engineering Geology
+VL  - 362
+C7  - 108539
+DO  - 10.1016/j.enggeo.2025.108539
+UR  - https://www.scopus.com/pages/publications/105026971470?origin=resultslist
+AD  - Guangdong Provincial Key Laboratory of Geodynamics and Geohazards, School of Earth Sciences and Engineering, Sun Yat-Sen University, Guangzhou, China
+AB  - The geometric configurations and kinematic behavior of seismogenic faults fundamentally govern the spatial distribution of earthquake-triggered landslides, where quantifying their mechanisms dominating occurrence probability poses a core challenge for advancing predictive accuracy. Focusing on the 2008 Wenchuan earthquake and its main rupture zone (Beichuan–Yingxiu Fault), a thrust–strike–slip structure exhibiting along-strike dip variations ranging from ∼43° in the south to near-vertical in the north, this study establishes a probabilistic framework integrating fault geometry with five controlling factors, including distance to fault, peak ground acceleration (PGA), slope, local relief, and lithology, using a comprehensive EQTL inventory. Using multivariate nonlinear regression (MNR) and random forest (RF) modeling, we elucidate the fault dip's regulatory role in earthquake-triggered mechanisms. Key findings indicate that low-dip faults (43°–53°) drive concentrated hanging-wall landslides, characterized by PGA saturation > 0.5 g, high sensitivity to slopes >30°, and abrupt acceleration beyond 500 m relief; conversely, high-dip faults (59°–89°) exhibit bilaterally symmetric distributions with PGA triggering at 0.2 g, pronounced slope sensitivity >20°, and peak probability at 500–1000 m relief followed by post-peak decline. Factor importance analysis confirms distance to fault and PGA as primary predictors; however, their influence is dynamically modulated by dip angle. The RF model outperforms MNR (AUC >0.90 versus MNR's high-dip AUC = 0.728). Blind testing with the 2013 Lushan earthquake (thrust-type) and 2017 Jiuzhaigou earthquake (strike-slip) confirms the model captures hanging-wall concentration and bilateral symmetric distributions, demonstrating cross-fault adaptability. © 2025
+KW  - Earthquake-triggered landslides
+KW  - Multivariate regression
+KW  - Random forest
+KW  - Seismogenic fault geometry
+KW  - Wenchuan earthquake
+KW  - China
+KW  - Sichuan
+KW  - Wenchuan
+KW  - Earthquakes
+KW  - Fault slips
+KW  - Geometry
+KW  - Kinematics
+KW  - Landslides
+KW  - Probability distributions
+KW  - Regression analysis
+KW  - Strike-slip faults
+KW  - Earthquake-triggered landslides
+KW  - Fault geometry
+KW  - Multivariate non-linear regression
+KW  - Multivariate regression
+KW  - Peak ground acceleration
+KW  - Random forest modeling
+KW  - Random forests
+KW  - Seismogenic fault geometry
+KW  - Seismogenic faults
+KW  - Wenchuan Earthquake
+KW  - earthquake event
+KW  - earthquake rupture
+KW  - fault geometry
+KW  - landslide
+KW  - multivariate analysis
+KW  - regression analysis
+KW  - seismology
+KW  - Lithology
+PB  - Elsevier B.V.
+SN  - 00137952 (ISSN)
+LA  - English
+J2  - Eng. Geol.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105026971470
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 1
+N1  - Funding details: National Natural Science Foundation of China, NNSF, (42174062); National Natural Science Foundation of China, NNSF
+N1  - Funding text 1: This work was supported by the Second Tibetan Plateau Scientific Expedition and Research Program (STEP; grant no. 2019QZKK0901 ), the National Science Foundation of China (grant no. 42174062 ). 
+N1  - Correspondence Address: D. Zhang; Guangdong Provincial Key Laboratory of Geodynamics and Geohazards, School of Earth Sciences and Engineering, Sun Yat-Sen University, Guangzhou, China; email: zhangdongli@mail.sysu.edu.cn
+N1  - CODEN: EGGOA
+ER  -
+
+TY  - JOUR
+AU  - Dai, D.
+AU  - Li, J.
+AU  - Xiao, K.
+AU  - Li, L.
+TI  - Contrast Between Automated and Manual Measurements of Atmospheric PM2.5: Influences of Environmental Factors and the Improving Correction Method
+PY  - 2025
+T2  - Atmosphere
+VL  - 16
+IS  - 9
+C7  - 1112
+DO  - 10.3390/atmos16091112
+UR  - https://www.scopus.com/pages/publications/105018116163?origin=resultslist
+AD  - Chengdu Ecological Environmental Monitoring Central Station of Sichuan Province, Chengdu, 610066, China
+AD  - Rural Environment Protection Engineering & Technology Center of Sichuan Province, College of Environmental Sciences, Sichuan Agricultural University, Chengdu, 611130, China
+AB  - In this work, we tested the performance of automated atmospheric PM2.5 monitoring instruments and contrasted the data from automated measurements with those from filter-based reference measurements. The tested instruments include four brands of beta attenuation instruments (two were made in China, D1 and D2; the other two were imported from other countries, I1 and I2) and one brand of a light scattering instrument (also imported from another country, I3). The automated monitoring data were corrected based on the reference tests. The total testing period lasted 18 months. The objective of this work is to evaluate the influences of environmental factors on the performance of different automated instruments, and to improve the accuracy of the automated instruments by using a correction method. The results showed that contrasted with the reference tests, the absolute errors (MAE, mean absolute error; SD, standard deviation; and RMSE, root mean square error) of the automated monitoring instruments werehigher for temperature (T ≤ 10 °C), humidity (60% ≤ RH < 80%), and PM2.5 concentrations (PM2.5 ≥ 75 μg/m3). Meanwhile, the relative errors (CV, coefficient of variation; and NRMSE, normalized root mean square error) of the automated monitoring instruments were higher for humidity (RH > 80%) and PM2.5 concentrations (PM2.5 < 15 μg/m3). For winter data, it proved challenging to pass the reference test, which was based on a linear regression between 24-h average automated monitoring data and the integrated filter-based PM2.5 data (aka the KBR test). Before corrections, the pass rates of D1, D2, I1, I2, and I3 in the rolling KBR tests are 57.7%, 51.3%, 41.1%, 21%, and 90.2%, respectively. After corrections, the rates increase to 79.6%, 86.6%, 81.8%, 58.9%, and 91.8%, respectively. The coefficient corrections (corrections of system errors) have made the most prominent contribution to improving the pass rates of the winter samples. The quarterly correction method can significantly improve the data accuracy of automated monitoring instruments. © 2025 by the authors.
+KW  - beta attenuation method
+KW  - Chengdu
+KW  - filter-based reference measurement
+KW  - light scattering method
+KW  - PM<sub>2.5</sub>
+KW  - Chengdu
+KW  - China
+KW  - Sichuan
+KW  - Atmospheric humidity
+KW  - Automation
+KW  - Bromine compounds
+KW  - Error detection
+KW  - Instrument errors
+KW  - Light scattering
+KW  - Potassium compounds
+KW  - Attenuation method
+KW  - Automated monitoring
+KW  - Beta attenuation
+KW  - Beta attenuation method
+KW  - Chengdu
+KW  - Filter-based
+KW  - Filter-based reference measurement
+KW  - Light scattering method
+KW  - PM 2.5
+KW  - Reference measurements
+KW  - atmospheric pollution
+KW  - automation
+KW  - humidity
+KW  - light scattering
+KW  - monitoring system
+KW  - particulate matter
+KW  - Mean square error
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+SN  - 20734433 (ISSN)
+LA  - English
+J2  - Atmosphere
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105018116163
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 1
+N1  - Funding details: Sichuan Province, (N5101012024000853)
+N1  - Funding text 1: This work was supported by the 2023 Environmental Monitoring Network Operation Project of Sichuan Province (N5101012024000853).
+N1  - Correspondence Address: K. Xiao; Chengdu Ecological Environmental Monitoring Central Station of Sichuan Province, Chengdu, 610066, China; email: 15208349238@163.com
+ER  -
+
+TY  - JOUR
+AU  - Patel, H.
+AU  - Davy, P.
+AU  - Tollemache, C.
+AU  - Talbot, N.
+AU  - Salmond, J.
+AU  - Williams, D.E.
+TI  - Evaluating the efficacy of targeted traffic management interventions: A novel methodology for determining the composition of particulate matter in urban air pollution hotspots
+PY  - 2024
+T2  - Science of the Total Environment
+VL  - 951
+C7  - 175414
+DO  - 10.1016/j.scitotenv.2024.175414
+UR  - https://www.scopus.com/pages/publications/85201164389?origin=resultslist
+AD  - School of Environment, Faculty of Science, University of Auckland, Private Bag 92019, Auckland, New Zealand
+AD  - Mote Limited, 40a George Street, Mount Eden, Auckland, New Zealand
+AD  - School of Chemical Sciences, Faculty of Science, University of Auckland, Private Bag 92019, Auckland, New Zealand
+AD  - The Institute of Geological and Nuclear Sciences, 30 Gracefield Road, Lower Hutt, New Zealand
+AD  - Environment Southland, Cnr North Rd &, Price Street, Waikiwi, Invercargill, New Zealand
+AB  - Worldwide, there is an increasing uptake of traffic management interventions aimed at reducing the impact of traffic related air pollution on public health. However, the evidence base linking the proposed changes with the resulting improvements in air quality is lacking. In this paper we present data from a micro-network of low-cost PM10 samplers collected from an isolated urban centre (Auckland, New Zealand). The data was then analysed using a new combination of analytical methods aimed to identify the composition and hence, the source of pollution. Whilst across the three sites mass concentration of PM10 and black carbon were similar, Raman spectroscopy successfully identified variations in the soot composition at different sites, enabling some particulate matter to be linked to diesel vehicle emissions. A mass reconstruction approach proved useful in determining that the airshed is well-mixed and also highlighted the impacts of urban design on recorded concentrations. The results show that networks of low-cost sensors, combined with the range of analytical techniques used here can help policymakers test the efficacy of interventions and management strategies designed to combat the burden of air pollution on public health. © 2024 The Author(s)
+KW  - Black carbon
+KW  - Low-emission zones
+KW  - PM speciation
+KW  - Traffic-related air pollution
+KW  - Urban air quality
+KW  - Zero-emission zones
+KW  - Auckland [North Island]
+KW  - New Zealand
+KW  - North Island
+KW  - Carbon
+KW  - Costs
+KW  - Particles (particulate matter)
+KW  - Public health
+KW  - black carbon
+KW  - calcium
+KW  - chlorine
+KW  - iron
+KW  - magnesium
+KW  - mercury
+KW  - nickel
+KW  - polytetrafluoroethylene
+KW  - silicon
+KW  - sodium
+KW  - Black carbon
+KW  - Emission zone
+KW  - Low emission zones
+KW  - Management interventions
+KW  - PM speciation
+KW  - Traffic management
+KW  - Traffic-related air pollution
+KW  - Urban air quality
+KW  - Zero emission
+KW  - Zero-emission zone
+KW  - air quality
+KW  - atmospheric pollution
+KW  - black carbon
+KW  - particulate matter
+KW  - pollution exposure
+KW  - public health
+KW  - source apportionment
+KW  - traffic management
+KW  - urban area
+KW  - air pollution
+KW  - analytic method
+KW  - Article
+KW  - carbon emission
+KW  - disease hotspot
+KW  - elemental analysis
+KW  - epidemiological data
+KW  - geology
+KW  - gravimetry
+KW  - human
+KW  - limit of detection
+KW  - methodology
+KW  - nonhuman
+KW  - particulate matter 10
+KW  - pollutant
+KW  - public health
+KW  - Raman spectrometry
+KW  - relative humidity
+KW  - traffic
+KW  - urban area
+KW  - X ray fluorescence
+KW  - air quality
+KW  - article
+KW  - black carbon
+KW  - controlled study
+KW  - exhaust gas
+KW  - New Zealand
+KW  - particulate matter
+KW  - particulate matter 10
+KW  - soot
+KW  - species differentiation
+KW  - Air quality
+PB  - Elsevier B.V.
+SN  - 00489697 (ISSN)
+C2  - 39127221
+LA  - English
+J2  - Sci. Total Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85201164389
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 7
+N1  - Funding details: Mote Limited; Auckland Council, AC; Charlotte Kight; Nigel Ironside; Port of Auckland, (AIRQU1901)
+N1  - Funding text 1: The authors would like to thank Auckland Council for hosting instruments at the Customs Street Air Quality Monitoring Station and for regulatory air quality data collected at this location. The authors would also like to acknowledge Nigel Ironside and The Port of Auckland for their continued efforts and support in improving the environment they operate in. Partial funding was provided by a Callaghan Innovation contract (AIRQU1901), Mote Limited and the Port of Auckland. The authors would also like to thank Charlotte Kight for editing and review.
+N1  - Correspondence Address: H. Patel; School of Environment, Faculty of Science, University of Auckland, Auckland, Private Bag 92019, New Zealand; email: hamesh.patel@auckland.ac.nz
+N1  - CODEN: STEVA
+ER  -
+
+TY  - JOUR
+AU  - Bilonick, R.A.
+AU  - Connell, D.P.
+AU  - Talbott, E.O.
+AU  - Rager, J.R.
+AU  - Xue, T.
+TI  - Using structural equation modeling to construct calibration equations relating PM2.5 mass concentration samplers to the federal reference method sampler
+PY  - 2015
+T2  - Atmospheric Environment
+VL  - 103
+SP  - 365
+EP  - 377
+DO  - 10.1016/j.atmosenv.2014.12.046
+UR  - https://www.scopus.com/pages/publications/84920880177?origin=resultslist
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, PA, United States
+AD  - CONSOL Energy Inc., Research and Development, South Park, PA, United States
+AD  - University of Pittsburgh Graduate School of Public Health, Pittsburgh, PA, United States
+AB  - The objective of this study was to remove systematic bias among fine particulate matter (PM2.5) mass concentration measurements made by different types of samplers used in the Pittsburgh Aerosol Research and Inhalation Epidemiology Study (PARIES). PARIES is a retrospective epidemiology study that aims to provide a comprehensive analysis of the associations between air quality and human health effects in the Pittsburgh, Pennsylvania, region from 1999 to 2008. Calibration was needed in order to minimize the amount of systematic error in PM2.5 exposure estimation as a result of including data from 97 different PM2.5 samplers at 47 monitoring sites. Ordinary regression often has been used for calibrating air quality measurements from pairs of measurement devices; however, this is only appropriate when one of the two devices (the "independent" variable) is free from random error, which is rarely the case. A group of methods known as "errors-in-variables" (e.g., Deming regression, reduced major axis regression) has been developed to handle calibration between two devices when both are subject to random error, but these methods require information on the relative sizes of the random errors for each device, which typically cannot be obtained from the observed data. When data from more than two devices (or repeats of the same device) are available, the additional information is not used to inform the calibration. A more general approach that often has been overlooked is the use of a measurement error structural equation model (SEM) that allows the simultaneous comparison of three or more devices (or repeats). The theoretical underpinnings of all of these approaches to calibration are described, and the pros and cons of each are discussed. In particular, it is shown that both ordinary regression (when used for calibration) and Deming regression are particular examples of SEMs but with substantial deficiencies. To illustrate the use of SEMs, the 7865 daily average PM2.5 mass concentration measurements made by seven collocated samplers at an urban monitoring site in Pittsburgh, Pennsylvania, were used. These samplers, which included three federal reference method (FRM) samplers, three speciation samplers, and a tapered element oscillating microbalance (TEOM), operated at various times during the 10-year PARIES study period. Because TEOM measurements are known to depend on temperature, the constructed SEM provided calibration equations relating the TEOM to the FRM and speciation samplers as a function of ambient temperature. It was shown that TEOM imprecision and TEOM bias (relative to the FRM) both decreased as temperature increased. It also was shown that the temperature dependency for bias was non-linear and followed a sigmoidal (logistic) pattern. The speciation samplers exhibited only small bias relative to the FRM samplers, although the FRM samplers were shown to be substantially more precise than both the TEOM and the speciation samplers. Comparison of the SEM results to pairwise simple linear regression results showed that the regression results can differ substantially from the correctly-derived calibration equations, especially if the less-precise device is used as the independent variable in the regression. © 2014 Elsevier Ltd.
+KW  - Calibration
+KW  - Federal reference method
+KW  - PM<sub>2.5</sub>
+KW  - TEOM
+KW  - Pennsylvania
+KW  - Pittsburgh
+KW  - United States
+KW  - Air quality
+KW  - Calibration
+KW  - Diseases
+KW  - Errors
+KW  - Particles (particulate matter)
+KW  - Regression analysis
+KW  - Urban growth
+KW  - Air quality measurements
+KW  - Federal reference methods
+KW  - Fine particulate matter
+KW  - Simple linear regression
+KW  - Structural equation modeling
+KW  - Tapered element oscillating microbalances
+KW  - Temperature dependencies
+KW  - TEOM
+KW  - air quality
+KW  - calibration
+KW  - concentration (composition)
+KW  - data set
+KW  - epidemiology
+KW  - health risk
+KW  - measurement method
+KW  - monitoring
+KW  - nonlinearity
+KW  - numerical model
+KW  - particulate matter
+KW  - speciation (chemistry)
+KW  - temperature effect
+KW  - air quality
+KW  - analytic method
+KW  - Article
+KW  - calibration
+KW  - controlled study
+KW  - environmental temperature
+KW  - federal reference method
+KW  - maximum likelihood method
+KW  - measurement error
+KW  - particulate matter
+KW  - priority journal
+KW  - quality control
+KW  - sampler
+KW  - structural equation modeling
+KW  - tapered element oscillating microbalance
+KW  - Random errors
+PB  - Elsevier Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84920880177
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 3
+N1  - Funding details: U.S. Department of Energy, USDOE, (DE-PS26-04NT42066); Electric Power Research Institute, EPRI, (EP-P29581/C13936, EP-P46301/C19907)
+N1  - Funding text 1: This study was funded by the Electric Power Research Institute contracts EP-P29581/C13936 and EP-P46301/C19907 . The feasibility study for PARIES was funded by the U.S. Department of Energy contract DE-PS26-04NT42066 . Additional funding has been provided by the Allegheny County Health Department (Pittsburgh, Pennsylvania) .
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Fu, L.
+AU  - Nunifu, T.
+AU  - Leung, B.
+TI  - A two-step approach for relating tapered element oscillating microbalance and dichotomous air sampler PM2.5 measurements
+PY  - 2014
+T2  - Journal of the Air and Waste Management Association
+VL  - 64
+IS  - 10
+SP  - 1195
+EP  - 1203
+DO  - 10.1080/10962247.2014.934484
+UR  - https://www.scopus.com/pages/publications/84987818069?origin=resultslist
+AD  - Alberta Environmental Monitoring, Evaluation and Reporting Agency, Edmonton, AB, Canada
+AD  - Alberta Environment and Sustainable Resource Development, Edmonton, AB, Canada
+AB  - A method for transforming continuous monitoring (CM) fine particulate matter (aerodynamic diameter <2.5 mm; PM2.5) data (i.e., by tapered element oscillating microbalance [TEOM]) obtained from the Canadian National Air Pollution Surveillance (NAPS) program to meet the data quality objective (DQO) of R2 > 0.8 against the co-located federal reference method (i.e., dichotomous air sampler) is described. By using a two-step linear regression to account for the effect of the ambient temperature, 16 out of the 23 examined sites met the common model adequacy threshold of R2 > 0.8. After the transformation, 20 out of the 23 examined sites met the DQO of R2 > 0.7, as recommended by the U.S. Environmental Protection Agency (EPA). A combined two-step statistical approach was also examined and revealed similar results. The methods described herein show that the CM data can be successfully transformed to meet DQOs for representative sites across Canada using year-round (both summer and winter) data. © 2014 A&WMA.
+PB  - Taylor and Francis Inc.
+SN  - 10962247  (ISSN)
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84987818069
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 5
+N1  - Correspondence Address: L. Fu; Alberta Environmental Monitoring, Evaluation and Reporting Agency, Edmonton, 10th floor, Oxbridge Place, 9820 106 Street, T5K 2J6, Canada; email: long.fu@gov.ab.ca
+N1  - CODEN: JIJME
+ER  -
+

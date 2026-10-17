@@ -1,0 +1,1136 @@
+TY  - CONF
+AU  - Hossein Motlagh, N.
+AU  - Arbayani Zaidan, M.
+AU  - Fung, P.L.
+AU  - Li, X.
+AU  - Matsumi, Y.
+AU  - Petaja, T.
+AU  - Kulmala, M.
+AU  - Tarkoma, S.
+AU  - Hussein, T.
+TI  - Low-cost Air Quality Sensing Process: Validation by Indoor-Outdoor Measurements
+PY  - 2020
+T2  - Proceedings of the 15th IEEE Conference on Industrial Electronics and Applications, ICIEA 2020
+C7  - 9248348
+SP  - 223
+EP  - 228
+DO  - 10.1109/ICIEA48937.2020.9248348
+UR  - https://www.scopus.com/pages/publications/85097530113?origin=resultslist
+AD  - University of Helsinki, Department of Computer Science, Finland
+AD  - Nagoya University, Institute for Space-Earth Environmental Research (ISEE), Japan
+AB  - Air pollution is a main challenge in societies with particulate matter PM2.5 as the major air pollutant causing serious health implications. Due to health and economic impacts of air pollution, low-cost and portable air quality sensors can be vastly deployed to gain personal air pollutant exposure. In this paper, we present an air quality sensing process needed for low-cost sensors which are planned for long-term use. The steps of this process include design and production, laboratory tests, field tests, deployment, and maintenance. As a case study we focus on the field test, where we use two generations of a portable air quality sensor (capable of measuring meteorological variables and PM2.5) to perform an indoor-outdoor measurement. The study found that all of the measurements shown to be consistent through validation among themselves. The sensors accuracy also demonstrate to be adequate by showing similar readings compared to the nearest air quality reference station. © 2020 IEEE.
+KW  - Air Quality
+KW  - Indoor Air Quality
+KW  - Low-cost Sensors
+KW  - Outdoor Air Quality
+KW  - Sensor Validation
+KW  - Air quality
+KW  - Industrial electronics
+KW  - Economic impacts
+KW  - Health implications
+KW  - Laboratory test
+KW  - Low-cost sensors
+KW  - Meteorological variables
+KW  - Outdoor measurements
+KW  - Particulate Matter
+KW  - Reference stations
+KW  - Costs
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-172815169-4 (ISBN)
+LA  - English
+J2  - Proc. IEEE Conf. Ind. Electron. Appl., ICIEA
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85097530113
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 20
+N1  - Funding details: HOPE, (UIA03-240); MegaSense, (6884/31/2018); Suomen Akatemia, (1324576); Suomen Akatemia
+N1  - Funding text 1: ACKNOWLEDGEMENTS This work is supported by MegaSense and HiDATA programs, Business Finland (6884/31/2018), Academy of Finland (1324576) and HOPE (UIA03-240) projects.
+N1  - Conference name: 15th IEEE Conference on Industrial Electronics and Applications, ICIEA 2020
+N1  - Conference date: 9 November 2020 through 13 November 2020
+N1  - Conference code: 164931
+ER  -
+
+TY  - JOUR
+AU  - Olufemi, A.P.
+AU  - Fawole, O.G.
+AU  - Owoade, O.K.
+AU  - Popoola, O.A.M.
+AU  - Jones, R.L.
+AU  - Toyeje, A.B.
+AU  - Abiodun, P.O.
+AU  - Omokungbe, O.R.
+AU  - Abiye, O.E.
+AU  - Sunmonu, L.A.
+TI  - Spatiotemporal distribution of pollutants and impact of local meteorology on source influence on pollutants’ level in a traffic air-shed in Lagos megacity, Nigeria
+PY  - 2023
+T2  - Environmental Monitoring and Assessment
+VL  - 195
+IS  - 9
+C7  - 1126
+DO  - 10.1007/s10661-023-11757-x
+UR  - https://www.scopus.com/pages/publications/85169503688?origin=resultslist
+AD  - Department of Physics, University of Medical Sciences, Ondo, Nigeria
+AD  - School of the Environment, Geography and Geosciences, University of Portsmouth, Portsmouth, PO1 2UP, United Kingdom
+AD  - Environmental Pollution Research Laboratory, Department of Physics and Engineering Physics, Obafemi Awolowo University, Ile-Ife, 230001, Nigeria
+AD  - Department of Civil Engineering, Morgan State University, Baltimore, United States
+AD  - Department of Chemistry, University of Cambridge, Cambridge, CB2 1EW, United Kingdom
+AD  - Department of Physical Sciences, Olusegun Agagu University of Science and Technology, Okitipupa, Nigeria
+AD  - Centre for Energy Research and Development (CERD), Obafemi Awolowo University, Ile-Ife, Nigeria
+AB  - Pollution from vehicular emissions is a major cause of poor air quality observed in many urban and semi-urban towns and cities. As such, this study was conducted to assess air quality and the spatiotemporal distribution of vehicular and traffic-related pollutants in several air sheds of Lagos megacity, the economic nerve centre of Nigeria. A setup of low-cost air quality sensors comprising five (5) units was deployed between November 2018 and February 2019 within traffic corridors in the heart of the city. Diurnal variation of pollutants indicated that carbon dioxide (CO2) peaked during the early hours of the day, total oxide (Ox = NO2+O3) peaked at mid-day while carbon monoxide (CO) had two distinct peaks which correspond to morning and evening rush hours. Nitrogen dioxide (NO2) concentration peaked during evening hours. Average concentrations are NO2 (97.1 ± 9.7) ppb, Ox (78.6 ± 27.2) ppb, CO2 (450.1 ± 31.2) ppm, and CO (2285.63 ± 743.7) ppb. Average concentrations of pollutants were above thresholds set by the World Health Organization (WHO) except for NO2 which was within the range permissible limits. The implication of this is that the atmosphere is polluted due to elevated concentrations of airborne pollutants, an indication which is of both health and environmental concern. The air quality index (AQI) indicates that the quality of ambient air varies from good to very unhealthy for Ox, and unhealthy to very unhealthy for CO, while AQI for PM2.5 and PM10 showed hazardous at all the sampling locations except at UNILAG where it is unhealthy for the sensitive group. For all of the sampling sites, conditional bivariate probability function (CBPF) plots show a significant agreement with the location of known pollution sources. © 2023, The Author(s), under exclusive licence to Springer Nature Switzerland AG.
+KW  - Air quality
+KW  - Bivariate polar plot
+KW  - Low-cost sensors
+KW  - Meteorological parameters
+KW  - Vehicular emission
+KW  - Carbon Dioxide
+KW  - Environmental Monitoring
+KW  - Environmental Pollutants
+KW  - Meteorology
+KW  - Nigeria
+KW  - Nitrogen Dioxide
+KW  - Vehicle Emissions
+KW  - Lagos [Lagos (STT)]
+KW  - Lagos [Nigeria]
+KW  - Nigeria
+KW  - Air quality
+KW  - Carbon dioxide
+KW  - Costs
+KW  - Nitrogen oxides
+KW  - Spatial distribution
+KW  - carbon dioxide
+KW  - carbon monoxide
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - Average concentration
+KW  - Bivariate
+KW  - Bivariate polar plot
+KW  - Low-cost sensors
+KW  - Megacities
+KW  - Meteorological parameters
+KW  - Nigeria
+KW  - Polar plot
+KW  - Spatiotemporal distributions
+KW  - Vehicular emission
+KW  - air quality
+KW  - atmospheric pollution
+KW  - carbon dioxide
+KW  - megacity
+KW  - meteorology
+KW  - particulate matter
+KW  - pollutant source
+KW  - pollution effect
+KW  - sensor
+KW  - spatiotemporal analysis
+KW  - traffic emission
+KW  - air pollution
+KW  - air quality
+KW  - ambient air
+KW  - Article
+KW  - bivariate analysis
+KW  - city
+KW  - concentration (parameter)
+KW  - controlled study
+KW  - maximum permissible dose
+KW  - meteorology
+KW  - motor vehicle
+KW  - Nigeria
+KW  - particulate matter 10
+KW  - particulate matter 2.5
+KW  - pollutant
+KW  - spatiotemporal analysis
+KW  - World Health Organization
+KW  - environmental monitoring
+KW  - exhaust gas
+KW  - meteorology
+KW  - Nigeria
+KW  - Carbon monoxide
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 01676369 (ISSN)
+C2  - 37651046
+LA  - English
+J2  - Environ. Monit. Assess.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85169503688
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 12
+N1  - Correspondence Address: A.P. Olufemi; Department of Physics, University of Medical Sciences, Ondo, Nigeria; email: aolufemi@unimed.edu.ng
+N1  - CODEN: EMASD
+ER  -
+
+TY  - JOUR
+AU  - Lala, M.A.
+AU  - Adesina, O.A.
+AU  - Yusuff, A.S.
+AU  - Jimoda, L.A.
+AU  - Sonibare, J.A.
+TI  - Air quality index pattern of criteria air pollutants around a haulage truck stop
+PY  - 2018
+T2  - Petroleum and Coal
+VL  - 60
+IS  - 6
+SP  - 1072
+EP  - 1079
+UR  - https://www.scopus.com/pages/publications/85057399977?origin=resultslist
+AD  - Department of Chemical and Petroleum Engineering, Afe Babalola University, Ado Ekiti, Nigeria
+AD  - Department of Chemical Engineering, Ladoke Akintola University of Technology, Ogbomoso, Nigeria
+AD  - Environmental Engineering Research Laboratory Department of Chemical Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria
+AB  - This study investigated the air quality index (AQI) pattern of criteria pollutants around a haulage truckstop in southwestern part of Nigeria using carbon monoxide (CO) and nitrogen dioxide (NO2) as indicators. Concentrations of these pollutants were quantified at five different sampling points using ToxiRAE II Gas Monitor. The results showed the 8-hours averaging period mean concentrations of carbon monoxide (CO) ranged between 0.0875 and 0.4556 ppm, while the extrapolated 1-hour averaging period mean concentration of nitrogen dioxide (NO2) were of the range 121.60 - 633.14 ppb. The mean AQI concentrations determined indicates good and moderate AQI categories for CO while the AQI categories of NO2 indicates unhealthy for sensitive groups at all sampled point. This study establishes that vehicular activities at the truckstop could pose great impact on the ambient air quality with sensitive groups most at risk. © 2018, Slovnaft VURUP a.s.
+KW  - Air quality index
+KW  - Airshed
+KW  - Breakpoint
+KW  - Criteria pollutants
+KW  - Haulage truck-stop
+KW  - Mixing ratio
+KW  - Vehicular activities
+PB  - Slovnaft VURUP a.s
+SN  - 13377027 (ISSN)
+LA  - English
+J2  - Pet. Coal
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85057399977
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Bortnick, S.M.
+AU  - Coutant, B.W.
+AU  - Hanley, T.
+TI  - Public Reporting of An Air Quality Index Using Continuous PM2.5 Monitoring Data
+PY  - 2002
+T2  - EM: Air and Waste Management Association's Magazine for Environmental Managers
+IS  - MAR.
+SP  - 27
+EP  - 33
+UR  - https://www.scopus.com/pages/publications/0142124880?origin=resultslist
+AD  - Battelle Memorial Institute, Columbus, OH, United States
+AD  - U.S. Environmental Protection Agency, Research Triangle Park, NC, United States
+AB  - The air quality index (AQI) measures how clean or polluted the air is in terms of an associated health risk within a few hours or days after breathing polluted air1. Since PM2.5 federal reference method (FRM) monitors often report data less frequently than daily with a delay of more than a week, continuous PM2.5 monitors may be used to provide more timely AQI reporting, provided a relationship between the continuous and FRM measurements is established by statistical linear regression. This enables agencies to advise the public about the air they are breathing or forecast the air quality so that they can adjust their activities and therefore their exposure. This article descirbes a measure of adequacy for such a relationship and develops regression models for two case studies.
+KW  - Air pollution
+KW  - Atmospheric aerosols
+KW  - Health risks
+KW  - Mathematical models
+KW  - Nitrogen oxides
+KW  - Ozone
+KW  - Particulate emissions
+KW  - Regression analysis
+KW  - Strategic planning
+KW  - Federal reference method (FRM)
+KW  - Air quality
+SN  - 10889981 (ISSN)
+LA  - English
+J2  - EM
+M3  - Review
+DB  - Scopus
+N1  - EID: 2-s2.0-0142124880
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Mou, C.-Y.
+AU  - Hsu, C.-Y.
+AU  - Chen, M.-J.
+AU  - Chen, Y.-C.
+TI  - Evaluation of variability in the ambient pm2.5 concentrations from fem and frm-like measurements for exposure estimates
+PY  - 2021
+T2  - Aerosol and Air Quality Research
+VL  - 21
+IS  - 4
+C7  - 200217
+DO  - 10.4209/aaqr.2020.05.0217
+UR  - https://www.scopus.com/pages/publications/85103288551?origin=resultslist
+AD  - National Institute of Environmental Health Sciences, National Health Research Institutes, Miaoli, 35053, Taiwan
+AD  - Department of Safety, Health and Environmental Engineering, Ming Chi University of Technology, New Taipei, 24301, Taiwan
+AD  - Center for Environmental Sustainability and Human Health, Ming Chi University of Technology, New Taipei, 24301, Taiwan
+AD  - Department of Occupational Safety and Health, China Medical University, Taichung, 40402, Taiwan
+AB  - This study aims to evaluate the variability in ambient fine particulate matter (PM2.5) concentrations obtained from the federal equivalent method (FEM) and federal reference method (FRM)-like measurements at the national air quality monitoring stations (AQMSs) for exposure estimates and to examine the effect of environmental factors and sampling site characteristics affecting the spatial and temporal variations in PM2.5 concentrations. A mixed-effects model was used to evaluate the temporal and spatial variability in daily and annual PM2.5 concentrations during 2014–2017 at 16 AQMSs in the Big Taipei City, Taiwan. The mean FEM PM2.5 concentrations were ~30% higher than the FRM-like PM2.5 concentrations. The FRM-like PM2.5 concentrations obtained by applying the calibration procedures presented a negligible between-site variability. The daily FEM PM2.5 concentrations were dominated by the within-site variability (~90%), whereas the annual concentrations were reasonably attributable to the between-site variability (47.8%). Ambient PM2.5 was mainly affected by the gaseous pollutants (such as NO2, O3, and SO2), accounting for 45.8% and 26.8% of the within-site and between-site variability in concentrations, respectively. The FEM measurements rather than the FRM-like measurements at the AQMSs could provide a higher between-site variability for exposure estimates of PM2.5 in the epidemiological studies. © The Author(s).
+KW  - Ambient PM2.5
+KW  - Calibration
+KW  - Exposure estimates
+KW  - Within and between variability
+KW  - Taipei
+KW  - Taiwan
+KW  - Air quality
+KW  - Fog
+KW  - Sulfur dioxide
+KW  - Air quality monitoring stations
+KW  - Environmental factors
+KW  - Epidemiological studies
+KW  - Federal equivalent methods
+KW  - Federal reference methods
+KW  - Fine particulate matter (PM2.5)
+KW  - Spatial and temporal variation
+KW  - Temporal and spatial variability
+KW  - air quality
+KW  - ambient air
+KW  - atmospheric pollution
+KW  - calibration
+KW  - concentration (composition)
+KW  - environmental factor
+KW  - estimation method
+KW  - measurement method
+KW  - particulate matter
+KW  - pollution exposure
+KW  - pollution monitoring
+KW  - Quality control
+PB  - AAGR Aerosol and Air Quality Research
+SN  - 16808584 (ISSN)
+LA  - English
+J2  - Aerosol Air Qual. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85103288551
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 4
+N1  - Funding details: National Institute of Environmental Health Sciences, NIEHS, (EM-105-SP08); National Health Research Institutes, NHRI; Environmental Protection Administration, Executive Yuan, R.O.C. Taiwan
+N1  - Funding text 1: We appreciate the measurement data supported from the Environmental Protection Administration Executive Yuan, Taiwan. The authors gratefully acknowledge funding received from the National Institute of Environment and Health Sciences (grant No. National Health Research Institutes (NHRI) in Taiwan.
+N1  - Funding text 2: We appreciate the measurement data supported from the Environmental Protection Administration Executive Yuan, Taiwan. The authors gratefully acknowledge funding received from the National Institute of Environment and Health Sciences (grant No. EM-105-SP08), National Health Research Institutes (NHRI) in Taiwan.
+N1  - Correspondence Address: Y.-C. Chen; National Institute of Environmental Health Sciences, National Health Research Institutes, Miaoli, 35053, Taiwan; email: yucheng@nhri.edu.tw; Y.-C. Chen; Department of Occupational Safety and Health, China Medical University, Taichung, 40402, Taiwan; email: yucheng@nhri.edu.tw
+ER  -
+
+TY  - JOUR
+AU  - Rathore, D.S.
+AU  - Nagda, C.
+AU  - Shaktawat, B.S.
+AU  - Kain, T.
+AU  - Chouhan, C.S.
+AU  - Purohit, R.
+AU  - Khangarot, R.K.
+AU  - Nagda, G.
+AU  - Jhala, L.S.
+TI  - COVID-19 lockdown: a boon in boosting the air quality of major Indian Metropolitan Cities
+PY  - 2021
+T2  - Aerobiologia
+VL  - 37
+IS  - 1
+SP  - 79
+EP  - 103
+DO  - 10.1007/s10453-020-09673-5
+UR  - https://www.scopus.com/pages/publications/85096090820?origin=resultslist
+AD  - Department of Environmental Sciences, Mohanlal Sukhadia University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Zoology, Mohanlal Sukhadia University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Mathematics and Statistics, Bhupal Nobles’ University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Mathematics and Statistics, Mohanlal Sukhadia University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Botany, Mohanlal Sukhadia University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Chemistry, Mohanlal Sukhadia University, Udaipur, 313001, Rajasthan, India
+AD  - Department of Geography, Jai Narain Vyas University, Jodhpur, 342011, Rajasthan, India
+AB  - Abstract: The COVID-19 lockdown has not only helped in combating the community transmission of SARS-CoV-2 but also improved air quality in a very emphatic manner in most of the countries. In India, the first phase of COVID-19 lockdown came into force on March 25, 2020, which was later continued in the next phases. The purpose of this study was to investigate the result of lockdown on air quality of major metropolitan cities—Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Jaipur, and Lucknow—from March 25 to May 3, 2020. For this study, the concentration of six criteria air pollutants (PM2.5, PM10, CO, NO2, SO2, and O3) and air quality index during the COVID-19 lockdown period was compared with the same period of the previous year 2019. The results indicate a substantial improvement in air quality with a drastic decrease in the concentration of PM2.5, PM10, CO, and NO2, while there is a moderate reduction in SO2 and O3 concentration. During the lockdown period, the maximum reduction in the concentration of PM2.5, PM10, CO, NO2, SO2, and O3 was observed to be − 49% (Lucknow), − 57% (Delhi), − 75% (Mumbai), − 68% (Kolkata), − 48% (Mumbai), and − 29% (Hyderabad), respectively. The value of the air quality index (AQI) also dwindled significantly during the COVID-19 lockdown period. The maximum decline in AQI was observed – 52% in Bengaluru and Lucknow. The order of AQI was satisfactory > moderate > good > poor and the frequency order of prominent pollutants was O3 > PM10 > PM2.5 > CO > NO2 > SO2 during the lockdown period in all the aforementioned metropolitan cities. Graphic abstract: [Figure not available: see fulltext.]. © 2020, Springer Nature B.V.
+KW  - Air quality index
+KW  - COVID-19
+KW  - Criteria pollutants
+KW  - Lockdown
+KW  - Metropolitan cities
+KW  - Prominent pollutant
+KW  - carbon monoxide
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - sulfur dioxide
+KW  - air quality
+KW  - Article
+KW  - concentration (parameter)
+KW  - coronavirus disease 2019
+KW  - human
+KW  - India
+KW  - lockdown
+KW  - particulate matter 10
+KW  - particulate matter 2.5
+KW  - pollution monitoring
+KW  - relative humidity
+KW  - temperature sensitivity
+KW  - trend study
+PB  - Springer Science and Business Media B.V.
+SN  - 03935965 (ISSN)
+LA  - English
+J2  - Aerobiologia
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85096090820
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 11
+N1  - Funding details: Central Pollution Control Board; Ministry of Environment, Forest and Climate Change, MoEFCC; Department of Science and Technology, Ministry of Science and Technology, India, डीएसटी, (DST/INSPIRE/03/2018/003129, CRG/2019/006919)
+N1  - Funding text 1: The authors are thankful to Central Pollution Control Board, Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India, for air quality data. DSR thanks Science and Engineering Research Board, Department of Science and Technology (DST), New Delhi, for a core research grant (CRG/2019/006919), and\u00A0BS thanks DST for the INSPIRE Fellowship (DST/INSPIRE/03/2018/003129).
+N1  - Funding text 2: The authors are thankful to Central Pollution Control Board, Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India, for air quality data. DSR thanks Science and Engineering Research Board, Department of Science and Technology (DST), New Delhi, for a core research grant (CRG/2019/006919), and BS thanks DST for the INSPIRE Fellowship (DST/INSPIRE/03/2018/003129). 
+N1  - Correspondence Address: D.S. Rathore; Department of Environmental Sciences, Mohanlal Sukhadia University, Udaipur, 313001, India; email: dsrathoremlsu@gmail.com
+N1  - CODEN: AROBF
+ER  -
+
+TY  - JOUR
+AU  - Toscano, D.
+AU  - Murena, F.
+TI  - The historical trend of air pollution and its impact on human health in campania region (Italy)
+PY  - 2021
+T2  - Atmosphere
+VL  - 12
+IS  - 5
+C7  - 553
+DO  - 10.3390/atmos12050553
+UR  - https://www.scopus.com/pages/publications/85105748246?origin=resultslist
+AD  - Chemical, Materials and Production Engineering Department, University of Naples “Federico II”, Naples, 80125, Italy
+AB  - The Campania region covers an area of about 13,590 km2 with 5.8 million residents. The area suffers from several environmental issues due to urbanization, the presence of industries, wastewater treatment, and solid waste management concerns. Air pollution is one of the most relevant environmental troubles in the Campania region, frequently exceeding the limit values established by European directives. In this paper, airborne pollutant concentration data measured by the regional air quality network from 2003 to 2019 are collected to individuate the historical trends of nitrogen dioxide (NO2), coarse and fine particulate matter with aerodynamic diameters smaller than 10 µm (PM10) and 2.5 µm (PM2.5), and ozone (O3 ) through the analysis of the number of exceedances of limit values per year and the annual average concentration. Information on spatial variability and the effect of the receptor category is obtained by lumping together data belonging to the same province or category. To obtain information on the general air quality rather than on single pollutants, the European Air Quality Index (EU-AQI) is also evaluated. A special focus is dedicated to the effect of deep street canyons on air quality, since they are very common in the urban areas in Campania. Finally, the impact of air pollution from 2003 to 2019 on human health is also analyzed using the software AIRQ+. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Air pollution
+KW  - AIRQ+
+KW  - AQI
+KW  - Campania
+KW  - Historical trend
+KW  - Mediterranean area
+KW  - Campania [Italy]
+KW  - Italy
+KW  - Air quality
+KW  - Nitrogen oxides
+KW  - Waste treatment
+KW  - Wastewater treatment
+KW  - Aerodynamic diameters
+KW  - Air quality indices
+KW  - Airborne pollutants
+KW  - Annual average concentration
+KW  - Environmental issues
+KW  - Fine particulate matter
+KW  - Regional air quality
+KW  - Spatial variability
+KW  - air quality
+KW  - anthropogenic effect
+KW  - atmospheric pollution
+KW  - climate effect
+KW  - health impact
+KW  - particulate matter
+KW  - source apportionment
+KW  - trend analysis
+KW  - Quality control
+PB  - MDPI AG
+SN  - 20734433 (ISSN)
+LA  - English
+J2  - Atmosphere
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85105748246
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 10
+N1  - Correspondence Address: D. Toscano; Chemical, Materials and Production Engineering Department, University of Naples “Federico II”, Naples, 80125, Italy; email: domenico.toscano@unina.it
+ER  -
+
+TY  - JOUR
+AU  - Safarov, R.
+AU  - Shomanova, Z.
+AU  - Nossenko, Y.
+AU  - Kopishev, E.
+AU  - Bexeitova, Z.
+AU  - Kamatov, R.
+TI  - Filling gaps in PM2.5 time series: A broad evaluation from statistical to advanced neural network models
+PY  - 2025
+T2  - PLOS ONE
+VL  - 20
+IS  - 8 August
+C7  - e0330211
+DO  - 10.1371/journal.pone.0330211
+UR  - https://www.scopus.com/pages/publications/105013108526?origin=resultslist
+AD  - Department of Chemistry, Faculty of Natural Sciences, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+AD  - Department of Chemistry and Chemical Technology, Kh. Dosmukhamedov Atyrau University, Atyrau, Kazakhstan
+AD  - Higher School of Natural Science, Margulan University, Pavlodar, Kazakhstan
+AD  - Association of legal entities «Petrochemical Products Producers and Consumers Association (Petrochemical Association)», Astana, Kazakhstan
+AD  - Department of Science, Faculty of Natural Sciences, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+AB  - This study addressed the critical challenge of filling gaps in PM2.5 time series data from Pavlodar, Kazakhstan. We developed and evaluated a comprehensive hierarchy of 46 gap-filling methods across five representative gap lengths (5–72 hours), introducing dynamic models capable of adapting to gaps of variable duration. Tree-based models with bidirectional sequence-to-sequence architectures delivered superior performance, with XGB Seq2Seq achieving a mean absolute error of 5.231 ± 0.292 μg/m3 for 12-hour gaps, representing a 63% improvement over basic statistical methods. The advantage of multivariate models incorporating meteorological variables increased substantially with gap length, from modest improvements of 2–3% for 5-hour gaps to significant enhancements of 16–18% for 48–72 hour gaps. Dynamic multivariate models demonstrated remarkable operational flexibility by successfully processing real-world gaps ranging from 1 to 191 hours despite being trained on maximum lengths of 72 hours. Analysis of the reconstructed complete time series revealed that 61.2% of monitored hours exceeded the WHO daily threshold of 15 μg/m3, with strong seasonal patterns and pronounced diurnal cycles. This research advances environmental monitoring capabilities by providing robust methodological tools for addressing data continuity challenges that currently limit the utility of PM2.5 measurements for public health applications and scientific analysis. © 2025 Safarov et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - Air Pollutants
+KW  - Environmental Monitoring
+KW  - Kazakhstan
+KW  - Models, Statistical
+KW  - Neural Networks, Computer
+KW  - Particulate Matter
+KW  - Seasons
+KW  - Time Factors
+KW  - advanced neural network model
+KW  - air monitoring
+KW  - air pollutant
+KW  - air quality
+KW  - air temperature
+KW  - Article
+KW  - artificial neural network
+KW  - convolutional neural network
+KW  - correlation analysis
+KW  - data processing
+KW  - deep learning
+KW  - echo state network
+KW  - environmental factor
+KW  - environmental monitoring
+KW  - gated recurrent unit network
+KW  - human impact (environment)
+KW  - long short term memory network
+KW  - machine learning
+KW  - mean absolute error
+KW  - particulate matter 2.5
+KW  - public health
+KW  - random forest
+KW  - recurrent neural network
+KW  - relative humidity
+KW  - root mean squared error
+KW  - seasonal variation
+KW  - statistical analysis
+KW  - statistical model
+KW  - time series analysis
+KW  - wind speed
+KW  - window based Interpolation method
+KW  - air pollutant
+KW  - environmental monitoring
+KW  - Kazakhstan
+KW  - particulate matter
+KW  - procedures
+KW  - season
+KW  - time factor
+PB  - Public Library of Science
+SN  - 19326203 (ISSN)
+C2  - 40811692
+LA  - English
+J2  - Plos One.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105013108526
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 5
+N1  - Funding details: Ministry of Education and Science of the Republic of Kazakhstan, (AP19677560); Ministry of Education and Science of the Republic of Kazakhstan
+N1  - Funding text 1: Funding: This research was funded by the Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan within the framework of the grant AP19677560 \u201CMonitoring and mapping of the ecological state of the Pavlodar air environment using machine learning methods\u201D.
+N1  - CODEN: POLNC
+ER  -
+
+TY  - JOUR
+AU  - Kumar, S.D.
+AU  - Dash, A.
+TI  - Seasonal variation of air quality index and assessment
+PY  - 2018
+T2  - Global Journal of Environmental Science and Management
+VL  - 4
+IS  - 4
+SP  - 483
+EP  - 492
+DO  - 10.22034/gjesm.2018.04.008
+UR  - https://www.scopus.com/pages/publications/85055161698?origin=resultslist
+AD  - Department of Environmental Engineering, Institute of Technical Education and Research, Siksha O Anusandhan, Bhubaneswar, Odisha, 751030, India
+AD  - Biofuel and Bio processing Center, Institute of Technical Education and Research, Siksha O Anusandhan, Bhubaneswar, Odisha, 751030, India
+AB  - Different methods have been designed to calculate the air quality index in form of mathematical formula. But the formula designed by Central Pollution Control Board in 2014 is more robust to find out the air quality category. The index has been calculated based upon four parameters like particulate matters (PM10, PM2.5), sulfur oxide and nitrogen oxide. The study area has affected by different sources like point, line and volume. Presence of different industries and mining activities polluting the natural environment of nearby areas more, although the industries taking mitigative measures proactively. In the present research, monitoring of ambient air quality has been carried out for a period from March 2013 to February 2016 for three years. It has been revealed from the study that the air quality status of the area has been declining from 2013 to 2016 i.e. 78.9 to 157.8 in summer, 49.4 to 84.3 in monsoon and 86.9 to 183.9 in winter season. It has also been found that, PM10 and PM2.5 were responsible for maximum sub-index as well as air quality index. During the study period 2015-16, out of the eight stations most comes under moderately polluted category especially in winter season followed by summer season. Statistical and Duncan's multiple range test has been applied to the results with two-way and one-way analysis of variance based on different seasons and stations. In two-way analysis of variance, F-value was computed to be 30.105 based on seasons and stations and one-way analysis of variance test shows the F-values as 186.07 and 18.97 based on seasons and stations respectively which is found to be significant (P < 0.01).The present research is important to assess the environmental quality of a mining- industrial complex area and can be a reference for similar study in other areas. © 2018 Iran Solid Waste Association.
+KW  - Air quality index (AQI)
+KW  - Duncan's multiple range test (DMRT)
+KW  - Nitrogen oxide (NO<sub>2</sub>)
+KW  - Particulate matters (PM<sub>10</sub>
+KW  - PM<sub>2.5</sub>)
+KW  - Sulfur oxide (SO<sub>2</sub>)
+PB  - Iran Solid Waste Association
+SN  - 23833572 (ISSN)
+LA  - English
+J2  - Glob. J. Environ. Sci. Manag.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85055161698
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 17
+N1  - Funding details: AMS-1; APM; Environmental Protection Agency; standards Institute of Technical Education and Research Meter Meter per second Meter cube Milligram Ministry of Environment and Forest Ammonia
+N1  - Funding text 1: ANOVA Analysis of variance AMS-1 to 8 Ambient Monitoring station 1 to 8 APM Air pollution monitor AQI Air quality index Average Bureau of Indian standards Carbon monoxide Pollutant concentration Central Pollution Control Board Duncan’s Multiple Range Test Model deluxe noise less Environmental Protection Agency Statistical Test Figure Indian – air quality index International standards Institute of Technical Education and Research Meter Meter per second Meter cube Milligram Ministry of Environment and Forest Ammonia
+N1  - Correspondence Address: S.D. Kumar; Department of Environmental Engineering, Institute of Technical Education and Research, Siksha O Anusandhan, Bhubaneswar, Odisha, 751030, India; email: suvendudash84@gmail.com
+ER  -
+
+TY  - CONF
+TI  - Air quality indices: A review of methods to interpret air quality status
+PY  - 2019
+T2  - Materials Today: Proceedings
+VL  - 34
+SP  - 863
+EP  - 868
+DO  - 10.1016/j.matpr.2020.07.141
+UR  - https://www.scopus.com/pages/publications/85101930118?origin=resultslist
+AD  - Department of Environmental Sciences, School of Basic Science and Research, Sharda University, Greater Noida, India
+AB  - Urban air pollution is rapidly increasing in Indian cities. Different methods have been designed to calculate the air quality index in form of mathematical formula. Many studies have shown association between exposure of the population to air pollutants and its adverse health impact. But the formula designed by CPCB in 2014 is more robust to find out the air quality category. To provide the public, information for air pollution dangers, several governmental and municipal agencies developed air quality indices, as a timely information about the potential changes in air quality. In this paper review of air quality index shows how AQI constitutes as an effective method to estimate air pollution levels and risks and help the government in effective pollution control measures adopted for reduction of emissions from various sources. © 2019 Elsevier Ltd. All rights reserved.
+KW  - Air pollution
+KW  - Air quality index
+KW  - Exposure
+KW  - Health
+KW  - Urban
+KW  - Air pollution control
+KW  - Quality assurance
+KW  - Risk assessment
+KW  - Risk perception
+KW  - Air pollutants
+KW  - Air quality indices
+KW  - Exposure
+KW  - Governmental agency
+KW  - Health impact
+KW  - Mathematical formulas
+KW  - Public information
+KW  - Quality status
+KW  - Urban
+KW  - Urban air pollution
+KW  - Air quality
+A2  - Singh P.K.
+PB  - Elsevier Ltd
+SN  - 22147853 (ISSN)
+LA  - English
+J2  - Mater. Today Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85101930118
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 36
+N1  - Correspondence Address: Suman; Department of Environmental Sciences, School of Basic Science and Research, Sharda University, Greater Noida, India; email: suman.ism3@gmail.com
+N1  - Conference name: 3rd International Conference on Science and Engineering in Materials, ICSEM 2019
+N1  - Conference date: 19 July 2019 through 21 July 2019
+N1  - Conference code: 167291
+ER  -
+
+TY  - JOUR
+AU  - Kumar, A.
+AU  - Dhawan, S.
+AU  - Kumar, M.V.
+AU  - Khare, M.
+AU  - Shiva Nagendra, S.M.
+AU  - Dubey, S.K.
+AU  - Mehta, D.S.
+TI  - Detection and identification of shape, size, and concentration of particulate matter in ambient air using bright field microscopy-based system
+PY  - 2023
+T2  - Atmospheric Pollution Research
+VL  - 14
+IS  - 11
+C7  - 101913
+DO  - 10.1016/j.apr.2023.101913
+UR  - https://www.scopus.com/pages/publications/85169511375?origin=resultslist
+AD  - Centre for Sensors, Instrumentation and Cyber-physical System Engineering (SeNSE), Indian Institute of Technology, Delhi, 110016, India
+AD  - Department of Civil Engineering, Indian Institute of Technology, Delhi, 110016, India
+AD  - Department of Civil Engineering, Indian Institute of Technology Madras, Chennai, 600036, India
+AD  - Department of Physics, Indian Institute of Technology, Delhi, 110016, India
+AD  - School of Interdisciplinary Research, Indian Institute of Technology, Delhi, 110016, India
+AB  - Currently, air pollution monitoring for supplemental information is performed using optical sensors based on light scattering by particulate matter. These devices provide results in the form of particle counts and the concentration of particulate matter is calculated and demonstrated in real-time. We have developed a bright field (BF) microscopy-based system for air quality monitoring (AQM) in real-time, named SENSurAIR, which provides not only just counts but shape, size as well as concentration. The system comprises a mini vacuum pump, cyclone separator, LED light source (λ = 480 nm), and bright field microscopic unit. The pump drives the ambient air toward the sampling media so that PM2.5 is impacted and deposited. The light rays from the source are incident on the sampling media, and microscopic unit records images of particulate matter. The custom-developed algorithm then processes the recorded images to identify the shape, size distribution, and concentration of PM2.5. The size and shape of PM2.5 are the principal factors that help identify the sources contributing to PM2.5 in ambient air. The developed device is evaluated by collocating with the reference grade Beta Attenuation Monitoring (BAM) system. The system is fully automatic, compact, low-cost, and can be integrated with a wireless network for data communication. The simultaneous monitoring of shape, size, and concentration using the developed device is unique and which will be highly useful to alarm the health hazards due to the existing pollution. © 2023 Turkish National Committee for Air Pollution Research and Control
+KW  - Air quality monitoring
+KW  - Air quality sensor
+KW  - Bright field microscopy
+KW  - Particulate matter
+PB  - Elsevier B.V.
+SN  - 13091042 (ISSN)
+LA  - English
+J2  - Atmos. Pollut. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85169511375
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 6
+N1  - Funding details: Ucchatar Avishkar Yojana, (RP03269G); Science and Engineering Research Board, SERB; Ministry of Education, India, MoE
+N1  - Funding text 1: The author/authors gratefully acknowledge the financial support provided by the Ministry of Human Resource Development ( MHRD ) and Science and Engineering Research Board ( SERB ), Government of India, under the Ucchatar Avishkar Yojana (UAY) Joint Collaboration (Project No. RP03269G) to conduct this research. The paper does not discuss policy issues and the conclusions drawn are based on the interpretation of results by the authors and in no way reflect the viewpoint of the funding agency.
+N1  - Correspondence Address: D.S. Mehta; Centre for Sensors, Instrumentation and Cyber-physical System Engineering (SeNSE), Indian Institute of Technology, Delhi, 110016, India; email: mehtads@physics.iitd.ac.in
+ER  -
+
+TY  - JOUR
+AU  - Adedeji, O.H.
+AU  - Oluwafunmilayo, O.
+AU  - Oluwaseun, T.-A.O.
+TI  - Mapping of traffic-related air pollution using GIS Techniques in Ijebu-Ode, Nigeria
+PY  - 2016
+T2  - Indonesian Journal of Geography
+VL  - 48
+IS  - 1
+SP  - 76
+EP  - 86
+DO  - 10.22146/ijg.12488
+UR  - https://www.scopus.com/pages/publications/84982976372?origin=resultslist
+AD  - Department of Environmental Management and Toxicology, Federal University of Agriculture, Abeokuta, 2240, Nigeria
+AB  - Spatial and temporal characteristics of traffic related air pollutants (CO, NO, NO2 and SO2) in Ijebu-ode, Nigeria were determined using replicate portable gas detectors (Land Duo Multi Gas Monitor) at selected road junctions, motor garages and markets. Mapping of different concentration of air pollutants was carried out using kriging type of interpolation method in GIS environment. Concentration of CO ranges from 4.8 ppm at Erinlu/Molipa Roundabout to 137ppm on Sagamu/Ore Expressway. Concentrations of NO2 range from 100-662 ppb with overall average value (OAV) of 299.8 ppb, while concentration of nitrogen oxide (NO) ranges between 67-302 ppb and OAV of 166.23 ppb. SO2 had concentration ranging between 38-245 ppb and an OAV of 139.07 ppb all of which are above standard ambient air quality standards. AQI indicated very unhealthy air quality in most areas which calls for the need to establish and strengthen the health-based standard for air pollutants. © 2016 Faculty of Geography UGM and The Indonesian Geographers Association.
+KW  - Air pollution
+KW  - Air quality index (AQI)
+KW  - Ijebu-Ode
+KW  - Interpolation
+KW  - Traffic emission
+PB  - Gadjah Mada University
+SN  - 00249521 (ISSN)
+LA  - English
+J2  - Indones. J. Geogr.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84982976372
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 12
+ER  -
+
+TY  - JOUR
+AU  - Dey, S.
+AU  - Mishra, S.
+AU  - Prasad, A.S.
+AU  - Ramesh, D.
+TI  - On-Chain Heuristic Dynamic Swarm-based Bi-directional Stacked MLP Framework for Smart Industrial Pollution Mitigation
+PY  - 2026
+T2  - IEEE Transactions on Engineering Management
+DO  - 10.1109/TEM.2026.3721126
+UR  - https://www.scopus.com/pages/publications/105047495076?origin=resultslist
+AD  - School of Engineering and Science, Indian Institute of Technology Madras, Zanzibar Campus, Zanzibar, Tanzania
+AD  - Indian Institute of Technology Ropar, Department of Computer Science and Engineering, Punjab, 140001, India
+AD  - Indian Institute of Technology Palakkad, Mehta Family School of DS & AI, Kerala, Kanjikode, 678623, India
+AD  - Department of Computer Science and Engineering, Indian Institute of Technology, Indian School of Mines, Jharkhand, Dhanbad, 826004, India
+AB  - Air quality is deteriorated by industrial operations, which present a serious threat to environmental health and sustainable development. Predictive models that can efficiently assess and mitigate industrial pollution in real-time are therefore desperately needed as multivariate time-series data become more readily available. Therefore, we offer the On-Chain Heuristic Dynamic Swarm-based Bi-directional Stacked MLP Framework for Intelligent Industrial Pollution Reduction (OraacLe) to meet this need. OraacLe combines bi-directional stacked multilayer perceptron (Bi-SMLP) neural networks with heuristic dynamic swarm optimisation. OraacLe offers transparent, adaptive learning for industrial air pollution mitigation in an hourly, on-chain environment. In contrast to existing methods that generate static predictions and offer limited optimisation, such as Multilayer Perceptron (MLP), Support Vector Regressor with Quasi-Linear Kernel (SVR with QLK), Nested Long Short-Term Memory (NLSTM), Recurrent Air Quality Predictor (RAQP), CNN LSTM, Temporal Convolutional Networks (TCN) and Trans former OraacLe allows continuous forecasting, analysis, and mitigation of industrial air pollution levels, supporting proactive decision-making. Experiments show that OraacLe boosts fore casting accuracy by 44.5%, improving performance from 0.647 (Transformer) to 0.935 at the 12-hour horizon. It maintains 68.2% robustness under 20% Gaussian noise, outperforming TCN (52.3%), while reducing MAE from 1107.92 to 0.60 and in creasing R2custom from 0.641 to 0.807, demonstrating effectiveness for long-horizon forecasting and noise resilience in air pollution mitigation. Also, the methodological rigour of the proposed approach is demonstrated through extensive robustness checks, including noise-perturbation analysis, ablation studies, and multi metric evaluation across both synthetic and real-world datasets. based on how plants actually behave. It helps regulators conduct objective, accurate compliance inspections, speeds up the issuance of alerts, and makes it easier to create emission levels that adapt to operational conditions. Consequently, OraacLe connects sophisticated forecasting technology with practical operational requirements. It provides policymakers with reliable information to create adaptable, sustainable regulatory frameworks and empowers engineering managers to take prompt action when emissions deviate from targets. © 1988-2012 IEEE.
+KW  - Air Pollution
+KW  - Dynamic
+KW  - Heuristic
+KW  - Meta Learner
+KW  - On-Chain
+KW  - Optimizer
+KW  - Prediction
+KW  - Swarm
+KW  - Air quality
+KW  - Behavioral research
+KW  - Compliance control
+KW  - Decision making
+KW  - Gaussian noise (electronic)
+KW  - Health risks
+KW  - Heuristic methods
+KW  - Learning systems
+KW  - Machine learning
+KW  - Multilayers
+KW  - Neutron emission
+KW  - Perturbation techniques
+KW  - Regulatory compliance
+KW  - Swarm intelligence
+KW  - Bi-directional
+KW  - Convolutional networks
+KW  - Heuristic
+KW  - Industrial pollution
+KW  - Meta-learner
+KW  - Multilayers perceptrons
+KW  - On-chain
+KW  - Optimizers
+KW  - Pollution mitigation
+KW  - Swarm
+KW  - Forecasting
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 00189391 (ISSN)
+LA  - English
+J2  - IEEE Trans Eng Manage
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105047495076
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+N1  - Correspondence Address: D. Ramesh; Department of Computer Science and Engineering, Indian Institute of Technology, Indian School of Mines, Dhanbad, Jharkhand, 826004, India; email: drramesh@iitism.ac.in
+N1  - CODEN: IEEMA
+ER  -
+
+TY  - CONF
+AU  - Scheff, P.A.
+AU  - Rizzo, M.
+AU  - Kashuba, R.
+TI  - Characterization of short-term fine participate matter in region 5
+PY  - 2004
+T2  - Proceedings of the Air and Waste Management Association's Annual Meeting and Exhibition
+SP  - 2325
+EP  - 2345
+UR  - https://www.scopus.com/pages/publications/18944367072?origin=resultslist
+AD  - Environmental and Occupational Health Science Division, School of Public Health, University of Illinois, Chicago, Illinois, Chicago, IL 60612, 2121 W. Taylor, United States
+AD  - U.S. Environmental Protection Agency, Region 5, Chicago, IL 60604, 77 W. Jackson Blvd., United States
+AB  - The hourly particulate matter (PM) 2.5 concentrations were characterized from four different monitoring sites in EPA region 5, and compares them to Federal Reference Method (FRM). The hourly characterization was done using time series and autocorrelation. The continuous data was compared to FRM by averaging hourly data across 24-hour sampling periods and modelled these averages against their respective daily FRM concentrations. The tapered element oscillating microbalance (TEOM) analysis showed a relationship with season and temperature, linear correlation as low as 0.6308, and nonlinear model correlation as high as 0.8779 when modeled with temperature.
+KW  - Beta-gauge
+KW  - Continuous methods
+KW  - Federal reference method (frm)
+KW  - Nephelometer
+KW  - Particulate matter
+KW  - PM2.5
+KW  - Tapered element oscillating microbalance (teom)
+KW  - Atmospheric humidity
+KW  - Correlation methods
+KW  - Data acquisition
+KW  - Mathematical models
+KW  - Meteorology
+KW  - Regression analysis
+KW  - Thermal effects
+KW  - Time series analysis
+KW  - Autocorrelation
+KW  - Non-linear regression
+KW  - Nonlinear model
+KW  - Tapered element oscillating microbalance (TEOM)
+KW  - Particulate emissions
+SN  - 10526102 (ISSN)
+LA  - English
+J2  - Proc. A Waste Manage. Assoc. Annu. Meet. Exhib.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-18944367072
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+N1  - Conference name: Proceedings of the A and WMA's 97th Annual Conference and Exhibition; Sustainable Development: Gearing Up for the Challenge
+N1  - Conference date: 22 June 2004 through 25 June 2004
+N1  - Conference code: 64783
+N1  - CODEN: PAMEE
+ER  -
+
+TY  - JOUR
+AU  - Ganguly, R.
+AU  - Kumar, P.
+TI  - The air quality assessment of northern hilly city in India i
+PY  - 2018
+T2  - Indian Journal of Environmental Protection
+VL  - 38
+IS  - 12
+SP  - 983
+EP  - 997
+UR  - https://www.scopus.com/pages/publications/85060476778?origin=resultslist
+AD  - Department of Civil Engineering, Jaypee University of Information Technology, Waknaghat'i Solan, 173234, India
+AD  - Department of Civil and Environmental Engineering, United Kingdom, University of Surrey, Guildford, GU2 7XH, United Kingdom
+AD  - Environmental Flow (EnFlol Research Centre, United Kingdom, University of Surrey, Guildford, GU2 7XH, United Kingdom
+AB  - The last decade in India has seen a rapid deterioration in the air quality in its major cities. This has led to increased interest from the general public to their exposure to ambient air quality primarily because of the effects of such air pollutants on human health. In this context, the air quality indices (AQI) is often used by the local authorities to signify the levels of the seriousness of air pollution to the common public. The use of air quality indexing for assessment of existing air quality standards has been widely used for different cities in India and the world. The paper presents the application of air quality indices for assessing the existing air quality standards in an Indian city, Shimla. The indices have been calculated using the methodology described by the US Environmental Protection Agency (USEPA), which is adopted by the Central Pollution Control Board (CPCB) in India. An alternative method for determination of air quality indices is also utilized {referred to as AQIam) for the Indian context. The estimates air quality indices are applied to two monitoring sites (Tekka Bench, Ridge and ISBT bus stand) in Shimla city over the study period (2004-2015) on the pollutants: Sulphur dioxide (S02), oxides of nitrogen (NOx), suspended particulate matter (SPM) and respirable suspended particulate matter (RSPM). The annual air quality indices results for the study period showed that the air quality was 'good' for Tekka Bench monitoring station for the entire study period and for the ISBT bus stand for all the years, except 2011 when it was in 'moderate' category. The annual air quality indices predicted using the alternative methodology indicated the level of air quality to be 'good' for the entire study period, except 2013 when it was classified as 'satisfactory' for the monitoring site at Tekka Bench. Similarly, the annual air quality was classified as 'moderate' for the years 2011, 2013-2015 for the monitoring station at ISBT bus stand site with the remaining years of the study period being classified as 'good'. These categorizations of existing air quality interpret the expected health effects of exposure to surrounding ambient air. Higher the value of air quality indices more severe is the categorization and thereby more harmful are the human health effects being exposed to ambient air conditions. Similar such seasonal variations of air quality indices were also observed during the study period at both the monitoring sites. © 2018 Scientific Publishers. All rights reserved.
+KW  - Air quality indices (aqi)
+KW  - Ambient air quality
+KW  - Health effects
+KW  - Shimla
+KW  - Vehicular pollution
+PB  - Scientific Publishers
+SN  - 02537141 (ISSN)
+LA  - English
+J2  - Indian J. Environ. Prot.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85060476778
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 5
+N1  - CODEN: IJEPD
+ER  -
+
+TY  - JOUR
+AU  - Olajire, A.A.
+AU  - Azeez, L.
+AU  - Oluyemi, E.A.
+TI  - Exposure to hazardous air pollutants along Oba Akran road, Lagos - Nigeria
+PY  - 2011
+T2  - Chemosphere
+VL  - 84
+IS  - 8
+SP  - 1044
+EP  - 1051
+DO  - 10.1016/j.chemosphere.2011.04.074
+UR  - https://www.scopus.com/pages/publications/79960587376?origin=resultslist
+AD  - Industrial and Environmental Chemistry Unit, Department of Pure and Applied Chemistry, Ladoke Akintola University of Technology, P.M.B 4000 Ogbomoso, Oyo State, Nigeria
+AD  - Industrial and Environmental Chemistry Unit, Department of Chemical Sciences, Fountain University, Osogbo, Nigeria
+AD  - Analytical and Environmental Unit, Department of Chemistry, Obafemi Awolowo University, Ile-Ife, Nigeria
+AB  - We measured toxic air pollutants along Oba Akran road in Lagos to evaluate pedestrian exposure. PM10, CO, O3, NO2, SO2, CH4, noise, wind velocity and temperature were measured simultaneously with portable analyzers. Our results showed that pedestrian exposure to PM10 (with an average of 274.6μgm-3 for all samples) and CO (with an average of 19.27ppm for all samples) was relatively high. CO is a traffic-related pollutant, so the influence of the local traffic emissions on CO levels is strong. The high concentration of the PM10 measured at the three environments also suggests that the traffic is a major source of ultrafine particles. The overall average concentrations for the 72-day experimental period for SO2, NO2 and O3 are 101.2, 62.5 and 0.32ppb respectively, all of which are below the US national ambient air quality standards. Strong traffic impacts can be observed from the concentrations of some of these pollutants measured in these three environments. Most clear is a reflection of diesel truck traffic activity rich in black carbon concentrations. The diurnal variation of O3 and NO2 also showed that NO2 was depleted by photochemically formed O3 during the day and replenished at night as O3 was destroyed. A multivariate statistical analysis (Principal Component Analysis, Factor Analysis) has been applied to a set of data in order to determine the contribution of different sources. It was found that the main principal components, extracted from the air pollution data, were related to gasoline combustion, oil combustion and ozone interactions. © 2011 Elsevier Ltd.
+KW  - Factor analysis
+KW  - Hazardous air pollutants
+KW  - Pedestrian exposure
+KW  - Principal Component Analysis (PCA)
+KW  - Lagos [Nigeria]
+KW  - Nigeria
+KW  - Air quality
+KW  - Air quality standards
+KW  - Combustion
+KW  - Factor analysis
+KW  - Hazardous materials
+KW  - Hazards
+KW  - Multivariant analysis
+KW  - Nitrogen oxides
+KW  - Roads and streets
+KW  - black carbon
+KW  - carbon dioxide
+KW  - gasoline
+KW  - ozone
+KW  - sulfur dioxide
+KW  - Average concentration
+KW  - Hazardous air pollutants
+KW  - Multivariate statistical analysis
+KW  - National ambient air quality standards
+KW  - Pedestrian exposure
+KW  - Principal Components
+KW  - Toxic air pollutants
+KW  - Traffic-related pollutants
+KW  - air quality
+KW  - air sampling
+KW  - ambient air
+KW  - anthropogenic source
+KW  - atmospheric pollution
+KW  - black carbon
+KW  - carbon monoxide
+KW  - combustion
+KW  - concentration (composition)
+KW  - data set
+KW  - diurnal variation
+KW  - factor analysis
+KW  - human activity
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - particulate matter
+KW  - pedestrian
+KW  - photochemistry
+KW  - pollution exposure
+KW  - principal component analysis
+KW  - sulfate
+KW  - toxic substance
+KW  - traffic emission
+KW  - air pollutant
+KW  - air pollution
+KW  - air quality standard
+KW  - article
+KW  - chemical interaction
+KW  - circadian rhythm
+KW  - combustion
+KW  - concentration (parameters)
+KW  - diesel engine
+KW  - environmental exposure
+KW  - environmental impact assessment
+KW  - environmental temperature
+KW  - exhaust gas
+KW  - hazard assessment
+KW  - Nigeria
+KW  - noise pollution
+KW  - particulate matter
+KW  - pedestrian
+KW  - photochemistry
+KW  - principal component analysis
+KW  - velocity
+KW  - wind
+KW  - Principal component analysis
+PB  - Elsevier Ltd
+SN  - 00456535 (ISSN)
+C2  - 21624630
+LA  - English
+J2  - Chemosphere
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-79960587376
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 26
+N1  - Correspondence Address: A.A. Olajire; Industrial and Environmental Chemistry Unit, Department of Pure and Applied Chemistry, Ladoke Akintola University of Technology, P.M.B 4000 Ogbomoso, Oyo State, Nigeria; email: olajireaa@yahoo.com
+N1  - CODEN: CMSHA
+ER  -
+
+TY  - JOUR
+AU  - Bishoi, B.
+AU  - Prakash, A.
+AU  - Jain, V.K.
+TI  - A comparative study of air quality index based on factor analysis and US-EPA methods for an urban environment
+PY  - 2009
+T2  - Aerosol and Air Quality Research
+VL  - 9
+IS  - 1
+SP  - 1
+EP  - 17
+DO  - 10.4209/aaqr.2008.02.0007
+UR  - https://www.scopus.com/pages/publications/67449135554?origin=resultslist
+AD  - Department of Applied Sciences, G. L. Bajaj Institute of Technology and Management, Greater Noida, UP-201 306, Plot No. 2,Knowledge Park-Ill, India
+AD  - School of Environmental Sciences, Jawaharlal Nehru University, New Delhi- 110 067, India
+AB  - There are many different air quality indexes, which represent the global urban air pollution situation. Although the index proposed by USEPA gives an overall assessment of air quality, it does not include the combined effects (or synergistic effects) of the major air pollutants (Shenfeld, 1970; Ott and Thorn, 1976; Thorn and Ott, 1976; Murena, 2004). So an attempt is made to calculate the Air Quality Index based on Factor Analysis (NAQI) which incorporates the deficiencies of USEPA method. The daily, monthly and seasonal air quality indexes were calculated by using both these methods. It is observed that a significant difference exists between NAQI and EPAQI. However, NAQI followed the trends of EPAQI when plotted against time. Further, the indexes were used to rank various seasons in terms of air pollution. The higher index value indicates more pollution in relative terms. Moreover, the index may be used for comparing the daily and seasonal pollution levels in different sites.
+KW  - Eclipsing effect
+KW  - Maximum operator concept (MOC)
+KW  - Principal component analysis (PCA)
+KW  - Ranking
+KW  - Variance
+KW  - Air quality
+KW  - Factor analysis
+KW  - Multivariant analysis
+KW  - Principal component analysis
+KW  - Quality assurance
+KW  - Air quality indices
+KW  - Comparative studies
+KW  - Eclipsing effect
+KW  - Maximum operator concept (MOC)
+KW  - Ranking
+KW  - Synergistic effect
+KW  - Urban air pollution
+KW  - Variance
+KW  - air quality
+KW  - atmospheric pollution
+KW  - comparative study
+KW  - factor analysis
+KW  - urban atmosphere
+KW  - Quality control
+PB  - AAGR Aerosol and Air Quality Research
+SN  - 16808584 (ISSN)
+LA  - English
+J2  - Aerosol Air Qual. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-67449135554
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 127
+N1  - Correspondence Address: B. Bishoi; Department of Applied Sciences, G. L. Bajaj Institute of Technology and Management, Greater Noida, UP-201 306, Plot No. 2,Knowledge Park-Ill, India; email: acfcfr-ej5.bbishoi@yahoo.co.uk
+ER  -
+
+TY  - CONF
+AU  - Kashuba, R.
+AU  - Scheff, P.A.
+AU  - Rizzo, M.
+TI  - Characterization of nephelometer-measured short-term fine particulate matter in region 5
+PY  - 2004
+T2  - Symposium on Air Quality Measurement Methods and Technology 2004
+SP  - 199
+EP  - 200
+UR  - https://www.scopus.com/pages/publications/19944363508?origin=resultslist
+AD  - Environmental and Occupational Health Science Division, School of Public Health, University of Illinois, Chicago, Illinois, Chicago, IL 60612, 2121 W. Taylor, United States
+AD  - U.S. Environmental Protection Agency, Region 5, Chicago, IL 60604, 77 W. Jackson Blvd., United States
+AB  - The hourly PM 2.5 concentrations measured via a nephelometer at the Mayville, WI EPA Region 5 monitoring site were characterized using time series and auto correlation. This data was then compared to concurrent Federal Reference method (FRM) and Tapered Element Oscillating Microbalance (TEOM) measurements. The hourly value averages are modeled using simple linear least squares regression and more complex regression involving additional meteorological variables such as temperature and relative humidity. The nephelometer analysis shows no discernible annual relationship with time, in contrast to seasonal TEOM variability.
+KW  - Continuous methods
+KW  - Federal Reference Method (FRM)
+KW  - Nephelometer
+KW  - Particulate matter
+KW  - PM2.5
+KW  - Tapered Element Oscillating Microbalance (TEOM)
+KW  - Air quality
+KW  - Atmospheric humidity
+KW  - Correlation methods
+KW  - Data reduction
+KW  - Least squares approximations
+KW  - Mathematical models
+KW  - Meteorology
+KW  - Nephelometers
+KW  - Regression analysis
+KW  - Air monitoring
+KW  - Auto correlation
+KW  - Federal reference method (FRM)
+KW  - Tapered element oscillating microbalance (TEOM)
+KW  - Particles (particulate matter)
+SN  - 0923204628 (ISBN); 978-092320462-4 (ISBN)
+LA  - English
+J2  - Symp. Air Qual. Meas. Methods Technol.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-19944363508
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+N1  - Conference name: Symposium on Air Quality Measurement Methods and Technology 2004
+N1  - Conference date: 20 April 2004 through 22 April 2004
+N1  - Conference code: 64936
+ER  -
+
+TY  - JOUR
+AU  - Bilonick, R.A.
+AU  - Connell, D.P.
+AU  - Talbott, E.O.
+AU  - Rager, J.R.
+AU  - Xue, T.
+TI  - Using structural equation modeling to construct calibration equations relating PM2.5 mass concentration samplers to the federal reference method sampler
+PY  - 2015
+T2  - Atmospheric Environment
+VL  - 103
+SP  - 365
+EP  - 377
+DO  - 10.1016/j.atmosenv.2014.12.046
+UR  - https://www.scopus.com/pages/publications/84920880177?origin=resultslist
+AD  - University of Pittsburgh School of Medicine, Pittsburgh, PA, United States
+AD  - CONSOL Energy Inc., Research and Development, South Park, PA, United States
+AD  - University of Pittsburgh Graduate School of Public Health, Pittsburgh, PA, United States
+AB  - The objective of this study was to remove systematic bias among fine particulate matter (PM2.5) mass concentration measurements made by different types of samplers used in the Pittsburgh Aerosol Research and Inhalation Epidemiology Study (PARIES). PARIES is a retrospective epidemiology study that aims to provide a comprehensive analysis of the associations between air quality and human health effects in the Pittsburgh, Pennsylvania, region from 1999 to 2008. Calibration was needed in order to minimize the amount of systematic error in PM2.5 exposure estimation as a result of including data from 97 different PM2.5 samplers at 47 monitoring sites. Ordinary regression often has been used for calibrating air quality measurements from pairs of measurement devices; however, this is only appropriate when one of the two devices (the "independent" variable) is free from random error, which is rarely the case. A group of methods known as "errors-in-variables" (e.g., Deming regression, reduced major axis regression) has been developed to handle calibration between two devices when both are subject to random error, but these methods require information on the relative sizes of the random errors for each device, which typically cannot be obtained from the observed data. When data from more than two devices (or repeats of the same device) are available, the additional information is not used to inform the calibration. A more general approach that often has been overlooked is the use of a measurement error structural equation model (SEM) that allows the simultaneous comparison of three or more devices (or repeats). The theoretical underpinnings of all of these approaches to calibration are described, and the pros and cons of each are discussed. In particular, it is shown that both ordinary regression (when used for calibration) and Deming regression are particular examples of SEMs but with substantial deficiencies. To illustrate the use of SEMs, the 7865 daily average PM2.5 mass concentration measurements made by seven collocated samplers at an urban monitoring site in Pittsburgh, Pennsylvania, were used. These samplers, which included three federal reference method (FRM) samplers, three speciation samplers, and a tapered element oscillating microbalance (TEOM), operated at various times during the 10-year PARIES study period. Because TEOM measurements are known to depend on temperature, the constructed SEM provided calibration equations relating the TEOM to the FRM and speciation samplers as a function of ambient temperature. It was shown that TEOM imprecision and TEOM bias (relative to the FRM) both decreased as temperature increased. It also was shown that the temperature dependency for bias was non-linear and followed a sigmoidal (logistic) pattern. The speciation samplers exhibited only small bias relative to the FRM samplers, although the FRM samplers were shown to be substantially more precise than both the TEOM and the speciation samplers. Comparison of the SEM results to pairwise simple linear regression results showed that the regression results can differ substantially from the correctly-derived calibration equations, especially if the less-precise device is used as the independent variable in the regression. © 2014 Elsevier Ltd.
+KW  - Calibration
+KW  - Federal reference method
+KW  - PM<sub>2.5</sub>
+KW  - TEOM
+KW  - Pennsylvania
+KW  - Pittsburgh
+KW  - United States
+KW  - Air quality
+KW  - Calibration
+KW  - Diseases
+KW  - Errors
+KW  - Particles (particulate matter)
+KW  - Regression analysis
+KW  - Urban growth
+KW  - Air quality measurements
+KW  - Federal reference methods
+KW  - Fine particulate matter
+KW  - Simple linear regression
+KW  - Structural equation modeling
+KW  - Tapered element oscillating microbalances
+KW  - Temperature dependencies
+KW  - TEOM
+KW  - air quality
+KW  - calibration
+KW  - concentration (composition)
+KW  - data set
+KW  - epidemiology
+KW  - health risk
+KW  - measurement method
+KW  - monitoring
+KW  - nonlinearity
+KW  - numerical model
+KW  - particulate matter
+KW  - speciation (chemistry)
+KW  - temperature effect
+KW  - air quality
+KW  - analytic method
+KW  - Article
+KW  - calibration
+KW  - controlled study
+KW  - environmental temperature
+KW  - federal reference method
+KW  - maximum likelihood method
+KW  - measurement error
+KW  - particulate matter
+KW  - priority journal
+KW  - quality control
+KW  - sampler
+KW  - structural equation modeling
+KW  - tapered element oscillating microbalance
+KW  - Random errors
+PB  - Elsevier Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84920880177
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 3
+N1  - Funding details: U.S. Department of Energy, USDOE, (DE-PS26-04NT42066); Electric Power Research Institute, EPRI, (EP-P29581/C13936, EP-P46301/C19907)
+N1  - Funding text 1: This study was funded by the Electric Power Research Institute contracts EP-P29581/C13936 and EP-P46301/C19907 . The feasibility study for PARIES was funded by the U.S. Department of Energy contract DE-PS26-04NT42066 . Additional funding has been provided by the Allegheny County Health Department (Pittsburgh, Pennsylvania) .
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Kashuba, R.
+AU  - Scheff, P.A.
+TI  - Nonlinear regression adjustments of multiple continuous monitoring methods produce effective characterization of short-term fine particulate matter
+PY  - 2008
+T2  - Journal of the Air and Waste Management Association
+VL  - 58
+IS  - 6
+SP  - 812
+EP  - 820
+DO  - 10.3155/1047-3289.58.6.812
+UR  - https://www.scopus.com/pages/publications/45849148189?origin=resultslist
+AD  - School of Public Health, University of Illinois, Chicago, IL, United States
+AD  - Nicholas School of the Environment, Duke University, Durham, NC 27708-0328, P.O. Box 90328, United States
+AB  - This study comprehensively characterizes hourly fine particulate matter (PM2.5) concentrations measured via a tapered element oscillating microbalance (TEOM), ß-gauge, and nephelometer from four different monitoring sites in U.S. Environment Protection Agency (EPA) Region 5 (in U.S. states Illinois, Michigan, and Wisconsin) and compares them to the Federal Reference Method (FRM). Hourly characterization uses time series and autocorrelation. Hourly data are compared with FRM by averaging across 24-hr sampling periods and modeling against respective daily FRM concentrations. Modeling uses traditional two-variable linear least-squares regression as well as innovative nonlinear regression involving additional meteorological variables such as temperature and humidity. The TEOM shows a relationship with season and temperature, linear correlation as low as 0.7924 and nonlinear model correlation as high as 0.9370 when modeled with temperature. The ß-gauge shows no relationship with season or meteorological variables. It exhibits a linear correlation as low as 0.8505 with the FRM and a nonlinear model correlation as high as 0.9339 when modeled with humidity. The nephelometer shows no relationship with season or temperature but a strong relationship with humidity is observed. A linear correlation as low as 0.3050 and a nonlinear model correlation as high as 0.9508 is observed when modeled with humidity. Nonlinear models have higher correlation than linear models applied to the same dataset. This correlation difference is not always substantial, which may introduce a tradeoff between simplicity of model and degree of statistical association. This project shows that continuous monitor technology produces valid PM2.5 characterization, with at least partial accounting for variations in concentration from gravimetric reference monitors once appropriate nonlinear adjustments are applied. Although only one regression technically meets new EPA National Ambient Air Quality Standards (NAAQS) Federal Equivalent Method (FEM) correlation coefficient criteria, several others are extremely close, showing optimistic potential for use of this nonlinear adjustment model in garnering EPA NAAQS FEM approval for continuous PM2.5 sampling methods. Copyright 2008 Air & Waste Management Association.
+KW  - Air quality
+KW  - Air quality standards
+KW  - Environmental Protection Agency
+KW  - Gages
+KW  - Monitoring
+KW  - Nephelometers
+KW  - Nonlinear systems
+KW  - Particles (particulate matter)
+KW  - Environment protection agency
+KW  - Federal equivalent methods
+KW  - Federal reference methods
+KW  - Fine particulate matter (PM2.5)
+KW  - Meteorological variables
+KW  - National ambient air quality standards
+KW  - Tapered element oscillating microbalances
+KW  - Temperature and humidities
+KW  - air monitoring
+KW  - air quality standard
+KW  - air sampling
+KW  - article
+KW  - gravimetry
+KW  - humidity
+KW  - meteorology
+KW  - model
+KW  - nephelometry
+KW  - nonlinear regression analysis
+KW  - particulate matter
+KW  - priority journal
+KW  - temperature
+KW  - Regression analysis
+PB  - Taylor and Francis Inc.
+SN  - 10962247 (ISSN)
+C2  - 18581811
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-45849148189
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 6
+N1  - Funding details: Illinois Education and Research Center; National Institute of Occupational Safety and Health, Japan, JNIOSH, (T42/CCT510424); National Institute of Occupational Safety and Health, Japan, JNIOSH
+N1  - Funding text 1: Roxolana Kashuba was partially supported by the Industrial Hygiene Training Program of the Illinois Education and Research Center, National Institute of Occupational Safety and Health (NIOSH) award no. T42/CCT510424.
+N1  - Correspondence Address: R. Kashuba; Nicholas School of the Environment, Duke University, Durham, NC 27708-0328, P.O. Box 90328, United States; email: roxolana.kashuba@duke.edu
+N1  - CODEN: JIJME
+ER  -
+

@@ -1,0 +1,830 @@
+{
+  "source_archive": "Revisão Sistemática de Literatura.zip",
+  "archive_sha256": "f8c780e9e61a101b60a8dad28786e7711db1b6adbd0ffe7c697a7eefa697cf81",
+  "import_date": "2026-10-17",
+  "repository": "https://github.com/ahosesg/ifpe_seminarioI_rsl",
+  "mapping": "Caminhos relativos e bytes preservados integralmente.",
+  "file_count": 117,
+  "total_bytes": 76642702,
+  "files": [
+    {
+      "source_path": "README.md",
+      "path": "README.md",
+      "size": 4756,
+      "sha256": "3257e4d31a6c380aa1dca19b4e4b84f66a83c5f14022be5a78e7da99e2cc445e",
+      "git_blob_sha1": "df73eaa77264ec3af8a7f47074b25644c1f8e1cc"
+    },
+    {
+      "source_path": "dados/README.md",
+      "path": "dados/README.md",
+      "size": 887,
+      "sha256": "a3b7088539062205975f82f51e01eda2a75dfc41456f52de7e03b7adcc6bf6ec",
+      "git_blob_sha1": "28f8ff388872a3d133af1dea49ce1e15f20360c0"
+    },
+    {
+      "source_path": "dados/avaliacao/avaliacao_metodologica.csv",
+      "path": "dados/avaliacao/avaliacao_metodologica.csv",
+      "size": 72616,
+      "sha256": "e36554919fb2805b08c0447418803f01a00c7f1782e5760351ef693da94c8969",
+      "git_blob_sha1": "f6c09043e144b763aa5d73d61e196b673aa0299b"
+    },
+    {
+      "source_path": "dados/buscas/deduplicacao_pubmed.csv",
+      "path": "dados/buscas/deduplicacao_pubmed.csv",
+      "size": 10255,
+      "sha256": "8f7138c17950ce03de52076e6a3ca8b491314eea81e3fd8c1ed6aecc6cff4654",
+      "git_blob_sha1": "488f803b1b56f45d55a28137632d290673358840"
+    },
+    {
+      "source_path": "dados/buscas/ocorrencias_busca_citacoes.csv",
+      "path": "dados/buscas/ocorrencias_busca_citacoes.csv",
+      "size": 149080,
+      "sha256": "a71ea9bb391179137514bf52fc66cc39971f976b5acdf106ba6f2f0e161579ff",
+      "git_blob_sha1": "8c424b5c4e6b1a1a628e14d731ee525504f99db2"
+    },
+    {
+      "source_path": "dados/buscas/registro_buscas.csv",
+      "path": "dados/buscas/registro_buscas.csv",
+      "size": 905,
+      "sha256": "e4f3e4150233bb59ddb17ea64c910775f76a8da4aca887ff405747f13b9948c2",
+      "git_blob_sha1": "efdce0e78edcae25a1608f51d3d8ec79049e9c63"
+    },
+    {
+      "source_path": "dados/buscas/sementes_busca_citacoes.csv",
+      "path": "dados/buscas/sementes_busca_citacoes.csv",
+      "size": 13158,
+      "sha256": "2dc37cd5374932d51735fcfcab397caf0c425e574ad48a4e3181b0bccb40821a",
+      "git_blob_sha1": "504bd3d9d0f0f868fcb84bff3978dc864145b195"
+    },
+    {
+      "source_path": "dados/controle/registro_emendas.csv",
+      "path": "dados/controle/registro_emendas.csv",
+      "size": 1504,
+      "sha256": "bb30b6b1808e55be64ff2c4c75ff3fba223ccbbbfa304ad4c8317fff7f1d69fb",
+      "git_blob_sha1": "62a61c81d8e5ef068a9a3db313eda7e1056b27d4"
+    },
+    {
+      "source_path": "dados/extracao/extracao_dados.csv",
+      "path": "dados/extracao/extracao_dados.csv",
+      "size": 46656,
+      "sha256": "1a6558ba114ca83b26cb2c187c80f5e2694c323afa1009eb11108f6702123c21",
+      "git_blob_sha1": "0c1a8d9de3650157563e2104f0902d50cb9f7c8e"
+    },
+    {
+      "source_path": "dados/triagem/triagem_citacoes.csv",
+      "path": "dados/triagem/triagem_citacoes.csv",
+      "size": 678148,
+      "sha256": "a5ac906d1c012eced44116f64c4da3ad268bf6c86a06bddd982620828a066ee6",
+      "git_blob_sha1": "1968c37ba86e9fcd13d55d0fd8f518fecf9fae40"
+    },
+    {
+      "source_path": "dados/triagem/triagem_pubmed_novos.csv",
+      "path": "dados/triagem/triagem_pubmed_novos.csv",
+      "size": 80839,
+      "sha256": "1119033660b34b2fb40b2ae0f65752a137cf22c804cdb4c887fb5bb5037d0a97",
+      "git_blob_sha1": "ab1a42f5809556279595006a196a797d65544e61"
+    },
+    {
+      "source_path": "dados/triagem/triagem_texto_completo.csv",
+      "path": "dados/triagem/triagem_texto_completo.csv",
+      "size": 29100,
+      "sha256": "2e084c6dded5f8285f08f931b78e5540eb8905d1c171b0baf1cf928a9238a0ba",
+      "git_blob_sha1": "8acbfd7d715e4750de27b5fba7891b8043bda117"
+    },
+    {
+      "source_path": "dados/triagem/triagem_texto_completo_pubmed.csv",
+      "path": "dados/triagem/triagem_texto_completo_pubmed.csv",
+      "size": 4685,
+      "sha256": "5a0c5a8f4abe1a61665a2b7e916702ecace6996cfba7f478f6253475f7c4984e",
+      "git_blob_sha1": "beb844a093d7d15a13edaa28c23bedca1da3afe3"
+    },
+    {
+      "source_path": "dados/triagem/triagem_titulo_resumo.csv",
+      "path": "dados/triagem/triagem_titulo_resumo.csv",
+      "size": 308845,
+      "sha256": "64e78ae927ab2e9964e7a9ce620ae02446f41a2e07d394b31b7a7ab6a168f27f",
+      "git_blob_sha1": "ec18d927ee866e5bea2f066c4f7b42b2c4dc38e0"
+    },
+    {
+      "source_path": "docs/README.md",
+      "path": "docs/README.md",
+      "size": 592,
+      "sha256": "b20f1440bbb47d524bcbe734793b9fe18ed8496f235d3a0ba43780e81d8ee4b7",
+      "git_blob_sha1": "ed8fd89c7fc202cee1cd2670d2a82ff71c133219"
+    },
+    {
+      "source_path": "docs/analises/analise_busca_piloto.md",
+      "path": "docs/analises/analise_busca_piloto.md",
+      "size": 5945,
+      "sha256": "5061ae9fa1ee95c1dc5f3b751993e9809a378e1b742dfd01b8e35300908e6130",
+      "git_blob_sha1": "04caefd7d4d4e1422992d7af86f17a7bc9cd7b2e"
+    },
+    {
+      "source_path": "docs/analises/analise_busca_pubmed.md",
+      "path": "docs/analises/analise_busca_pubmed.md",
+      "size": 3924,
+      "sha256": "5c1354775c002b7bf1952e64046d7fdcba1a6f3f7a9fb5c9ce22220775082f4a",
+      "git_blob_sha1": "fa8f68f35c044edc84de5a1cb7bbe9ad91ca73bc"
+    },
+    {
+      "source_path": "docs/analises/analise_textos_completos.md",
+      "path": "docs/analises/analise_textos_completos.md",
+      "size": 6044,
+      "sha256": "51684468114e7e94b205f1d3f56bf9e1ab6e2f7cc212afab07807be2116e71ab",
+      "git_blob_sha1": "d4043178ed449b2fd371cbf040962cb5e93f1c96"
+    },
+    {
+      "source_path": "docs/analises/resumo_avaliacao_metodologica.md",
+      "path": "docs/analises/resumo_avaliacao_metodologica.md",
+      "size": 4761,
+      "sha256": "fdd812bcbc6acc869e504b05b500f16f1ec9b7d431aa473c9955ed26d88a845e",
+      "git_blob_sha1": "fc221836941cdcb03088da1b508bc4c10163e142"
+    },
+    {
+      "source_path": "docs/analises/sintese_preliminar_extracao.md",
+      "path": "docs/analises/sintese_preliminar_extracao.md",
+      "size": 6317,
+      "sha256": "d6fd5906d81ab83411652b40b022e89e11f1013438b63339b8ca55591b0fd075",
+      "git_blob_sha1": "d89aba049d7e271c3bb2d70f0bb1eef3fefee284"
+    },
+    {
+      "source_path": "docs/emendas/emenda_metodologica_2026-10-05.md",
+      "path": "docs/emendas/emenda_metodologica_2026-10-05.md",
+      "size": 6980,
+      "sha256": "18ea32b872acc745ba18197e0fe0f0ed322ec2117dac2c6599cee5eeed4044ce",
+      "git_blob_sha1": "5228c622cc7496ed0fcf136d2b7d44bc9f72b9fa"
+    },
+    {
+      "source_path": "docs/emendas/emenda_protocolo_2026-09-27.md",
+      "path": "docs/emendas/emenda_protocolo_2026-09-27.md",
+      "size": 4074,
+      "sha256": "7c092594203d5bf63a2afdfc67b0d4eff5d5ce1cf58d62069f6291edb306e926",
+      "git_blob_sha1": "f53b775fc4eeda25bdc33e5ae0547b7c70b1faf2"
+    },
+    {
+      "source_path": "docs/emendas/emenda_protocolo_2026-10-05.md",
+      "path": "docs/emendas/emenda_protocolo_2026-10-05.md",
+      "size": 3320,
+      "sha256": "b6a76cf361b105467336df374ea57abc010871f730aeb5d4aa58e2eba1bd4f21",
+      "git_blob_sha1": "9f9d1d356230e664a8a4ec6a36471d3448609a00"
+    },
+    {
+      "source_path": "docs/emendas/emenda_protocolo_2026-10-05_revisor_unico.md",
+      "path": "docs/emendas/emenda_protocolo_2026-10-05_revisor_unico.md",
+      "size": 6486,
+      "sha256": "6905ecbd4c41bb90cf0c09d0e979d734e002f2a1ce5f46e2dcfb3ac745070935",
+      "git_blob_sha1": "6f9112f5faaf55fe4cab3f9560920dec057a08f1"
+    },
+    {
+      "source_path": "docs/metodologia/estrategia_busca.md",
+      "path": "docs/metodologia/estrategia_busca.md",
+      "size": 13028,
+      "sha256": "9cd21ca07dec931e10bbb519546befb10d7914b60af1817421b85713b4fa1465",
+      "git_blob_sha1": "a798b8e07027fe7c48d1d7b9eb75d07bee50d60a"
+    },
+    {
+      "source_path": "docs/metodologia/instrumento_avaliacao_metodologica.md",
+      "path": "docs/metodologia/instrumento_avaliacao_metodologica.md",
+      "size": 10299,
+      "sha256": "8f87adb3b4b5113a919d0f4a77a3dd9d8725329bdd795b1f3ddc3f17d715be55",
+      "git_blob_sha1": "c69324c1af7f127bc4412b27952e5654fa2edf9e"
+    },
+    {
+      "source_path": "main.tex",
+      "path": "main.tex",
+      "size": 356,
+      "sha256": "3e99c68cba4bce64ff2ea4f4dd2a198049aa7fd1ab284d3eeab797956fcd632c",
+      "git_blob_sha1": "44d808268e0971ed2d81e837413ca8511ee7254f"
+    },
+    {
+      "source_path": "mpga_rsl.bib",
+      "path": "mpga_rsl.bib",
+      "size": 45246,
+      "sha256": "0de5cc971a0faf7888d479427d37ca379f88aa5a5959ca1d8fdf4b4aeead8e5e",
+      "git_blob_sha1": "58aa9d6bba3c9064b9b5fd853fee5cc0d2107b18"
+    },
+    {
+      "source_path": "prism-uploads/0_main-12.pdf",
+      "path": "prism-uploads/0_main-12.pdf",
+      "size": 381458,
+      "sha256": "c85904b8c35f06f8b850e915c0ba659b4ab338f119e33d8dd1f0f8fb5a5ed739",
+      "git_blob_sha1": "7be9eb7a3f8dd10875ee1bc46b143bf1cf563aab"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S0021850200905251-main.pdf",
+      "path": "prism-uploads/1-s2.0-S0021850200905251-main.pdf",
+      "size": 126220,
+      "sha256": "e3ecb47b357c526c1d3746f861ec05de4e5858a64394273ebbd2f9dd53e75742",
+      "git_blob_sha1": "3817c0635ebdedb4b53b86657e2bfbd3cfc122da"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S0021850204003027-main.pdf",
+      "path": "prism-uploads/1-s2.0-S0021850204003027-main.pdf",
+      "size": 758812,
+      "sha256": "68015300f9d2b9beada90389427c402419185c96533c2b4077d8476968ec7a39",
+      "git_blob_sha1": "f67e4fb7ad0f09157b6aa332eb6ff2bd25a49e72"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S0269749121005984-main.pdf",
+      "path": "prism-uploads/1-s2.0-S0269749121005984-main.pdf",
+      "size": 1758512,
+      "sha256": "a8fe052dc791b9a095a16cb6471b2922b6909611cdfb0b82a66c782c8814205d",
+      "git_blob_sha1": "9a05e97a030d2f50fd5aa75dad482b4d96de0fdf"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231000002442-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231000002442-main.pdf",
+      "size": 280304,
+      "sha256": "f0a6f28816a769a79754f0a7a080dbb62fdc674ce44120f62412f98c0878d771",
+      "git_blob_sha1": "532982c6d70269b69b4b8dd1609d6a0e998afb94"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231000004210-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231000004210-main.pdf",
+      "size": 112543,
+      "sha256": "554a55787dd102525a5db60bde12942f833f684abb792376933613a3e13f98b1",
+      "git_blob_sha1": "a59a88285de599dd953751f1a4ed4edea0a91f1e"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231003004485-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231003004485-main.pdf",
+      "size": 238773,
+      "sha256": "354fe3157025cbb475d7e202cd2199bb7c788b7be1196022e8a6f04ba4ef4f40",
+      "git_blob_sha1": "cd4d8d841d0548165b12aa4ac8a73731dbe4acff"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S135223100300582X-main.pdf",
+      "path": "prism-uploads/1-s2.0-S135223100300582X-main.pdf",
+      "size": 338207,
+      "sha256": "19da493c65f23c1a46b3fe081146a05a1572a5bd381203d464e86c31cf54c516",
+      "git_blob_sha1": "ed936ed4c39d8ca8dbe9efa22183097c069d989d"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231003008616-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231003008616-main.pdf",
+      "size": 473146,
+      "sha256": "6174725c7cae91931cbf5e12d79fca3c2d91d1a8c73eb020bd2d7eb0942bdcce",
+      "git_blob_sha1": "eb2820f98240aa3013015dad0635db69aafd5510"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231004001955-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231004001955-main.pdf",
+      "size": 379228,
+      "sha256": "6da9b3ed3d95514d7b66cb152a67aabe441c299fa604d4fe487cf1da91d7ba16",
+      "git_blob_sha1": "68661089a472aa994cad76329ad1e61ba27c538a"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231007003457-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231007003457-main.pdf",
+      "size": 914651,
+      "sha256": "4e443328abda05bce0f0b16447ec64f7cf6856e3b4a2b187acd9976f53e43e4e",
+      "git_blob_sha1": "5f5df902bf314ddaae1cea1e8ab2f10b7490a3fa"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231009000557-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231009000557-main.pdf",
+      "size": 391347,
+      "sha256": "0cbc0332fe1aad356c92dfeec4097dd40f6b52c8ae33d14af2148ff25572a7ad",
+      "git_blob_sha1": "ece227bae953752ab3d68babcdf4cff89d8c809b"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231010007740-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231010007740-main.pdf",
+      "size": 742620,
+      "sha256": "ca6449b3d067d0c515fcb063330097df4a776880e7e040d0d0775e6e0545a8da",
+      "git_blob_sha1": "a9e3d9551950039a9bb792981c1254106f7f427e"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231012001835-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231012001835-main.pdf",
+      "size": 540089,
+      "sha256": "3f16d930ab71d9f6d6b74be28678e381b6c5ca3488e43fd2970eac8bf5e3c813",
+      "git_blob_sha1": "8a0802b12d70db4b88b570c5ead1e2564d636267"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231014009947-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231014009947-main.pdf",
+      "size": 1021427,
+      "sha256": "34a85a4e581d010509d84f7abad2c19e912adf200a15275ebef53cc62bb22ee3",
+      "git_blob_sha1": "95d3e442f369b1e8dc5fa911ed0fccba412e5ae6"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231015301114-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231015301114-main.pdf",
+      "size": 2123870,
+      "sha256": "7d8303543dea8df0d7f4d6eef3e8ccc84d886c060156731effbd6a458fa298e1",
+      "git_blob_sha1": "2cdc548e195951d8406ebb7d0c09d4212f2112ac"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231016301212-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231016301212-main.pdf",
+      "size": 2081521,
+      "sha256": "bb330276b7bd048862b7fbfe55952f9a7eb4cc0098d7afb244f9fef04ce6bb34",
+      "git_blob_sha1": "853bf60d253eee1ef42238ae2cb7cc7d9447be25"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231016309256-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231016309256-main.pdf",
+      "size": 2247467,
+      "sha256": "f3a584c49a32e648f669ec13b402806e007bbde786f564b511f96f372fecfb9c",
+      "git_blob_sha1": "59b1c9b82fe5ed005ee17cb0541aa040bf73e417"
+    },
+    {
+      "source_path": "prism-uploads/1-s2.0-S1352231019307770-main.pdf",
+      "path": "prism-uploads/1-s2.0-S1352231019307770-main.pdf",
+      "size": 2445866,
+      "sha256": "c17c662f52fc9bb0d4190bf20513820668b45ce80622466d1e799bb63d133ebe",
+      "git_blob_sha1": "b95de2f339316850cb1bb41f9301d4c27a780b08"
+    },
+    {
+      "source_path": "prism-uploads/2009-FieldcomparisonofPM10samplers.pdf",
+      "path": "prism-uploads/2009-FieldcomparisonofPM10samplers.pdf",
+      "size": 195162,
+      "sha256": "f6a807284d95127fb0866ad5501fbdb0978f84d975c4dd09c631f2103ff78bb5",
+      "git_blob_sha1": "67b545ffeff7cffea0d354cde20d3a1d6ba7804d"
+    },
+    {
+      "source_path": "prism-uploads/A_1005935411345.pdf",
+      "path": "prism-uploads/A_1005935411345.pdf",
+      "size": 957343,
+      "sha256": "54bfba5c6663c58e98be4b5e9b3ed9814ab2aebaee28caeeaeb111603f6e3581",
+      "git_blob_sha1": "88a95e96516d2046ca3b015a78b893afea9b8e09"
+    },
+    {
+      "source_path": "prism-uploads/A_1010786615180.pdf",
+      "path": "prism-uploads/A_1010786615180.pdf",
+      "size": 183101,
+      "sha256": "7b4ba491a8ffc023551a1feb4969847f7e26a41d4e669fd6fd32ed48ae78e70a",
+      "git_blob_sha1": "7176b79504d516ee8e39cdc0dc00522c5f24a1c2"
+    },
+    {
+      "source_path": "prism-uploads/Adjusting Tapered Element Oscillating Microbalance Data for Comparison with Federal Reference Method PM2.5 Measurements in Region 5.pdf",
+      "path": "prism-uploads/Adjusting Tapered Element Oscillating Microbalance Data for Comparison with Federal Reference Method PM2.5 Measurements in Region 5.pdf",
+      "size": 494888,
+      "sha256": "ad52c4d94e020d587b7e5d93279b68f193d1dbf76c434933c2c2cdd4688a1ccc",
+      "git_blob_sha1": "79e68dc38ff2bbcc4cae4b4ef016ca67297e571e"
+    },
+    {
+      "source_path": "prism-uploads/Air Quality Measurements from the Fresno Supersite.pdf",
+      "path": "prism-uploads/Air Quality Measurements from the Fresno Supersite.pdf",
+      "size": 959219,
+      "sha256": "113a77e077726f9c04be286906f683af892675259449cf8e6a3b697dc44be124",
+      "git_blob_sha1": "3a0412707a5ba7991527f429f560ca4669cba2e9"
+    },
+    {
+      "source_path": "prism-uploads/Bibliometria_Prática_com_R.pdf",
+      "path": "prism-uploads/Bibliometria_Prática_com_R.pdf",
+      "size": 6180057,
+      "sha256": "f5c587af63af0d82a6fffe1772c03d0d52bd56ea7a21a62f863ceb654b18b0e6",
+      "git_blob_sha1": "23747085cd2afba2c5a55278e67924ef518336d1"
+    },
+    {
+      "source_path": "prism-uploads/Caminho R studio.pdf",
+      "path": "prism-uploads/Caminho R studio.pdf",
+      "size": 40129,
+      "sha256": "5d899b01047eb862a7d1e144b8863b64844d9c8329d9187d5c8bfc28ef741e37",
+      "git_blob_sha1": "2c0f213746fddd1fd1c5e92d8972dfdf6227e37e"
+    },
+    {
+      "source_path": "prism-uploads/Comparison of Particle Light Scattering and Fine Particulate Matter Mass in Central California.pdf",
+      "path": "prism-uploads/Comparison of Particle Light Scattering and Fine Particulate Matter Mass in Central California.pdf",
+      "size": 4241763,
+      "sha256": "77eab5aee84b1fae85849ea6ed0eab677b5d1b6e16c25b7f4f7ece9302cbd015",
+      "git_blob_sha1": "c3409057ff9b6c5b897428cf9ae2894d58210a9f"
+    },
+    {
+      "source_path": "prism-uploads/Comparison of Real-Time Instruments Used To Monitor Airborne Particulate Matter.pdf",
+      "path": "prism-uploads/Comparison of Real-Time Instruments Used To Monitor Airborne Particulate Matter.pdf",
+      "size": 505037,
+      "sha256": "c1149513174a2ec6e9c13c993117fab6a9d0e4379432a453d3d38acab00d9422",
+      "git_blob_sha1": "6bb1f464023f03fb75add16a0484857a659b340b"
+    },
+    {
+      "source_path": "prism-uploads/Comparison-of-Tests-for.pdf",
+      "path": "prism-uploads/Comparison-of-Tests-for.pdf",
+      "size": 113269,
+      "sha256": "d8d21ba68babf028d414dfd7f0ce53308f2bc1ef6c455ae62c8b592ca2688eef",
+      "git_blob_sha1": "e0dde53b99c527ed978756568c5f06d6743269a5"
+    },
+    {
+      "source_path": "prism-uploads/Development of a Sample Equilibration System for the TEOM Continuous PM Monitor.pdf",
+      "path": "prism-uploads/Development of a Sample Equilibration System for the TEOM Continuous PM Monitor.pdf",
+      "size": 899383,
+      "sha256": "9848afae12514b27acffbc89cbd4036069d3ad2f42ebe42ff8a2ceca078030b7",
+      "git_blob_sha1": "2e9ef5576acb8777e68056287c6cec6c42bb1a38"
+    },
+    {
+      "source_path": "prism-uploads/Evaluation and Comparison of Continuous Fine Particulate Matter Monitors for Measurement of Ambient Aerosols.pdf",
+      "path": "prism-uploads/Evaluation and Comparison of Continuous Fine Particulate Matter Monitors for Measurement of Ambient Aerosols.pdf",
+      "size": 679986,
+      "sha256": "fbbd4ef1768d7194771c6a7598dbc96df5345f3ac0afa83769ce9e2cc394d69e",
+      "git_blob_sha1": "609f9d98ff8fbe8936e338fbb24d6b4ebc966761"
+    },
+    {
+      "source_path": "prism-uploads/Evaluation of Time-Resolved PM2.5 Data in Urban Suburban Areas of New Jersey.pdf",
+      "path": "prism-uploads/Evaluation of Time-Resolved PM2.5 Data in Urban Suburban Areas of New Jersey.pdf",
+      "size": 1464812,
+      "sha256": "27f0e5a811d7d38365a99a15a8847e479b2bddd5e5dc0e4cba52be6c3028ccc0",
+      "git_blob_sha1": "62eb5f0fa1d54c81af1baddc8a9f8a5fb946bc7a"
+    },
+    {
+      "source_path": "prism-uploads/Evaluation of the TEOM Method for Measurement of Ambient Particulate Mass in Urban Areas.pdf",
+      "path": "prism-uploads/Evaluation of the TEOM Method for Measurement of Ambient Particulate Mass in Urban Areas.pdf",
+      "size": 803665,
+      "sha256": "68fa5a7580cc13d040406bd27a8201a4d9904e8f2b5b6e50c969a9a54c1c3b37",
+      "git_blob_sha1": "3bf75edf0796de3610ea0a4442db0163ae431c97"
+    },
+    {
+      "source_path": "prism-uploads/GreeneDavid.pdf",
+      "path": "prism-uploads/GreeneDavid.pdf",
+      "size": 2199990,
+      "sha256": "9624445ddbd92e3dda68960e1456842d49bc3192d29d64703023cd7935dba298",
+      "git_blob_sha1": "e82b87f2a875a1aadc1ee67db7847e9fdf51c214"
+    },
+    {
+      "source_path": "prism-uploads/Long-Term Field Characterization of Tapered Element Oscillating Microbalance and Modified Tapered Element Oscillating Microbalance Samplers in Urban a.pdf",
+      "path": "prism-uploads/Long-Term Field Characterization of Tapered Element Oscillating Microbalance and Modified Tapered Element Oscillating Microbalance Samplers in Urban a.pdf",
+      "size": 3219702,
+      "sha256": "ed83355bc2aa4a3c80ed90f1d7c8b6e72ee89fdbf8efa1bb4b4ac1d46f42c5e2",
+      "git_blob_sha1": "42273db6f079b9cc4f1eaf8c922bd55f15e83bc1"
+    },
+    {
+      "source_path": "prism-uploads/Measurements of Fine Particle Mass Concentrations Using Continuous and Integrated Monitors in Eastern US Cities.pdf",
+      "path": "prism-uploads/Measurements of Fine Particle Mass Concentrations Using Continuous and Integrated Monitors in Eastern US Cities.pdf",
+      "size": 2082115,
+      "sha256": "b9a4886231cf6ca93f0f4c1551ae3a1e387ecf9b78629cb11ecb30fe0309597d",
+      "git_blob_sha1": "b1a296e6d9546c5e85beea209ec20f9de0ca4371"
+    },
+    {
+      "source_path": "prism-uploads/New York State Urban and Rural Measurements of Continuous PM2.5 Mass by FDMS TEOM and BAM.pdf",
+      "path": "prism-uploads/New York State Urban and Rural Measurements of Continuous PM2.5 Mass by FDMS TEOM and BAM.pdf",
+      "size": 1654802,
+      "sha256": "ff4093ea683628fe5547ee600a78a7625fbf32178bf1f35a1133e6bfe00a4864",
+      "git_blob_sha1": "4c767475b357c18d2c427f6dbdbdc2343b56da7a"
+    },
+    {
+      "source_path": "prism-uploads/Nonlinear Regression Adjustments of Multiple Continuous Monitoring Methods Produce Effective Characterization of Short-Term Fine Particulate Matter.pdf",
+      "path": "prism-uploads/Nonlinear Regression Adjustments of Multiple Continuous Monitoring Methods Produce Effective Characterization of Short-Term Fine Particulate Matter.pdf",
+      "size": 1061877,
+      "sha256": "f2a0fc47e1916b227905b513b1c5e4d5d815c767dd7dfb02dc9b4f2c52cf01fd",
+      "git_blob_sha1": "b38c9832860a76dcd2f7d1820f72114329abea26"
+    },
+    {
+      "source_path": "prism-uploads/Observations and Interpretations from the Canadian Fine Particle Monitoring Program.pdf",
+      "path": "prism-uploads/Observations and Interpretations from the Canadian Fine Particle Monitoring Program.pdf",
+      "size": 543465,
+      "sha256": "f4754e022840461ac6d21c8fa272f03a059d8e753e0f7cbadd48d2c16efa09ed",
+      "git_blob_sha1": "fa829ba8edf122ddf0e4b0d0c580dd07a55aab80"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_checklist(1).docx",
+      "path": "prism-uploads/PRISMA_2020_checklist(1).docx",
+      "size": 274196,
+      "sha256": "fba382ec9fa4b5594697444c3ee555f805c86a3d1093d4633f25a7653ad60e5e",
+      "git_blob_sha1": "384afdf162a6694dbfb6f3954c3961eac28f1fcb"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_expanded_checklist.pdf",
+      "path": "prism-uploads/PRISMA_2020_expanded_checklist.pdf",
+      "size": 214730,
+      "sha256": "3fd484cd0eb836592011e90dca78c4811de7b0674024b6ff597029dd3819e0aa",
+      "git_blob_sha1": "68db94a439ed22e49d4fdb53413593d25ed84d91"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_flow_diagram_new_SRs_v1.docx",
+      "path": "prism-uploads/PRISMA_2020_flow_diagram_new_SRs_v1.docx",
+      "size": 48300,
+      "sha256": "c59c069576067b777f4fc23ddc1718c83cd136cc755431a243731f7b237862bf",
+      "git_blob_sha1": "800a76dd6e06d561d7712d116c8e184bbaffbb50"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_flow_diagram_new_SRs_v2.docx",
+      "path": "prism-uploads/PRISMA_2020_flow_diagram_new_SRs_v2.docx",
+      "size": 61779,
+      "sha256": "caf2ea4e40c068e9eaa133ab7cdd6009e039437f7a433039a7485e53a2d2ac37",
+      "git_blob_sha1": "c2f37fa4be174e0148cb1a2470e8a33fa3588c7d"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_flow_diagram_updated_SRs_v1.docx",
+      "path": "prism-uploads/PRISMA_2020_flow_diagram_updated_SRs_v1.docx",
+      "size": 57863,
+      "sha256": "4041b88865b3f1f2ff8b9395d27f7fa4f3f73f220b3e5ee8a8d91ad97543094a",
+      "git_blob_sha1": "22a2d1dc5409c9b035956b527bb24be1189e34a5"
+    },
+    {
+      "source_path": "prism-uploads/PRISMA_2020_flow_diagram_updated_SRs_v2.docx",
+      "path": "prism-uploads/PRISMA_2020_flow_diagram_updated_SRs_v2.docx",
+      "size": 73359,
+      "sha256": "53eb4a98f4c89e8cdbeca4d39bd965dd5037a307b8e1ef57e27802dce526d90e",
+      "git_blob_sha1": "7da300422686406c2440b9593b50d54299d72189"
+    },
+    {
+      "source_path": "prism-uploads/README.md",
+      "path": "prism-uploads/README.md",
+      "size": 595,
+      "sha256": "30611e15727f9c89e93d854f33ddf2854bd21e69b3525979588febdddc4c0bff",
+      "git_blob_sha1": "239a663051dd53584df4990b4bd861c1b9095d97"
+    },
+    {
+      "source_path": "prism-uploads/Simultaneous Measurements of PM10 and PM1 using a single TEOM .pdf",
+      "path": "prism-uploads/Simultaneous Measurements of PM10 and PM1 using a single TEOM .pdf",
+      "size": 773184,
+      "sha256": "968055e2fe724ebfae161bb0ca2a2bd4d24ee845d0cbe498e6639046c40fd816",
+      "git_blob_sha1": "b56caaa84059425d35b770e3dc8b88e9b9de62d3"
+    },
+    {
+      "source_path": "prism-uploads/Systematic Biases in Measured PM10 Values with U.S. Environmental Protection Agency-Approved Samplers at Owens Lake California.pdf",
+      "path": "prism-uploads/Systematic Biases in Measured PM10 Values with U.S. Environmental Protection Agency-Approved Samplers at Owens Lake California.pdf",
+      "size": 966904,
+      "sha256": "580e0c69515c010439da8a2732bd4dcf0a843a330431aaa8b15224f479302a92",
+      "git_blob_sha1": "36ea5e07d154a1dfc92d4a7be6cdbd5b4c01e653"
+    },
+    {
+      "source_path": "prism-uploads/TREINT~1.pdf",
+      "path": "prism-uploads/TREINT~1.pdf",
+      "size": 1299518,
+      "sha256": "d9fe659195ff5d5030d9209943be1dd3e38c5f9370f4971afb4380c6d99e5fad",
+      "git_blob_sha1": "3a1d8f3d6dc5ad9edb7fa95f6cf600d20768e475"
+    },
+    {
+      "source_path": "prism-uploads/TUTORIAL-BIBLIOMETRIX.pdf",
+      "path": "prism-uploads/TUTORIAL-BIBLIOMETRIX.pdf",
+      "size": 13912133,
+      "sha256": "ea15c689211d4c3503d26ba72cc624c514a0f4d1a0e2fd8837bc48bb839326d3",
+      "git_blob_sha1": "eeb4b11ad8fefd5b890b494c94b3559da8df8072"
+    },
+    {
+      "source_path": "prism-uploads/Using Continuous PM2.5 Monitoring Data to Report an Air Quality Index.pdf",
+      "path": "prism-uploads/Using Continuous PM2.5 Monitoring Data to Report an Air Quality Index.pdf",
+      "size": 755107,
+      "sha256": "21cd95786f4182da1db829ed49b5ac94611b9a6195801bcda40373fe44aeffa7",
+      "git_blob_sha1": "af1fc7ac652117a7e7749523963126b4a3e29de3"
+    },
+    {
+      "source_path": "prism-uploads/Versão1.ris",
+      "path": "prism-uploads/Versão1.ris",
+      "size": 501725,
+      "sha256": "7000d3061e789230cdc7ac55b8535adcc7055af01e717dad57d6d220a0b535bd",
+      "git_blob_sha1": "4826370788dc5606d9063bcac528d9d7edbcb392"
+    },
+    {
+      "source_path": "prism-uploads/Versão1_2.ris",
+      "path": "prism-uploads/Versão1_2.ris",
+      "size": 450536,
+      "sha256": "bad3ed963c60e0a97fe07c26fabeb6dc43ae25af312bbccb5571d4132eb7526b",
+      "git_blob_sha1": "9bcba68685919f141440370d3583bc5c7a0b8997"
+    },
+    {
+      "source_path": "prism-uploads/aaqr-20-04-tn-0159.pdf",
+      "path": "prism-uploads/aaqr-20-04-tn-0159.pdf",
+      "size": 417996,
+      "sha256": "d43b35239c0481fc6f3d86eb2d701a4ca1888dbf9288c87691723035e624d69d",
+      "git_blob_sha1": "43481385ddd20811f4baf722e924a5ea7cb5a9af"
+    },
+    {
+      "source_path": "prism-uploads/apresentação_artigo.pdf",
+      "path": "prism-uploads/apresentação_artigo.pdf",
+      "size": 1441093,
+      "sha256": "c50d300be34295c40f85acd1a67c558210222b7cfbee57e5e4a3afad2a52784a",
+      "git_blob_sha1": "e9a0c86ca98e1fc2af138c18f9b08cb547721eda"
+    },
+    {
+      "source_path": "prism-uploads/bmj.n160.full.pdf",
+      "path": "prism-uploads/bmj.n160.full.pdf",
+      "size": 868207,
+      "sha256": "2f6a6a1e484cdf81bde79644d49e4da3ca96286e3412a9b25fc305d35cf9ac7d",
+      "git_blob_sha1": "94a637a151f2c6bf6c9f00f539fe03bd1f4bac11"
+    },
+    {
+      "source_path": "prism-uploads/bmj.n71.full.pdf",
+      "path": "prism-uploads/bmj.n71.full.pdf",
+      "size": 324568,
+      "sha256": "8b2117f55c1c401ff0040f6ac54651e1ef7f21f1534911ade323a808573659b8",
+      "git_blob_sha1": "c28e7113e75190aa60e9363e99dbb13e5eae5e4e"
+    },
+    {
+      "source_path": "prism-uploads/es0112644.pdf",
+      "path": "prism-uploads/es0112644.pdf",
+      "size": 185510,
+      "sha256": "4cb27c0fa60cb761c30429f74c5087d68a91a22234cfa3e099e8a793b0e3da30",
+      "git_blob_sha1": "263537f4660fbaacd160b0f4633a7930f54198a2"
+    },
+    {
+      "source_path": "prism-uploads/export_06ceccbc-1419-4509-8101-a7880fc7d3b0_2026-09-26T213743.098109787.ris",
+      "path": "prism-uploads/export_06ceccbc-1419-4509-8101-a7880fc7d3b0_2026-09-26T213743.098109787.ris",
+      "size": 428440,
+      "sha256": "9517a0ee9e43b12b7b49ad4e8a0b4b51b5f0959bb53e639d10c636ba64d02177",
+      "git_blob_sha1": "5aaa08266349bdc623963da59c7e2f1e4b201ce5"
+    },
+    {
+      "source_path": "prism-uploads/export_54580ec5-ccce-4b1c-8954-1fb6c8a662a4_2026-10-05T172459.576871142.ris",
+      "path": "prism-uploads/export_54580ec5-ccce-4b1c-8954-1fb6c8a662a4_2026-10-05T172459.576871142.ris",
+      "size": 21525,
+      "sha256": "9a52827f4cbde80ccb7ef7c24c8618dd2965f4fa7605dea5f07453ce2d473885",
+      "git_blob_sha1": "3390b2240c2cf63b13862e29fe6ecb610f928e84"
+    },
+    {
+      "source_path": "prism-uploads/export_54b6746f-bcac-440f-b23e-fe3fe3f8a002_2026-10-05T173806.915381584.ris",
+      "path": "prism-uploads/export_54b6746f-bcac-440f-b23e-fe3fe3f8a002_2026-10-05T173806.915381584.ris",
+      "size": 361907,
+      "sha256": "a16ef4b619556e3c2b1449223dc42a4df612e695ccd2bdb7aad9b150e1950893",
+      "git_blob_sha1": "b0db11c08479c628a5f7d1d5d8a4e4d251b34185"
+    },
+    {
+      "source_path": "prism-uploads/export_5f4dd5fc-0473-4407-b196-cfad20c58cba_2026-10-05T173048.269073172.ris",
+      "path": "prism-uploads/export_5f4dd5fc-0473-4407-b196-cfad20c58cba_2026-10-05T173048.269073172.ris",
+      "size": 354012,
+      "sha256": "ec7f4488ac1ad1090b37c3e76aa26cc4c1dcfce6d50b1220eb0080b1a9df7785",
+      "git_blob_sha1": "096485bb96f59585d5eede04288ecd62ab8b89b3"
+    },
+    {
+      "source_path": "prism-uploads/export_ad6f8bcc-c8a0-44a5-8903-576caa2a4141_2026-10-05T174049.502572884.ris",
+      "path": "prism-uploads/export_ad6f8bcc-c8a0-44a5-8903-576caa2a4141_2026-10-05T174049.502572884.ris",
+      "size": 161239,
+      "sha256": "993339142a2d8045983afa6df6ca096ed2b3e5b1b7879ebb4bdf7c2a20d44380",
+      "git_blob_sha1": "55394aba7bb94aa27fc53ef07e31a4ad5779b966"
+    },
+    {
+      "source_path": "prism-uploads/export_b0dce3ec-123e-423e-b30f-72122026666b_2026-10-05T172707.555220799.ris",
+      "path": "prism-uploads/export_b0dce3ec-123e-423e-b30f-72122026666b_2026-10-05T172707.555220799.ris",
+      "size": 25080,
+      "sha256": "7d6333e1bfae64e7c607c8e4754ffa3f229d441b314a62e72efc4116044c3641",
+      "git_blob_sha1": "c224d1544c0d6ac42fbfe87ae6ac3f69f9b3f2da"
+    },
+    {
+      "source_path": "prism-uploads/export_c04592ce-2244-47c7-8d87-da8d4f73426d_2026-10-05T174245.274723809.ris",
+      "path": "prism-uploads/export_c04592ce-2244-47c7-8d87-da8d4f73426d_2026-10-05T174245.274723809.ris",
+      "size": 70669,
+      "sha256": "6dd5bd3592fe84cda4459bcfbc235e8b78b7c23b8daa662aea4a22f616fbd6ee",
+      "git_blob_sha1": "70fd1a04f9ea1a0b902d78b7a49f020288e41aec"
+    },
+    {
+      "source_path": "prism-uploads/export_d48f3d3d-86e2-4368-bf1a-3116e49b3aff_2026-10-05T172208.870181777.ris",
+      "path": "prism-uploads/export_d48f3d3d-86e2-4368-bf1a-3116e49b3aff_2026-10-05T172208.870181777.ris",
+      "size": 34049,
+      "sha256": "822256b1ec771d9168b3d4859e42394033c2462930fc18f8cac1b5744c89fad7",
+      "git_blob_sha1": "eaf1c1cd99efc4bcfb24109c583cc91c9671d054"
+    },
+    {
+      "source_path": "prism-uploads/image.png",
+      "path": "prism-uploads/image.png",
+      "size": 2691,
+      "sha256": "1b41c65a85c3de3ad84bce9b28aad478b008f0529b0b2377d1c36fbbbcae48bb",
+      "git_blob_sha1": "a728dc056fe9cbbdb2984d4730e85c3570f1474e"
+    },
+    {
+      "source_path": "prism-uploads/personal.pdf",
+      "path": "prism-uploads/personal.pdf",
+      "size": 543620,
+      "sha256": "ee499bbbc9a5da4e676d9fb0db8a1bf40452aa331b6f97a965e2b662885b9530",
+      "git_blob_sha1": "14587b9d1c8cacb810ea1a49e0c847ff0a133c24"
+    },
+    {
+      "source_path": "prism-uploads/pone.0185700.pdf",
+      "path": "prism-uploads/pone.0185700.pdf",
+      "size": 2141292,
+      "sha256": "f87c2d694a94b1a7c981bcd3be1d5fcc6394510f83f8f108fafd1365ba97250a",
+      "git_blob_sha1": "222eb3baab16f51fd17e121246b87b9e7a64b817"
+    },
+    {
+      "source_path": "prism-uploads/pubmed-Particulat-set(1).nbib",
+      "path": "prism-uploads/pubmed-Particulat-set(1).nbib",
+      "size": 266565,
+      "sha256": "6b955a52a42be768cfaf5cd11c3af563ef76774f6bb29d688d2568cf7efd09de",
+      "git_blob_sha1": "2fe50b4ab19866b0269748b28acf4687bcd4c825"
+    },
+    {
+      "source_path": "prism-uploads/pubmed-Particulat-set.nbib",
+      "path": "prism-uploads/pubmed-Particulat-set.nbib",
+      "size": 266521,
+      "sha256": "0ed591330eba290b8dedd1296c20a5b892387eed0eb84c3ccde7c9126ab4c8f6",
+      "git_blob_sha1": "242b0ec59fbebb35b777936d498ab5c40a406c8e"
+    },
+    {
+      "source_path": "prism-uploads/savedrecs.ris",
+      "path": "prism-uploads/savedrecs.ris",
+      "size": 225214,
+      "sha256": "2aed2dbd738279dbcb0974a4647d22eb87e353cffeedc407db8fe6ff58f50cf6",
+      "git_blob_sha1": "485cdffc15d0fc0d075075a3f145dcc7c3bebccb"
+    },
+    {
+      "source_path": "prism-uploads/scopus(1).ris",
+      "path": "prism-uploads/scopus(1).ris",
+      "size": 37879,
+      "sha256": "f66dbd6963b37dac57ffc4bf85e0c14092476a42cbbbc99ad0a0c46409113fdf",
+      "git_blob_sha1": "71b1379c8cf736c7173bfbd06739e1fb97c133f1"
+    },
+    {
+      "source_path": "prism-uploads/scopus(2).ris",
+      "path": "prism-uploads/scopus(2).ris",
+      "size": 39803,
+      "sha256": "9c7fc265c2d2ab605e83774970bb1837299993cc6e7a50055db36836a5020cd8",
+      "git_blob_sha1": "206a6e0fa495b7e33989c19ed1db76536308e11c"
+    },
+    {
+      "source_path": "prism-uploads/scopus(3).ris",
+      "path": "prism-uploads/scopus(3).ris",
+      "size": 74668,
+      "sha256": "6cd9dfa2c0af3f40bdd74ed1d84d309a4901a25bca33f5364cfb100ca026febe",
+      "git_blob_sha1": "90619ff5382ec7e3590f57bef03f0b6a3332ba77"
+    },
+    {
+      "source_path": "prism-uploads/scopus(4).ris",
+      "path": "prism-uploads/scopus(4).ris",
+      "size": 84118,
+      "sha256": "73aabac504bfd4dab5129075040c9d476e42287ab8ea4c288ba33f1338e31c8b",
+      "git_blob_sha1": "4b7111a91404a222bedd77a271e89d08d875d4a5"
+    },
+    {
+      "source_path": "prism-uploads/scopus(5).ris",
+      "path": "prism-uploads/scopus(5).ris",
+      "size": 85307,
+      "sha256": "dd0960fd469df0e6a8a83832187d3d09e3225b114e0e13ccd632feb1f61c8fa0",
+      "git_blob_sha1": "6135e9b41569df1755e533fcabd4d01123c96ea9"
+    },
+    {
+      "source_path": "prism-uploads/scopus(6).ris",
+      "path": "prism-uploads/scopus(6).ris",
+      "size": 16466,
+      "sha256": "2bd65970c7992268e04e02eced93cfe7b001a774ea37fdcf489d3d9ebb7e0197",
+      "git_blob_sha1": "25210d13a64c596938ce14228682c38fca3f1a4d"
+    },
+    {
+      "source_path": "prism-uploads/scopus.ris",
+      "path": "prism-uploads/scopus.ris",
+      "size": 87253,
+      "sha256": "577b77a4a573112b94510c1a109f81b940662b759d6798bfa52537b14db5376b",
+      "git_blob_sha1": "6b75ffa252b55b7ad3d8267fad900a961754e3a1"
+    },
+    {
+      "source_path": "prism-uploads/triagem_pubmed_novos_decisoes.xlsx",
+      "path": "prism-uploads/triagem_pubmed_novos_decisoes.xlsx",
+      "size": 37205,
+      "sha256": "c80cae0f4f9ba9c67065c80aee0e92b53418c9370f462a38c0cea2d3b2e6b791",
+      "git_blob_sha1": "48959bdfaa760d8f10594aae187c18b836053b69"
+    },
+    {
+      "source_path": "prism-uploads/triagem_titulo_resumo_decisoes.xlsx",
+      "path": "prism-uploads/triagem_titulo_resumo_decisoes.xlsx",
+      "size": 122085,
+      "sha256": "33b3d9e250533267c542014948a09e953fbb1a8ed7b59abd50e8095f98ca6ab6",
+      "git_blob_sha1": "9c7ba69a377f4178266f33b981a3b05d3010f20a"
+    },
+    {
+      "source_path": "prism-uploads/triagem_titulo_resumo_decisoes_sem_sensores_baixo_custo.xlsx",
+      "path": "prism-uploads/triagem_titulo_resumo_decisoes_sem_sensores_baixo_custo.xlsx",
+      "size": 122486,
+      "sha256": "13f7b55a27ab6eb402cdb6fb9abd8c54117581fcfdf4afe413bcf4bc1f012fa5",
+      "git_blob_sha1": "12652c850bd21319f5fd2e502e2100140fed7997"
+    },
+    {
+      "source_path": "prism-uploads/uawm-66-329.pdf",
+      "path": "prism-uploads/uawm-66-329.pdf",
+      "size": 937883,
+      "sha256": "87e827e2fdc8f9e0395c74a1fa162352cf83a921d13e393f55aa584877bbf04d",
+      "git_blob_sha1": "fc6b7ef613006b7165cdc99f37cac90a12d97fd3"
+    },
+    {
+      "source_path": "protocolo_rsl.tex",
+      "path": "protocolo_rsl.tex",
+      "size": 42657,
+      "sha256": "9b6f6c5ab12cc9bf33f97c26d22751660e4ea3e1dce7b9d6704658bdbd864498",
+      "git_blob_sha1": "2837427b9766f1cdb047168e30a41e3132b6ff8a"
+    },
+    {
+      "source_path": "scripts/README.md",
+      "path": "scripts/README.md",
+      "size": 683,
+      "sha256": "3a459c708ba091a0bb6e3f583ae808cb5795153e3899af8d12f78d26b675eb2d",
+      "git_blob_sha1": "04fa816573a07411afe22fee94f73e9f3d3f9e44"
+    },
+    {
+      "source_path": "scripts/preparar_avaliacao_metodologica.py",
+      "path": "scripts/preparar_avaliacao_metodologica.py",
+      "size": 20333,
+      "sha256": "2945f94cc60c3ff4c0a8af6a561c5047be4a183836d09957f70f616e19c6d8f0",
+      "git_blob_sha1": "b01ef947df36c56d2211c82222ab0f97558355b8"
+    },
+    {
+      "source_path": "scripts/preparar_extracao.py",
+      "path": "scripts/preparar_extracao.py",
+      "size": 39542,
+      "sha256": "c00a396e0bd61501d269660b322cb8b2f90a4ab706193792c3fca9bc3ad63a89",
+      "git_blob_sha1": "fdc85f26fed5642b0107cedcaae7e73f53198e5d"
+    },
+    {
+      "source_path": "scripts/preparar_pubmed.py",
+      "path": "scripts/preparar_pubmed.py",
+      "size": 5746,
+      "sha256": "3ea250da6ac25ee0e4f290ff5fcb503dbc100b82313ad7f2de7350d927a1aa65",
+      "git_blob_sha1": "821917bde7d781b8a6ea14d0923fa1dd7cfeae92"
+    },
+    {
+      "source_path": "scripts/sincronizar_triagem_pubmed.py",
+      "path": "scripts/sincronizar_triagem_pubmed.py",
+      "size": 3829,
+      "sha256": "2a785de5fdac2bf33071e23e8b8f118aad73a77d5623a9baa2d085e308b07253",
+      "git_blob_sha1": "becbd2916975c2553ffc9a789dfe8a4aee41a8aa"
+    }
+  ]
+}

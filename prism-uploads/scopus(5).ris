@@ -1,0 +1,1407 @@
+TY  - JOUR
+AU  - Lowenthal, D.H.
+AU  - Rogers, C.F.
+AU  - Saxena, P.
+AU  - Watson, J.G.
+AU  - Chow, J.C.
+TI  - Sensitivity of estimated light extinction coefficients to model assumptions and measurement errors
+PY  - 1995
+T2  - Atmospheric Environment
+VL  - 29
+IS  - 7
+SP  - 751
+EP  - 766
+DO  - 10.1016/1352-2310(94)00340-Q
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028974357&doi=10.1016%2f1352-2310%2894%2900340-Q&partnerID=40&md5=62aa28a2f2accc989c05321834089a9c
+AD  - Desert Research Institute, Reno, NV 89506, P. O. Box 60220, United States
+AD  - Electric Power Research Institute, Palo Alto, CA 94303, 3412 Hillview Ave, United States
+AB  - The optical properties of aerosol particles, expressed in terms of scattering and absorption coefficients, determine radiation transfer and visibility in the atmosphere. In principle, given sufficiently detailed input data regarding particle concentration, morphology, size, and index of refraction, particulate scattering and absorption coefficients can be estimated. In reality, the estimation of light extinction is constrained by our limited ability to measure the physical and chemical properties of aerosol particles. To evaluate the reliability of light-extinction estimates under such constraints, we applied impactor size distribution inversion and Mie scattering models to several urban and rural U.S. aerosol data sets. The scattering algorithm includes five chemical components, nitrate, sulfate, organic carbon, elemental carbon, and geological dust in internally mixed particles. Particle composition may be treated as homogeneous or distributed between an insoluble core and an aqueous shell. Liquid water is added to dry aerosol mass in discrete size bins and a distribution number is estimated. Extinction is calculated with Mie theory. For the data sets examined, light scattering estimated with this model agreed with measured scattering to within 26% on average. We describe the sensitivity of the method to input assumptions about particle composition and morphology, liquid water as a function of relative humidity, and particle size distribution. Apportioning estimated scattering to chemical components of an ambient aerosol using species extinction efficiencies has no clear theoretical basis. The merits of several approaches for doing so are examined. © 1995.
+KW  - extinction efficiency
+KW  - internal mixture
+KW  - Mie scattering
+KW  - MLR model
+KW  - size distribution
+KW  - Twomey inversion
+KW  - carbon
+KW  - nitrate
+KW  - sulfate
+KW  - water
+KW  - aerosol data set
+KW  - extinction efficiency
+KW  - light extinction
+KW  - measurement error
+KW  - Mie scattering
+KW  - model assumption
+KW  - Twomey inversion
+KW  - absorption
+KW  - aerosol
+KW  - air pollution
+KW  - airborne particle
+KW  - algorithm
+KW  - article
+KW  - atmosphere
+KW  - chemical composition
+KW  - dust
+KW  - error
+KW  - humidity
+KW  - light scattering
+KW  - measurement
+KW  - morphology
+KW  - particle size
+KW  - priority journal
+KW  - radiation
+KW  - reliability
+KW  - rural area
+KW  - united states
+KW  - urban area
+KW  - visibility
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 78; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Babich, P.
+AU  - Davey, M.
+AU  - Allen, G.
+AU  - Koutrakis, P.
+TI  - Method comparisons for particulate nitrate, elemental carbon, and PM2.5 mass in seven U.S. cities
+PY  - 2000
+T2  - Journal of the Air and Waste Management Association
+VL  - 50
+IS  - 7
+SP  - 1095
+EP  - 1105
+DO  - 10.1080/10473289.2000.10464152
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034214896&doi=10.1080%2f10473289.2000.10464152&partnerID=40&md5=3976761b32d1afd872449afa674c08b3
+AD  - Harvard School of Public Health, Department of Environmental Health, Boston, MA, United States
+AB  - Methods that measure PM2.5 mass, total particulate NO3-, and elemental carbon (EC) were evaluated in seven U.S. cities from 1997 to 1999. Sampling was performed in Bakersfield, CA; Boston, MA; Chicago, IL; Dallas, TX; Philadelphia, PA; Phoenix, AZ; and Riverside, CA. Evaluating and validating methods that measure the components of fine mass are important to the effort of establishing a speciation-monitoring network. The Harvard Impactor (HI), which measures fine particle mass, showed excellent agreement (r2 = 0.99) with the PM2.5 Federal Reference Method (FRM) for 81 24-hr samples in Riverside and Bakersfield. The HI also showed good precision (4.8%) for 243 24-hr collocated samples over eight studies. The Aethalometer was employed in six of the sampling locations to measure black carbon (BC). These values were compared to EC as measured from a quartz filter using thermal analysis. For the six cities combined, the two methods were highly correlated (r2 = 0.94; 187 24-hr samples); however, the BC values were approximately 24% less than the EC measurements consistently across all six cites. This compares well to results observed for EC/BC measurements observed in other semi-urban areas. Particulate NO3 - was measured using the Harvard-EPA Annular Denuder System (HEADS). This was compared to the NO3 - measured from the HI Teflon (DuPont) filter to assess NO3 - artifacts. Significant NO3 - losses (approximately 50% of total NO3 -) were found in Riverside, Philadelphia, and Boston, while minimal artifacts were observed in the other sites. Two types of HEADS configurations were employed in five cities. One system used a Na2CO3-coated glass fiber filter, and the other type used a nylon filter to collect volatilized NO3 - from the Teflon filter. The HEADS with the Na2CO3-coated filter consistently underestimated the total particulate NO3 - by approximately 20% compared to the nylon HEADS. © 2000 Air & Waste Management Association.
+KW  - Phoenix
+KW  - Staphylococcus phage 187
+KW  - Carbon
+KW  - Light absorption
+KW  - Nitrates
+KW  - Sampling
+KW  - Thermoanalysis
+KW  - bicarbonate
+KW  - carbon
+KW  - glass fiber
+KW  - nitrate
+KW  - politef
+KW  - silicon dioxide
+KW  - Aethalometer
+KW  - Elemental carbon
+KW  - Speciation monitoring network
+KW  - adsorption
+KW  - air pollution
+KW  - air sampling
+KW  - artifact
+KW  - city
+KW  - conference paper
+KW  - cost effectiveness analysis
+KW  - filter
+KW  - particulate matter
+KW  - priority journal
+KW  - thermal analysis
+KW  - United States
+KW  - volatilization
+KW  - Particles (particulate matter)
+SN  - 10962247 (ISSN)
+C2  - 10939203
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 116
+ER  -
+
+TY  - JOUR
+AU  - McMurry, P.H.
+AU  - Stolzenburg, M.R.
+TI  - On the sensitivity of particle size to relative humidity for Los Angeles aerosols
+PY  - 1989
+T2  - Atmospheric Environment (1967)
+VL  - 23
+IS  - 2
+SP  - 497
+EP  - 507
+DO  - 10.1016/0004-6981(89)90593-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0024476659&doi=10.1016%2f0004-6981%2889%2990593-3&partnerID=40&md5=e96a426133c380ae92f64d8b62a2f3fa
+AD  - Particle Technology Laboratory, Department of Mechanical Engineering, Minneapolis, MN 55455, 111 Church St. SE, United States
+AB  - A TDMA system (Tandem Differential Mobility Analyzer; Rader D.J. and McMurry P.H. J. Aerosol Sci. 17, 771-787, 1986) was used to measure the sensitivity of particle size to relative humidity for monodisperse Los Angeles aerosols. Measurements were made at Claremont, CA on 13 days between 19 June and 3 September 1987, in conjunction with the Southern California Air Quality Study (SCAQS). The particle sizes that were studied ranged from 0.05 μm to 0.5 μm diameter at ambient relative humidity (typically 45-65%). The data provide clear evidence that these atmospheric aerosols were externally mixed. Monodisperse ambient aerosols were often found to split into nonhygroscopic (no water uptake) and hygroscopic portions when humidified. An average of 30% of the particles in the 0.2-0.5 μm range were nonhygroscopic. However, the proportion of the particles that was nonhygroscopic varied considerably from day to day and was, on occasion, as high as 70-80% of the particles. There was no clear evidence for nonhygroscopic 0.05 μm particles, but the data are not definitive on this point. The data also show that for the hydrophilic aerosol fraction, the larger particles (0.4-0.5 μm) grew more when humidified than did smaller particles (0.05-0.2 μm). As relative humidities were increased from 50% to 90%, particle diameters grew by average factors of 1.46 ±0.02 (for 0.5 μm particles), 1.49 ± 0.08 (0.4 μm), 1.19 ± 0.08 (0.2 μm) and 1.12 ± 0.05 (0.05 μm). Similarly, when particles were dried from 50% RH to 6-10% RH, particle diameters changed by factors ranging from 0.94 ± 0.03 (0.5 μm) to 0.98 ± 0.01 (0.05 μm). © 1989.
+KW  - activation
+KW  - aerosol water content
+KW  - CCN
+KW  - condensation
+KW  - externally mixed aerosols
+KW  - hydrophobic aerosols
+KW  - Hygroscopic aerosols
+KW  - USA, California, Los Angeles
+KW  - Atmospheric Humidity
+KW  - Environmental Testing--Los Angeles, California
+KW  - Particle Size Analysis
+KW  - activation
+KW  - aerosol
+KW  - cloud condensation nucleus
+KW  - condensation
+KW  - hydrophobic
+KW  - hygroscopic
+KW  - particle size
+KW  - relative humidity
+KW  - aerosol
+KW  - air analysis
+KW  - condensation nucleus
+KW  - humidity
+KW  - hydrophobicity
+KW  - particle size
+KW  - united states
+KW  - wettability
+KW  - Hydrophobic Aerosols
+KW  - Hygroscopic Aerosols
+KW  - Los Angeles Aerosols
+KW  - Relative Humidity
+KW  - Aerosols
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 266; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Day, D.E.
+AU  - Malm, W.C.
+TI  - Aerosol light scattering measurements as a function of relative humidity: A comparison between measurements made at three different sites
+PY  - 2001
+T2  - Atmospheric Environment
+VL  - 35
+IS  - 30
+SP  - 5169
+EP  - 5176
+DO  - 10.1016/S1352-2310(01)00320-X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034848957&doi=10.1016%2fS1352-2310%2801%2900320-X&partnerID=40&md5=920999581feca9586064ff0d82f3a898
+AD  - Cooperative Institute for Research In the Atmosphere (CIRA), Colorado State University, Fort Collins, CO 80523, United States
+AD  - Air Resources Division, CIRA, Colorado State University, Fort Collins, CO 80523, United States
+AB  - The water uptake by fine aerosol particles in the atmosphere has been investigated at three rural National Parks in the United States (Great Smoky Mountains, Grand Canyon and Big Bend National Parks). The relative humidity (RH) of sample aerosols was varied from less than 20% to greater than 90% using Perma Pure drying tubes as the scattering coefficient of the aerosol was measured with a Radiance Research M903 nephelometer. Data from these studies show that growth curves at all the three sites are similar in shape but the magnitude of growth can vary considerably from day to day. The growth curves from Great Smoky Mountains show smooth continuous growth over the entire range of RH, while the growth curves from the Grand Canyon and Big Bend show smooth and continuous growth on some days and deliquescence on other days. Comparing 12-h filter samples of chemical composition data with the aerosol growth curves, we find that higher fractions of soluble inorganic compounds (sulfate and nitrate) produce growth curves of greater magnitude than do higher concentrations of either organic carbon or soil material. © 2001 Elsevier Science Ltd. All rights reserved.
+KW  - Deliquescence
+KW  - Hygroscopic aerosol
+KW  - Scattering coefficient
+KW  - United States
+KW  - Aerosols
+KW  - Carbon
+KW  - Composition
+KW  - Inorganic compounds
+KW  - Light scattering
+KW  - Soils
+KW  - nitrate
+KW  - sulfate
+KW  - aerosol
+KW  - growth curve
+KW  - light scattering
+KW  - relative humidity
+KW  - aerosol
+KW  - article
+KW  - atmosphere
+KW  - chemical composition
+KW  - device
+KW  - growth curve
+KW  - humidity
+KW  - light scattering
+KW  - nephelometry
+KW  - priority journal
+KW  - United States
+KW  - water transport
+KW  - Growth curves
+KW  - Atmospheric humidity
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 149; Correspondence Address: D.E. Day; Coop. Inst. Res.in the Atmos. (CIRA), Colorado State University, Fort Collins, CO 80523, United States; email: day@cira.colostate.edu; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Sloane, C.S.
+AU  - Wolff, G.T.
+TI  - Prediction of ambient light scattering using a physical model responsive to relative humidity: Validation with measurements from detroit
+PY  - 1985
+T2  - Atmospheric Environment (1967)
+VL  - 19
+IS  - 4
+SP  - 669
+EP  - 680
+DO  - 10.1016/0004-6981(85)90046-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021890091&doi=10.1016%2f0004-6981%2885%2990046-0&partnerID=40&md5=67f21fc954888fb065ce94f51045cefa
+AD  - Environmental Science Department, General Motors Research Laboratories, Warren, MI 48090-9055, United States
+AB  - A model for the prediction of atmospheric light extinction from field measurements of airborne aerosol concentration, chemical speciation, and size distribution has been tested with field data from the Detroit, Michigan area. The amount of light scattered by airborne particulates in ambient conditions is accurately predicted by the model using measurements of accumulation mode sulfate, nitrate, volatile and nonvolatile carbon. Model predictions were compared with simultaneously measured light scattering. The model is unique amongst physical models in its simulation of the effect of relative humidity on visibility reduction and on the light scattering efficiency of specific chemical constituents of the airborne aerosol. A proven physical model offers an advantage over statistical models in that it should prove reliable for extrapolation of ambient conditions well outside conditions currently realized. Within the range of the available data, the physical model is shown to simulate the light scattering as well as statistical models. Calculations with the physical model indicate that on average sulfate compounds are less efficient scatterers of light in ambient settings than statistical analyses would indicate. © 1985.
+KW  - aerosols
+KW  - atmospheric optics
+KW  - atmospheric sciences
+KW  - carbonaceous aerosols
+KW  - Detroit
+KW  - fine particles
+KW  - impactor
+KW  - light scattering
+KW  - nephelometer
+KW  - particle size distributions
+KW  - sulfate
+KW  - Visibility
+KW  - AEROSOLS - Atmospheric
+KW  - ATMOSPHERIC HUMIDITY
+KW  - LIGHT - Scattering
+KW  - NEPHELOMETERS
+KW  - VISIBILITY
+KW  - sulfate
+KW  - aerosols
+KW  - atmospheric optics
+KW  - nephelometer
+KW  - particle size distributions
+KW  - sulfate
+KW  - aerosol
+KW  - air analysis
+KW  - geographic distribution
+KW  - impactor
+KW  - light scattering
+KW  - model
+KW  - nephelometry
+KW  - nonbiological model
+KW  - nonhuman
+KW  - particle size
+KW  - united states
+KW  - visibility
+KW  - CARBONACEOUS AEROSOLS
+KW  - IMPACTOR
+KW  - SULFATE
+KW  - ATMOSPHERIC OPTICS
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 118; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Day, D.E.
+AU  - Malm, W.C.
+AU  - Kreidenweis, S.M.
+TI  - Aerosol light scattering measurements as a function of relative humidity
+PY  - 2000
+T2  - Journal of the Air and Waste Management Association
+VL  - 50
+IS  - 5
+SP  - 710
+EP  - 716
+DO  - 10.1080/10473289.2000.10464103
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034188923&doi=10.1080%2f10473289.2000.10464103&partnerID=40&md5=22902b1eb7038780dc6c99b268256280
+AD  - CIRA, National Park Service, Colorado State University, Fort Collins, CO, 80523, United States
+AD  - Atmospheric Science Department, Colorado State University, Fort Collins, CO, 80523, United States
+AB  - The hygroscopic nature of atmospheric fine aerosol was investigated at a rural site in the Great Smoky Mountains National Park during July and August 1995. Passing the sample aerosol through an inlet, which housed an array of Perma Pure diffusion dryers, controlled the sample aerosol’s relative humidity (RH). After conditioning the aerosol sample in the inlet, the light scattering coefficient and the aerosol size distribution were simultaneously measured. During this study, the conditioned aerosol’s humidity ranged between 5% < RH < 95%. Aerosol response curves were produced using the ratio bspw / bspd ,; where bspw is the scattering coefficient measured at some RH greater than 20% and bspd is the scattering coefficient of the “dry” aerosol. For this work, any sample RH values below 15% were considered dry. Results of this investigation showed that the light scattering ratio increased continuously and smoothly over the entire range of relative humidity. The magnitude of the ratio at a particular RH value, however, varied considerably in time, particularly for RH values greater than approximately 60%. Curves of the scattering coefficient ratios as a function of RH were generated for each day and compared to the average 12hour chemical composition of the aerosol. This comparison showed that for any particular RH value the ratio was highest during time periods of high sulfate concentrations and lowest during time periods of high soil or high organic carbon concentrations. © 2000 Air and Waste Management Association.
+KW  - Atmospheric humidity
+KW  - Composition effects
+KW  - Condensation
+KW  - Light scattering
+KW  - Particle size analysis
+KW  - Salts
+KW  - Water absorption
+KW  - Radiative transfer
+KW  - Sulfate ammoniation
+KW  - Thermodynamic equilibrium
+KW  - aerosol
+KW  - air pollution
+KW  - article
+KW  - humidity
+KW  - light scattering
+KW  - particle size
+KW  - priority journal
+KW  - United States
+KW  - Atmospheric aerosols
+SN  - 10473289 (ISSN)
+C2  - 10842935
+LA  - English
+J2  - J Air Waste Manage Assoc
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 89
+ER  -
+
+TY  - JOUR
+AU  - Sloane, C.S.
+TI  - Optical properties of aerosols of mixed composition
+PY  - 1984
+T2  - Atmospheric Environment (1967)
+VL  - 18
+IS  - 4
+SP  - 871
+EP  - 878
+DO  - 10.1016/0004-6981(84)90273-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021282831&doi=10.1016%2f0004-6981%2884%2990273-7&partnerID=40&md5=3875edc58563bef13da4169fd1b4bf16
+AD  - Environmental Science Dept., General Motors Research Laboratories, Warren, MI 48090, United States
+AB  - A model is developed which relates the reduction in visual air quality to the chemical and physical properties of airborne aerosol particles. The aerosols are considered to be inhomogeneous and to have a mixed chemical composition which varies with particle size. The water content of the aerosol particles is derived from a semi-empirical application of the thermodynamic equations for particle growth. The model is valid for all ranges of relative humidity. The light scattering and absorption coefficients are calculated using Mie theory extended to concentric sphere scatterers. The core of each particle, which is primarily taken to be nonvolatile carbon, is enclosed in a water-soluble exterior. The soluble layer responds to changes in the relative humidity by absorbing (or releasing) water. The model predictions are in excellent agreement with experimental measurements made in Denver in the fall of 1978. © 1984.
+KW  - EARTH ATMOSPHERE - Physical Chemistry
+KW  - PARTICLE SIZE ANALYSIS
+KW  - aerosol
+KW  - air analysis
+KW  - model
+KW  - nonbiological model
+KW  - nonhuman
+KW  - theoretical study
+KW  - visibility
+KW  - PARTICLE GROWTH THERMODYNAMICS
+KW  - VISUAL AIR QUALITY
+KW  - AEROSOLS
+SN  - 00046981 (ISSN)
+LA  - English
+J2  - Atmos. Environ. Part A Gen. Top.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 158; CODEN: AEATE
+ER  -
+
+TY  - JOUR
+AU  - Quintana, P.J.E.
+AU  - Valenzia, J.R.
+AU  - Delfino, R.J.
+AU  - Liu, L.-J.
+TI  - Monitoring of 1-min personal particulate matter exposures in relation to voice-recorded time - Activity data
+PY  - 2001
+T2  - Environmental Research
+VL  - 87
+IS  - 3
+SP  - 199
+EP  - 213
+DO  - 10.1006/enrs.2001.4304
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035543835&doi=10.1006%2fenrs.2001.4304&partnerID=40&md5=c17aa57920e7445385de9c34d721d65f
+AD  - Division of Occupational and Environmental Health, Graduate School of Public Health, San Diego State University, San Diego, CA, 92182-4162, United States
+AD  - Department of Medicine, School of Medicine, University of California at Irvine, Irvine, CA, 92697-7550, United States
+AD  - Department of Environmental Health, University of Washington, Seattle, Washington, 98915-7234, United States
+AB  - Recent studies on the association between exposures to airborne particulate matter (PM) and disease have identified short-term peaks in PM exposures as posing especial health threats. Light-weight personal instruments are needed to characterize short-term exposures to PM and to identify the most important sources of high PM excursions. In this study, we measured exposure to fine PM using a small personal nephelometer (pDR; MIE, Inc) to investigate the utility of this instrument in identifying activities and microenvironments most associated with high PM exposures and the magnitude and duration of peaks in PM exposures. Ten adult volunteers wore a pDR recording PM concentrations at 1-min time intervals for 1 week each. PM concentrations were measured by the pDR in units of μg/m3 based on light scatter. The use of a time-stamped voice recorder enabled activity and location to be continuously documented in real time. In addition, a small, inexpensive light intensity logger was affixed to the pDR to evaluate the potential of this instrument to assist in verifying wearer-recorded data. For each person, patterns of PM exposure were remarkably consistent over daily activities and showed large excursions associated with specific indoor and outdoor microenvironments and activities, such as cooking. When the magnitude and duration of excursions in PM were analyzed, we found that high PM levels occurred in relatively few of the minutes measured but comprised a substantial fraction of the total exposure to PM. Fifteen-minute averaged PM levels were found to be as much as 10 times the daily average. When the data were analyzed with a generalized estimating equation model to account for effects of autocorrelation and clustering, PM exposure was significantly higher during subject-reported events including barbeque, yard work, being near pets or construction activities, cooking, and environmental tobacco smoke exposure, as compared with periods with no pollution events. When light intensity data were explored to determine whether these loggers could be of potential use in establishing or verifying indoor vs outdoor location for future PM studies, we found that personal light intensity measurements differed among indoor, outdoor, and in-car environments (P< 0.001). Overlap between measured values implies that light intensity cannot be used to absolutely predict location; however, a sudden increase or decrease in light intensity was highly associated with participant report of location change between indoors and outdoors. This study demonstrates the utility of the pDR in identifying patterns of personal exposures to particulate matter and especially in registering the magnitude and duration of excursions in PM in relation to location and activity. © 2001 Elsevier Science.
+KW  - Air exposures
+KW  - Light intensity
+KW  - Light scatter
+KW  - Particulate matter
+KW  - Recorded exposure monitor
+KW  - Nicotiana tabacum
+KW  - health risk
+KW  - particulate matter
+KW  - pollution exposure
+KW  - adult
+KW  - article
+KW  - cooking
+KW  - daily life activity
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - light scattering
+KW  - male
+KW  - normal human
+KW  - particulate matter
+KW  - priority journal
+KW  - smoking
+PB  - Academic Press Inc.
+SN  - 00139351 (ISSN)
+LA  - English
+J2  - Environ. Res.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 28; CODEN: ENVRA
+ER  -
+
+TY  - JOUR
+AU  - Sioutas, C.
+AU  - Kim, S.
+AU  - Chang, M.
+AU  - Terrell, L.L.
+AU  - Gong Jr., H.
+TI  - Field evaluation of a modified DataRAM MIE scattering monitor for real- time PM2.5 mass concentration measurements
+PY  - 2000
+T2  - Atmospheric Environment
+VL  - 34
+IS  - 28
+SP  - 4829
+EP  - 4838
+DO  - 10.1016/S1352-2310(00)00244-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034283346&doi=10.1016%2fS1352-2310%2800%2900244-2&partnerID=40&md5=61289824efb4e405aef40a97c0ba5ef8
+AD  - Dept. of Civ. and Environ. Eng., Univ. S. California, 3620 S. V., Los Angeles, CA 90089, United States
+AD  - Department of Preventive Medicine, Keck Sch. Med., Univ. S. C., Los Angeles, CA 90242, United States
+AB  - In this paper, we investigated the feasibility of using a modified DataRAM nephelometer (RAM-1, MIE Inc., Billerica, MA) as a continuous PM2.5 monitor to measure concentrations of ambient and concentrated aerosols in real time. The DataRAM operated with a diffusion dryer tube in its inlet in order to reduce the relative humidity of the sampled air to less than 50%. A total of 39 field tests were conducted in which the average dry DataRAM concentration was compared to the gravimetrically determined mass concentration, corrected for nitrate losses. Tests were conducted over one calendar year (from January to December 1999) in order to capture maximum seasonal variations in the levels of relative humidity, PM size distribution and chemical composition in the Los Angeles Basin. Our experimental results indicated that the aerosol mass median diameter (MMD) is the single, most important parameter in affecting the response of the DataRAM. As the MMD increases from 0.3 to 1.1 μm, the DataRAM-to-MOUDI ratio increases from approximately 0.7 to about 1.6. The DataRAM-to-MOUDI ratio subsequently decreases to about 1.0, as the MMD further increases to 1.5 μm. For MMD values in the range of 0.4-0.7 μm (i.e. the MMD size range that is most commonly associated with urban aerosols), the DataRAM and gravimetrically measured mass concentrations (corrected for nitrate losses) agree within ± 20%. Based only on ambient data, the average DataRAM-to-gravimetric concentration ratio was 0.93 (± 0.17), whereas the average DataRAM-to- gravimetric concentration ratio for concentrated PM2.5 aerosols was 1.23 (± 0.20). Our field evaluation also indicated that the effect of particle chemical composition on the DataRAM-to-gravimetric concentration ratio is much less important than that of particle size distribution. (C) 2000 Elsevier Science Ltd.; In this paper, we investigated the feasibility of using a modified DataRAM nephelometer (RAM-1, MIE Inc., Billerica, MA) as a continuous PM2.5 monitor to measure concentrations of ambient and concentrated aerosols in real time. The DataRAM operated with a diffusion dryer tube in its inlet in order to reduce the relative humidity of the sampled air to less than 50%. A total of 39 field tests were conducted in which the average dry DataRAM concentration was compared to the gravimetrically determined mass concentration, corrected for nitrate losses. Tests were conducted over one calendar year (from January to December 1999) in order to capture maximum seasonal variations in the levels of relative humidity, PM size distribution and chemical composition in the Los Angeles Basin. Our experimental results indicated that the aerosol mass median diameter (MMD) is the single, most important parameter in affecting the response of the DataRAM. As the MMD increases from 0.3 to 1.1 μm, the DataRAM-to-MOUDI ratio increases from approximately 0.7 to about 1.6. The DataRAM-to-MOUDI ratio subsequently decreases to about 1.0, as the MMD further increases to 1.5 μm. For MMD values in the range of 0.4-0.7 μm (i.e., the MMD size range that is most commonly associated with urban aerosols), the DataRAM and gravimetrically measured mass concentrations (corrected for nitrate losses) agree within ±20%. Based only on ambient data, the average DataRAM-to-gravimetric concentration ratio was 0.93 (±0.17), whereas the average DataRAM-to-gravimetric concentration ratio for concentrated PM2.5 aerosols was 1.23 (±0.20). Our field evaluation also indicated that the effect of particle chemical composition on the DataRAM-to-gravimetric concentration ratio is much less important than that of particle size distribution.
+KW  - DataRAM
+KW  - Diffusion dryer
+KW  - Nephelometer
+KW  - Particle concentrator
+KW  - PM<sub>2.5</sub> direct measurement
+KW  - California
+KW  - Los Angeles
+KW  - United States
+KW  - Aerosols
+KW  - Atmospheric humidity
+KW  - Dryers (equipment)
+KW  - Gravimetric analysis
+KW  - Particles (particulate matter)
+KW  - Nephelometers
+KW  - aerosol
+KW  - chemical composition
+KW  - field survey
+KW  - pollution monitoring
+KW  - relative humidity
+KW  - size distribution
+KW  - accuracy
+KW  - aerosol
+KW  - air monitoring
+KW  - air quality
+KW  - ambient air
+KW  - article
+KW  - chemical composition
+KW  - device
+KW  - gravimetry
+KW  - humidity
+KW  - intermethod comparison
+KW  - light scattering
+KW  - nephelometry
+KW  - particle size
+KW  - particulate matter
+KW  - photometer
+KW  - priority journal
+KW  - validation process
+KW  - Air pollution
+PB  - Elsevier Science Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 92; Correspondence Address: C. Sioutas; Dept. of Civil/Environmental Engg., University of Southern California, Los Angeles, CA 90089, 3620 South Vermont Avenue, United States; email: sioutas@rcf.usc.edu; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Muraleedharan, T.R.
+AU  - Radojevic, M.
+TI  - Personal particle exposure monitoring using nephelometry during haze in Brunei
+PY  - 2000
+T2  - Atmospheric Environment
+VL  - 34
+IS  - 17
+SP  - 2733
+EP  - 2738
+DO  - 10.1016/S1352-2310(99)00340-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034039231&doi=10.1016%2fS1352-2310%2899%2900340-4&partnerID=40&md5=d2d22b945e0d83b7f83f76f7a09aaabe
+AD  - Brunei Shell Petroleum Co. Sdn. Bhd., 7082, Seria, Brunei Darussalam
+AD  - Department of Chemistry, University of Brunei Darussalam, Seria, Bandar Seri Begawan BE1410, Brunei Darussalam
+AB  - Personal monitoring of airborne particulate matter using a portable nephelometer during the 1998 haze episode in Brunei Darussalam revealed significant differences in exposure patterns between different individuals depending on their activities, time, and location. Concentrations of airborne particles were monitored inside offices, homes, classrooms, motor vehicles, helicopters, and outdoors. Outdoor concentrations were considerably higher than those indoors mainly due to the widespread use of air-conditioning in Brunei. Most people in Brunei spend very little time outdoors, especially during severe haze episodes. There were considerable differences between measurements obtained with the personalDataRAM(®) and fixed site monitoring using a tapered element oscillating microbalance (TEOM(®)) due to differences in the measurement principles of the two instruments. Copyright (C) 2000 Elsevier Science Ltd.
+KW  - Aerosol
+KW  - Haze
+KW  - Nephelometry
+KW  - Particulate matter
+KW  - Personal monitoring
+KW  - air quality
+KW  - airborne particle
+KW  - ambient air
+KW  - Brunei Darussalam
+KW  - environmental exposure
+KW  - haze
+KW  - human
+KW  - instrument
+KW  - monitoring
+KW  - nephelometry
+KW  - office worker
+KW  - particulate matter
+KW  - personal monitoring
+KW  - pollution
+KW  - priority journal
+KW  - short survey
+PB  - Elsevier Science Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 15; Correspondence Address: M. Radojevic; Department of Chemistry, University of Brunei Darussalam, Bandar Seri Begawan BE1410, Brunei Darussalam; email: miro@ubd.edu.bn; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - O'Neil, M.J.
+PY  - 2001
+T2  - The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0042093870&partnerID=40&md5=fd0ae55750892cb5a0273015a9bb30c8
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 1569
+ER  -
+
+TY  - JOUR
+AU  - Howard-Reed, C.
+AU  - Rea, A.W.
+AU  - Zufall, M.J.
+AU  - Burke, J.M.
+AU  - Williams, R.W.
+AU  - Suggs, J.C.
+AU  - Sheldon, L.S.
+AU  - Walsh, D.
+AU  - Kwok, R.
+TI  - Use of a continuous nephelometer to measure personal exposure to particles during the U.S. Environmental Protection Agency Baltimore and Fresno panel studies
+PY  - 2000
+T2  - Journal of the Air and Waste Management Association
+VL  - 50
+IS  - 7
+SP  - 1125
+EP  - 1132
+DO  - 10.1080/10473289.2000.10464150
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034223285&doi=10.1080%2f10473289.2000.10464150&partnerID=40&md5=15df9aecb577089f8cbad475680ed18f
+AD  - U.S. Environmental Protection Agency, National Exposure Research Laboratory, Reston, VA, United States
+AD  - U.S. Environmental Protection Agency, National Exposure Research Laboratory, NC, Research Triangle Park, United States
+AD  - U.S. Environmental Protection Agency, National Health and Environmental Effects Research Laboratory, NC, Research Triangle Park, United States
+AB  - In population exposure studies, personal exposure to PM is typically measured as a 12- to 24-hr integrated mass concentration. To better understand short-term variation in personal PM exposure, continuous (1-min averaging time) nephelometers were worn by 15 participants as part of two U.S. Environmental Protection Agency (EPA) longitudinal PM exposure studies conducted in Baltimore County, MD, and Fresno, CA. Participants also wore inertial impactor samplers (24-hr integrated filter samples) and recorded their daily activities in 15-min intervals. In Baltimore, the nephelometers correlated well (R2 = 0.66) with the PM2.5 impactors. Time-series plots of personal nephelometer data showed each participant's PM exposure to consist of a series of peaks of relatively short duration. Activities corresponding to a significant instrument response included cooking, outdoor activities, transportation, laundry, cleaning, shopping, gardening, moving between microenvironments, and removing/putting on the instrument. On average, 63-66% of the daily PM exposure occurred indoors at home (about 2/3 of which occurred during waking hours), primarily due to the large amount of time spent in that location (an average of 72-77%). Although not a reference method for measuring mass concentration, the nephelometer did help identify PM sources and the relative contribution of those sources to an individual's personal exposure. © 2000 Air & Waste Management Association.
+KW  - Air pollution
+KW  - Atmospheric humidity
+KW  - Carbon monoxide
+KW  - Environmental protection
+KW  - Nephelometers
+KW  - Temperature control
+KW  - Mass concentration
+KW  - Micro environment
+KW  - Personal environmental monitors
+KW  - air monitor
+KW  - air pollution
+KW  - conference paper
+KW  - daily life activity
+KW  - environmental protection
+KW  - filter
+KW  - government
+KW  - home
+KW  - nephelometry
+KW  - particulate matter
+KW  - personal monitor
+KW  - population exposure
+KW  - priority journal
+KW  - time
+KW  - United States
+KW  - Particles (particulate matter)
+SN  - 10962247 (ISSN)
+C2  - 10939206
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 74
+ER  -
+
+TY  - JOUR
+AU  - Liu, L.-J.S.
+AU  - Box, M.
+AU  - Kalman, D.
+AU  - Kaufman, J.
+AU  - Koenig, J.
+AU  - Larson, T.
+AU  - Lumley, T.
+AU  - Sheppard, L.
+AU  - Wallace, L.
+TI  - Exposure assessment of particulate matter for susceptible populations in Seattle
+PY  - 2003
+T2  - Environmental Health Perspectives
+VL  - 111
+IS  - 7
+SP  - 909
+EP  - 918
+DO  - 10.1289/ehp.6011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038082966&doi=10.1289%2fehp.6011&partnerID=40&md5=91884263777658c081afd7e438397c6e
+AD  - Dept. of Environ./Occup. Health Sci., University of Washington, Seattle, WA 98195, Box 354695, United States
+AD  - Dept. of Environ./Civil Engineering, University of Washington, Seattle, WA 98195, Box 354695, United States
+AD  - Department of Biostatistics, University of Washington, Seattle, WA 98195, Box 354695, United States
+AD  - U.S. Environmental Protection Agency, Reston, VA, United States
+AB  - In this article we present results from a 2-year comprehensive exposure assessment study that examined the particulate matter (PM) exposures and health effects in 108 individuals with and without chronic obstructive pulmonary disease (COPD), coronary heart disease (CHD), and asthma. The average personal exposures to PM with aerodynamic diameters < 2.5 μm (PM2.5) were similar to the average outdoor PM2.5 concentrations but significantly higher than the average indoor concentrations. Personal PM2.5 exposures in our study groups were lower than those reported in other panel studies of susceptible populations. Indoor and outdoor PM2.5, PM10 (PM with aerodynamic diameters < 10 μm), and the ratio of PM2.5 to PM10 were significantly higher during the heating season. The increase in outdoor PM10 in winter was primarily due to an increase in the PM2.5 fraction. A similar seasonal variation was found for personal PM2.5. The high-risk subjects in our study engaged in an equal amount of dust-generating activities compared with the healthy elderly subjects. The children in the study experienced the highest indoor PA2.5 and PM10 concentrations. Personal PM2.5 exposures varied by study group, with elderly healthy and CHD subjects having the lowest exposures and asthmatic children having the highest exposures. Within study groups, the PM2.5 exposure varied depending on residence because of different particle infiltration efficiencies. Although we found a wide range of longitudinal correlations between central-site and personal PM2.5 measurements, the longitudinal r is closely related to the particle infiltration efficiency. PM2.5 exposures among the COPD and CHD subjects can be predicted with relatively good power with a microenvironmental model composed of three microenvironments. The prediction power is the lowest for the asthmatic children.
+KW  - Asthma
+KW  - CHD
+KW  - COPD
+KW  - Infiltration efficiency
+KW  - Longitudinal correlation
+KW  - Personal cloud
+KW  - PM<sub>2.5</sub>
+KW  - Wood smoke
+KW  - adolescent
+KW  - adult
+KW  - aged
+KW  - air pollutant
+KW  - air pollution
+KW  - asthma
+KW  - child
+KW  - chronic obstructive lung disease
+KW  - concentration (parameters)
+KW  - controlled study
+KW  - correlation coefficient
+KW  - environmental exposure
+KW  - epidemiological data
+KW  - female
+KW  - health survey
+KW  - high risk population
+KW  - human
+KW  - ischemic heart disease
+KW  - major clinical study
+KW  - male
+KW  - mass screening
+KW  - microenvironment
+KW  - particulate matter
+KW  - prediction
+KW  - priority journal
+KW  - residential home
+KW  - review
+KW  - seasonal variation
+KW  - summer
+KW  - United States
+KW  - winter
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 12782491
+LA  - English
+J2  - Environ. Health Perspect.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 165; Correspondence Address: L.-J.S. Liu; Dept. of Environ./Occup. Health Sci., University of Washington, Seattle, WA 98195, Box 354695, United States; email: sliu@u.washington.edu; CODEN: EVHPA
+ER  -
+
+TY  - JOUR
+AU  - Balakrishnan, K.
+AU  - Parikh, J.
+AU  - Sankar, S.
+AU  - Padmavathi, R.
+AU  - Srividya, K.
+AU  - Venugopal, V.
+AU  - Prasad, S.
+AU  - Pandey, V.L.
+TI  - Daily average exposures to respirable particulate matter from combustion of biomass fuels in rural households of Southern India
+PY  - 2002
+T2  - Environmental Health Perspectives
+VL  - 110
+IS  - 11
+SP  - 1069
+EP  - 1075
+DO  - 10.1289/ehp.021101069
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036852225&doi=10.1289%2fehp.021101069&partnerID=40&md5=2d01ec4775b5467bd4a8fd99b53ce4e8
+AD  - Environmental Health Engineering, Sri Ramachandra Medical College, Research Institute, Chennai-660 116, Porur, India
+AB  - Indoor air pollution resulting from combustion of biomass fuels in rural households of developing countries is now recognized as a major contributor to the global burden of disease. Accurate estimation of health risks has been hampered by a paucity quantitative exposure information. In this study we quantified exposures to respirable particulate matter from biomass-fuel combustion in 436 rural homes selected through stratified random sampling from four districts of Tamil Nadu, India. The study are a subset of a larger sample of 5,028 households from the same districts in which socioeconomic and health information has been collected. Results of measurements for personal exposures to respirable particulate matter during cooking were reported earlier. This been extended to calculation of 24-hr exposures with the aid of additional measurements during noncooking times and the collection of time-activity records. Concentrations of respirable particulate ranged from 500 to 2,000 μg/m3 during cooking in biomass-using households, and average 24-hr exposures ranged from 90 ± 21 μg/m3 for those not involved in cooking to 231 ± 109 μg/m3 for those who cooked. The 24-hr exposures were around 82 ± 39 μg/m3 for those in households using clean fuels (with similar exposures across household subgroups). Fuel type, type and location of the kitchen, and the time spent near the kitchen while cooking were the most important determinants of exposure across these households among other parameters examined, including stove type, cooking duration, and smoke from neighborhood cooking. These estimates could be used to build a regional exposure database and facilitate health risk assessments.
+KW  - Biomass fuels
+KW  - Developing countries
+KW  - Exposure assessment
+KW  - Indoor air pollution
+KW  - Rural health
+KW  - biofuel
+KW  - biogas
+KW  - kerosene
+KW  - liquefied petroleum gas
+KW  - air analysis
+KW  - air sampling
+KW  - article
+KW  - biomass
+KW  - combustion
+KW  - controlled study
+KW  - cooking
+KW  - environmental exposure
+KW  - environmental parameters
+KW  - female
+KW  - household
+KW  - human
+KW  - India
+KW  - information processing
+KW  - kitchen
+KW  - male
+KW  - medical information
+KW  - particulate matter
+KW  - priority journal
+KW  - rural area
+KW  - smoke
+KW  - socioeconomics
+KW  - stratification
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 12417476
+LA  - English
+J2  - Environ. Health Perspect.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 244; Correspondence Address: K. Balakrishnan; Environmental Health Engineering, Sri Ramachandra Medical College, Research Institute, Chennai-660 116, Porur, India; email: kalpanasrmc@vsnl.com; CODEN: EVHPA
+ER  -
+
+TY  - JOUR
+AU  - Quintana, P.J.E.
+AU  - Samimi, B.S.
+AU  - Kleinman, M.T.
+AU  - Liu, L.-J.
+AU  - Soto, K.
+AU  - Warner, G.Y.
+AU  - Bufalino, C.
+AU  - Valencia, J.
+AU  - Francis, D.
+AU  - Hovell, M.H.
+AU  - Delfino, R.J.
+TI  - Evaluation of a real-time passive personal particle monitor in fixed site residential indoor and ambient measurements
+PY  - 2000
+T2  - Journal of Exposure Analysis and Environmental Epidemiology
+VL  - 10
+IS  - 5
+SP  - 437
+EP  - 445
+DO  - 10.1038/sj.jea.7500105
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033783465&doi=10.1038%2fsj.jea.7500105&partnerID=40&md5=220b615fe945941117e852c36424ddf7
+AD  - San Diego State University, San Diego, CA 92182-4162, United States
+AD  - University of California at Irvine, Irvine, CA 92697-7550, United States
+AD  - University of Washington, Seattle, WA 98915-7234, United States
+AB  - Recent experimental findings in animals and humans indicate adverse respiratory effects from short-term exposures to particulate air pollutants, especially in sensitive subpopulations such as asthmatics. The relationship between air pollution and asthma has mainly been determined using particulate matter (PM) measurements from central sites. Validated tools are needed to assess exposures most relevant to health effects. Recently, a personal passive particulate sampler (personal Data-RAM, pDR, MIE Inc., Bedford, MA) has become available for studying personal exposures to PM with time resolution at 1 min. The pDR measures light scatter from PM in the 0.1-10 μM range, the significant range for health effects. In order to assess the ability of the pDR in predicting gravimetric mass, pDRs were collocated with PM2.5 and PM10 Harvard Impactors (HI) inside and outside nine homes of asthmatic children and at an outdoor central Air Pollution Control District site. Results are presented of comparisons between the HI samplers and the pDR in various modes of operation: Passive, active, and active with a heated inlet. When used outdoors at fixed sites the pDR readings exhibit interference from high relative humidity (RH) unless operated with a method for drying inlet air such as a heater, or if readings at times of high RH are adjusted. The pDR correlates more highly with the HI PM2.5 than with the HI PM10 (r2=0.66 vs. 0.13 for outdoors, r2=0.42 vs. 0.20 for indoors). The pDR appears to be a useful tool for an epidemiologic study that aims to examine the relationship between health outcomes and personal exposure to peaks in PM.
+KW  - Air exposures
+KW  - Fine particulate matter
+KW  - Light scatter
+KW  - Personal exposure monitor
+KW  - Time-resolved
+KW  - air monitoring
+KW  - air pollution
+KW  - airborne particle
+KW  - ambient air
+KW  - article
+KW  - asthma
+KW  - indoor air pollution
+KW  - United States
+PB  - Nature Publishing Group
+SN  - 10534245 (ISSN)
+C2  - 11051534
+LA  - English
+J2  - J. Expos. Anal. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 48; Correspondence Address: P.J.E. Quintana; Graduate School of Public Health, San Diego State University, San Diego, CA 92182-4162, 5500 Campanile Dr., United States; email: jquintan@mail.sdsu.edu; CODEN: JEAEE
+ER  -
+
+TY  - JOUR
+PY  - 2003
+T2  - Fourth External Review Draft of Air Quality Criteria for Particulate Matter
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-3142665164&partnerID=40&md5=6534e5d2beb5bc9d747af3d9b13b25b2
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Brauer, M.
+TI  - Assessment of indoor aerosols with an integrating nephelometer
+PY  - 1995
+T2  - Journal of Exposure Analysis and Environmental Epidemiology
+VL  - 5
+IS  - 1
+SP  - 45
+EP  - 56
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028810858&partnerID=40&md5=1cc9ad410225e92aedf7a469e90c9826
+AD  - University of British Columbia, Department of Medicine, Respiratory Division, Vancouver, BC V6T 1Z3, 2206 East Mall, Canada
+AB  - A portable nephelometer was used to assess particulate levels inside and outside of homes with indoor air impacted by biomass combustion. Simultaneous sampling with PM10 and PM2.5 inertial impactors was undertaken to determine the relationship between particle light scattering coefficient (σ(sp)) and particle mass concentration. Measurements were conducted in 22 homes in rural Mexico and in 6 homes in rural British Columbia, Canada. In both areas, biomass combustion resulted in high levels of fine particulates, mainly indoors in Mexico and outdoors in British Columbia. Comparisons were made between the average of the nephelometer σ(sp) (unheated nephelometer inlet stream) and the measured particle mass (PM10 and PM2.5) during a defined sampling duration. The two measurements were highly correlated (r2 values of 0.79-0.96) over a wide range of particle mass concentrations (10-1600 μg/m3). A stronger correlation was observed for PM2.5 than for PM10. Colocated outdoor nephelometer and impactor measurements were poorly correlated (r2 = 0.50). Substantially different relationships were observed between the Mexico and British Columbia particulate, indicating the importance of particle composition and ambient conditions as factors affecting light scattering, even indoors. However, in a given series of similar indoor environments, the relationship between particle light scattering and mass concentration is stable enough to use independent nephelometer measurements as estimates of mass concentrations. The fast-response, continuous measurement, portability and datalogging capabilities of this nephelometer, combined with its ease of use, make this an important measurement tool to be used in conjunction with traditional filter sampling in the assessment of indoor particle levels and the evaluation of sources.
+KW  - Air pollution
+KW  - Indoor air pollution
+KW  - Nephelometer
+KW  - Particulates
+KW  - Wood smoke
+KW  - Aerosols
+KW  - Air Pollution, Indoor
+KW  - Biomass
+KW  - British Columbia
+KW  - Feasibility Studies
+KW  - Fossil Fuels
+KW  - Housing
+KW  - Mexico
+KW  - Nephelometry and Turbidimetry
+KW  - Rural Population
+KW  - Support, Non-U.S. Gov't
+KW  - Wood
+KW  - air monitoring
+KW  - air pollution
+KW  - ambient air
+KW  - article
+KW  - biomass
+KW  - canada
+KW  - combustion
+KW  - correlation function
+KW  - home
+KW  - indoor air pollution
+KW  - light scattering
+KW  - mexico
+KW  - nephelometry
+KW  - particulate matter
+SN  - 10534245 (ISSN)
+C2  - 7663149
+LA  - English
+J2  - J. EXPOS. ANAL. ENVIRON. EPIDEMIOL.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 20; CODEN: JEAEE
+ER  -
+
+TY  - JOUR
+PY  - 1994
+T2  - Application Note 10-B. Monitoring with DataRAM in Wet/high Humidity Environments
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-12844259187&partnerID=40&md5=e9a7861021496e5a8bc36380c128bf29
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Thomas, A.
+AU  - Gebhart, J.
+TI  - Correlations between gravimetry and light scattering photometry for atmospheric aerosols
+PY  - 1994
+T2  - Atmospheric Environment
+VL  - 28
+IS  - 5
+SP  - 935
+EP  - 938
+DO  - 10.1016/1352-2310(94)90251-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028388852&doi=10.1016%2f1352-2310%2894%2990251-8&partnerID=40&md5=b498d9033607d07587e0dfb21b3d480a
+AD  - GSF-Forschungszentrum fiir Umwelt and Gesundheit GmbH, Institut fiir Biophysikalische Strahlenforschung, D-60596 Frankfurt am Main, Paul- Ehrlich-Str. 20, Germany
+AB  - Light scattering photometers are useful for in situ measurements of mass concentrations of environmental aerosols if certain requirements are fulfilled. For the determination of relative concentrations, the composition of the aerosol (particle size distribution, refractive index) has to be constant during the experiments. Absolute measurements of mass concentrations additionally require a calibration of the photometer in terms of gravimetric units. In the case of atmospheric aerosols special attention has to be paid to the relative humidity which has a strong effect on particle size. Preliminary measurements indicate that for atmospheric background aerosols with a dominating accumulation mode a fairly linear relationship between photometer response and mass (volume) concentration exists, a result, which is in agreement with theoretical predictions. © 1994.
+KW  - accumulation mode
+KW  - atmospheric background aerosol
+KW  - Light scattering photometer
+KW  - mass concentration
+KW  - median refractive index
+KW  - Atmospheric humidity
+KW  - Atmospheric optics
+KW  - Calibration
+KW  - Composition
+KW  - Electromagnetic field theory
+KW  - Gravimetric analysis
+KW  - Light scattering
+KW  - Optical correlation
+KW  - Particle size analysis
+KW  - Photometers
+KW  - Photometry
+KW  - Refractive index
+KW  - accumulation mode
+KW  - aerosol
+KW  - light scattering photometer
+KW  - refractive index
+KW  - aerosol
+KW  - airborne particle
+KW  - atmosphere
+KW  - calibration
+KW  - concentration
+KW  - conference paper
+KW  - gravimetry
+KW  - light scattering
+KW  - particle size
+KW  - photometry
+KW  - priority journal
+KW  - refraction index
+KW  - Accumulation mode
+KW  - Atmospheric background aerosol
+KW  - Gravimetric units
+KW  - Light scattering photometer
+KW  - Mass concentration
+KW  - Atmospheric aerosols
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 51; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Ames, R.B.
+AU  - Hand, J.L.
+AU  - Kreidenweis, S.M.
+AU  - Day, D.E.
+AU  - Malm, W.C.
+TI  - Optical measurements of aerosol size distributions in great smoky mountains national park: Dry aerosol characterization
+PY  - 2000
+T2  - Journal of the Air and Waste Management Association
+VL  - 50
+IS  - 5
+SP  - 665
+EP  - 676
+DO  - 10.1080/10473289.2000.10464128
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034189306&doi=10.1080%2f10473289.2000.10464128&partnerID=40&md5=125d0724ba3813ab2c6074907833c22a
+AD  - Atmospheric Science Department, Colorado State University, Fort Collins, CO, United States
+AD  - Cooperative Institute for Research in the Atmosphere, Colorado State University, Foothills Campus, Fort Collins, CO, United States
+AD  - National Park Service, Colorado State University, Foothills Campus, Fort Collins, CO, United States
+AB  - Aerosol size distributions were measured during the summertime 1995 Southeastern Aerosol and Visibility Study (SEAVS) in Great Smoky Mountains National Park using an Active Scattering Aerosol Spectrometer (ASASP-X) optical particle counter. We present an overview of the experimental method, our data inversion technique, timelines of the size distribution parameters, and calculations of dry accumulation mode aerosol density and refractive index. Aerosol size distributions were recorded during daylight hours for aerosol in the size range 0.1 < Dp < 2.5 u, m. The particle refractive index used for the data inversion was calculated with the partial molar refractive index approach using 12-hr measured aerosol chemical composition. Aerosol accumulation mode volume concentrations ranging from 1 to 26 u, m3 cm-3 were observed, with an average of 7 ± 5 u, m3 cm-3. The study average dry accumulation mode geometric volume median diameter was 0.27 ± 0.03 u, m, and the mean geometric standard deviation was 1.45 ± 0.06. Using an internally mixed aerosol model, and assuming chemical homogeneity across the measured particle distribution, an average accumulation mode dry sulfate ion mass scattering efficiency of 3.8 ± 0.6 m2 g-1 was calculated. © 2000 Air and Waste Management Association.
+KW  - Atmospheric humidity
+KW  - Composition
+KW  - Density (optical)
+KW  - Light extinction
+KW  - Mathematical models
+KW  - Meteorology
+KW  - Optical variables measurement
+KW  - Particle size analysis
+KW  - Refractive index
+KW  - Aerosol density
+KW  - Aerosol size distribution
+KW  - Optical particle counters
+KW  - aerosol
+KW  - air quality
+KW  - article
+KW  - environmental impact assessment
+KW  - particle size
+KW  - priority journal
+KW  - United States
+KW  - Atmospheric aerosols
+SN  - 10473289 (ISSN)
+C2  - 10842931
+LA  - English
+J2  - J Air Waste Manage Assoc
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 27
+ER  -
+
+TY  - JOUR
+AU  - Lanki, T.
+AU  - Alm, S.
+AU  - Ruuskanen, J.
+AU  - Janssen, N.A.H.
+AU  - Jantunen, M.
+AU  - Pekkanen, J.
+TI  - Photometrically measured continuous personal PM2.5 exposure: Levels and correlation to a gravimetric method
+PY  - 2002
+T2  - Journal of Exposure Analysis and Environmental Epidemiology
+VL  - 12
+IS  - 3
+SP  - 172
+EP  - 178
+DO  - 10.1038/sj/jea/7500218
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036094375&doi=10.1038%2fsj%2fjea%2f7500218&partnerID=40&md5=5971beaa683160306ff7c58b198eb047
+AD  - Unit of Environmental Epidemiology, National Public Health Institute, Kuopio, Finland
+AD  - Laboratory of Air Hygiene, National Public Health Institute, Kuopio, Finland
+AD  - Department of Environmental Sciences, University of Kuopio, Kuopio, Finland
+AD  - Division of Environmental and Occupational Health (EOH), Institute for Risk Assessment Sciences (IRAS), Utrecht University, Utrecht, Netherlands
+AB  - There is evidence that hourly variations in exposure to airborne particulate matter (PM) may be associated with adverse health effects. Still there are only few published data on short-term levels of personal exposure to PM in community settings. The objectives of the study were to assess hourly and shorter-term variations in personal PM2.5 exposure in Helsinki, Finland, and to compare results from portable photometers to simultaneously measured gravimetric concentrations. The effect of relative humidity on the photometric results was also evaluated. Personal PM2.5 exposures of elderly persons were assessed for 24 h every second week, resulting in 308 successful measurements from 47 different subjects. Large changes in concentrations in minutes after cooking or changing microenvironment were seen. The median of daily I-h maxima was over twice the median of 24-h averages. There was a strong significant association between the two means, which was not linear. Median (95th percentile) of the photometric 24-h concentrations was 12.1 (37.7) and of the 24-h gravimetric concentrations 9.2 (21.3) μg/m3. The correlation between the photometric and the gravimetric method was quite good (R2=0.86). Participants spent 94.1% of their time indoors or in a vehicle, where relative humidity is usually low and thus not likely to cause significant effects on photometric results. Even outdoors, the relative humidity had only modest effect on concentrations. Photometers are a promising method to explore the health effects of short-term variation in personal PM2.5 exposure.
+KW  - Continuous measurement
+KW  - Particles
+KW  - Personal exposure
+KW  - Photometer
+KW  - Activities of Daily Living
+KW  - Aged
+KW  - Air Pollutants
+KW  - Environmental Monitoring
+KW  - Finland
+KW  - Humans
+KW  - Inhalation Exposure
+KW  - Life Style
+KW  - Particle Size
+KW  - Photometry
+KW  - Risk Assessment
+KW  - Risk Factors
+KW  - Sensitivity and Specificity
+KW  - aged
+KW  - aging
+KW  - air sampling
+KW  - airborne particle
+KW  - article
+KW  - concentration (parameters)
+KW  - correlation analysis
+KW  - environmental exposure
+KW  - Finland
+KW  - gravimetry
+KW  - human
+KW  - humidity
+KW  - measurement
+KW  - normal human
+KW  - particulate matter
+KW  - photometer
+KW  - photometry
+SN  - 10534245 (ISSN)
+C2  - 12032813
+LA  - English
+J2  - J. Expos. Anal. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 33
+ER  -
+
+TY  - JOUR
+AU  - Williams, R.
+AU  - Suggs, J.
+AU  - Zweidinger, R.
+AU  - Evans, G.
+AU  - Creason, J.
+AU  - Kwok, R.
+AU  - Rodes, C.
+AU  - Lawless, P.
+AU  - Sheldon, L.
+TI  - The 1998 Baltimore Particulate Matter Epidemiology - Exposure Study: Part 1. Comparison of ambient, residential outdoor, indoor and apartment particulate matter monitoring
+PY  - 2000
+T2  - Journal of Exposure Analysis and Environmental Epidemiology
+VL  - 10
+IS  - 6
+SP  - 518
+EP  - 532
+DO  - 10.1038/sj.jea.7500107
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034546324&doi=10.1038%2fsj.jea.7500107&partnerID=40&md5=71164c3d7abad1f5360f1d4968e63ae7
+AD  - U.S. Environmental Protection Agency, National Exposure Research Laboratory, Research Triangle Park, NC, United States
+AD  - U.S. Environmental Protection Agency, National Health and Environmental Effects Research Laboratory, Research Triangle Park, NC, United States
+AD  - Research Triangle Institute, Research Triangle Park, NC, United States
+AD  - U.S. Environmental Protection Agency, National Exposure Research Laboratory, MD-56, Research Triangle Park, NC 27711, United States
+AB  - A Combined epidemiological-exposure panel Study was conducted during the summer of 1998 in Baltimore, Maryland. The objectives of the exposure analysis component of the 28-day Study were to investigate the statistical relationships between particulate matter (PM) and related co-pollutants from numerous spatial boundaries associated with an elderly population, provide daily mass concentrations needed for the epidemiological assessment, and perform an extensive personal exposure assessment. Repeated 24-h integrated PM2.5 (n=394) and PM10 (n= 170) data collections corresponding to stationary residential central indoor, individual apartment, residential outdoor and ambient monitoring were obtained using the same sampling methodology. An additional 325 PM2.5 personal air samples were collected from a pool of 21 elderly (65 + years of age) subjects. These subjects were residents of the 18-story retirement facility where residential monitoring was conducted. Mean daily central indoor and residential apartment concentrations were approximately 10 μg/m3. Outdoor and ambient PM2.5 concentrations averaged 22 μg/m3 with a daily range of 6.7-59.3 μg/m3. The slope of the central indoor/outdoor PM2.5 mass relationship was 0.38. The average daily ratio of PM2.5/PM10 mass concentrations across the measurement sites ranged from 0.73 to 0.92. Both the central indoor and mean apartment PM2.5 mass concentrations were highly correlated with the outdoor variables (r>0.94). The lack of traditionally recognized indoor sources of PM present within the facility might have accounted for the high degree of correlation observed between the variables. Results associated with the personal monitoring effort are discussed in depth in Part 2 of this article.
+KW  - Ambient concentrations
+KW  - Elderly population
+KW  - Exposure assessment
+KW  - Particulate matter
+KW  - Residential monitoring
+KW  - aged
+KW  - air monitoring
+KW  - air quality
+KW  - air sampling
+KW  - ambient air
+KW  - article
+KW  - environmental exposure
+KW  - human
+KW  - human experiment
+KW  - normal human
+KW  - particulate matter
+KW  - personal monitoring
+PB  - Nature Publishing Group
+SN  - 10534245 (ISSN)
+C2  - 11140436
+LA  - English
+J2  - J. Expos. Anal. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 78; Correspondence Address: R. Williams; U.S. Environmental Protection Agency, Natl. Exposure Research Laboratory, Research Triangle Park, NC 27711, United States; email: williams.ronald@epa.gov; CODEN: JEAEE
+ER  -
+
+TY  - JOUR
+AU  - Bergin, M.H.
+AU  - Ogren, J.A.
+AU  - Schwartz, S.E.
+AU  - Mcinnes, L.M.
+TI  - Evaporation of ammonium nitrate aerosol in a heated nephelometer: Implications for field measurements
+PY  - 1997
+T2  - Environmental Science and Technology
+VL  - 31
+IS  - 10
+SP  - 2878
+EP  - 2883
+DO  - 10.1021/es970089h
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031260336&doi=10.1021%2fes970089h&partnerID=40&md5=2fd904d305e26f4100a4403c99086037
+AD  - Climate Monitoring Diagnostics Lab., Natl. Oceanic and Atmosph. Admin., Boulder, CO 80303, United States
+AD  - Environmental Chemistry Division, Brookhaven National Laboratory, Upon, NY 11973-5000, United States
+AD  - NOAA, CMDL, R/E/CG1, Boulder, CO 80303, 325 Broadway, United States
+AB  - Ammonium nitrate is a semivolatile aerosol component under typical ambient conditions and thus difficult to measure. In the field, the aerosol scattering coefficient is usually measured width a nephelometer by heating the ambient aerosol to a low reference relative humidity (~40%) in order to measure a light scattering coefficient that is intrinsic to an aerosol rather than dependent on atmospheric relative humidity. In this paper, we examine the decrease in the light scattering coefficient of ammonium nitrate aerosol due to evaporation in a heated nephelometer. Changes in the scattering coefficient of a laboratory-generated ammonium nitrate aerosol are measured as a function of mean residence time and temperature within the nephelometer sample volume. At the same time, the change in the aerosol size distribution due to ammonium nitrate evaporation is directly measured with a laser particle counter. The change in the aerosol size distribution and scattering coefficient is modeled as a function of mean residence time and temperature. Model results for the change in the aerosol scattering coefficient due to evaporation agree with measurements to within 10%. Application of the theory to conditions typical of NOAA field sites suggests that the decrease in the aerosol scattering coefficient due to the evaporation of ammonium nitrate is generally less than 20%.; The decrease in the light scattering coefficient of ammonium nitrate aerosol due to evaporation in a heated nephelometer was examined. The change in the aerosol size distribution due to ammonium nitrate evaporation is directly measured with a laser particle counter. The change in the aerosol size distribution and scattering coefficient was modeled as a function of mean residence time and temperature. Model results for the change in the aerosol scattering coefficient due to evaporation agree with measurements to within 10%.
+KW  - Ammonium compounds
+KW  - Atmospheric humidity
+KW  - Evaporation
+KW  - Light scattering
+KW  - Nephelometers
+KW  - Particle size analysis
+KW  - Radiation counters
+KW  - Thermal effects
+KW  - ammonium nitrate
+KW  - aerosol
+KW  - ammonium nitrate
+KW  - nephelometer
+KW  - scattering
+KW  - aerosol
+KW  - article
+KW  - evaporation
+KW  - heating
+KW  - light scattering
+KW  - mean residence time
+KW  - measurement
+KW  - nephelometry
+KW  - temperature dependence
+KW  - Ammonium nitrates
+KW  - Residence time
+KW  - Scattering coefficient
+KW  - Atmospheric aerosols
+PB  - ACS
+SN  - 0013936X (ISSN)
+LA  - English
+J2  - ENVIRON. SCI. TECHNOL.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 69; Correspondence Address: M.H. Bergin; NOAA, CMDL, Boulder, CO 80303, 325 Broadway, United States; email: mbergin@cmdl.noaa.gov; CODEN: ESTHA
+ER  -
+
+TY  - JOUR
+AU  - Rea, A.W.
+AU  - Zufall, M.J.
+AU  - Williams, R.W.
+AU  - Sheldon, L.
+TI  - The influence of human activity patterns on personal PM exposure: A comparative analysis of filter-based and continuous particle measurements
+PY  - 2001
+T2  - Journal of the Air and Waste Management Association
+VL  - 51
+IS  - 9
+SP  - 1271
+EP  - 1279
+DO  - 10.1080/10473289.2001.10464351
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034849917&doi=10.1080%2f10473289.2001.10464351&partnerID=40&md5=56cadd848f36461a0ab3ec76e661e82b
+AD  - National Exposure Research Laboratory, U.S. Environmental Protection Agency, Research Triangle Park, NC, United States
+AD  - National Exposure Research Laboratory, U.S. Environmental Protection Agency, Reston, VA, United States
+AB  - Particulate matter (PM) exposure data from the U.S. Environmental Protection Agency (EPA)-sponsored 1998 Baltimore and 1999 Fresno PM exposure studies were analyzed to identify important microenvironments and activities that may lead to increased particle exposure for select elderly (>65 years old) subjects. Integrated 24-hr filter-based PM2.5 or PM10 mass measurements [using Personal Environmental Monitors(PEMs)] included personal measurements, indoor and outdoor residential measurements, and measurements at a central indoor site and a community monitoring site. A subset of the participants in each study wore passive nephelometers that continuously measured (1-min averaging time) particles ranging in size from 0.1 to ∼10 μm. Significant activities and locations were identified by a statistical mixed model (p < 0.01) for each study population based on the measured PM2.5 or PM10 mass and time activity data. Elevated PM concentrations were associated with traveling (car or bus), commercial locations (store, office, mall, etc.), restaurants, and working. The modeled results were compared to continuous PM concentrations determined by the nephelometers while participants were in these locations. Overall, the nephelometer data agreed within 6% of the modeled PM2.5 results for the Baltimore participants and within ∼20% for the Fresno participants (variability was due to zero drift associated with the nephelometer). The nephelometer did not agree as well with the PM10 mass measurements, most likely because the nephelometer optimally responds to fine particles (0.3-2 μm). Approximately one-half (54 ± 31%; mean ± standard deviation from both studies) of the average daily PM2.5 exposure occurred inside residences, where the participants spent an average of 83 ± 10% of their time. These data also showed that a significant portion of PM2.5 exposure occurred in locations where participants spent only 4-13% of their time.
+KW  - Automobiles
+KW  - Houses
+KW  - Nephelometers
+KW  - Particulate emissions
+KW  - Particulate matter (PM)
+KW  - aged
+KW  - article
+KW  - comparative study
+KW  - daily life activity
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - filter
+KW  - human
+KW  - measurement
+KW  - particle size
+KW  - particulate matter
+KW  - priority journal
+KW  - statistical model
+KW  - Behavioral research
+SN  - 10962247 (ISSN)
+C2  - 11575880
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 43
+ER  -
+
+TY  - JOUR
+AU  - Shumway, R.H.
+PY  - 1988
+T2  - Applied Statistical Time Series Analysis
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0003547772&partnerID=40&md5=2e6ff2db1db4f45e0c64d9b175d709df
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 478
+ER  -
+
+TY  - JOUR
+AU  - Liu, L.-J.S.
+AU  - Slaughter, J.C.
+AU  - Larson, T.V.
+TI  - Comparison of light scattering devices and impactors for particulate measurements in indoor, outdoor, and personal environments
+PY  - 2002
+T2  - Environmental Science and Technology
+VL  - 36
+IS  - 13
+SP  - 2977
+EP  - 2986
+DO  - 10.1021/es0112644
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036628845&doi=10.1021%2fes0112644&partnerID=40&md5=9772b066e79be17d5a439c46916ca29d
+AD  - UW/EPA NW Research Center for Particulate Air Pollution and Health, Department of Environmental Health, University of Washington, Seattle, WA 98195-7234, United States
+AD  - Department of Civil and Environmental Engineering, University of Washington, Seattle, WA 98195-7234, United States
+AB  - Short-term monitoring of individual particulate matter (PM) exposures on subjects and inside residences in health effect studies have been sparse due to the lack of adequate monitoring devices. The recent development of small and portable light scattering devices, including the Radiance nephelometer (neph) and the personal DataRAM (pDR) has made this monitoring possible. This paper evaluates the performance of both the passive pDR and neph (without any size fractionation inlet) against measurements from both Harvard impactors (HI2.5) and Harvard personal environmental monitors (HPEM2.5) for PM2.5 in indoor, outdoor, and personal settings. These measurements were taken at the residences and on the person of nonsmoking elderly subjects across the metropolitan Seattle area and represent a wide range of light scattering measurements directly related to exposures and health effects. At low PM levels, nephs provided finer resolution and more precise measurements (precision = 3-8% and uncertainty = 2.8 x 10-7 m-1 or < 1 μg/m3) than the pDRs. The unbiased precision of pDRs above 10 μg/m3 is around 5% (with an unbiased uncertainty of 4.4 μg/m3). The 24-h average responses of the pDR and neph, as compared to 24-h integrated gravimetric measurements, are not affected by indoor sources of PM. When regressed against 24-h gravimetric measurements, nephs showed higher coefficients of determination (R2 = 0.81-0.93) than pDRs (R2 = 0.77-0.84). The default mass calibration on the pDRs generally overestimated indoor HI2.5 measurements by 56%. When carried by subjects, the pDR overestimated the HPEM2.5 measurements by approximately 27%. Collocated real-time indoor nephs and pDRs at diverse residential sites had varied coefficients of determination across homes (R2 = 0.75-0.96), and the difference between pDR and neph responses increased during cooking hours. This difference was larger during baking or frying episodes than during other cooking or cleaning activities. Relative humidity, ranging between 25% and 64% indoors in our study, was not a significant factor affecting the differences in neph or pDR response. In summary, for nonsmoking residences, the mass scatterinq efficiency (m2/q) of a stationary indoor neph on a 24-h basis does not vary by residence, including residences with and without cooking activities. This is also true for the pDR. These same stationary indoor pDRs and nephs correlate well with each other, even on a 10-min basis, in the absence of indoor source activities. The fact that these activities comprised a relatively small percentage (cooking + cleaning = 2.3%) of the overall sampling time meant that the overall correlation between these two instruments for all time periods was good. However, when examining the cooking and cleaning periods separately, the correlation was not very good. Thus, during these short-term PM episodes, the 24-h average calibrations versus gravimetric mass should be used with caution. Both devices should be potentially useful in future exposure assessment and health effects studies.
+KW  - Air Pollution, Indoor
+KW  - Calibration
+KW  - Comparative Study
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Human
+KW  - Nephelometry and Turbidimetry
+KW  - Particle Size
+KW  - Support, U.S. Gov't, Non-P.H.S.
+KW  - Calibration
+KW  - Humans
+KW  - Nephelometry and Turbidimetry
+KW  - Particle Size
+KW  - United States
+KW  - Health risks
+KW  - Light scattering
+KW  - Particles (particulate matter)
+KW  - Health effects
+KW  - health impact
+KW  - indoor air
+KW  - instrumentation
+KW  - light scattering
+KW  - suspended particulate matter
+KW  - air quality
+KW  - air quality standard
+KW  - air sampling
+KW  - ambient air
+KW  - article
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - home
+KW  - intermethod comparison
+KW  - light scattering
+KW  - measurement
+KW  - nephelometry
+KW  - particulate matter
+KW  - quality control
+KW  - calibration
+KW  - comparative study
+KW  - environmental exposure
+KW  - evaluation
+KW  - human
+KW  - indoor air pollution
+KW  - methodology
+KW  - particle size
+KW  - photometry
+KW  - Air quality
+SN  - 0013936X (ISSN)
+C2  - 12144275
+LA  - English
+J2  - Environ. Sci. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 82; Correspondence Address: L.-J.S. Liu; UW/EPA NW Research Center, Department of Environmental Health, University of Washington, Seattle, WA 98195-7234, United States; email: sliu@u.washington.edu; CODEN: ESTHA
+ER  -
+
+TY  - JOUR
+AU  - Wallace, L.A.
+AU  - Mitchell, H.
+AU  - O'Connor, G.T.
+AU  - Neas, L.
+AU  - Lippmann, M.
+AU  - Kattan, M.
+AU  - Koenig, J.
+AU  - Stout, J.W.
+AU  - Vaughn, B.J.
+AU  - Wallace, D.
+AU  - Walter, M.
+AU  - Adams, K.
+AU  - Liu, L.-J.S.
+TI  - Particle concentrations in inner-city homes of children with asthma: The effect of smoking, cooking, and outdoor pollution
+PY  - 2003
+T2  - Environmental Health Perspectives
+VL  - 111
+IS  - 9
+SP  - 1265
+EP  - 1272
+DO  - 10.1289/ehp.6135
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0041696853&doi=10.1289%2fehp.6135&partnerID=40&md5=2fe07cdffa2433c8e1cb56ca27495b1d
+AD  - U.S. Environmental Protection Agency, Reston, VA 20191-4471, 11568 Woodhollow Ct., United States
+AD  - Rho Inc., Chapel Hill, NC, United States
+AD  - Boston University, Boston, MA, United States
+AD  - U.S. Environmental Protection Agency, Research Triangle Park, NC, United States
+AD  - New York University School of Med., Tuxedo, NY, United States
+AD  - Natl. Inst. of Environ. Hlth. Sci., Research Triangle Park, NC, United States
+AD  - University of Washington, Seattle, WA, United States
+AD  - Natl. Inst. of Allergy/Infect. Dis., Bethesda, MD, United States
+AB  - Inner-city children have high rates of asthma. Exposures to particles, including allergens, may cause or exacerbate asthma symptoms. As part of an epidemiologic study of inner-city children with asthma, continuous (10-min average) measurements of particle concentrations were made for 2-week periods in 294 homes drawn from seven cities. Measurements were made using an optical scattering device that is most sensitive to fine particles. The concentrations recorded by these devices were corrected to agree with colocated outdoor gravimetric PM2.5 monitors. Indoor concentrations in the homes averaged 27.7 (standard deviation = 35.9) μg/m3, compared with concurrent outdoor concentrations of 13.6 (7.5) μg/m3. A multivariate model indicated that outdoor particles penetrated indoors with an efficiency of 0.48 and were therefore responsible for only 25% of the mean indoor concentration. The major indoor source was smoking, which elevated indoor concentrations by 37 μg/m3 in the 101 homes with smokers. Other significant sources included frying, smoky cooking events, use of incense, and apartment housing, although the increases due to these events ranged only from 3 to 6 μg/m3. The 10-min averaging time allowed calculation of an average diurnal variation, showing large increases in the evening due to smoking and smaller increases at meal times due to cooking. Most of the observed variance in indoor concentrations was day to day, with roughly similar contributions to the variance from visit to visit and home to home within a city and only a small contribution made by variance among cities. The small variation among cities and the similarity across cities of the observed indoor air particle distributions suggest that sources of indoor concentrations do not vary considerably from one city to the next, and thus that simple models can predict indoor air concentrations in cities having only outdoor measurements.
+KW  - Continuous monitors
+KW  - Environmental tobacco smoke
+KW  - Gravimetric measurements
+KW  - Indoor air
+KW  - MIE pDR
+KW  - Optical scattering
+KW  - PM<sub>10</sub>
+KW  - PM<sub>2.5</sub>
+KW  - Nicotiana tabacum
+KW  - allergen
+KW  - asthma
+KW  - child
+KW  - city
+KW  - concentration (parameters)
+KW  - controlled study
+KW  - cooking
+KW  - device
+KW  - disease exacerbation
+KW  - gravimetry
+KW  - housing
+KW  - human
+KW  - indoor air pollution
+KW  - multivariate analysis
+KW  - particle size
+KW  - pollution
+KW  - prevalence
+KW  - priority journal
+KW  - review
+KW  - smoking
+KW  - variance
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 12842784
+LA  - English
+J2  - Environ. Health Perspect.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 213; Correspondence Address: L.A. Wallace; U.S. Environmental Protection Agency, Reston, VA 20191-4471, 11568 Woodhollow Ct., United States; email: wallace.lance@epa.gov; CODEN: EVHPA
+ER  -
+
+TY  - JOUR
+AU  - Richards, L.W.
+AU  - Alcorn, S.H.
+AU  - McDade, C.
+AU  - Couture, T.
+AU  - Lowenthal, D.
+AU  - Chow, J.C.
+AU  - Watson, J.C.
+TI  - Optical properties of the San Joaquin Valley aerosol collected during the 1995 integrated monitoring study
+PY  - 1999
+T2  - Atmospheric Environment
+VL  - 33
+IS  - 29
+SP  - 4787
+EP  - 4795
+DO  - 10.1016/S1352-2310(99)00267-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033237877&doi=10.1016%2fS1352-2310%2899%2900267-8&partnerID=40&md5=927ed97606ebf85efbc26ab03c324b02
+AD  - Sonoma Technology, Inc., Petaluma, CA, United States
+AD  - ENSR Corporation, Camarillo, CA, United States
+AD  - Desert Research Institute, Reno, Nevada, United States
+AB  - Optical, filter chemistry, and cascade impactor data collected during the winter intensive of the IMS95 Study in the San Joaquin Valley (SJV) of California were analyzed to determine the light-extinction efficiency of aerosol species. Regression of light scattering by particles (b(sp)) measured by a heated nephelometer without a size selective inlet against PM2.5 front filter mass gave a scattering efficiency of 3.67 ± 0.05 m2/g with an R2 (fraction of variance explained) of 0.94. Division of the aerosol into two components and applying two different corrections to the filter data for nitrate and organic carbon on the backup filter gave scattering efficiencies of 3.7 ± 0.3 or 4.1 ± 0.2 m2/g for the salts composed of sulfate, nitrate, and ammonium and 2.9 ± 0.2 or 3.1 ± 0.2 m2/g for all other species with R2 of 0.985 and 0.986. The ambient b(sp) measured by an open nephelometer was a simple function of PM2.5 mass and relative humidity (RH), giving R2 of 0.90 and 0.88 for two different RH sensors. Variations in PM2.5 size distribution and composition did not have an important effect on ambient b(sp). The RH data from each sensor were repeatable enough to show the existence of a simple dependence of aerosol water uptake on RH, but RH sensor calibration uncertainties prevented determining this dependence. Inversion of MOUDI cascade impactor data gave sulfate and nitrate mass median diameters (MMD) between 0.4 and 0.8 μm. Mie scattering calculations based on MOUDI data provided humidity-dependent extinction efficiencies for the principal aerosol chemical species. These efficiencies combined with particle filter data showed that ammonium nitrate was the dominant contributor to wintertime light extinction. Source apportionment showed that light extinction was dominated by emissions sources contributing to the formation of secondary species, especially nitrate. These wintertime data are not expected to apply to summertime in the SJV.; Optical, filter chemistry, and cascade impactor data collected during the winter intensive of the IMS95 Study in the San Joaquin Valley (SJV) of California were analyzed to determine the light-extinction efficiency of aerosol species. Regression of light scattering by particles (bsp) measured by a heated nephelometer without a size selective inlet against PM2.5 front filter mass gave a scattering efficiency of 3.67±0.05 m2/g with an R2 (fraction of variance explained) of 0.94. Division of the aerosol into two components and applying two different corrections to the filter data for nitrate and organic carbon on the backup filter gave scattering efficiencies of 3.7±0.3 or 4.1±0.2 m2/g for the salts composed of sulfate, nitrate, and ammonium and 2.9±0.2 or 3.1±0.2 m2/g for all other species with R2 of 0.985 and 0.986. The ambient bsp measured by an open nephelometer was a simple function of PM2.5 mass and relative humidity (RH), giving R2 of 0.90 and 0.88 for two different RH sensors. Variations in PM2.5 size distribution and composition did not have an important effect on ambient bsp. The RH data from each sensor were repeatable enough to show the existence of a simple dependence of aerosol water uptake on RH, but RH sensor calibration uncertainties prevented determining this dependence. Inversion of MOUDI cascade impactor data gave sulfate and nitrate mass median diameters (MMD) between 0.4 and 0.8 μm. Mie scattering calculations based on MOUDI data provided humidity-dependent extinction efficiencies for the principal aerosol chemical species. These efficiencies combined with particle filter data showed that ammonium nitrate was the dominant contributor to wintertime light extinction. Source apportionment showed that light extinction was dominated by emissions sources contributing to the formation of secondary species, especially nitrate. These wintertime data are not expected to apply to summertime in the SJV.
+KW  - Aerosol light-scattering efficiency
+KW  - Effect on light scattering
+KW  - Light-extinction budget
+KW  - Relative humidity
+KW  - Source apportionment of light extinction
+KW  - United States
+KW  - Ammonium compounds
+KW  - Atmospheric aerosols
+KW  - Atmospheric composition
+KW  - Atmospheric humidity
+KW  - Carbon
+KW  - Climate change
+KW  - Light emission
+KW  - Light extinction
+KW  - Light scattering
+KW  - Nephelometers
+KW  - Particle size analysis
+KW  - Sulfur compounds
+KW  - ammonia
+KW  - nitrate
+KW  - sulfate
+KW  - aerosol property
+KW  - optical property
+KW  - pollution monitoring
+KW  - aerosol
+KW  - air monitoring
+KW  - air sampling
+KW  - article
+KW  - chemical composition
+KW  - humidity
+KW  - light scattering
+KW  - optical rotation
+KW  - particle size
+KW  - priority journal
+KW  - United States
+KW  - winter
+KW  - Mie scattering
+KW  - Sulfate
+KW  - Atmospheric chemistry
+PB  - Elsevier Science Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 50; Correspondence Address: L.W. Richards; Sonoma Technology, Inc., Petaluma, CA, United States; email: will@sonomatech.com; CODEN: AENVE
+ER  -
+
+TY  - JOUR
+TI  - National air quality and emissions trends report
+PY  - 2000
+T2  - National Air Quality and Emissions Trends Report
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0003475584&partnerID=40&md5=179e79fd98a2008a98406871ce66250b
+LA  - undefined
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 05 October 2026; Cited By: 348
+ER  -
+

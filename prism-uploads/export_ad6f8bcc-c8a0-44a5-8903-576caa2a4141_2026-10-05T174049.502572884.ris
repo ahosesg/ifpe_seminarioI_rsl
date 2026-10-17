@@ -1,0 +1,2544 @@
+TY  - JOUR
+AU  - Tryner, J.
+AU  - Good, N.
+AU  - Wilson, A.
+AU  - Clark, M.L.
+AU  - Peel, J.L.
+AU  - Volckens, J.
+TI  - Variation in gravimetric correction factors for nephelometer-derived estimates of personal exposure to PM2.5
+PY  - 2019
+T2  - Environmental Pollution
+VL  - 250
+SP  - 251
+EP  - 261
+DO  - 10.1016/j.envpol.2019.03.121
+UR  - https://www.scopus.com/pages/publications/85064222060?origin=resultslist
+AD  - Department of Mechanical Engineering, Colorado State University, 1374 Campus Delivery, Fort Collins, 80523, CO, United States
+AD  - Department of Environmental and Radiological Health Sciences, Colorado State University, F1681 Campus Delivery, Fort Collins, 80523, CO, United States
+AD  - Department of Statistics, Colorado State University, 1877 Campus Delivery, Fort Collins, 80523, CO, United States
+AB  - Many portable monitors for quantifying mass concentrations of particulate matter air pollution rely on aerosol light scattering as the measurement method; however, the relationship between scattered light (what is measured) and aerosol mass concentration (the metric of interest) is a complex function of the refractive index, size distribution, and shape of the particles. In this study, we compared 33-h personal PM2.5 concentrations measured simultaneously using nephelometry (personal DataRAM pDR-1200) and gravimetric filter sampling for working adults (44 participants, 249 samples). Nephelometer- and filter-derived 33-h average PM2.5 concentrations were correlated (Spearman's ρ = 0.77); however, the nephelometer-derived concentration was within 20% of the filter-derived concentration for only 13% of samples. The nephelometer/filter ratio, which is used to correct light-scattering measurements to a gravimetric sample, had a median value of 0.52 and varied by over a factor of three (10th percentile = 0.35, 90th percentile = 1.1). When 33-h samples with >50% of 10-s average nephelometer readings below the nephelometer limit of detection were removed from the dataset during sensitivity analyses, the fraction of nephelometer-derived concentrations that were within 20% of the filter-derived concentration increased to 25%. We also evaluated how much the accuracy of nephelometer-derived concentrations improved after applying: (1) a median correction factor derived from a subset of 44 gravimetric samples, (2) participant-specific correction factors derived from one same from each subject, and (3) correction factors predicted using linear models based on other variables recorded during the study. Each approach independently increased the fraction of nephelometer-derived concentrations that were within 20% of the filter-derived concentration to approximately 45%. These results illustrate the challenges with using light scattering (without correction to a concurrent gravimetric sample) to estimate personal exposure to PM2.5 mass among mobile adults exposed to low daily average concentrations (median = 8 μg m−3 in this study). © 2019 Elsevier Ltd; Variations in the factor used to correct nephelometer data to a gravimetric sample present challenges for estimating personal exposure to PM2.5 mass. © 2019 Elsevier Ltd
+KW  - Aerosols
+KW  - Air Pollutants
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Filtration
+KW  - Humans
+KW  - Limit of Detection
+KW  - Nephelometry and Turbidimetry
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Aerosols
+KW  - Air pollution
+KW  - Exposure controls
+KW  - Light scattering
+KW  - Particle size analysis
+KW  - Refractive index
+KW  - Sensitivity analysis
+KW  - Aerosol mass concentration
+KW  - Average concentration
+KW  - Gravimetric samples
+KW  - Light scattering measurement
+KW  - Limit of detection
+KW  - Measurement methods
+KW  - Particulate matter air pollution
+KW  - PM2.5 concentration
+KW  - adult
+KW  - atmospheric pollution
+KW  - concentration (composition)
+KW  - correction
+KW  - gravimetry
+KW  - light scattering
+KW  - measurement method
+KW  - particulate matter
+KW  - pollution exposure
+KW  - adult
+KW  - aged
+KW  - air pollution
+KW  - Article
+KW  - concentration (parameter)
+KW  - controlled study
+KW  - environmental exposure
+KW  - fractionation
+KW  - gravimetry
+KW  - human
+KW  - laser nephelometry
+KW  - light scattering
+KW  - limit of detection
+KW  - measurement accuracy
+KW  - particulate matter
+KW  - pollution monitoring
+KW  - prediction
+KW  - predictive value
+KW  - sensitivity analysis
+KW  - aerosol
+KW  - air pollutant
+KW  - analysis
+KW  - comparative study
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - filtration
+KW  - particle size
+KW  - particulate matter
+KW  - photometry
+KW  - procedures
+KW  - Nephelometers
+PB  - Elsevier Ltd
+SN  - 02697491 (ISSN)
+C2  - 30999202
+LA  - English
+J2  - Environ. Pollut.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85064222060
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 21
+N1  - Funding details: U.S. Department of Health and Human Services, HHS; National Institutes of Health, NIH; CDC NIOSH; National Institute of Environmental Health Sciences, NIEHS, (R01ES020017, T42OH009229)
+N1  - Funding text 1: This work was funded by the United States Department of Health and Human Services (HHS), National Institute of Health (NIH), National Institute of Environmental Health Sciences (NIEHS) under grant R01ES020017 and under grant T42OH009229-08 by CDC NIOSH Mountain and Plains Education and Research Center. The funding sources had no role in the study design; in collection, analysis, and interpretation of data; in the writing of this article; or in the decision to submit this article for publication. The authors thank the members of the Fort Collins Commuter Study research team: Anna M\u00F6lter, Charis Ackerson, Annette Bachand, Taylor Carpenter, Kristen M. Fedak, Ashleigh Kayne, Kirsten Koehler, Brianna Moore, Christian L'Orange, Casey Quinn, Viney Ugave, and Amy L. Stuart.
+N1  - Funding text 2: This work was funded by the United States Department of Health and Human Services (HHS), National Institute of Health (NIH) , National Institute of Environmental Health Sciences (NIEHS) under grant R01ES020017 and under grant T42OH009229-08 by CDC NIOSH Mountain and Plains Education and Research Center . The funding sources had no role in the study design; in collection, analysis, and interpretation of data; in the writing of this article; or in the decision to submit this article for publication. 
+N1  - Correspondence Address: J. Volckens; Department of Mechanical Engineering, Colorado State University, Fort Collins, 1374 Campus Delivery, 80523, United States; email: john.volckens@colostate.edu
+N1  - CODEN: ENPOE
+ER  -
+
+TY  - JOUR
+AU  - Adams, C.
+AU  - Riggs, P.
+AU  - Volckens, J.
+TI  - Development of a method for personal, spatiotemporal exposure assessment
+PY  - 2009
+T2  - Journal of Environmental Monitoring
+VL  - 11
+IS  - 7
+SP  - 1331
+EP  - 1339
+DO  - 10.1039/b903841h
+UR  - https://www.scopus.com/pages/publications/67651154200?origin=resultslist
+AD  - Department of Environmental and Radiological Health Sciences, Colorado State University, Fort Collins, CO, United States
+AB  - This work describes the development and evaluation of a high resolution, space and time-referenced sampling method for personal exposure assessment to airborne particulate matter (PM). This method integrates continuous measures of personal PM levels with the corresponding location-activity (i.e. work/school, home, transit) of the subject. Monitoring equipment include a small, portable global positioning system (GPS) receiver, a miniature aerosol nephelometer, and an ambient temperature monitor to estimate the location, time, and magnitude of personal exposure to particulate matter air pollution. Precision and accuracy of each component, as well as the integrated method performance were tested in a combination of laboratory and field tests. Spatial data was apportioned into pre-determined location-activity categories (i.e. work/school, home, transit) with a simple, temporospatially-based algorithm. The apportioning algorithm was extremely effective with an overall accuracy of 99.6%. This method allows examination of an individual's estimated exposure through space and time, which may provide new insights into exposure-activity relationships not possible with traditional exposure assessment techniques (i.e., time-integrated, filter-based measurements). Furthermore, the method is applicable to any contaminant or stressor that can be measured on an individual with a direct-reading sensor. © 2009 The Royal Society of Chemistry.
+KW  - Aerosols
+KW  - Air Pollutants
+KW  - Algorithms
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Geographic Information Systems
+KW  - Geography
+KW  - Humans
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Reproducibility of Results
+KW  - Risk Assessment
+KW  - Sensitivity and Specificity
+KW  - Temperature
+KW  - Time Factors
+KW  - air pollution
+KW  - airborne particle
+KW  - algorithm
+KW  - article
+KW  - controlled study
+KW  - environmental exposure
+KW  - environmental temperature
+KW  - global positioning system
+KW  - laboratory test
+KW  - particulate matter
+KW  - priority journal
+KW  - sampling
+SN  - 14640325 (ISSN)
+C2  - 20449221
+LA  - English
+J2  - J. Environ. Monit.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-67651154200
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 48
+N1  - CODEN: JEMOF
+ER  -
+
+TY  - JOUR
+AU  - Chen, C.
+AU  - Zeger, S.
+AU  - Breysse, P.
+AU  - Katz, J.
+AU  - Checkley, W.
+AU  - Curriero, F.C.
+AU  - Tielsch, J.M.
+TI  - Estimating indoor PM2.5 and CO concentrations in households in southern Nepal: The Nepal cookstove intervention trials
+PY  - 2016
+T2  - PLoS ONE
+VL  - 11
+IS  - 7
+C7  - e0157984
+DO  - 10.1371/journal.pone.0157984
+UR  - https://www.scopus.com/pages/publications/84978886194?origin=resultslist
+AD  - Department of Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States
+AD  - Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States
+AD  - Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States
+AD  - Division of Pulmonary and Critical Care, Department of Medicine, Johns Hopkins School of Medicine, Baltimore, MD, United States
+AD  - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States
+AD  - Department of Global Health, Milken Institute School of Public Health, George Washington University, Washington, DC, United States
+AB  - High concentrations of household air pollution (HAP) due to biomass fuel usage with unvented, insufficient combustion devices are thought to be an important health risk factor in South Asia population. To better characterize the indoor concentrations of particulate matter (PM2.5) and carbon monoxide (CO), and to understand their impact on health in rural southern Nepal, this study analyzed daily monitoring data collected with DataRAM pDR-1000 and LASCAR CO data logger in 2980 households using traditional biomass cookstove indoor through the Nepal Cookstove Intervention Trial-Phase I between March 2010 and October 2011. Daily average PM2.5 and CO concentrations collected in area near stove were 1,376 (95% CI, 1,331-1,423) μg/m3 and 10.9 (10.5-11.3) parts per million (ppm) among households with traditional cookstoves. The 95th percentile, hours above 100μg/m3 for PM2.5 or 6ppm for CO, and hours above 1000μg/m3 for PM2.5 or 9ppm for CO were also reported. An algorithm was developed to differentiate stove-influenced (SI) periods from non-stove-influenced (non-SI) periods in monitoring data. Average stove-influenced concentrations were 3,469 (3,350-3,588) μg/m3 for PM2.5 and 21.8 (21.1-22.6) ppm for CO. Dry season significantly increased PM2.5 concentration in all metrics; wood was the cleanest fuel for PM2.5 and CO, while adding dung into the fuel increased concentrations of both pollutants. For studies in rural southern Nepal, CO concentration is not a viable surrogate for PM2.5 concentrations based on the low correlation between these measures. In sum, this study filled a gap in knowledge on HAP in rural Nepal using traditional cookstoves and revealed very high concentrations in these households. © 2016, Public Library of Science. All rights reserved. This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.
+KW  - Air Pollution
+KW  - Air Pollution, Indoor
+KW  - Carbon Monoxide
+KW  - Cooking
+KW  - Environmental Monitoring
+KW  - Family Characteristics
+KW  - Household Articles
+KW  - Household Products
+KW  - Nepal
+KW  - Particulate Matter
+KW  - carbon monoxide
+KW  - carbon monoxide
+KW  - domestic chemical
+KW  - particulate matter
+KW  - Article
+KW  - biomass
+KW  - cooking
+KW  - environmental exposure
+KW  - household
+KW  - indoor air pollution
+KW  - manure
+KW  - Nepal
+KW  - particulate matter
+KW  - rural population
+KW  - wood
+KW  - air pollution
+KW  - analysis
+KW  - cooking
+KW  - environmental monitoring
+KW  - family size
+KW  - indoor air pollution
+KW  - particulate matter
+PB  - Public Library of Science
+SN  - 19326203 (ISSN)
+C2  - 27389398
+LA  - English
+J2  - PLoS ONE
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84978886194
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 47
+N1  - Funding details: United Nations Foundation, (UNF-12-380); National Institutes of Health, NIH; National Institute of Environmental Health Sciences, NIEHS, (R01ES015558); National Institute of Environmental Health Sciences, NIEHS; Thrasher Research Fund, TRF, (02830–4); Thrasher Research Fund, TRF
+N1  - Funding text 1: This work was performed with financial support from the National Institute of Environmental Health Sciences, United States National Institutes of Health (ES015558), the Thrasher Research Fund (02830–4), and the Global Alliance for Clean Cookstoves of the United Nations Foundation (UNF-12-380).
+N1  - CODEN: POLNC
+ER  -
+
+TY  - JOUR
+AU  - Wu, C.-F.
+AU  - Delfino, R.J.
+AU  - Floro, J.N.
+AU  - Quintana, P.J.E.
+AU  - Samimi, B.S.
+AU  - Kleinman, M.T.
+AU  - Allen, R.W.
+AU  - Liu, L.-J.S.
+TI  - Exposure assessment and modeling of particulate matter for asthmatic children using personal nephelometers
+PY  - 2005
+T2  - Atmospheric Environment
+VL  - 39
+IS  - 19
+SP  - 3457
+EP  - 3469
+DO  - 10.1016/j.atmosenv.2005.01.061
+UR  - https://www.scopus.com/pages/publications/20444385112?origin=resultslist
+AD  - Department of Public Health, National Taiwan University, Taipei 100, Taiwan
+AD  - Epidemiology Division, Department of Medicine, University of California at Irvine, Irvine, CA 92697, United States
+AD  - Division of Occupational and Environmental Health, San Diego State University, San Diego, CA 92182, United States
+AD  - Department of Community and Environmental Medicine, University of California at Irvine, Irvine, CA 92697, United States
+AD  - Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA 98195, United States
+AB  - It has been shown that acute exposures to particulate matter (PM) may exacerbate asthma in children. However, most epidemiological studies have relied on time-integrated PM measurements taken at a centrally located stationary monitoring sites. In this article, we characterized children's short-term personal exposures to PM2.5 (PM with aerodynamic diameters <2.5 μm) and separated them into ambient and nonambient components. The personal DataRAM without a size-selective inlet was used to estimate real-time PM 2.5 concentrations on 20 asthmatic children, inside and outside of their residences, and at a central site. The personal and indoor pDRs were operated passively, while the home outdoor and central site instruments were operated actively. The subjects received 29.2% of their exposures at school, even though they only spent 16.4% of their time there. More precise personal clouds were estimated for the home-indoor and home-outdoor microenvironments where PM concentrations were measured. The personal cloud increased with increasing activity levels and was higher during outdoor activities than during indoor activities. We built models to predict personal PM exposures based on either microenvironmental or central-site PM2.5 measurements, and evaluated the modeled exposures against the actual personal measurements. A multiple regression model with central site PM concentration as the main predictor had a better prediction power (R2=0.41) than a three- microenvironmental model (R2=0.11). We further constructed a source-specific exposure model utilizing the time-space-activity information and the particle infiltration efficiencies (mean=0.72±0.15) calculated from a recursive mass balance model. It was estimated that the mean hourly personal exposures resulting from ambient, indoor-generated, and personal activity PM2.5 were 11.1, 5.5, and 10.0 μg/m3, respectively, when the modeling error was minimized. The high PM2.5 exposure to personal activities reported in our study is likely due to children's more active lifestyle as compared with older adult subjects in previous studies. © 2005 Elsevier Ltd. All rights reserved.
+KW  - Exposure model
+KW  - Infiltration efficiency
+KW  - Personal cloud
+KW  - Pm<sub>2.5</sub>
+KW  - Spatial model
+KW  - Air quality
+KW  - Computer simulation
+KW  - Concentration (process)
+KW  - Indoor air pollution
+KW  - Monitoring
+KW  - Particles (particulate matter)
+KW  - Regression analysis
+KW  - child health
+KW  - occupational exposure
+KW  - particulate matter
+KW  - pollution exposure
+KW  - accuracy
+KW  - adolescent
+KW  - air pollution
+KW  - ambient air
+KW  - article
+KW  - asthma
+KW  - controlled study
+KW  - error
+KW  - female
+KW  - home
+KW  - human
+KW  - male
+KW  - mathematical computing
+KW  - mathematical model
+KW  - microenvironment
+KW  - multiple regression
+KW  - particulate matter
+KW  - prediction
+KW  - priority journal
+KW  - school
+KW  - school child
+KW  - Asthma
+KW  - Epidemological studies
+KW  - Microenvironments
+KW  - Particle infiltration efficiency
+KW  - Pulmonary diseases
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-20444385112
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 45
+N1  - Funding details: National Institutes of Health, NIH; National Institute of Environmental Health Sciences, NIEHS, (ES-06214, R827355); National Institute of Environmental Health Sciences, NIEHS
+N1  - Funding text 1: This study was funded by NIH/NIEHS grant ES-06214 and EPA Northwest Center for Particulate Air Pollution and Health grant R827355.
+N1  - Correspondence Address: C.-F. Wu; Department of Public Health, National Taiwan University, Taipei 100, Taiwan; email: changfu@ntu.edu.tw
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Vosburgh, D.J.H.
+AU  - Cauda, E.
+AU  - O’Shaughnessy, P.T.
+AU  - Sheehan, M.J.
+AU  - Park, J.H.
+AU  - Anderson, K.
+TI  - Direct-reading instruments for aerosols: A review for occupational health and safety professionals part 1: Instruments and good practices
+PY  - 2022
+T2  - Journal of Occupational and Environmental Hygiene
+VL  - 19
+IS  - 12
+SP  - 696
+EP  - 705
+DO  - 10.1080/15459624.2022.2132255
+UR  - https://www.scopus.com/pages/publications/85140389069?origin=resultslist
+AD  - Department of Occupational & Environmental Safety & Health, University of Wisconsin-Whitewater, Whitewater, WI, United States
+AD  - Pittsburgh Mining Research Division, National Institute for Occupational Safety and Health, Pittsburgh, PA, United States
+AD  - Department of Occupational and Environmental Health, University of Iowa, Iowa City, IA, United States
+AD  - Department of Health, West Chester University, West Chester, PA, United States
+AD  - School of Health Sciences, Purdue University, West Lafayette, IN, United States
+AD  - Respiratory Health Division, National Institute for Occupational Safety and Health, Morgantown, WV, United States
+AB  - With advances in technology, there are an increasing number of direct-reading instruments available to occupational health and safety professionals to evaluate occupational aerosol exposures. Despite the wide array of direct-reading instruments available to professionals, the adoption of direct-reading technology to monitor workplace exposures has been limited, partly due to a lack of knowledge on how the instruments operate, how to select an appropriate instrument, and challenges in data analysis techniques. This paper presents a review of direct-reading aerosol instruments available to occupational health and safety professionals, describes the principles of operation, guides instrument selection based on the workplace and exposure, and discusses data analysis techniques to overcome these barriers to adoption. This paper does not cover all direct-reading instruments for aerosols but only those that an occupational health and safety professional could use in a workplace to evaluate exposures. Therefore, this paper focuses on instruments that have the most potential for workplace use due to their robustness, past workplace use, and price with regard to return on investment. The instruments covered in this paper include those that measure aerosol number concentration, mass concentration, and aerosol size distributions. © 2022 JOEH, LLC.
+KW  - Aerosols
+KW  - analyzing data
+KW  - direct-reading instruments
+KW  - optical particle counters
+KW  - real-time monitors
+KW  - Aerosols
+KW  - Air Pollutants, Occupational
+KW  - Environmental Monitoring
+KW  - Humans
+KW  - Occupational Exposure
+KW  - Occupational Health
+KW  - Particle Size
+KW  - Reading
+KW  - aerosol
+KW  - air pollutant
+KW  - environmental monitoring
+KW  - human
+KW  - occupational exposure
+KW  - occupational health
+KW  - particle size
+KW  - prevention and control
+KW  - procedures
+KW  - reading
+PB  - Taylor and Francis Ltd.
+SN  - 15459624 (ISSN)
+C2  - 36197119
+LA  - English
+J2  - J. Occup. Environ. Hyg.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85140389069
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 9
+N1  - Funding details: National Institute for Occupational Safety and Health, NIOSH, (T03OH008615); National Institute for Occupational Safety and Health, NIOSH
+N1  - Correspondence Address: D.J.H. Vosburgh; Department of Occupational & Environmental Safety & Health, University of Wisconsin-Whitewater, Whitewater, United States; email: vosburgd@uww.edu
+N1  - CODEN: JOEHA
+ER  -
+
+TY  - JOUR
+AU  - Fischer, S.L.
+AU  - Koshland, C.P.
+TI  - Field performance of a nephelometer in rural kitchens: Effects of high humidity excursions and correlations to gravimetric analyses
+PY  - 2007
+T2  - Journal of Exposure Science and Environmental Epidemiology
+VL  - 17
+IS  - 2
+SP  - 141
+EP  - 150
+DO  - 10.1038/sj.jes.7500486
+UR  - https://www.scopus.com/pages/publications/34047112810?origin=resultslist
+AD  - Environmental Health Sciences, School of Public Health, University of California, Berkeley, CA, United States
+AD  - Environmental Health Sciences, School of Public Health, University of California, Berkeley, CA 94720, United States
+AB  - Rural kitchens of solid-fuel burning households constitute the microenvironment responsible for the majority of human exposures to health-damaging air pollutants, particularly respirable particles and carbon monoxide. Portable nephelometers facilitate cheaper, more precise, time-resolved characterization of particles in rural homes than are attainable by gravitational methods alone. However, field performance of nephelometers must contend with aerosols that are highly variable in terms of chemical content, size, and relative humidity. Previous field validations of nephelometer performance in residential settings explore relatively low particle concentrations, with the vast majority of 24-h average gravitational PM 2.5 concentrations falling below 40 μg/m3. We investigate relationships between 24-h gravitational particle measurements and nephelometric data logged by the personal DataRAM (pDR) in highly polluted rural Chinese kitchens, where gravitationally determined 24-h average respirable particle concentrations were as high as 700 μg/m3. We find that where relative humidity remained below 95%, nephelometric response was strongly linear despite complex mixtures of aerosols and variable ambient conditions. Where 95% relative humidity was exceeded for even a brief duration, nephelometrically determined 24-h mean particle concentrations were nonsystematically distorted relative to gravitational data, and neither concurrent relative humidity measurements nor use of robust statistical measures of central tendency offered means of correction. This nonsystematic distortion is particularly problematic for rural exposure assessment studies, which emphasize upper quantiles of time-resolved particle measurements within 24-h samples. Precise, accurate interpretation of nephelometrically resolved short-term particle concentrations requires calibration based on short-term gravitational sampling. © 2007 Nature Publishing Group All rights reserved.
+KW  - Nephelometer
+KW  - Particle concentration
+KW  - pDR
+KW  - PersonalDataRAM
+KW  - Rural exposure
+KW  - Air Pollution, Indoor
+KW  - Cookery
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Housing
+KW  - Humans
+KW  - Humidity
+KW  - Nephelometry and Turbidimetry
+KW  - Particle Size
+KW  - Rural Health
+KW  - aerosol
+KW  - air pollution
+KW  - ambient air
+KW  - article
+KW  - gravimetry
+KW  - gravity
+KW  - humidity
+KW  - nephelometry
+KW  - particle size
+KW  - rural area
+KW  - statistical analysis
+SN  - 1559064X (ISSN)
+C2  - 16670712
+LA  - English
+J2  - J. Expos. Sci. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-34047112810
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 28
+N1  - Funding details: National Institutes of Environmental Health Sciences; UC Toxics Substances Research and Training Program; Princeton University, Princeton
+N1  - Funding text 1: We thank Katherine Hammond for gracious use of laboratory facilities for weighing filter samples, Wang Guangzhi and Zhang Ziliang for tireless assistance in field research, and the hospitable people of Hechengli village in whose homes we monitored air quality. Thanks for fund ing extend to the Berkeleyan Grad uate Fellowship, the Roselyn Lindheim Award, the UC Toxics Substances Research and Training Program, the National Institutes of Environmental Health Sciences (NIEHS) Superfund Basic Research Training Core Fellowship, Princeton University, and the Wood - Calvert Chair (UCB) in Engineering.
+N1  - Correspondence Address: S.L. Fischer; Environmental Health Sciences, School of Public Health, University of California, Berkeley, CA 94720, United States; email: sfischer@berkeley.edu
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Rodes, C.E.
+TI  - Indoor Aerosol Exposure Assessment
+PY  - 2011
+T2  - Aerosol Measurement: Principles, Techniques, and Applications: Third Edition
+SP  - 615
+EP  - 634
+DO  - 10.1002/9781118001684.ch27
+UR  - https://www.scopus.com/pages/publications/84887195545?origin=resultslist
+AD  - Aerosol Exposure, RTI International, North Carolina, NC, Research Triangle Park, United States
+KW  - Exposure modeling-personal cloud exposure models
+KW  - Indoor aerosol exposure assessment-measurement, sampling and analysis strategies
+KW  - Nonoccupational exposure study types-personal/indoor/outdoor studies
+KW  - Clouds
+KW  - Aerosol exposures
+KW  - Analysis strategies
+KW  - Exposure assessment
+KW  - Exposure modeling - personal cloud exposure model
+KW  - Exposure models
+KW  - Indoor aerosol exposure assessment - measurement, sampling and analyze strategy
+KW  - Indoor aerosols
+KW  - Indoor/outdoor
+KW  - Measurement strategies
+KW  - Non-occupational exposure
+KW  - Nonoccupational exposure study type - personal/indoor/outdoor study
+KW  - Personal clouds
+KW  - Sampling strategies
+KW  - Exposure controls
+PB  - John Wiley and Sons
+SN  - 978-047038741-2 (ISBN)
+LA  - English
+J2  - Aerosol Measurement: Princ., Tech., and Appl.: Third Ed.
+M3  - Book chapter
+DB  - Scopus
+N1  - EID: 2-s2.0-84887195545
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Zhang, J.
+AU  - Lance, S.
+AU  - Wang, X.
+AU  - Wang, J.
+AU  - Schwab, J.J.
+TI  - Estimation of aerosol liquid water from optical scattering instruments using ambient and dried sample streams
+PY  - 2020
+T2  - Atmospheric Environment
+VL  - 239
+C7  - 117787
+DO  - 10.1016/j.atmosenv.2020.117787
+UR  - https://www.scopus.com/pages/publications/85088966360?origin=resultslist
+AD  - Atmospheric Sciences Research Center, University at Albany, State University of New York, NY, United States
+AD  - Division of Atmospheric Sciences, Desert Research Institute, Reno, NV, United States
+AD  - School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, United States
+AB  - Relative humidity (RH) is generally considered to be an interference (“bias”) factor for optical scattering instruments used for measuring aerosol mass concentrations. In this study, the “bias” of one kind of nephelometric monitors (Thermo PDR-1500) caused by high RH is shown to be quantitatively related to the aerosol liquid water (ALW). The method utilizes ambient and dried air samples measured by identical optical scattering instruments and a companion continuous mass concentration measurement, also sampling the dried air stream. This novel and simple method for estimating observed ALW (1) avoids the use of the complicated and expensive instruments for ALW measurement or estimation; (2) can be replicated elsewhere, (3) will improve the performance of models that predict ALW, and (4) indicates the correction of single channel nephelometers using RH alone and empirical equations is subject to error due to variation in the aerosol composition. © 2020 Elsevier Ltd
+KW  - Aerosol liquid water
+KW  - Correction
+KW  - Nephelometric monitors
+KW  - Relative humidity
+KW  - Light scattering
+KW  - water
+KW  - Aerosol composition
+KW  - Aerosol mass concentration
+KW  - Empirical equations
+KW  - Liquid water
+KW  - Mass concentration
+KW  - Optical scattering
+KW  - SIMPLE method
+KW  - Single channels
+KW  - aerosol
+KW  - concentration (composition)
+KW  - correction
+KW  - empirical analysis
+KW  - estimation method
+KW  - numerical model
+KW  - performance assessment
+KW  - quantitative analysis
+KW  - sampling
+KW  - aerosol
+KW  - air sampling
+KW  - ambient air
+KW  - analytic method
+KW  - Article
+KW  - concentration (parameter)
+KW  - humidity
+KW  - measurement error
+KW  - priority journal
+KW  - quantitative analysis
+KW  - Aerosols
+PB  - Elsevier Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85088966360
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 8
+N1  - Funding details: New York State Energy Research and Development Authority, NYSERDA, (48971)
+N1  - Funding text 1: work has been supported by the New York State Energy Research and Development Authority (NYSERDA) contract number 48971 . Special thanks go to Matthew Ninneman and Christopher Lawrence for assistance with the editing of this paper. 
+N1  - Correspondence Address: J. Zhang; Atmospheric Sciences Research Center, University at Albany, State University of New York, United States; email: jzhang35@albany.edu
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Adar, S.D.
+AU  - Davey, M.
+AU  - Sullivan, J.R.
+AU  - Compher, M.
+AU  - Szpiro, A.
+AU  - Sally Liu, L.-J.
+TI  - Predicting airborne particle levels aboard Washington State school buses
+PY  - 2008
+T2  - Atmospheric Environment
+VL  - 42
+IS  - 33
+SP  - 7590
+EP  - 7599
+DO  - 10.1016/j.atmosenv.2008.06.041
+UR  - https://www.scopus.com/pages/publications/54049088882?origin=resultslist
+AD  - Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA 98105, United States
+AD  - United States Environmental Protection Agency, Region V, Chicago, IL 60604, United States
+AD  - Department of Biostatistics, University of Washington, Seattle, WA 98195, United States
+AD  - Institute of Social and Preventive Medicine, University of Basel, CH-4051 Basel, Switzerland
+AB  - School buses contribute substantially to childhood air pollution exposures yet they are rarely quantified in epidemiology studies. This paper characterizes fine particulate matter (PM2.5) aboard school buses as part of a larger study examining the respiratory health impacts of emission reducing retrofits. To assess onboard concentrations, continuous PM2.5 data were collected during 85 trips aboard 43 school buses during normal driving routines, and aboard hybrid lead vehicles traveling in front of the monitored buses during 46 trips. Ordinary and partial least squares regression models for PM2.5 onboard buses were created with and without control for roadway concentrations, which were also modeled. Predictors examined included ambient PM2.5 levels, ambient weather, and bus and route characteristics. Average concentrations aboard school buses (21 μg m-3) were four and two-times higher than ambient and roadway levels, respectively. Differences in PM2.5 levels between the buses and lead vehicles indicated an average of 7 μg m-3 originating from the bus's own emission sources. While roadway concentrations were dominated by ambient PM2.5, bus concentrations were influenced by bus age, diesel oxidative catalysts, and roadway concentrations. Cross-validation confirmed the roadway models but the bus models were less robust. These results confirm that children are exposed to air pollution from the bus and other roadway traffic while riding school buses. In-cabin air pollution is higher than roadway concentrations and is likely influenced by bus characteristics. © 2008 Elsevier Ltd.
+KW  - Air pollution
+KW  - Diesel
+KW  - Particulate matter
+KW  - School buses
+KW  - Traffic
+KW  - North America
+KW  - United States
+KW  - Washington [United States]
+KW  - Air pollution
+KW  - Air quality
+KW  - Curve fitting
+KW  - Permanent magnets
+KW  - Pollution
+KW  - Regression analysis
+KW  - Retrofitting
+KW  - aerosol
+KW  - atmospheric pollution
+KW  - automobile
+KW  - concentration (composition)
+KW  - emission control
+KW  - health impact
+KW  - particulate matter
+KW  - pollution exposure
+KW  - prediction
+KW  - traffic emission
+KW  - air pollution
+KW  - airborne particle
+KW  - article
+KW  - exhaust gas
+KW  - motor vehicle
+KW  - particulate matter
+KW  - priority journal
+KW  - Air pollution exposures
+KW  - Airborne particles
+KW  - Ambient weathers
+KW  - Average concentrations
+KW  - Continuous
+KW  - Cross-validation
+KW  - Diesel
+KW  - Emission sources
+KW  - Fine particulate matters
+KW  - Lead vehicles
+KW  - Normal drivings
+KW  - Oxidative catalysts
+KW  - Partial least squares regressions
+KW  - Particulate matter
+KW  - Respiratory healths
+KW  - Roadway models
+KW  - School buses
+KW  - Traffic
+KW  - Washington states
+KW  - Buses
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-54049088882
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 43
+N1  - Funding details: Washington Department of Ecology; National Institute of Environmental Health Sciences, (1R01ES12657-01A1); National Institute of Environmental Health Sciences
+N1  - Funding text 1: This study was sponsored by the NIEHS (#1R01ES12657-01A1), with pilot work by the Washington Department of Ecology. This work would not have been possible without the efforts of René Irish, Erin Corwine, Tim Gould, Alex Ineichen, and the Diesel Bus Monitoring Team. We are thankful for the advice and support of Dr. Jim Krieger (Seattle-King County Department of Public Health), Bridget Anderson, Michelle Zaleski, Doug Sander and Bruce Zahradnik (Tahoma Schools), Jill Lewis (Seattle Schools), Michael Boyer and David Adler (Department of Ecology), Stacy Roberts, Robert Cook, and David Oylear (First Student), and Michael Montgomery (Curtis Transportation). We are also extremely grateful for our collaborations with David Anderson (Seattle Schools Transportation Department) and Paul Carr and John Anderson (PSCAA Diesel Solution Program). We also thank the Seattle and Tahoma principals, teachers, and students whose daily support made this study possible.  
+N1  - Correspondence Address: S.D. Adar; Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA 98105, United States; email: sadar@u.washington.edu
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Han, L.
+AU  - Qi, Y.
+AU  - Wang, J.
+AU  - Luo, L.
+AU  - Cao, S.-J.
+TI  - Ozone Exposure Risks in Urban Outdoor Activities: Built Environment Determinants and Policy Implications for Sustainable Cities
+PY  - 2026
+T2  - Building and Environment
+VL  - 288
+C7  - 113991
+DO  - 10.1016/j.buildenv.2025.113991
+UR  - https://www.scopus.com/pages/publications/105023968359?origin=resultslist
+AD  - School of Architecture and Civil Engineering, Xi'an University of Science and Technology, Shaanxi, Xi'an, China
+AD  - Geological Resources and Geological Engineering Postdoctoral Research Mobile Station, Xi'an University of Science and Technology, Shaanxi, Xi'an, China
+AD  - School of Architecture (ARCH), Southeast University, Jiangsu, Nanjing, China
+AD  - Jiangsu Province Engineering Research Center of Urban Heat and Pollution Control, Southeast University, Jiangsu, Nanjing, China
+AD  - Global Centre for Clean Air Research (GCARE), University of Surrey, United Kingdom
+AB  - Climate change and urbanization are intensifying summer ozone (O3) episodes, which pose serious threats to public health, terrestrial ecosystems, and biodiversity. While exercise is essential for public health, exposure to elevated O3 concentrations undermines its benefits, especially in dense urban environments. This study combined wearable monitoring with machine learning to assess O3 exposure along jogging routes in Xi'an, China, and to derive generalizable insights for sustainable city planning. Results showed that evening O3 levels were on average 79.23 μg/m3 higher than morning levels, with hotspots shifting from traffic corridors in the morning to open squares in the evening. Exposure drivers also varied diurnally: PM2.5 and temperature promoted O3 in the morning while tree canopy coverage reduced it (with diminishing returns beyond 40%), whereas relative humidity and urban canyon geometry dominated in the evening, alongside nonlinear vegetation effects. These findings reveal that the built environment strongly shapes O3 exposure risks and that safer activity times and spaces depend on local design. The implications extend beyond Xi'an: routing tracks away from traffic, enhancing multi-layered vegetation with adequate ventilation, and integrating humidity-sensitive designs can mitigate exposure globally. Embedding O3 management into urban health promotion and policy frameworks advances SDG 3 (Health and Well-being) and SDG 11 (Sustainable Cities), providing pathways to safeguard outdoor activity under climate change. © 2025
+KW  - built environment
+KW  - outdoor activity
+KW  - ozone exposure
+KW  - sustainable health
+KW  - urban planning
+KW  - China
+KW  - Shaanxi
+KW  - Xian
+KW  - Climate change
+KW  - Ecosystems
+KW  - Health risks
+KW  - Ozone
+KW  - Public health
+KW  - Public policy
+KW  - Public risks
+KW  - Sustainable city
+KW  - Sustainable development
+KW  - Vegetation
+KW  - Built environment
+KW  - Dense urban environments
+KW  - Outdoor activities
+KW  - Ozone exposures
+KW  - Policy implications
+KW  - Sustainable cities
+KW  - Sustainable healths
+KW  - Terrestrial biodiversity
+KW  - Terrestrial ecosystems
+KW  - Urban outdoor
+KW  - climate change
+KW  - ozone
+KW  - pollution exposure
+KW  - seasonal variation
+KW  - sustainable development
+KW  - urban planning
+KW  - Urban planning
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105023968359
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+N1  - Funding details: National Natural Science Foundation of China, NNSF, (52470223, 52422006); National Natural Science Foundation of China, NNSF; Research Fund for Young Star of Science and Technology in Shaanxi Province, (2025ZC-KJXX-144); Research Fund for Young Star of Science and Technology in Shaanxi Province
+N1  - Funding text 1: The authors would like to acknowledge the support from the National Natural Science Foundation of China (Grant Nos. 52470223 and 52422006), and the Young Star of Science and Technology in Shaanxi Province (Grant No. 2025ZC-KJXX-144).
+N1  - Correspondence Address: S.-J. Cao; School of Architecture, Southeast University, Nanjing, 2 Sipailou, 210096, China; email: shijie_cao@seu.edu.cn
+N1  - CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Tran, C.-T.
+AU  - Nguyen, L.M.T.
+AU  - Wu, C.-F.
+AU  - Chien, K.-L.
+TI  - Short-term Exposure to PM2.5 and Cardiorespiratory Mortality and Morbidity: Case-crossover Analyses in Ho Chi Minh City, Vietnam
+PY  - 2024
+T2  - Aerosol and Air Quality Research
+VL  - 24
+IS  - 10
+C7  - 240107
+DO  - 10.4209/aaqr.240107
+UR  - https://www.scopus.com/pages/publications/85205691792?origin=resultslist
+AD  - Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taiwan
+AD  - Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, Taiwan
+AD  - Department of Public Health, College of Public Health, National Taiwan University, Taiwan
+AD  - University of Science, Viet Nam National University Ho Chi Minh City, Viet Nam
+AB  - Exposure to ambient fine particulate matter (PM2.5) is a substantial environmental health issue for urban inhabitants in Ho Chi Minh City (HCMC). The effects of short-term exposure to ambient PM2.5 on cardiorespiratory mortality and morbidity were determined in HCMC by a retrospective, hospital-based, unidirectional, and symmetric bidirectional case-crossover study. Ambient PM2.5 concentrations were measured by validated low-cost particulate matter sensors in four urban districts from December 2019 to March 2021. Mortality, emergency visits, and hospital admissions for cardiorespiratory diseases were obtained from electronic hospital-based data from three hospitals in the study area. Control days in each stratum were defined as days before or after the case day, day of the event (e.g., death or illness), and each case had 4 control days. We applied conditional logistic regression and generalized linear mixed models to explore the associations between PM2.5 and cardiorespiratory mortality and morbidity. A total of 2,457 subjects with cardiorespiratory diseases were included in this study analysis. The daily PM2.5 concentrations on more than 80% of days during the study period exceeded the World Health Organization's standard of 15 µg m–3. The first event day (lag0) was associated with a significant risk for the diseases (odds ratio, 1.06, 95% confidence interval, 1.01–1.10, for a 10 µg m–3 increase in daily PM2.5). The largest effect was observed in cardiovascular cases under 35 years of age. Males were observed to be more susceptible to PM2.5-related cardiovascular diseases than females, whereas females were more vulnerable to PM2.5-related respiratory diseases. We found robust evidence for the short-term exposure to PM2.5 being associated with an increase in adverse cardiovascular and respiratory events in urban inhabitants of HCMC, Vietnam. The findings may appeal to Vietnamese policymakers to modify reasonable safe standards for ambient PM2.5 in urban areas. © The Author(s).
+KW  - Cardiovascular diseases
+KW  - Fine particulate matter
+KW  - Hospital-based
+KW  - Personal exposure
+KW  - Respiratory health
+KW  - Ho Chi Minh City
+KW  - Viet Nam
+KW  - Cardiology
+KW  - Heart
+KW  - Linear regression
+KW  - Logistic regression
+KW  - Lung cancer
+KW  - mHealth
+KW  - Pulmonary diseases
+KW  - Risk assessment
+KW  - Ambients
+KW  - Cardiovascular disease
+KW  - Case crossovers
+KW  - Fine particulate matter
+KW  - Hospital-based
+KW  - Personal exposures
+KW  - PM2.5 concentration
+KW  - Respiratory health
+KW  - Short-term exposure
+KW  - Viet Nam
+KW  - cardiovascular disease
+KW  - morbidity
+KW  - mortality
+KW  - particulate matter
+KW  - pollution exposure
+KW  - respiratory disease
+KW  - Disease control
+PB  - AAGR Aerosol and Air Quality Research
+SN  - 16808584 (ISSN)
+LA  - English
+J2  - Aerosol Air Qual. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85205691792
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 1
+N1  - Funding details: National Taiwan University, NTU; Board of Directors of Binh Thanh District Hospital; Office of International Affairs, OIA; Go Vap District Hospital; Tan Binh District Hospital, (D05849016)
+N1  - Funding text 1: The authors gratefully acknowledge the support for data collection from the Board of Directors of Binh Thanh District Hospital, Go Vap District Hospital, and Tan Binh District Hospital, Ho Chi Minh City, Vietnam. Also, a sincere thank you to MSc. Duong Thi Bich Hue, a lecturer at Faculty of Environment, VNUHCM-University of Science, Viet Nam, for helping us to contact the hospitals to collect health data. The first author is also grateful to Chiem Trung-Duong for his English proofreading of this article. The study is a part of PhD thesis of the first author, Tran Cong-Thanh, in College of Public Health, National Taiwan University, Taipei, Taiwan (PhD student number: D05849016). The first author greatly appreciated the financial support from Research Fellowship for Outstanding International Doctoral Students, College of Public Health, National Taiwan University, Taiwan, and the Office of International Affairs, National Taiwan University, the Innovation and Policy Center for Population Health and Sustainable Environment (Population Health Research Center). The contents expressed in this article are solely those of the authors and do not necessarily reflect or represent the views or policies of the National Taiwan University and the Vietnam National University Ho Chi Minh City.
+N1  - Correspondence Address: K.-L. Chien; Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taiwan; email: klchien@ntu.edu.tw
+ER  -
+
+TY  - JOUR
+AU  - Soneja, S.
+AU  - Chen, C.
+AU  - Tielsch, J.M.
+AU  - Katz, J.
+AU  - Zeger, S.L.
+AU  - Checkley, W.
+AU  - Curriero, F.C.
+AU  - Breysse, P.N.
+TI  - Humidity and gravimetric equivalency adjustments for nephelometer-based particulate matter measurements of emissions from solid biomass fuel use in cookstoves
+PY  - 2014
+T2  - International Journal of Environmental Research and Public Health
+VL  - 11
+IS  - 6
+SP  - 6400
+EP  - 6416
+DO  - 10.3390/ijerph110606400
+UR  - https://www.scopus.com/pages/publications/84902988962?origin=resultslist
+AD  - Department of Environmental Health Sciences, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, United States
+AD  - Department of International Health, Bloomberg School of Public Health Johns Hopkins University, Baltimore, MD 21205, United States
+AD  - Department of Global Health, School of Public Health and Health Services, George Washington University, Washington, DC 20037, United States
+AD  - Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, United States
+AD  - Division of Pulmonary and Critical Care, School of Medicine, Johns Hopkins University, Baltimore, MD 21205, United States
+AD  - Department of Epidemiology, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, United States
+AB  - Great uncertainty exists around indoor biomass burning exposure-disease relationships due to lack of detailed exposure data in large health outcome studies. Passive nephelometers can be used to estimate high particulate matter (PM) concentrations during cooking in low resource environments. Since passive nephelometers do not have a collection filter they are not subject to sampler overload. Nephelometric concentration readings can be biased due to particle growth in high humid environments and differences in compositional and size dependent aerosol characteristics. This paper explores relative humidity (RH) and gravimetric equivalency adjustment approaches to be used for the pDR-1000 used to assess indoor PM concentrations for a cookstove intervention trial in Nepal. Three approaches to humidity adjustment performed equivalently (similar root mean squared error). For gravimetric conversion, the new linear regression equation with log-transformed variables performed better than the traditional linear equation. In addition, gravimetric conversion equations utilizing a spline or quadratic term were examined. We propose a humidity adjustment equation encompassing the entire RH range instead of adjusting for RH above an arbitrary 60% threshold. Furthermore, we propose new integrated RH and gravimetric conversion methods because they have one response variable (gravimetric PM2.5 concentration), do not contain an RH threshold, and is straightforward. © 2014 by the authors; licensee MDPI, Basel, Switzerland.
+KW  - Biomass burning
+KW  - Cookstove
+KW  - Gravimetric equivalent
+KW  - Humidity adjustment
+KW  - Indoor air quality
+KW  - Low resource environment
+KW  - Nephelometer
+KW  - Particulate matter
+KW  - PDR
+KW  - Air Pollution, Indoor
+KW  - Biomass
+KW  - Cooking
+KW  - Fires
+KW  - Humans
+KW  - Humidity
+KW  - Nepal
+KW  - Nephelometry and Turbidimetry
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Regression Analysis
+KW  - particulate matter
+KW  - aerosol formation
+KW  - air quality
+KW  - biomass burning
+KW  - concentration (composition)
+KW  - cooking appliance
+KW  - environmental risk
+KW  - fuelwood
+KW  - health impact
+KW  - health risk
+KW  - indoor air
+KW  - particulate matter
+KW  - public health
+KW  - analytic method
+KW  - analytical equipment
+KW  - article
+KW  - biomass conversion
+KW  - biomass energy
+KW  - concentration (parameters)
+KW  - cooking
+KW  - fire
+KW  - gravimetric equivalency adjustment
+KW  - gravimetry
+KW  - humidity
+KW  - indoor air pollution
+KW  - Nepal
+KW  - nephelometer
+KW  - particle size
+KW  - particulate matter
+KW  - quality control
+KW  - analysis
+KW  - biomass
+KW  - cooking
+KW  - fire
+KW  - human
+KW  - indoor air pollution
+KW  - particulate matter
+KW  - photometry
+KW  - regression analysis
+PB  - MDPI
+SN  - 16617827 (ISSN)
+C2  - 24950062
+LA  - English
+J2  - Int. J. Environ. Res. Public Health
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84902988962
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 39
+N1  - Funding details: National Institutes of Health, NIH, (P01ES018176, P30ES003819); National Institutes of Health, NIH; National Institute of Environmental Health Sciences, NIEHS, (T32ES007141); National Institute of Environmental Health Sciences, NIEHS
+N1  - Correspondence Address: P. N. Breysse; Department of Environmental Health Sciences, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205, United States; email: pbreysse@jhsph.edu
+ER  -
+
+TY  - JOUR
+AU  - Ducret-Stich, R.E.
+AU  - Delfino, R.J.
+AU  - Tjoa, T.
+AU  - Gemperli, A.
+AU  - Ineichen, A.
+AU  - Wu, J.
+AU  - Phuleria, H.C.
+AU  - Liu, L.-J.S.
+TI  - Examining the representativeness of home outdoor PM 2.5, EC, and OC estimates for daily personal exposures in Southern California
+PY  - 2012
+T2  - Air Quality, Atmosphere and Health
+VL  - 5
+IS  - 3
+SP  - 335
+EP  - 351
+DO  - 10.1007/s11869-010-0099-y
+UR  - https://www.scopus.com/pages/publications/84865585049?origin=resultslist
+AD  - Department of Epidemiology and Public Health, Environmental Exposure Sciences, Swiss Tropical and Public Health Institute, Basel, P.O. Box 4002, Switzerland
+AD  - University of Basel, Basel, Switzerland
+AD  - Department of Epidemiology, School of Medicine, University of California, Irvine, CA, United States
+AD  - Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA, United States
+AB  - Recent studies have linked acute respiratory and cardiovascular outcomes to measurements or estimates of traffic-related air pollutants at homes or schools. However, few studies have evaluated these outdoor measurements and estimates against personal exposure measurements. We compared measured and modeled home outdoor concentrations with personal measurements of traffic-related air pollutants in the Los Angeles air basin (Whittier and Riverside). Personal exposure of 63 children with asthma and 15 homes were assessed for particulate matter with an aerodynamic diameter less than 2. 5 μm (PM 2. 5), elemental carbon (EC), and organic carbon (OC) during sixteen 10-day monitoring runs. Regression models to predict daily home outdoor PM 2. 5, EC, and OC were constructed using home outdoor measurements, geographical and meteorological parameters, as well as CALINE4 estimates at outdoor home sites, which represent the concentrations from local traffic sources. These home outdoor models showed the variance explained (R 2) was 0. 97 and 0. 94 for PM 2. 5, 0. 91 and 0. 83 for OC, and 0. 76 and 0. 87 for EC in Riverside and Whittier, respectively. The PM 2. 5 outdoor estimates correlated well with the personal measurements (Riverside R 2 = 0. 65 and Whittier R 2 = 0. 69). However, excluding potentially inaccurate samples from Riverside, the correlation between personal exposure to carbonaceous species and home outdoor estimates in Whittier was moderate for EC (R 2 = 0. 37) and poor for OC (R 2 = 0. 08). The CALINE4 estimates alone were not correlated with personal measurements of EC or other pollutants. While home outdoor estimates provide good approximations for daily personal PM 2. 5 exposure, they may not be adequate for estimating daily personal exposure to EC and OC. © 2010 The Author(s).
+KW  - Air pollution
+KW  - Elemental carbon
+KW  - Exposure modeling
+KW  - Organic carbon
+KW  - Traffic exhaust
+KW  - California
+KW  - Los Angeles [California]
+KW  - United States
+KW  - atmospheric pollution
+KW  - carbon
+KW  - cardiovascular disease
+KW  - concentration (composition)
+KW  - environmental monitoring
+KW  - estimation method
+KW  - exhaust emission
+KW  - measurement method
+KW  - numerical model
+KW  - particulate matter
+KW  - pollution exposure
+SN  - 18739326 (ISSN)
+LA  - English
+J2  - Air Qual. Atmos. Health
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84865585049
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 9
+N1  - Funding details: National Institutes of Health, NIH; National Institute of Environmental Health Sciences, NIEHS, (ES11615); National Institute of Environmental Health Sciences, NIEHS; Universität Basel
+N1  - Funding text 1: Acknowledgments The study was supported by the National Institute of Environmental Health Sciences (ES11615) of the U.S. National Institutes of Health (NIH), and partially by a training grant at the Institute of Social and Preventive Medicine at the University of Basel, Switzerland (RD-S). Its contents are solely the responsibility of the authors and do not necessarily represent the official views of the NIH. The authors declare they have no competing financial interests.
+N1  - Correspondence Address: R. E. Ducret-Stich; Department of Epidemiology and Public Health, Environmental Exposure Sciences, Swiss Tropical and Public Health Institute, Basel, P.O. Box 4002, Switzerland; email: regina.ducret@unibas.ch
+ER  -
+
+TY  - JOUR
+AU  - Pokhrel, A.K.
+AU  - Bates, M.N.
+AU  - Acharya, J.
+AU  - Valentiner-Branth, P.
+AU  - Chandyo, R.K.
+AU  - Shrestha, P.S.
+AU  - Raut, A.K.
+AU  - Smith, K.R.
+TI  - PM2.5 in household kitchens of Bhaktapur, Nepal, using four different cooking fuels
+PY  - 2015
+T2  - Atmospheric Environment
+VL  - 113
+SP  - 159
+EP  - 168
+DO  - 10.1016/j.atmosenv.2015.04.060
+UR  - https://www.scopus.com/pages/publications/84929171083?origin=resultslist
+AD  - Division of Environmental Health Sciences, School of Public Health, University of California, Berkeley, 94720-7360, CA, United States
+AD  - Asian Development Bank, 6 ADB Avenue, Mandaluyong, Manila, 1550, Philippines
+AD  - Department of Infectious Disease Epidemiology, Division of National Health Surveillance and Research, Statens Serum Institute, Denmark
+AD  - Centre for International Health, University of Bergen, Bergen, Norway
+AD  - Child Health Department, Institute of Medicine, Tribhuvan University, Kathmandu, Nepal
+AD  - United Nations Framework Convention on Climate Change (UNFCCC) Secretariat, Martin-Luther-King-Strasse 8, Bonn, 53175, Germany
+AB  - In studies examining the health effects of household air pollution (HAP), lack of affordable monitoring devices often precludes collection of actual air pollution data, forcing use of exposure indicators, such as type of cooking fuel used. Among the most important pollutants is fine particulate matter (PM2.5), perhaps the best single indicator of risk from smoke exposure. In this study, we deployed an affordable and robust device to monitor PM2.5 in 824 households in Bhaktapur, Nepal. Four primary cooking fuels were used in roughly equal proportions in these households: electricity (22%), liquefied petroleum gas (LPG) (29%), kerosene (23%), and biomass (26%). PM2.5 concentrations were measured in the kitchens using a light-scattering nephelometer, the UCB-PATS (University of California, Berkeley-Particle and Temperature monitoring System). The major predictors of PM2.5 concentrations in study households were investigated. The UCB-PATS results were well correlated with the gravimetric results (R2=0.84; for all fuels combined). The mean household PM2.5 concentrations across all seasons of the year were 656 (standard deviation (SD):924) μg/m3 from biomass; 169 (SD: 207) μg/m3 from kerosene; 101 (SD: 130) μg/m3 from LPG; and 80 (SD: 103) μg/m3 from electric stoves. In the multivariate regression of PM2.5 measures, compared with electric stoves, use of LPG, kerosene and biomass stoves were associated with increased indoor PM2.5 concentrations of 65% (95% CI: 38-95%), 146% (103-200%), and 733% (589-907%), respectively. The UCB-PATS performed well in the field. Biomass fuel stoves without flues were the most significant sources of PM2.5, followed by kerosene and then LPG stoves. Outdoor PM2.5, and season influenced indoor PM2.5 levels. Results support careful use of inexpensive light-scattering monitors for monitoring of HAP in developing countries. © 2015 Elsevier Ltd.
+KW  - Biomass
+KW  - Electric stove
+KW  - Household air pollution
+KW  - Indoor air pollution
+KW  - Kerosene
+KW  - LPG
+KW  - UCB-PATS
+KW  - Bagmati
+KW  - Bhaktapur
+KW  - Nepal
+KW  - Biomass
+KW  - Developing countries
+KW  - Electric stoves
+KW  - Kerosene
+KW  - Light scattering
+KW  - Liquefied petroleum gas
+KW  - Particles (particulate matter)
+KW  - Regression analysis
+KW  - cooking fuel
+KW  - fuel
+KW  - kerosene
+KW  - liquefied petroleum gas
+KW  - petroleum derivative
+KW  - unclassified drug
+KW  - Fine particulate matter (PM2.5)
+KW  - Liquefied petroleum gas (LPG)
+KW  - Multivariate regression
+KW  - PM2.5 concentration
+KW  - Standard deviation
+KW  - Temperature monitoring
+KW  - UCB-PATS
+KW  - University of California , Berkeley
+KW  - atmospheric pollution
+KW  - concentration (composition)
+KW  - developing world
+KW  - domestic waste
+KW  - fuel consumption
+KW  - gravimetry
+KW  - health impact
+KW  - indoor air
+KW  - multivariate analysis
+KW  - particulate matter
+KW  - pollution monitoring
+KW  - Article
+KW  - biomass
+KW  - concentration (parameters)
+KW  - household
+KW  - human
+KW  - kitchen
+KW  - laser nephelometer
+KW  - Nepal
+KW  - particulate matter
+KW  - priority journal
+KW  - Indoor air pollution
+PB  - Elsevier Ltd
+SN  - 13522310 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84929171083
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 81
+N1  - Funding details: Danish Council of Developmental Research, (91128); Norwegian Council of Universities' Committee for Development Research, (PRO 36/2002); RCN, (151054, 172226); Winrock International; European Commission, EC, (INCO-FP6-003740); European Commission, EC; Norges Forskningsråd
+N1  - Funding text 1: The authors thank Zohir Chowdhury and Suman Sharma, who assisted with the field work and Bikash Pandey and Suman Basnet for their advice. We acknowledge the collaboration of Sudha Basnet, Maria Mathisen, and Tor A. Strand. The efforts of PV-B, RKC and PKC were partly supported by grants from the European Commission (EU–INCO–DC contract no. INCO-FP6-003740 ), the Danish Council of Developmental Research (project no. 91128), the Research Council of Norway (RCN project nos. 151054 and 172226), and the Norwegian Council of Universities' Committee for Development Research, Education (NUFU project no. PRO 36/2002). This study was partly supported by a grant from Winrock International, Kathmandu. 
+N1  - Correspondence Address: A.K. Pokhrel; Division of Environmental Health Sciences, School of Public Health, University of California, Berkeley, 774 University Hall, 94720-7360, United States; email: amod@berkeley.edu
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Jazcilevich, A.
+AU  - Wellens, A.
+AU  - Siebe, C.
+AU  - Rosas, I.
+AU  - Bornstein, R.D.
+AU  - Riojas-Rodríguez, H.
+TI  - Application of a stochastic vehicular wake erosion model to determine PM 2.5 exposure
+PY  - 2012
+T2  - Aeolian Research
+VL  - 4
+SP  - 31
+EP  - 37
+DO  - 10.1016/j.aeolia.2011.11.002
+UR  - https://www.scopus.com/pages/publications/84858594276?origin=resultslist
+AD  - Centro de Ciencias de la Atmósfera, Universidad Nacional Autónoma de México, México DF, Mexico
+AD  - Facultad de Ingeniería, Universidad Nacional Autónoma de México, México DF, Mexico
+AD  - Instituto de Geología, Universidad Nacional Autónoma de México, México DF, Mexico
+AD  - San Jose State University, Department of Meteorology and Climate Science, CA, United States
+AD  - Instituto Nacional de Salud Pública, Cuernavaca, Mexico
+AB  - A stochastic model based on empirical probability distribution functions has been applied to estimate human exposure to emissions from the resuspension of road dust due to isolated wakes from moving vehicles. The model incorporates the turbulent nature of resuspension due to vehicular wake erosion phenomena, and is tested by in situ measurements. It statistically estimates exposure as a function of ambient temperature, traffic activity, human height, and breathe intake rates as a function of age and activity. The model is applied to evaluate whether communities in the Molango region in Mexico are affected by vehicular resuspension of Manganese (Mn) contaminated soil from on-road activities related to mining. Results showed that six and 10. year old children are at higher risk to vehicular resuspended dust exposure than adults, due to their lower height and higher respiratory intake rates during periods of light and moderate activity. © 2011 Elsevier B.V..
+KW  - Exposure
+KW  - Resuspension
+KW  - Road dust
+KW  - Hidalgo
+KW  - Mexico [North America]
+KW  - Molango
+KW  - dust
+KW  - erosion
+KW  - manganese
+KW  - particulate matter
+KW  - probability
+KW  - stochasticity
+KW  - traffic emission
+KW  - turbulent flow
+KW  - wake
+SN  - 18759637 (ISSN)
+LA  - English
+J2  - Aeolian Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84858594276
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 8
+N1  - Funding details: International Development Research Centre, IDRC, (100662)
+N1  - Funding text 1: This project was supported by the International Development and Research Center (IDRC) of Canada, project number 100662. We are grateful to Wilfrido Gutiérrez López, Manuel García Espinoza, Jorge Escalante Gonzalez, Lucero Paola Chávez Salgado, Pablo Rangel Hinojosa, Leticia Martínez, and Eva Salinas for technical support and to Dr. Javier Miranda and Kumiko Shimada for the Mn analyses.
+N1  - Correspondence Address: A. Jazcilevich; Centro de Ciencias de la Atmósfera, Circuito Institutos s/n, Universidad Nacional Autónoma de México. CP 04510, México DF, Mexico; email: jazcilev@unam.mx
+ER  -
+
+TY  - JOUR
+AU  - Wu, T.-G.
+AU  - Chen, Y.-D.
+AU  - Chen, B.-H.
+AU  - Harada, K.H.
+AU  - Lee, K.
+AU  - Deng, F.
+AU  - Rood, M.J.
+AU  - Chen, C.-C.
+AU  - Tran, C.-T.
+AU  - Chien, K.-L.
+AU  - Wen, T.-H.
+AU  - Wu, C.-F.
+TI  - Identifying low-PM2.5 exposure commuting routes for cyclists through modeling with the random forest algorithm based on low-cost sensor measurements in three Asian cities
+PY  - 2022
+T2  - Environmental Pollution
+VL  - 294
+C7  - 118597
+DO  - 10.1016/j.envpol.2021.118597
+UR  - https://www.scopus.com/pages/publications/85120416457?origin=resultslist
+AD  - Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, No. 17, Xuzhou Rd, Taipei, 10055, Taiwan
+AD  - Innovation and Policy Center for Population Health and Sustainable Environment, College of Public Health, National Taiwan University, No. 17, Xuzhou Rd, Taipei, 10055, Taiwan
+AD  - Department of Health and Environmental Sciences, Kyoto University Graduate School of Medicine, Kyoto University, Yoshida-konoe-cho, Sakyo-ku, Kyoto, 606-8501, Japan
+AD  - Institute of Occupational Medicine and Industrial Hygiene, College of Public Health, National Taiwan University, No. 17, Xuzhou Rd, Taipei, 10055, Taiwan
+AD  - Department of Environmental Health Sciences, Graduate School of Public Health, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea
+AD  - Department of Occupational and Environmental Health Sciences, School of Public Health, Peking University, No. 38 Xueyuan Road, Beijing, 100191, China
+AD  - Department of Civil and Environmental Engineering, University of Illinois, 205 N. Mathews Ave., Urbana, 61801, IL, United States
+AD  - Division of Biostatistics and Bioinformatics, Institute of Population Health Sciences, National Health Research Institutes, 35, Keyan Road, Miaoli County, Zhunan Town, 35053, Taiwan
+AD  - University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Dist. 5, Ho Chi Minh City, Viet Nam
+AD  - Institute of Epidemiology and Preventive Medicine, National Taiwan University, No. 17, Xuzhou Rd, Taipei, 10055, Taiwan
+AD  - Department of Geography, National Taiwan University, No. 1, Sec. 4, Roosevelt Road, Taipei, 10617, Taiwan
+AB  - Cyclists can be easily exposed to traffic-related pollutants due to riding on or close to the road during commuting in cities. PM2.5 has been identified as one of the major pollutants emitted by vehicles and associated with cardiopulmonary and respiratory diseases. As routing has been suggested to reduce the exposures for cyclists, in this study, PM2.5 was monitored with low-cost sensors during commuting periods to develop models for identifying low exposure routes in three Asian cities: Taipei, Osaka, and Seoul. The models for mapping the PM2.5 in the cities were developed by employing the random forest algorithm in a two-stage modeling approach. The land use features to explain spatial variation of PM2.5 were obtained from the open-source land use database, OpenStreetMap. The total length of the monitoring routes ranged from 101.36 to 148.22 km and the average PM2.5 ranged from 13.51 to 15.40 μg/m³ among the cities. The two-stage models had the standard k-fold cross-validation (CV) R2 of 0.93, 0.74, and 0.84 in Taipei, Osaka, and Seoul, respectively. To address spatial autocorrelation, a spatial cross-validation approach applying a distance restriction of 100 m between the model training and testing data was employed. The over-optimistic estimates on the predictions were thus prevented, showing model CV-R2 of 0.91, 0.67, and 0.78 respectively in Taipei, Osaka, and Seoul. The comparisons between the shortest-distance and lowest-exposure routes showed that the largest percentage of reduced averaged PM2.5 exposure could reach 32.1% with the distance increases by 37.8%. Given the findings in this study, routing behavior should be encouraged. With the daily commuting trips expanded, the cumulative effect may become significant on the chronic exposures over time. Therefore, a route planning tool for reducing the exposures shall be developed and promoted to the public. © 2021 Elsevier Ltd
+KW  - Asian city
+KW  - Cyclist
+KW  - PM2.5
+KW  - Random forest
+KW  - Routing
+KW  - Spatial autocorrelation
+KW  - Air Pollutants
+KW  - Air Pollution
+KW  - Algorithms
+KW  - Cities
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Particulate Matter
+KW  - Transportation
+KW  - Honshu
+KW  - Japan
+KW  - Kinki
+KW  - Osaka [Kinki]
+KW  - Osaka [Osaka (PRF)]
+KW  - Seoul [Seoul (ADS)]
+KW  - Seoul [South Korea]
+KW  - South Korea
+KW  - Taipei
+KW  - Taiwan
+KW  - Autocorrelation
+KW  - Costs
+KW  - Decision trees
+KW  - Pollution
+KW  - Asian city
+KW  - Cyclist
+KW  - Low-cost sensors
+KW  - PM 2.5
+KW  - Pm2.5
+KW  - Random forest algorithm
+KW  - Random forests
+KW  - Routings
+KW  - Spatial autocorrelations
+KW  - Two stage model
+KW  - algorithm
+KW  - autocorrelation
+KW  - cardiovascular disease
+KW  - commuting
+KW  - cycle transport
+KW  - machine learning
+KW  - modeling
+KW  - particulate matter
+KW  - pollution effect
+KW  - pollution exposure
+KW  - respiratory disease
+KW  - spatial analysis
+KW  - traffic emission
+KW  - air pollutant
+KW  - air quality
+KW  - Article
+KW  - commuting
+KW  - controlled study
+KW  - cross validation
+KW  - cyclist
+KW  - distance
+KW  - human
+KW  - human activities
+KW  - Japan
+KW  - land use
+KW  - monitoring
+KW  - physical parameters
+KW  - PM2.5 exposure
+KW  - prediction
+KW  - random forest
+KW  - seasonal variation
+KW  - simulation
+KW  - South Korea
+KW  - Taiwan
+KW  - total distance traveled
+KW  - air pollutant
+KW  - air pollution
+KW  - algorithm
+KW  - city
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - particulate matter
+KW  - traffic and transport
+KW  - Land use
+PB  - Elsevier Ltd
+SN  - 02697491 (ISSN)
+C2  - 34848285
+LA  - English
+J2  - Environ. Pollut.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85120416457
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 24
+N1  - Funding details: PHRC; Office of International Affairs, OIA; College of Public Health, CPH; Ministry of Environment, MOE, (2018001350001); Ministry of Environment, MOE; Korea Environmental Industry and Technology Institute, KEITI; National Taiwan University, NTU
+N1  - Funding text 1: Greatly appreciate Prof. Yu-Pin Lin for improving the study design and Jung-Chi Chang for assisting the data collection in Taipei. This project is supported by the Office of International Affairs , National Taiwan University ; and the Innovation and Policy Center for Population Health and Sustainable Environment (Population Health Research Center, PHRC), College of Public Health , National Taiwan University . It is also partially supported by the Korea Environment Industry & Technology Institute (KEITI) through the Environmental Health Action Program, funded by the Korea Ministry of Environment (Project No. 2018001350001 ). 
+N1  - Correspondence Address: C.-F. Wu; Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, Taipei, No. 17 Xuzhou Road, Room 717, 10055, Taiwan; email: changfu@ntu.edu.tw
+N1  - CODEN: ENPOE
+ER  -
+
+TY  - JOUR
+AU  - Klepeis, N.E.
+AU  - Ott, W.R.
+AU  - Switzer, P.
+TI  - Real-time measurement of outdoor tobacco smoke particles
+PY  - 2007
+T2  - Journal of the Air and Waste Management Association
+VL  - 57
+IS  - 5
+SP  - 522
+EP  - 534
+DO  - 10.3155/1047-3289.57.5.522
+UR  - https://www.scopus.com/pages/publications/34249305534?origin=resultslist
+AD  - Stanford University, Stanford, CA, United States
+AD  - Department of Civil and Environmental Engineering, Stanford University, United States
+AD  - Department of Civil and Environmental Engineering
+AD  - Department of Statistics, Stanford University, United States
+AD  - Watsonville, CA 95076, 16475 Tarpey Road, United States
+AB  - The current lack of empirical data on outdoor tobacco smoke (OTS) levels impedes OTS exposure and risk assessments. We sought to measure peak and time-averaged OTS concentrations in common outdoor settings near smokers and to explore the determinants of time-varying OTS levels, including the effects of source proximity and wind. Using five types of real-time airborne particle monitoring devices, we obtained more than 8000 min worth of continuous monitoring data, during which there were measurable OTS levels. Measurement intervals ranged from 2 sec to 1 min for the different instruments. We monitored OTS levels during 15 on-site visits to 10 outdoor public places where active cigar and cigarette smokers were present, including parks, sidewalk cafes, and restaurant and pub patios. For three of the visits and during 4 additional days of monitoring outdoors and indoors at a private residence, we controlled smoking activity at precise distances from monitored positions. The overall average OTS respirable particle concentration for the surveys of public places during smoking was approximately 30 μg m-3. OTS exhibited sharp spikes in particle mass concentration during smoking that sometimes exceeded 1000 μg m-3 at distances within 0.5 m of the source. Some average concentrations over the duration of a cigarette and within 0.5 m exceeded 200 μg m-3, with some average downwind levels exceeding 500 μg m-3. OTS levels in a constant upwind direction from an active cigarette source were nearly zero. OTS levels also approached zero at distances greater than approximately 2 m from a single cigarette. During periods of active smoking, peak and average OTS levels near smokers rivaled indoor tobacco smoke concentrations. However, OTS levels dropped almost instantly after smoking activity ceased. Based on our results, it is possible for OTS to present a nuisance or hazard under certain conditions of wind and smoker proximity. Copyright 2007 Air & Waste Management Association.
+KW  - Particles
+KW  - Smoke
+KW  - Tobacco
+KW  - Nicotiana tabacum
+KW  - Real time systems
+KW  - Smoke
+KW  - Tobacco
+KW  - cigarette smoke
+KW  - nicotine
+KW  - Cigarette smoking
+KW  - Outdoor tobacco smoke (OTS)
+KW  - Particle monitoring devices
+KW  - Real-time measurement
+KW  - air analysis
+KW  - air monitoring
+KW  - air pollutant
+KW  - airborne particle
+KW  - article
+KW  - attributable risk
+KW  - calibration
+KW  - exposure
+KW  - health hazard
+KW  - home environment
+KW  - human
+KW  - instrument
+KW  - intermethod comparison
+KW  - measurement error
+KW  - priority journal
+KW  - risk assessment
+KW  - tobacco
+KW  - wind
+KW  - Particles (particulate matter)
+PB  - Taylor and Francis Inc.
+SN  - 10962247 (ISSN)
+C2  - 17518219
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-34249305534
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 147
+N1  - Funding details: University of California San Francisco and Stanford University
+N1  - Funding text 1: The research described in this article was funded by California Proposition 99 through contract number 3317SC between the University of California San Francisco and Stanford University. Support was also provided by an award to Stanford from the Flight Attendant Medical Research Institute. The authors appreciate the assistance of Dr. Lance A. Wallace, formerly of U.S. Environmental Protection Agency (EPA), who provided technical guidance in planning quality assurance tests and also assisted with data analysis. The authors thank EPA for providing valuable equipment support, James L. Repace for his thoughtful ideas and encouragement, and Michelle House for her help with planning the outdoor field surveys.
+N1  - CODEN: JIJME
+ER  -
+
+TY  - JOUR
+AU  - Mehadi, A.
+AU  - Moosmüller, H.
+AU  - Campbell, D.E.
+AU  - Ham, W.
+AU  - Schweizer, D.
+AU  - Tarnay, L.
+AU  - Hunter, J.
+TI  - Laboratory and field evaluation of real-time and near real-time PM2.5 smoke monitors
+PY  - 2020
+T2  - Journal of the Air and Waste Management Association
+VL  - 70
+IS  - 2
+SP  - 158
+EP  - 179
+DO  - 10.1080/10962247.2019.1654036
+UR  - https://www.scopus.com/pages/publications/85078548371?origin=resultslist
+AD  - Monitoring and Laboratory Division, California Air Resources Board, Sacramento, CA, United States
+AD  - Desert Research Institute, Nevada System of Higher Education, Reno, NV, United States
+AD  - U.S. Department of Agriculture, Forest Service, Pacific Southwest Region, Bishop, CA, United States
+AD  - Health Sciences Research Institute, University of California, Merced, CA, United States
+AD  - U.S. Department of Agriculture, Forest Service, Pacific Southwest Region Remote Sensing Lab, McClellan, CA, United States
+AD  - Washoe County Health District, Reno, NV, United States
+AB  - Increases in large wildfire frequency and intensity and a longer fire season in the western United States are resulting in a significant increase in air pollution, including concentrations of PM2.5 (particulate matter <2.5 µm in aerodynamic diameter) that pose significant health risks to nearby communities. During wildfires, government agencies monitor PM2.5 mass concentrations providing information and actions needed to protect affected communities; this requires continuously measuring instruments. This study assessed the performance of seven candidate instruments: (1) Met One Environmental beta attenuation monitor (EBAM), (2) Met One ES model 642 (ES642), (3) Grimm Environmental Dust Monitor 164 (EDM), (4) Thermo ADR 1500 (ADR), (5) TSI DRX model 8543 (DRX), (6) Dylos 1700 (Dylos), and (7) Purple Air II (PA-II) in comparison with a BAM 1020 (BAM) reference instrument. With the exception of the EBAM, all candidates use light scattering to determine PM2.5 mass concentrations. Our comparison study included environmental chamber and field components, with two of each candidate instrument operating next to the reference instrument. The chamber component involved 6 days of comparisons for biomass combustion emissions. The field component involved operating all instruments in an air monitoring station for 39.5 days with hourly average relative humidity (RH) ranging from 19% to 98%. Goals were to assess instrument precision and accuracy and effects of RH, elemental carbon (EC), and organic carbon (OC) concentrations. All replicate candidate instruments showed high hourly correlations (R2 ≥ 0.80) and higher daily average correlations (R2 ≥ 0.90), where all instruments correlated well (R2 ≥ 0.80) with the reference. The DRX and Purple Air overestimated PM2.5 mass concentrations by a factor of ~two. Differences between candidates and reference were more pronounced at higher PM2.5 concentrations. All optical instruments were affected by high RH and by the EC/OC ratio. Equations to convert candidate instruments data to FEM BAM type data are provided to enhance the usability of data from candidate instruments. Implications: This study tested the performance of seven candidate PM2.5 mass concentration measuring instruments in two settings - environmental chamber and field. The instruments were tested to determine their suitability for use during biomass combustion events and the effects of RH, PM mass concentrations, and concentrations of EC and OC on their performance. The accuracy and precision of each monitor and effect of RH, PM concentration, EC and OC concentrations are varied. The data show that most of these candidate instruments are suitable for measuring PM2.5 concentration during biomass combustions with a proper correction factor for each instrument type. © 2019, © 2019 A&WMA.
+KW  - Air Pollutants
+KW  - Air Pollution
+KW  - Environmental Monitoring
+KW  - Smoke
+KW  - Air pollution
+KW  - Biomass
+KW  - Data handling
+KW  - Environmental chambers
+KW  - Fires
+KW  - Health risks
+KW  - Light scattering
+KW  - Organic carbon
+KW  - Smoke
+KW  - carbon
+KW  - organic carbon
+KW  - Accuracy and precision
+KW  - Aerodynamic diameters
+KW  - Air monitoring stations
+KW  - Beta attenuation monitors
+KW  - Measuring instruments
+KW  - PM2.5 concentration
+KW  - Reference instruments
+KW  - Wildfire frequencies
+KW  - air monitoring
+KW  - air quality
+KW  - biomass
+KW  - combustion
+KW  - comparative study
+KW  - humidity
+KW  - light scattering
+KW  - particulate matter
+KW  - priority journal
+KW  - smoke
+KW  - wildfire
+KW  - air pollutant
+KW  - air pollution
+KW  - devices
+KW  - environmental monitoring
+KW  - procedures
+KW  - smoke
+KW  - Combustion
+PB  - Taylor and Francis Inc.
+SN  - 10962247 (ISSN)
+C2  - 31403397
+LA  - English
+J2  - J. Air Waste Manage. Assoc.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85078548371
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 66
+N1  - Funding details: Grimm Technologies; Jamie Vandermast of CARB; Joseph McCormack; Met One Inc.; Randy Deckau of North Coast Air Quality Management District; TSI, Inc.; National Science Foundation, NSF; National Aeronautics and Space Administration, NASA, (NNX15AI48G); National Aeronautics and Space Administration, NASA; Division of Atmospheric and Geospace Sciences, AGS, (AGS-1544425); Division of Atmospheric and Geospace Sciences, AGS; California Air Resources Board, CARB, (16MLD061); California Air Resources Board, CARB
+N1  - Funding text 1: This work was supported by the California Air Resources Board [16MLD061]; National Science Foundation, Division of Atmospheric and Geospace Sciences [AGS-1544425];National Aeronautics and Space Administration [NNX15AI48G]. The authors would like to thank the following persons for their assistance: Joseph McCormack, Mark Copple, and Jamie Vandermast of CARB and Randy Deckau of North Coast Air Quality Management District. The authors would also like to thank the manufacturers–Met One Inc., Thermo Fisher Scientific, Grimm Technologies, and TSI, Inc. - for their assistance during the study. H. Moosmüller and D. E. Campbell acknowledge support from CARB (Agreement Number 16MLD061), NASA ROSES (Grant Number NNX15AI48G), and NSF (Award Number AGS-1544425).
+N1  - Funding text 2: The authors would like to thank the following persons for their assistance: Joseph McCormack, Mark Copple, and Jamie Vandermast of CARB and Randy Deckau of North Coast Air Quality Management District. The authors would also like to thank the manufacturers – Met One Inc., Thermo Fisher Scientific, Grimm Technologies, and TSI, Inc. - for their assistance during the study. H. Moosmüller and D. E. Campbell acknowledge support from CARB (Agreement Number 16MLD061), NASA ROSES (Grant Number NNX15AI48G), and NSF (Award Number AGS-1544425). 
+N1  - Correspondence Address: H. Moosmüller; Desert Research Institute, Nevada System of Higher Education, Reno, 2215 Raggio Parkway, 89512, United States; email: Hans.Moosmuller@dri.edu
+N1  - CODEN: JIJME
+ER  -
+
+TY  - JOUR
+AU  - Barn, P.
+AU  - Larson, T.
+AU  - Noullett, M.
+AU  - Kennedy, S.
+AU  - Copes, R.
+AU  - Brauer, M.
+TI  - Infiltration of forest fire and residential wood smoke: An evaluation of air cleaner effectiveness
+PY  - 2008
+T2  - Journal of Exposure Science and Environmental Epidemiology
+VL  - 18
+IS  - 5
+SP  - 503
+EP  - 511
+DO  - 10.1038/sj.jes.7500640
+UR  - https://www.scopus.com/pages/publications/49949098846?origin=resultslist
+AD  - School of Environmental Health, University of British Columbia, Vancouver, BC, Canada
+AD  - Department of Civil and Environmental Engineering, University of Washington, Seattle, WA, United States
+AD  - Environmental Sciences and Environmental Engineering, University of Northern British Columbia, Prince George, BC, Canada
+AD  - Department of Health Care and Epidemiology, University of British Columbia, Vancouver, BC, Canada
+AD  - British Columbia Centre for Disease Control, Vancouver, BC, Canada
+AD  - School of Environmental Health, University of British Columbia, 2206 East Mall, Vancouver, BC V6T 1Z3, Canada
+AB  - Communities impacted by fine-particle air pollution (particles with an aerodynamic diameter less than 2.5 μm; PM2.5) from forest fires and residential wood burning require effective, evidence-based exposure-reduction strategies. Public health recommendations during smoke episodes typically include advising community members to remain indoors and the use of air cleaners, yet little information is available on the effectiveness of these measures. Our study attempted to address the following objectives: to measure indoor infiltration factor (Finf) of PM2.5 from forest fires/wood smoke, to determine the effectiveness of high-efficiency particulate air (HEPA) filter air cleaners in reducing indoor PM2.5, and to analyze the home determinants of Finf and air cleaner effectiveness (ACE). We collected indoor/outdoor 1-min PM2.5 averages and 48-h outdoor PM2.5 filter samples for 21 winter and 17 summer homes impacted by wood burning and forest fire smoke, respectively, during 2004-2005. A portable HEPA filter air cleaner was operated indoors with the filter removed for one of two sampling days. Particle Finf and ACE were calculated for each home using a recursive model. We found mean F inf±SD was 0.27±0.18 and 0.61±0.27 in winter (n=19) and summer (n=13), respectively, for days when HEPA filters were not used. Lower Finf±SD values of 0.10±0.08 and 0.19±0.20 were found on corresponding days when HEPA filters were in place. Mean±SD ACE ([Finf without filter-Finf with filter]/Finf without filter) in winter and summer were 55±38% and 65±35%, respectively. Number of windows and season predicted F inf (P 0.001). No significant predictors of ACE were identified. Our findings show that remaining indoors combined with use of air cleaner can effectively reduce PM2.5 exposure during forest fires and residential wood burning. © 2008 Nature Publishing Group All rights reserved.
+KW  - Air cleaning
+KW  - Air quality
+KW  - Indoor air quality
+KW  - Infiltration
+KW  - Particulate matter
+KW  - Air Pollutants
+KW  - Air Pollution, Indoor
+KW  - British Columbia
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Filtration
+KW  - Fires
+KW  - Glucose
+KW  - Housing
+KW  - Humans
+KW  - Linear Models
+KW  - Particulate Matter
+KW  - Seasons
+KW  - Smoke
+KW  - ambient air
+KW  - article
+KW  - device
+KW  - fire
+KW  - forest
+KW  - particulate matter
+KW  - predictor variable
+KW  - smoke
+KW  - summer
+KW  - waste gas management
+KW  - winter
+KW  - wood
+SN  - 1559064X (ISSN)
+C2  - 18059421
+LA  - English
+J2  - J. Expos. Sci. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-49949098846
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 144
+N1  - Funding details: BC Ministry of Health; UBC Centre for Health and Environment Research
+N1  - Funding text 1: We thank all study participants for their time, Tim Ma for performing laboratory analysis and Ryan Allen for as s is tance with data analys is .This s tudy was s upported by funding from the BC Ministry of Health with in-kind assistance from the UBC Centre for Health and Environment Research. All authors declare they have no competing financial interes ts .
+N1  - Correspondence Address: M. Brauer; School of Environmental Health, University of British Columbia, 2206 East Mall, Vancouver, BC V6T 1Z3, Canada; email: brauer@interchange.ubc.ca
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Braniš, M.
+TI  - Personal Exposure Measurements
+PY  - 2010
+T2  - Environmental Pollution (United States)
+VL  - 17
+SP  - 97
+EP  - 141
+DO  - 10.1007/978-90-481-8663-1_4
+UR  - https://www.scopus.com/pages/publications/105039816314?origin=resultslist
+AD  - Faculty of Science, Institute for Environmental Studies, Charles University in Prague, Albertov 6, Prague 2, 128 43, Czech Republic
+AB  - Human exposure to air pollutants is ubiquitous. Once a pollutant has been discharged into or has been formed in the air, exposure to this pollutant can hardly be avoided as people have to breathe continuously. Because people move, commute, and frequently change their positions, they can be exposed daily to various kinds and mixtures of gases and airborne particles. In addition to the diversity of the environments where exposure may occur, the many different activities and the potential number of chemicals present all pose a challenge in investigating the health risks posed by air pollutants. Not only do the daily activities and social behaviour of modern humans vary substantially. Air chemistry (species, ions, elements, mixtures), physics (temperature, pressure, radiation) and biology (fungal spores, viruses, bacteria, mites) all change in space and time as well. The air also changes dynamically in connection with differences in the meteorological, microclimatic, and other environmental characteristics. © Springer Science+Business Media B.V. 2010.
+KW  - Diesel Exhaust
+KW  - Environmental Tobacco Smoke
+KW  - Passive Sampler
+KW  - Personal Exposure
+KW  - Pollutant Concentration
+PB  - Springer Nature
+SN  - 15660745 (ISSN)
+LA  - English
+J2  - Environ. pollut.
+M3  - Book chapter
+DB  - Scopus
+N1  - EID: 2-s2.0-105039816314
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 7
+N1  - Funding details: Ministerstvo Školství, Mládeže a Tělovýchovy, MEYS, (2B08077)
+N1  - Funding text 1: The work was in part supported by the Ministry of Education, Youth and Sports of the Czech republic under the scheme NPV II, No. 2B08077.
+N1  - Correspondence Address: M. Braniš; Faculty of Science, Institute for Environmental Studies, Charles University in Prague, Prague 2, Albertov 6, 128 43, Czech Republic; email: branis@natur.cuni.cz
+ER  -
+
+TY  - JOUR
+AU  - Chowdhury, Z.
+AU  - Edwards, R.D.
+AU  - Johnson, M.
+AU  - Naumoff Shields, K.
+AU  - Allen, T.
+AU  - Canuz, E.
+AU  - Smith, K.R.
+TI  - An inexpensive light-scattering particle monitor: Field validation
+PY  - 2007
+T2  - Journal of Environmental Monitoring
+VL  - 9
+IS  - 10
+SP  - 1099
+EP  - 1106
+DO  - 10.1039/b709329m
+UR  - https://www.scopus.com/pages/publications/34848835711?origin=resultslist
+AD  - School of Public Health, University of California, Berkeley, CA, United States
+AD  - Epidemiology Division, School of Medicine, University of California, Irvine, CA, United States
+AD  - Environmental Health Science and Policy, School of Social Ecology, University of California, Irvine, CA, United States
+AD  - EME Systems, Berkeley, CA, United States
+AD  - CDC-CAP/Universidad del Valle de Guatemala, Guatemala City, Guatemala
+AB  - We have developed a small, light, passive, inexpensive, datalogging particle monitor called the "UCB" (University of California Berkeley particle monitor). Following previously published laboratory assessments, we present here results of tests of its performance in field settings at high particle concentrations. We demonstrate the mass sensitivity of the UCB in relation to gravimetric filter-based PM2.5 mass estimates as well as commercial light-scattering instruments co-located in field chamber tests and in kitchens of wood-burning households. The coefficient of variation of the unadjusted UCB mass response in relation to gravimetric estimates was 15%. Although requiring adjustment for differences in sensitivity, inter-monitor performance was consistently high (r2 > 0.99). Moreover, the UCB can consistently estimate PM2.5 mass concentrations in wood-burning kitchens (Pearson r2 = 0.89; N = 99), with good agreement between duplicate measures (Pearson r2 = 0.94; N = 88). In addition, with appropriate cleaning of the sensing chamber, UCB mass sensitivity does not decrease with time when used intensively in open woodfire kitchens, demonstrating the significant potential of this monitor. © The Royal Society of Chemistry.
+KW  - Environmental Monitoring
+KW  - Guatemala
+KW  - Light
+KW  - Mexico
+KW  - Particulate Matter
+KW  - Polytetrafluoroethylene
+KW  - Reproducibility of Results
+KW  - Scattering, Radiation
+KW  - Wood
+KW  - article
+KW  - gravimetry
+KW  - Guatemala
+KW  - light scattering
+KW  - Mexico
+KW  - priority journal
+KW  - university
+SN  - 14640325 (ISSN)
+C2  - 17909644
+LA  - English
+J2  - J. Environ. Monit.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-34848835711
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 67
+N1  - Funding details: National Institute of Environmental Health Sciences, NIEHS, (R01ES010178); National Institute of Environmental Health Sciences, NIEHS
+N1  - Correspondence Address: Z. Chowdhury; School of Public Health, University of California, Berkeley, CA, United States; email: zohir@berkeley.edu
+N1  - CODEN: JEMOF
+ER  -
+
+TY  - JOUR
+AU  - Delfino, R.J.
+AU  - Quintana, P.J.E.
+AU  - Floro, J.
+AU  - Gastañaga, V.M.
+AU  - Samimi, B.S.
+AU  - Kleinman, M.T.
+AU  - Liu, L.-J.S.
+AU  - Bufalino, C.
+AU  - Wu, C.-F.
+AU  - McLaren, C.E.
+TI  - Association of FEV1 in asthmatic children with personal and microenvironmental exposure to airborne particulate matter
+PY  - 2004
+T2  - Environmental Health Perspectives
+VL  - 112
+IS  - 8
+SP  - 932
+EP  - 941
+DO  - 10.1289/ehp.6815
+UR  - https://www.scopus.com/pages/publications/3042648822?origin=resultslist
+AD  - Epidemiology Division, Department of Medicine, University of California at Irvine, Irvine, CA 92697-7550, 244 Irvine Hall, United States
+AD  - Div. of Occup./Environmental Health, Graduate School of Public Health, San Diego State University, San Diego, CA, United States
+AD  - Dept. of Community/Environ. Medicine, College of Medicine, University of California at Irvine, Irvine, CA 92697-7550, 244 Irvine Hall, United States
+AD  - Dept. of Environ./Occup. Health Sci., University of Washington, Seattle, WA, United States
+AB  - Exposure to particulate matter (PM) air pollution has been shown to exacerbate children's asthma, but the exposure sources and temporal characteristics are still under study. Children's exposure to PM is likely to involve both combustion-related ambient PM and PM related to a child's activity in various indoor and outdoor microenvironments. Among 19 children with asthma, 9-17 years of age, we examined the relationship of temporal changes in percent predicted forced expiratory volume in 1 sec (FEV1) to personal continuous PM exposure and to 24-hr average gravimetric PM mass measured at home and central sites. Subjects were followed for 2 weeks during either the fall of 1999 or the spring of 2000, in a southern California region affected by transported air pollution. FEV1 was measured by subjects in the morning, afternoon, and evening. Exposure measurements included continuous PM using a passive nephelometer carried by subjects; indoor, outdoor home, and central-site 24-hr gravimetric PM2.5 (PM of aerodynamic diameter < 2.5 μm) and PM10; and central-site hourly PM10, nitrogen dioxide, and ozone. Data were analyzed with linear mixed models controlling for within-subject autocorrelation, FEV1 maneuver time, and exposure period. We found inverse associations of FEV1 with increasing PM exposure during the 24 hr before the FEV1 maneuver and with increasing multiday PM averages. Deficits in percent predicted FEV1 (95% confidence interval) for given PM interquartile ranges measured during the preceding 24-hr were as follows: 128 μg/m3 1-hr maximum personal PM, -6.0% (-10.5 to -1.4); 30 μg/m3 24-hr average personal PM, -5.9% (-10.8 to -1.0); 6.7 μg/m3 indoor home PM2.5, -1.6% (-2.8 to -0.4); 16 μg/m3 indoor home PM10, -2.1% (-3.7 to -0.4); 7.1 μg/m3 outdoor home PM2.5, -1.1% (-2.4 to 0.1); and 7.5 μg/m3 central-site PM2.5, -0.7% (-1.9 to 0.4). Stronger associations were found for multiday moving averages of PM for both personal and stationary-site PM. Stronger associations with personal PM were found in boys allergic to indoor allergens. FEV1 was weakly associated with NO2 but not with O3. Results suggest mixed respiratory effects of PM in asthmatic children from both ambient background exposures and personal exposures in various microenvironments.
+KW  - Asthma
+KW  - Epidemiology
+KW  - Forced expiratory volume
+KW  - Longitudinal data analysis
+KW  - Nitrogen dioxide
+KW  - Ozone
+KW  - Panel study
+KW  - Particulate air pollution
+KW  - Adolescent
+KW  - Air Pollutants
+KW  - Air Pollution, Indoor
+KW  - Asthma
+KW  - Child
+KW  - Environment
+KW  - Environmental Exposure
+KW  - Female
+KW  - Forced Expiratory Volume
+KW  - Humans
+KW  - Male
+KW  - Models, Theoretical
+KW  - Nitrogen Dioxide
+KW  - Ozone
+KW  - Particle Size
+KW  - Prospective Studies
+KW  - Sex Factors
+KW  - budesonide
+KW  - fluticasone
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - salmeterol
+KW  - triamcinolone
+KW  - zafirlukast
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - adolescent
+KW  - air pollution
+KW  - airborne particle
+KW  - article
+KW  - asthma
+KW  - atmospheric transport
+KW  - clinical article
+KW  - confidence interval
+KW  - controlled study
+KW  - correlation analysis
+KW  - data analysis
+KW  - disease association
+KW  - environmental exposure
+KW  - female
+KW  - forced expiratory volume
+KW  - geography
+KW  - gravimetry
+KW  - human
+KW  - indoor air pollution
+KW  - linear system
+KW  - male
+KW  - measurement
+KW  - microenvironment
+KW  - nephelometry
+KW  - particle size
+KW  - particulate matter
+KW  - prediction
+KW  - priority journal
+KW  - school child
+KW  - United States
+KW  - air pollutant
+KW  - asthma
+KW  - child
+KW  - environment
+KW  - environmental exposure
+KW  - forced expiratory volume
+KW  - indoor air pollution
+KW  - prospective study
+KW  - sex difference
+KW  - theoretical model
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 15175185
+LA  - English
+J2  - Environ. Health Perspect.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-3042648822
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 198
+N1  - Funding details: National Institute of Environmental Health Sciences, NIEHS, (R01ES006214); National Institute of Environmental Health Sciences, NIEHS
+N1  - Correspondence Address: R.J. Delfino; Epidemiology Division, Department of Medicine, University of California at Irvine, Irvine, CA 92697-7550, 224 Irvine Hall, United States; email: rdelfino@uci.edu
+N1  - CODEN: EVHPA
+ER  -
+
+TY  - JOUR
+AU  - Shi, J.
+AU  - Chen, F.
+AU  - Cai, Y.
+AU  - Fan, S.
+AU  - Cai, J.
+AU  - Chen, R.
+AU  - Kan, H.
+AU  - Lu, Y.
+AU  - Zhao, Z.
+TI  - Validation of a light-scattering PM2.5 sensor monitor based on the long-term gravimetric measurements in field tests
+PY  - 2017
+T2  - PLoS ONE
+VL  - 12
+IS  - 11
+C7  - e0185700
+DO  - 10.1371/journal.pone.0185700
+UR  - https://www.scopus.com/pages/publications/85033449574?origin=resultslist
+AD  - Department of Environmental Health, School of Public Health, Fudan University, Shanghai, 200032, China
+AD  - International Peace Maternity and Child Health Hospital of China Welfare Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China
+AD  - Shanghai Environmental Monitoring Center, Shanghai, China
+AD  - Department of Environmental Health, Rollins School of Public Health, Emory University, GA, United States
+AD  - Key Laboratory of Public Health Safety of the Ministry of Education, Key Lab. of Health Technology Assessment, National Health and Family Planning Commission of the People’s Republic of China, Shanghai Key Laboratory of Meteorology and Health, Fudan University, Shanghai, China
+AD  - Shanghai Key Laboratory of Particle Pollution and Prevention (LAP3), Fudan University, Shanghai, China
+AD  - Department of Epidemiology, School of Public Health, Fudan University, Shanghai, China
+AB  - Background: Portable direct-reading instruments by light-scattering method are increasingly used in airborne fine particulate matter (PM2.5) monitoring. However, there are limited calibration studies on such instruments by applying the gravimetric method as reference method in field tests. Methods: An 8-month sampling was performed and 96 pairs of PM2.5 data by both the gravimetric method and the simultaneous light-scattering real-time monitoring (QT-50) were obtained from July, 2015 to February, 2016 in Shanghai. Temperature and relative humidity (RH) were recorded. Mann-Whitney U nonparametric test and Spearman correlation were used to investigate the differences between the two measurements. Multiple linear regression (MLR) model was applied to set up the calibration model for the light-scattering device. Results: The average PM2.5 concentration (median) was 48.1μg/m3 (min-max 10.4–95.8μg/m3) by the gravimetric method and 58.1μg/m3 (19.2–315.9μg/m3) by the light-scattering method, respectively. By time trend analyses, they were significantly correlated with each other (Spearman correlation coefficient 0.889, P<0.01). By MLR, the calibration model for the light-scattering instrument was Y(calibrated) = 57.45 + 0.47 × X(the QT – 50 measurements) – 0.53 × RH – 0.41 × Temp with both RH and temperature adjusted. The 10-fold cross-validation R2 and the root mean squared error of the calibration model were 0.79 and 11.43 μg/m3, respectively. Conclusion: Light-scattering measurements of PM2.5 by QT-50 instrument overestimated the concentration levels and were affected by temperature and RH. The calibration model for QT-50 instrument was firstly set up against the gravimetric method with temperature and RH adjusted. © 2017 Shi et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+KW  - Calibration
+KW  - Electromagnetic Fields
+KW  - Environmental Monitoring
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Scattering, Radiation
+KW  - air sampling
+KW  - airborne particle
+KW  - Article
+KW  - calibration
+KW  - China
+KW  - environmental temperature
+KW  - gravimetry
+KW  - humidity
+KW  - light scattering
+KW  - particulate matter
+KW  - analysis
+KW  - devices
+KW  - electromagnetism
+KW  - environmental monitoring
+KW  - particle size
+KW  - particulate matter
+KW  - procedures
+KW  - radiation scattering
+PB  - Public Library of Science
+SN  - 19326203 (ISSN)
+C2  - 29121101
+LA  - English
+J2  - PLoS ONE
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85033449574
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 53
+N1  - Correspondence Address: Z. Zhao; Department of Environmental Health, School of Public Health, Fudan University, Shanghai, 200032, China; email: zhzhao@fudan.edu.cn
+N1  - CODEN: POLNC
+ER  -
+
+TY  - JOUR
+AU  - Ducret-Stich, R.
+AU  - Delfino, J.
+AU  - Tjoa, T.
+AU  - Gemperli, A.
+AU  - Ineichen, A.
+AU  - Wu, J.
+AU  - Phuleria, C.
+AU  - Liu, L.-J.S.
+TI  - Home outdoor models for traffic-related air pollutants do not represent personal exposure measurements in Southern California
+PY  - 2009
+T2  - Journal of Physics: Conference Series
+VL  - 151
+C7  - 012026
+DO  - 10.1088/1742-6596/151/1/012026
+UR  - https://www.scopus.com/pages/publications/65649111555?origin=resultslist
+AD  - Institute of Social and Preventive Medicine, University of Basel, Switzerland
+AD  - Department of Epidemiology, School of Medicine, Irvine, CA, University of California, United States
+AD  - Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA, United States
+AB  - Recent studies have used measurements or estimates of traffic-related air pollutants at home or school locations to link associations between exposure and health. However, little is known about the validity of these outdoor concentrations as an estimate for personal exposure to traffic. This paper compares modelled outdoor concentrations at home with personal exposure to traffic air pollution of 63 children in two areas in Los Angeles in 2003/2004. Exposure monitoring consisted of sixteen 10-day monitoring runs, with each run monitoring 4 subjects concurrently with the active personal DataRAM for particulate matter <2.5 μm (PM25), elemental carbon (EC) and organic carbon (OC). One child per run had concurrent indoor/outdoor home monitoring. Measurements at central sites (24-hr PM25, EC, OC) were taken daily and concentrations of PM25, EC, and OC from traffic sources were calculated using the CALINE4 model for individual residences. We modelled outdoor concentrations of PM2 5, EC and OC with multilinear regression including GIS and meteorological parameters and adjusted for auto-correlation between repeated measurements. The model fit (R 2) for home outdoor estimates was 0.94, 0.74 and 0.80 for PM 25, EC and OC, respectively. Comparisons between these outdoor estimates and the personal measurements showed a good agreement for PM 25 (R2=0.65-0.70) with a mean bias of -0.711.8|ag for the smog receptor area, and 18.916.2|ag for the traffic impacted area. However the outdoor estimates were not related to personal exposure for EC (R 2=0.01-0.29) and OC (R2=0.03- 0.14). Conclusions: Predictions of outdoor concentrations can be used as approximations of personal exposure to PM25. However, they are not appropriate for estimating personal exposure to traffic-related air pollutants including EC and OC in studies of acute exposure-response relationships. © 2009 IOP Publishing Ltd.
+PB  - Institute of Physics Publishing
+SN  - 17426588 (ISSN)
+LA  - English
+J2  - J. Phys. Conf. Ser.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-65649111555
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 3
+N1  - Correspondence Address: R. Ducret-Stich; Institute of Social and Preventive Medicine, University of Basel, Switzerland; email: regina.ducret@unibas.ch
+ER  -
+
+TY  - JOUR
+AU  - Coffey, E.R.
+AU  - Pfotenhauer, D.
+AU  - Mukherjee, A.
+AU  - Agao, D.
+AU  - Moro, A.
+AU  - Dalaba, M.
+AU  - Begay, T.
+AU  - Banacos, N.
+AU  - Oduro, A.
+AU  - Dickinson, K.L.
+AU  - Hannigan, M.P.
+TI  - Kitchen area air quality measurements in northern Ghana: Evaluating the performance of a low-cost particulate sensor within a household energy study
+PY  - 2019
+T2  - Atmosphere
+VL  - 10
+IS  - 7
+C7  - 400
+DO  - 10.3390/atmos10070400
+UR  - https://www.scopus.com/pages/publications/85070539088?origin=resultslist
+AD  - College of Engineering and Applied Science, University of Colorado Boulder, 427 UCB, 1111 Engineering Drive, Boulder, 80309, CO, United States
+AD  - Department of Atmospheric and Oceanic Sciences, University of Colorado Boulder, 311 UCB, Boulder, 80309, CO, United States
+AD  - Navrongo Health Research Centre, War Memorial Hospital, Upper East Region, Navrongo, Box 34, Ghana
+AD  - Colorado School of Public Health, University of Colorado Anschutz Medical Campus, 13001 East 17th Place, Aurora, 80045, CO, United States
+AB  - Household air pollution from the combustion of solid fuels is a leading global health and human rights concern, affecting billions every day. Instrumentation to assess potential solutions to this problem faces challenges-especially related to cost. A low-cost ($159) particulate matter tool called the Household Air Pollution Exposure (HAPEx) Nano was evaluated in the field as part of the Prices, Peers, and Perceptions cookstove study in northern Ghana. Measurements of temperature, relative humidity, absolute humidity, and carbon dioxide and carbon monoxide concentrations made at 1-min temporal resolution were integrated with 1-min particulate matter less than 2.5 microns in diameter (PM2.5) measurements from the HAPEx, within 62 kitchens, across urban and rural households and four seasons totaling 71 48-h deployments. Gravimetric filter sampling was undertaken to ground-truth and evaluate the low-cost measurements. HAPEx baseline drift and relative humidity corrections were investigated and evaluated using signals from paired HAPEx, finding significant improvements. Resulting particle coefficients and integrated gravimetric PM2.5 concentrations were modeled to explore drivers of variability; urban/rural, season, kitchen characteristics, and dust (a major PM2.5 mass constituent) were significant predictors. The high correlation (R2 = 0.79) between 48-h mean HAPEx readings and gravimetric PM2.5 mass (including other covariates) indicates that the HAPEx can be a useful tool in household energy studies. © 2019 by the authors.
+KW  - Cooking
+KW  - Gravimetric filter
+KW  - Household pollution
+KW  - Low-cost sensors
+KW  - Particle coefficients
+KW  - Particulate matter
+KW  - Ghana
+KW  - Air quality
+KW  - Carbon dioxide
+KW  - Carbon monoxide
+KW  - Cooking
+KW  - Fuels
+KW  - Kitchens
+KW  - Particles (particulate matter)
+KW  - Air pollution exposures
+KW  - Air quality measurements
+KW  - Carbon monoxide concentration
+KW  - Combustion of solid fuels
+KW  - Gravimetric filter
+KW  - Low-cost measurements
+KW  - Low-cost sensors
+KW  - Particulate Matter
+KW  - air quality
+KW  - anthropogenic source
+KW  - atmospheric pollution
+KW  - concentration (composition)
+KW  - filter
+KW  - particulate matter
+KW  - pollution monitoring
+KW  - sensor
+KW  - Costs
+PB  - MDPI AG
+SN  - 20734433 (ISSN)
+LA  - English
+J2  - Atmosphere
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85070539088
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 15
+N1  - Funding details: Ghana Health Service; Navrongo Health Research Center; National Institutes of Health, NIH; University of Colorado Boulder; National Science Foundation, NSF, (1528811, SES 1528811); National Science Foundation, NSF; UK Research and Innovation, UKRI, (63530); UK Research and Innovation, UKRI
+N1  - Funding text 1: This research was supported by grants from the US National Institutes of Health Clean Cooking Implementation Science Network and the National Science Foundation (SES 1528811). Publication of this article was funded by the University of Colorado Boulder Libraries Open Access Fund. A special thanks goes out to all the P3 study participants for their hospitality, patience and respect. Thank you to all the staff and field workers at the Navrongo Health Research Center for their hard work and dedication, without which this study would not have been possible. We are appreciative of Jiayu Li for sharing sensor data with us from Wang et al. Thank you to family, friends, and mentors for support and guidance. This work was reviewed and approved by the Institutional Review Boards at the University of Colorado Boulder and the Navrongo Health Research Center, a part of the Ghana Health Service.
+N1  - Funding text 2: Funding: This research was supported by grants from the US National Institutes of Health Clean Cooking Implementation Science Network and the National Science Foundation (SES 1528811). Publication of this article was funded by the University of Colorado Boulder Libraries Open Access Fund.
+N1  - Correspondence Address: N. Banacos; Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, 13001 East 17th Place, 80045, United States; email: natalie.banacos@cuanschutz.edu
+ER  -
+
+TY  - JOUR
+AU  - Tran, C.T.
+AU  - Chung, T.N.
+AU  - Le, H.T.
+TI  - Using low-cost sensors to investigate relationships between indoor and outdoor PM2.5 during the COVID-19 lockdown period in urban areas of Bien Hoa city, Vietnam
+PY  - 2025
+T2  - Inzynieria Mineralna
+VL  - 2
+IS  - 1
+SP  - 849
+EP  - 867
+DO  - 10.29227/IM-2025-01-02-068
+UR  - https://www.scopus.com/pages/publications/105025164242?origin=resultslist
+AD  - University of Science, Vietnam National University Ho Chi Minh City, Viet Nam
+AB  - PM2.5 pollution remains a pressing environmental concern in Bien Hoa city, a key industrial center within Vietnam’s Southern Key Economic Zone. This research utilized low-cost sensors to measure indoor and outdoor PM2.5 levels in five urban households from April 2021 to January 2022, with calibration performed using the DustTrak™ II Aerosol Monitor 8530. During the COVID-19 lockdown, daily average PM2.5 concentrations ranged from 22 to 40 μg/m³, meeting Vietnam’s air quality standards but exceeding the World Health Organization’s guidelines. Indoor PM2.5 levels were significantly elevated in older homes due to factors such as smoking and incense burning, while outdoor levels were primarily impacted by traffic and other local sources, with peaks observed during rush hours. Seasonal analysis revealed reduced PM2.5 concentrations during the rainy season, underscoring the mitigating effects of rainfall and natural ventilation on indoor air pollution. The significant linear correlation between indoor and outdoor PM2.5 concentrations underscores the need for thorough air quality evaluations. This study is the first to assess indoor-outdoor PM2.5 relationships in Bien Hoa City households using low-cost sensors over nearly a year, including the COVID-19 control period. The study demonstrates that low-cost sensors are an effective and practical option for air quality monitoring in resource-limited settings like Vietnam. © 2025, Polish Mineral Engineering Society. All rights reserved.
+KW  - ambient
+KW  - coronavirus disease
+KW  - fine particulate matter
+KW  - indoor
+KW  - low-cost sensor
+KW  - urban
+PB  - Polish Mineral Engineering Society
+SN  - 16404920 (ISSN)
+LA  - English
+J2  - Inzynieria Mineralna
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105025164242
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 0
+N1  - Funding details: University of Science; Viet Nam National University Ho Chi Minh City, (T2022-31)
+N1  - Funding text 1: This research is funded by University of Science, VNU-HCM under grant number T2022-31.
+N1  - Correspondence Address: C.T. Tran; University of Science, Vietnam National University Ho Chi Minh City, Viet Nam; email: tcthanh@hcmus.edu.vn
+ER  -
+
+TY  - JOUR
+AU  - Tran, C.-T.
+AU  - Nguyen, L.M.T.
+AU  - Wu, T.-G.
+AU  - Wu, C.-F.
+AU  - Hien, T.T.
+AU  - Chien, K.-L.
+TI  - Co-effects of COVID-19 and Meteorology on PM2.5 Decrease in Ho Chi Minh City, Vietnam: A Comparison of 2016–2019 and 2020–2021
+PY  - 2024
+T2  - Aerosol and Air Quality Research
+VL  - 24
+IS  - 3
+C7  - 230186
+DO  - 10.4209/aaqr.230186
+UR  - https://www.scopus.com/pages/publications/85186112662?origin=resultslist
+AD  - Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taiwan
+AD  - Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, Taiwan
+AD  - Department of Public Health, College of Public Health, National Taiwan University, Taiwan
+AD  - University of Science, Viet Nam National University, Ho Chi Minh City, Viet Nam
+AB  - The coronavirus disease 2019 (COVID-19) measures during 2020–2021 may lead to a downward trend of fine particulate matter (PM2.5) concentrations in Ho Chi Minh City (HCMC), which is one of the most air-polluted cities in Vietnam. This study aimed to compare PM2.5 variations during the COVID-19 period (2020–2021) with a short-term trend of PM2.5 (2016–2019) in HCMC in conjunction with meteorological conditions. Five fixed-site locations were chosen to monitor PM2.5 concentrations by using low-cost particulate matter sensors (Purple Air II-SD) in five urban districts of HCMC from December 2019 to March 2021. This study also collected hourly PM2.5 concentrations from the United States Consulate General HCMC and meteorological variables (i.e., wind speed, wind direction, air temperature, and relative humidity) from the weather station at Tan Son Nhat International Airport, 2016–2021. PM2.5 concentrations of the COVID-19 period in HCMC were notably less than those of the 2016–2019 period by 18%. However, about half of the days during this period still had daily PM2.5 concentrations exceeding the World Health Organization's standard of 15 µg m–3. Besides the impacts of COVID-19 restrictions on the PM2.5 decrease, noticeable co-effects of meteorological variables on the decline of PM2.5 in HCMC were also observed in the rainy season and with the west-south-west monsoon wind direction. Wind speed and air temperature substantially contributed to PM2.5 reductions in Bayesian multiple linear regression models. In conclusion, the large decrease of PM2.5 concentrations during the unprecedented period of COVID-19 pandemic gave us a better chance to more fully comprehend the PM2.5 pollution status in HCMC for future reference. © The Author(s).
+KW  - Air pollution
+KW  - Bayesian
+KW  - Coronavirus
+KW  - Low-cost sensors
+KW  - Weather conditions
+KW  - Ho Chi Minh City
+KW  - Viet Nam
+KW  - Air pollution
+KW  - Atmospheric temperature
+KW  - Costs
+KW  - Linear regression
+KW  - Particles (particulate matter)
+KW  - Urban growth
+KW  - Wind speed
+KW  - Bayesian
+KW  - Condition
+KW  - Coronaviruses
+KW  - Low-cost sensors
+KW  - Meteorological variables
+KW  - PM2.5 concentration
+KW  - Viet Nam
+KW  - Weather condition
+KW  - Wind directions
+KW  - Wind speed
+KW  - air temperature
+KW  - atmospheric pollution
+KW  - Bayesian analysis
+KW  - COVID-19
+KW  - particulate matter
+KW  - sensor
+KW  - weather station
+KW  - wind velocity
+KW  - Coronavirus
+KW  - COVID-19
+PB  - AAGR Aerosol and Air Quality Research
+SN  - 16808584 (ISSN)
+LA  - English
+J2  - Aerosol Air Qual. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85186112662
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 4
+N1  - Funding details: University of Science; VNU-HCMC, (T2022-31); Office of International Affairs, OIA; National Taiwan University, NTU
+N1  - Funding text 1: This research is funded by University of Science, VNU-HCMC under grant number T2022-31. Also, this research is funded by the Office of International Affairs, National Taiwan University, and the Innovation and Policy Center for Population Health and Sustainable Environment (Population Health Research Center). The first author is also grateful to Mr. Chiem Trung-Duong for his English proofreading of this article.
+N1  - Correspondence Address: K.-L. Chien; Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taiwan; email: klchien@ntu.edu.tw
+ER  -
+
+TY  - JOUR
+AU  - Luglio, D.G.
+AU  - Katsigeorgis, M.
+AU  - Hess, J.
+AU  - Kim, R.
+AU  - Adragna, J.
+AU  - Raja, A.
+AU  - Gordon, C.
+AU  - Fine, J.
+AU  - Thurston, G.
+AU  - Gordon, T.
+AU  - Vilcassim, M.J.R.
+TI  - Pm2:5 concentration and composition in subway systems in the Northeastern United States
+PY  - 2021
+T2  - Environmental Health Perspectives
+VL  - 129
+IS  - 2
+C7  - 027001
+DO  - 10.1289/EHP7202
+UR  - https://www.scopus.com/pages/publications/85101462290?origin=resultslist
+AD  - Department of Environmental Medicine, New York University Langone Health, New York, NY, United States
+AD  - Norwalk Hospital, Norwalk, CT, United States
+AD  - Department of Environmental Health Sciences, University of Alabama at Birmingham School of Public Health, Birmingham, AL, United States
+AB  - OBJECTIVES: The goals of this study were to assess the air quality in subway systems in the northeastern United States and estimate the health risks for transit workers and commuters. METHODS: We report real-time and gravimetric PM2:5 concentrations and particle composition from area samples collected in the subways of Philadelphia, Pennsylvania; Boston, Massachusetts; New York City, New York/New Jersey (NYC/NJ); and Washington, District of Columbia. A total of 71 stations across 12 transit lines were monitored during morning and evening rush hours. RESULTS: We observed variable and high PM2:5 concentrations for on-train and on-platform measurements during morning (from 0600 hours to 1000 hours) and evening (from 1500 hours to 1900 hours) rush hour across cities. Mean real-time PM2:5 concentrations in underground stations were 779 ± 249, 548 ± 207, 341 ± 147, 327 ± 136, and 112 ± 46:7 lg=m3 for the PATH-NYC/NJ; MTA-NYC; Washington, DC; Boston; and Philadelphia transit systems, respectively. In contrast, the mean real-time ambient PM2:5 concentration taken above ground outside the subway stations of PATH-NYC/NJ; MTANYC; Washington, DC; Boston; and Philadelphia were 20:8±9:3, 24:1±9:3, 12:01 ± 7:8, 10:0±2:7, and 12:6±12:6 lg=m3, respectively. Stations serviced by the PATH-NYC/NJ system had the highest mean gravimetric PM2:5 concentration, 1,020 lg=m3, ever reported for a subway system, including two 1-h gravimetric PM2:5 values of approximately 1,700 lg=m3 during rush hour at one PATH-NYC/NJ subway station. Iron and total carbon accounted for approximately 80% of the PM2:5 mass in a targeted subset of systems and stations. DISCUSSION: Our results document that there is an elevation in the PM2:5 concentrations across subway systems in the major urban centers of Northeastern United States during rush hours. Concentrations in some subway stations suggest that transit workers and commuters may be at increased risk according to U.S. federal environmental and occupational guidelines, depending on duration of exposure. This concern is highest for the PM2:5 concentrations encountered in the PATH-NYC/NJ transit system. Further research is urgently needed to identify the sources of PM2:5 and factors that contribute to high levels in individual stations and lines and to assess their potential health impacts on workers and/or commuters. © 2021, Public Health Services, US Dept of Health and Human Services. All rights reserved.
+KW  - Air Pollutants
+KW  - Environmental Monitoring
+KW  - Humans
+KW  - Particulate Matter
+KW  - Philadelphia
+KW  - Railroads
+KW  - air pollution
+KW  - air quality
+KW  - Article
+KW  - nonhuman
+KW  - spectrofluorometry
+KW  - thermogravimetry
+KW  - air pollutant
+KW  - environmental monitoring
+KW  - human
+KW  - particulate matter
+KW  - Pennsylvania
+KW  - railway
+PB  - Public Health Services, US Dept of Health and Human Services
+SN  - 00916765 (ISSN)
+C2  - 33565894
+LA  - English
+J2  - Environ. Health Perspect.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85101462290
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 59
+N1  - Funding details: National Institutes of Health, NIH; National Institute of Environmental Health Sciences, NIEHS, (T32 ES007324, P30 ES000260, NIEHS P30 ES009089); National Institute of Environmental Health Sciences, NIEHS
+N1  - Funding text 1: This research was supported by National Institute of Health (NIH)-funded Center (National Institute of Environmental Health Sciences (NIEHS) P30 ES000260 and NIEHS P30 ES009089) and Training (NIEHS T32 ES007324) grants. The authors thank R. Peltier for supplying equipment used in our Boston sampling campaign and B. DiSacare, J. Levis, M. Wren, and P. Brutsche , L. Brutsche , and A. Brutsche for their sampling work in Philadelphia.
+N1  - Correspondence Address: T. Gordon; Department of Environmental Medicine, New York University Langone Health, New York, United States; email: Terry.Gordon@NYUMC.org
+ER  -
+
+TY  - JOUR
+AU  - Wallace, L.A.
+AU  - Wheeler, A.J.
+AU  - Kearney, J.
+AU  - Van Ryswyk, K.
+AU  - You, H.
+AU  - Kulka, R.H.
+AU  - Rasmussen, P.E.
+AU  - Brook, J.R.
+AU  - Xu, X.
+TI  - Validation of continuous particle monitors for personal, indoor, and outdoor exposures
+PY  - 2011
+T2  - Journal of Exposure Science and Environmental Epidemiology
+VL  - 21
+IS  - 1
+SP  - 49
+EP  - 64
+DO  - 10.1038/jes.2010.15
+UR  - https://www.scopus.com/pages/publications/78650589124?origin=resultslist
+AD  - Reston, VA 20191, 11568 Woodhollow Ct, United States
+AD  - Air Health Science Division, Health Canada, Ottawa, ON K1A 0K9, 269 Laurier Avenue West, Canada
+AD  - Exposures and Biomonitoring Division, Health Canada, Ottawa, ON K1A 0K9, 50 Colombine Driveway, Canada
+AD  - Process Research, Environment Canada, Downsview, ON M3H RT4, 4905 Dufferin Street, Canada
+AD  - Department of Civil and Environmental Engineering, University of Windsor, Windsor, ON N9B 3P4, 401 Sunset Avenue, Canada
+AB  - Continuous monitors can be used to supplement traditional filter-based methods of determining personal exposure to air pollutants. They have the advantages of being able to identify nearby sources and detect temporal changes on a time scale of a few minutes. The Windsor Ontario Exposure Assessment Study (WOEAS) adopted an approach of using multiple continuous monitors to measure indoor, outdoor (near-residential) and personal exposures to PM2.5, ultrafine particles and black carbon. About 48 adults and households were sampled for five consecutive 24-h periods in summer and winter 2005, and another 48 asthmatic children for five consecutive 24-h periods in summer and winter 2006. This article addresses the laboratory and field validation of these continuous monitors. A companion article (Wheeler et al., 2010) provides similar analyses for the 24-h integrated methods, as well as providing an overview of the objectives and study design. The four continuous monitors were the DustTrak (Model 8520, TSI, St. Paul, MN, USA) and personal DataRAM (pDR) (ThermoScientific, Waltham, MA, USA) for PM2.5; the P-Trak (Model 8525, TSI) for ultrafine particles; and the Aethalometer (AE-42, Magee Scientific, Berkeley, CA, USA) for black carbon (BC). All monitors were tested in multiple co-location studies involving as many as 16 monitors of a given type to determine their limits of detection as well as bias and precision. The effect of concentration and electronic drift on bias and precision were determined from both the collocated studies and the full field study. The effect of rapid changes in environmental conditions on switching an instrument from indoor to outdoor sampling was also studied. The use of multiple instruments for outdoor sampling was valuable in identifying occasional poor performance by one instrument and in better determining local contributions to the spatial variation of particulate pollution. Both the DustTrak and pDR were shown to be in reasonable agreement (R2 of 90 and 70%, respectively) with the gravimetric PM2.5 method. Both instruments had limits of detection of about 5 μg/m3. The DustTrak and pDR had multiplicative biases of about 2.5 and 1.6, respectively, compared with the gravimetric samplers. However, their average bias-corrected precisions were 10%, indicating that a proper correction for bias would bring them into very good agreement with standard methods. Although no standard methods exist to establish the bias of the Aethalometer and P-Trak, the precision was within 20% for the Aethalometer and within 10% for the P-Trak. These findings suggest that all four instruments can supply useful information in environmental studies. © 2011 Nature America, Inc. All rights reserved.
+KW  - environmental monitoring
+KW  - inhalation exposure
+KW  - particulate matter
+KW  - personal exposure
+KW  - Adult
+KW  - Air Pollutants
+KW  - Air Pollution, Indoor
+KW  - Child
+KW  - Environmental Exposure
+KW  - Environmental Monitoring
+KW  - Humans
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Reproducibility of Results
+KW  - Seasons
+KW  - Soot
+KW  - adult
+KW  - air pollutant
+KW  - article
+KW  - chemistry
+KW  - child
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - human
+KW  - indoor air pollution
+KW  - instrumentation
+KW  - methodology
+KW  - particle size
+KW  - particulate matter
+KW  - reproducibility
+KW  - season
+KW  - soot
+KW  - validation study
+SN  - 1559064X (ISSN)
+C2  - 20502493
+LA  - English
+J2  - J. Expos. Sci. Environ. Epidemiol.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-78650589124
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 173
+N1  - Correspondence Address: L. A. Wallace; Reston, VA 20191, 11568 Woodhollow Ct, United States; email: lwallace73@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Sabapathy, A.
+AU  - Ragavan, K.V.S.
+AU  - Saksena, S.
+TI  - An assessment of two-wheeler CO and PM10 exposures along arterial main roads in Bangalore city, India
+PY  - 2012
+T2  - Open Atmospheric Science Journal
+VL  - 6
+IS  - SPEC.ISSUE.1
+SP  - 71
+EP  - 77
+DO  - 10.2174/1874282301206010071
+UR  - https://www.scopus.com/pages/publications/84881554540?origin=resultslist
+AD  - East West Center, Honolulu, United States
+AD  - Enzen Global Solutions Pvt. Ltd, Bangalore, India
+AB  - This study investigated 2-wheeler exposures to CO and PM10 along six standardized arterial main road stretches in Bangalore city in India during morning peak (9:00-11:00) and afternoon non-peak hours (13:00-15:00) using personal samplers. Background levels on a local street carrying no traffic and away from main roads were also monitored to determine the actual contributions of vehicular traffic to exposure. Road stretches were selected to compare exposures on two types of routes - inner arterials and outer arterials with different built form characteristics. Results indicate that average background PM10 and CO concentrations were much lower than the respective averages of the 2-wheeler exposures as expected. While PM10 exposures for inner arterials were higher than for outer arterials (p=0.007), differences were much larger for CO (p<0.001). Since the average run speeds were comparable for the stretches, the variations in PM10 and CO could be attributed to different vehicular compositions and built form characteristics of the stretches, but this needs to be verified through further investigation. PM10 exposures during nonpeaks were lower than during morning peaks (p=0.02). However, CO exposures were not very different between non-peak hours and morning peak hours (p=0.138) despite comparable average run speeds and shows that even lower traffic volumes during non-peak hours result in high exposures. Results of various bivariate models indicate that average run speed is a good predictor of CO exposures (R2=0.56) but is only a minor predictor of PM10 exposures (R2=0.18) in Bangalore. © Sabapathy et al.
+KW  - Carbon monoxide
+KW  - Exposure assessment
+KW  - In-vehicle exposure
+KW  - Nephelometer
+KW  - Particulate matter
+KW  - Personal monitoring
+KW  - Bangalore
+KW  - India
+KW  - Karnataka
+KW  - carbon monoxide
+KW  - environmental assessment
+KW  - particulate matter
+KW  - pollutant source
+KW  - pollution exposure
+KW  - pollution incidence
+KW  - traffic emission
+PB  - Bentham Science Publishers B.V.
+SN  - 18742823 (ISSN)
+LA  - English
+J2  - Open Atmos. Sci. J.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84881554540
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 7
+N1  - Correspondence Address: A. Sabapathy; Enzen Global Solutions Pvt. Ltd, Bangalore 560 068, 90, Hosur Road, Madiwala, India; email: ashwin.s@enzenglobal.com
+ER  -
+
+TY  - JOUR
+AU  - Ramos-Bonilla, J.P.
+AU  - Breysse, P.N.
+AU  - Dominici, F.
+AU  - Geyh, A.
+AU  - Tankersley, C.G.
+TI  - Ambient air pollution alters heart rate regulation in aged mice
+PY  - 2010
+T2  - Inhalation Toxicology
+VL  - 22
+IS  - 4
+SP  - 330
+EP  - 339
+DO  - 10.3109/08958370903349365
+UR  - https://www.scopus.com/pages/publications/77149142241?origin=resultslist
+AD  - Department of Environmental Health Sciences, Johns Hopkins University School of Public Health, Baltimore, MD, United States
+AD  - Department of Biostatistics, Johns Hopkins University School of Public Health, Baltimore, MD, United States
+AB  - Context: Heart rate alterations associated with exposure to particulate matter (PM) and gaseous pollutants have been observed in epidemiological studies and animal experiments. Nevertheless, the time-lag of these associations is still unclear. Objective: Determine the association at different time-lags between the complex mixture of ambient concentrations of PM, carbon monoxide (CO), and nitrogen dioxide (NO2), and markers of cardiac function in a model of aged mice. Materials and methods: AKR/J inbred mice were exposed to ambient air, 6h daily for 40 weekdays. During this period, the animals' electrocardiogram (ECG), deep body temperature (Tdb), and body weight (BW) were registered, and concentrations of PM, CO, NO2, as well as air temperature and relative humidity (RH) were measured. Data analysis included random effects models with lagged covariate methods. Results: CO was significantly associated with declines in heart rate (HR) and heart rate variability (HRV), PM was significantly associated with declines in HRV and BW, and NO2 was significantly associated with declines in HR. Some significant associations occurred in the same day (PM and HRV, PM and BW, CO and HR), whereas others were delayed by 1 to 3 days (CO and HR, CO and HRV, NO 2 and HR, PM and HRV). Discussion and conclusion: Finding significant declines in heart function in aged mice associated with the combined effects of air pollutants at ambient concentrations and at different time-lags is of great importance to public health. These results further implicate the potential short term and delayed effects of air pollution on HR alterations.
+KW  - Aging
+KW  - Gaseous pollutants
+KW  - Heart rate variability
+KW  - Longitudinal data analysis
+KW  - Particulate matter
+KW  - Aging
+KW  - Air Pollutants
+KW  - Air Pollution
+KW  - Algorithms
+KW  - Animals
+KW  - Atmosphere Exposure Chambers
+KW  - Body Temperature
+KW  - Carbon Monoxide
+KW  - Electrocardiography
+KW  - Heart Function Tests
+KW  - Heart Rate
+KW  - Humidity
+KW  - Longitudinal Studies
+KW  - Male
+KW  - Mice
+KW  - Mice, Inbred AKR
+KW  - Nitrogen Dioxide
+KW  - Oxidants, Photochemical
+KW  - Ozone
+KW  - Particulate Matter
+KW  - Animalia
+KW  - Mus
+KW  - carbon monoxide
+KW  - nitrogen dioxide
+KW  - aged
+KW  - air pollutant
+KW  - air pollution
+KW  - air temperature
+KW  - AKR mouse
+KW  - ambient air
+KW  - animal experiment
+KW  - article
+KW  - body temperature
+KW  - body weight
+KW  - controlled study
+KW  - electrocardiogram
+KW  - experimental model
+KW  - experimental mouse
+KW  - heart function
+KW  - heart rate variability
+KW  - humidity
+KW  - mouse
+KW  - nonhuman
+KW  - particulate matter
+KW  - priority journal
+SN  - 10917691 (ISSN)
+C2  - 20105060
+LA  - English
+J2  - Inhal. Toxicol.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-77149142241
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 8
+N1  - Funding details: National Institute of Environmental Health Sciences, NIEHS, (P50ES015903, P01ES009606); U.S. Environmental Protection Agency, EPA, (RD-83241701, R-32139); Johns Hopkins NIEHS Center in Urban Environmental Health, (P30 ES 03819); National Institute on Aging, NIA, (R01AG021057)
+N1  - Funding text 1: This work was supported by the National Institute of Aging (AG-21057), the National Institute of Environmental Health Sciences (NIEHS) (PO1 ES 009606) (P50 ES 015903), US Environmental Protection Agency (R-32139), and the Johns Hopkins NIEHS Center in Urban Environmental Health (P30 ES 03819). Although the research described in this article has been funded wholly or in part by the United States Environmental Protection Agency through grant/cooperative agreement RD-83241701 to Dr. Jonathan Samet, it has not been subjected to the Agency\u2019s required peer and policy review and therefore does not necessarily reflect the views of the Agency and no official endorsement should be inferred.
+N1  - Correspondence Address: C. G. Tankersley; Division of Physiology, Johns Hopkins University School of Public Health, Baltimore, MD 21205, 615 N. Wolfe Street, United States; email: ctankers@jhsph.edu
+N1  - CODEN: INHTE
+ER  -
+
+TY  - JOUR
+AU  - Travers, M.J.
+AU  - Kulak, J.A.
+AU  - Vogl, L.
+TI  - Waterpipe cafés are hazardous to your health: Determination of a waterpipe specific calibration factor
+PY  - 2018
+T2  - International Journal of Hygiene and Environmental Health
+VL  - 221
+IS  - 1
+SP  - 48
+EP  - 53
+DO  - 10.1016/j.ijheh.2017.10.002
+UR  - https://www.scopus.com/pages/publications/85031934635?origin=resultslist
+AD  - Department of Health Behavior and Air Pollution Exposure Research Laboratory, Roswell Park Cancer Institute, Buffalo, NY, United States
+AD  - Primary Care Research Institute, Department of Family Medicine, University at Buffalo, The State University of New York, Buffalo, NY, United States
+AB  - Introduction The use of a waterpipe to smoke tobacco has emerged as a popular trend in the United States. Waterpipe smoking establishments have had an increasing presence in the U.S., despite smoke-free air legislation. Dangers of waterpipe smoking have been documented, but less data has been gathered about the waterpipe café itself. This project sought to determine a waterpipe-specific calibration factor (CF) for measuring waterpipe aerosol, and field-test this CF by conducting surveillance on the existing waterpipe cafés of western and central New York. Methods Nine laboratory-controlled experiments were conducted to determine a waterpipe-specific CF. In the lab, two TSI SidePak AM510 Personal Aerosol Monitors and two sampling trains for gravimetric PM2.5 sampling were present during waterpipe smoking sessions (lasting 1–3 h). Indoor air quality was assessed in 7 waterpipe cafés in three counties of New York, and real-time measurements of particulate matter (PM2.5) and carbon monoxide (CO) were obtained. Results Results from the 9 controlled waterpipe experiments determined a calibration factor of 0.38 (SD 0.08), which should be used to convert SidePak measurements to true PM2.5 measurements. When applying the CF to the measurements taken in the 7 public waterpipe venues, the mean PM2.5 concentration was 515 μg/m3 micrograms per cubic meter (SD = 338.8) while the mean ambient CO was 20.5 ppm (SD = 18.3). The mean active smoking density was 2.41 waterpipes per 100 m3 of air. The PM2.5 levels increased with increasing active smoking density (rho = 0.68, p = 0.09). Conclusions Applying the waterpipe-specific CF for the SidePak, 0.38, allowed for field assessments to be conducted in locations with waterpipe smoke to determine accurate particle exposure concentrations. The concentrations of both particulate matter and carbon monoxide were above established air quality standards and therefore increase the health risks of both patrons and workers of these establishments. © 2017
+KW  - Calibration factor
+KW  - Indoor air quality
+KW  - Particulate matter
+KW  - PM<sub>2.5</sub>
+KW  - Waterpipe
+KW  - Tobacco Smoke Pollution
+KW  - Water Pipe Smoking
+KW  - analysis
+KW  - passive smoking
+KW  - water pipe smoking
+PB  - Elsevier GmbH
+SN  - 14384639 (ISSN)
+C2  - 29074268
+LA  - English
+J2  - Int. J. Hyg. Environ. Health
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85031934635
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 12
+N1  - Funding details: National Cancer Institute, NCI, (P30CA016056); Roswell Park Cancer Institute, RPCI
+N1  - Funding text 1: This work was supported by Roswell Park Cancer Institute and National Cancer Institute (NCI) grant P30CA016056 . The content is solely the responsibility of the authors and does not necessarily represent the official view of the National Institutes of Health. 
+N1  - Correspondence Address: M.J. Travers; Department of Health Behavior, Roswell Park Cancer Institute, Buffalo, Elm and Carlton streets, 14263, United States; email: Mark.Travers@roswellpark.org
+N1  - CODEN: IJEHF
+ER  -
+
+TY  - JOUR
+AU  - Sotiriou, M.
+AU  - Ferguson, S.F.
+AU  - Davey, M.
+AU  - Wolfson, J.M.
+AU  - Demokritou, P.
+AU  - Lawrence, J.
+AU  - Sax, S.N.
+AU  - Koutrakis, P.
+TI  - Measurement of particle concentrations in a dental office
+PY  - 2008
+T2  - Environmental Monitoring and Assessment
+VL  - 137
+IS  - 1-3
+SP  - 351
+EP  - 361
+DO  - 10.1007/s10661-007-9770-7
+UR  - https://www.scopus.com/pages/publications/38349059249?origin=resultslist
+AD  - Exposure, Epidemiology, and Risk Program, Department of Environmental Health, Harvard School of Public Health, Boston, MA, United States
+AD  - HSPH/EER, Boston, MA 02215, 401 Park Drive, United States
+AB  - Particles in a dental office can be generated by a number of instruments, such as air-turbine handpieces, low-speed handpieces, ultrasonic scalers, bicarbonate polishers, polishing cups, as well as drilling and air sprays inside the oral cavity. This study examined the generation of particles during dental drilling and measured particle size, mass, and trace elements. The air sampling techniques included both continuous and integrated methods. The following particle continuous measurements were taken every minute: (1) size-selective particle number concentration (Climet); (2) total particle number concentration (PTRAK), and; (3) particle mass concentration (DustTrak). Integrated particle samples were collected for about 5 h on each of five sampling days, using a PM2.5 sampler (ChemComb) for elemental/organic carbon analysis, and a PM10 sampler (Harvard Impactor) for mass and elemental analyses. There was strong evidence that these procedures result in particle concentrations above background. The dental procedures produced number concentrations of relatively small particles (<0.5 μm) that were much higher than concentrations produced for the relatively larger particles (>0.5 μm). Also, these dental procedures caused significant elevation above background of certain trace elements (measured by X-ray fluorescence) but did not cause any elevation of elemental carbon (measured by thermal optical reflectance). Dental drilling procedures aerosolize saliva and products of drilling, producing particles small enough to penetrate deep into the lungs. The potential health impacts of the exposure of dental personnel to such particles need to be evaluated. Increased ventilation and personal breathing protection could be used to minimize harmful effects. © Springer Science+Business Media B.V. 2007.
+KW  - Dental procedures
+KW  - Drilling procedures
+KW  - Health
+KW  - Indoor air pollution
+KW  - Particulate matter
+KW  - Air Pollutants, Occupational
+KW  - Air Pollution, Indoor
+KW  - Dental Equipment
+KW  - Dental Instruments
+KW  - Dental Offices
+KW  - Environmental Monitoring
+KW  - Massachusetts
+KW  - Particle Size
+KW  - Organic carbon
+KW  - Particle size analysis
+KW  - Particles (particulate matter)
+KW  - Trace elements
+KW  - aluminum
+KW  - barium
+KW  - tin
+KW  - zinc
+KW  - zirconium
+KW  - air quality
+KW  - atmospheric pollution
+KW  - indoor air
+KW  - particle size
+KW  - particulate matter
+KW  - trace element
+KW  - ventilation
+KW  - air analysis
+KW  - air conditioning
+KW  - air quality
+KW  - air sampling
+KW  - article
+KW  - dental assistant
+KW  - dental clinic
+KW  - dental equipment
+KW  - dental surgery
+KW  - dentist
+KW  - environmental exposure
+KW  - environmental monitoring
+KW  - indoor air pollution
+KW  - particle size
+KW  - particulate matter
+KW  - X ray fluorescence
+KW  - Dental drilling
+KW  - Particle concentrations
+KW  - Particle mass concentration
+KW  - Particle number concentration
+KW  - Indoor air pollution
+SN  - 15732959 (ISSN)
+C2  - 17505900
+LA  - English
+J2  - Environ. Monit. Assess.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-38349059249
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 71
+N1  - Funding details: Harvard School of Public Health, HSPH
+N1  - Funding text 1: Acknowledgments We would like to acknowledge especially the contributions of Jose Vallarino who provided helpful comments for this work. The authors would also like to acknowledge the laboratory analysis performed by Denise Lamoureux and Erick Vlassidis and contributions of Dr Marilyn Rivero for her kindly cooperation in the performance of this research study, as well as all the personnel of the dental office for their help and support throughout this work. Funding for this work was provided by the Harvard School of Public Health.
+N1  - Correspondence Address: J.M. Wolfson; HSPH/EER, Boston, MA 02215, 401 Park Drive, United States; email: mwolfson@hsph.harvard.edu
+N1  - CODEN: EMASD
+ER  -
+
+TY  - JOUR
+AU  - Zuidema, C.
+AU  - Stebounova, L.V.
+AU  - Sousan, S.
+AU  - Thomas, G.
+AU  - Koehler, K.
+AU  - Peters, T.M.
+TI  - Sources of error and variability in particulate matter sensor network measurements
+PY  - 2019
+T2  - Journal of Occupational and Environmental Hygiene
+VL  - 16
+IS  - 8
+SP  - 564
+EP  - 574
+DO  - 10.1080/15459624.2019.1628965
+UR  - https://www.scopus.com/pages/publications/85068227765?origin=resultslist
+AD  - Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, WA, United States
+AD  - Department of Occupational and Environmental Health, University of Iowa, Iowa City, IA, United States
+AD  - Department of Public Health, East Carolina University/North Carolina Agromedicine Institute, Greenville, NC, United States
+AD  - Department of Industrial and Systems Engineering, University of Iowa, Iowa City, IA, United States
+AD  - Department of Environmental Health and Engineering, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States
+AB  - The quality of mass concentration estimates from increasingly popular networks of low-cost particulate matter sensors depends on accurate conversion of sensor output (e.g., voltage) into gravimetric-equivalent mass concentration, typically using a calibration procedure. This study evaluates two important sources of variability that lead to error in estimating gravimetric-equivalent mass concentration: the temporal changes in sensor calibration and the spatial and temporal variability in gravimetric correction factors. A 40-node sensor network was deployed in a heavy vehicle manufacturing facility for 8 months. At a central location in the facility, particulate matter was continuously measured with three sensors of the network and a traditional, higher-cost photometer, determining the calibration slope and intercept needed to translate sensor output to photometric-equivalent mass concentration. Throughout the facility, during three intensive sampling campaigns, respirable mass concentrations were measured with gravimetric samplers and photometers to determine correction factors needed to adjust photometric-equivalent to gravimetric-equivalent mass concentration. Both field-determined sensor calibration slopes and intercepts were statistically different than those estimated in the laboratory (α = 0.05), emphasizing the importance of aerosol properties when converting voltage to photometric-equivalent mass concentration and the need for field calibration to determine slope. Evidence suggested the sensors’ weekly field calibration slope decreased and intercept increased, indicating the sensors were deteriorating over time. The mean correction factor in the cutting and shot blasting area (2.9) was substantially and statistically lower than that in the machining and welding area (4.6; p = 0.01). Therefore, different correction factors should be determined near different occupational processes to accurately estimate particle mass concentrations. © 2019, © 2019 JOEH, LLC.
+KW  - Correction factor
+KW  - field calibration
+KW  - low-cost sensors
+KW  - particle composition
+KW  - particulate matter concentration; photometer
+KW  - Air Pollutants
+KW  - Calibration
+KW  - Environmental Monitoring
+KW  - Manufacturing and Industrial Facilities
+KW  - Motor Vehicles
+KW  - Occupational Exposure
+KW  - Particulate Matter
+KW  - air pollutant
+KW  - calibration
+KW  - devices
+KW  - environmental monitoring
+KW  - industry
+KW  - motor vehicle
+KW  - occupational exposure
+KW  - particulate matter
+KW  - procedures
+PB  - Taylor and Francis Inc.
+SN  - 15459624 (ISSN)
+C2  - 31251121
+LA  - English
+J2  - J. Occup. Environ. Hyg.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85068227765
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 17
+N1  - Funding details: University of Washington?s Biostatistics; Engineering Research Centers, ERC; European Research Council, ERC; University of Washington’s Biostatistics, Epidemiology, and Bioinformatics Training in Environmental Heath; Johns Hopkins University Education and Research Center for Occupational Safety and Health; National Institute for Occupational Safety and Health, NIOSH, (R01 OH010533, T42 OH 008428); National Institute of Environmental Health Sciences, NIEHS, (P30ES005605, T32ES015459); BEBTEH, (T32ES015459); National Institutes of Health, NIH, (T42OH008428, R01OH010533)
+N1  - Funding text 1: This work was supported by the U.S. National Institute for Occupational Safety and Health under Grant R01 OH010533. C. Zuidema was supported by the Johns Hopkins University Education and Research Center for Occupational Safety and Health (ERC), which is funded by NIOSH under grant number T42 OH 008428, and the University of Washington?s Biostatistics, Epidemiology, and Bioinformatics Training in Environmental Heath (BEBTEH), grant number T32ES015459, from the National Institute for Environmental Health Science (NIEHS).
+N1  - Funding text 2: This work was supported by the U.S. National Institute for Occupational Safety and Health under Grant R01 OH010533. C. Zuidema was supported by the Johns Hopkins University Education and Research Center for Occupational Safety and Health (ERC), which is funded by NIOSH under grant number T42 OH 008428, and the University of Washington\u2019s Biostatistics, Epidemiology, and Bioinformatics Training in Environmental Heath (BEBTEH), grant number T32ES015459, from the National Institute for Environmental Health Science (NIEHS).
+N1  - Correspondence Address: T.M. Peters; Department of Occupational and Environmental Health, University of Iowa, Iowa City, 105 River St, S331 CPHB, 52242-5000, United States; email: thomas-m-peters@uiowa.edu
+N1  - CODEN: JOEHA
+ER  -
+
+TY  - JOUR
+AU  - Borgini, A.
+AU  - Tittarelli, A.
+AU  - Ricci, C.
+AU  - Bertoldi, M.
+AU  - De Saeger, E.
+AU  - Crosignani, P.
+TI  - Personal exposure to PM2.5 among high-school students in Milan and background measurements: The EuroLifeNet study
+PY  - 2011
+T2  - Atmospheric Environment
+VL  - 45
+IS  - 25
+SP  - 4147
+EP  - 4151
+DO  - 10.1016/j.atmosenv.2011.05.026
+UR  - https://www.scopus.com/pages/publications/79959497039?origin=resultslist
+AD  - Cancer Registry and Environmental Epidemiology Unit, National Cancer Institute, 20133 Milano, Via Venezian 1, Italy
+AD  - Biometry and Clinical Epidemiology Unit, GSD Foundation Corso di Porta Vigentina, 20122 Milano (MI), n. 18, Italy
+AD  - European Commission, Joint Research Centre, Institute for Environment and Sustainability, Transport and Air Quality Unit, 21020 Ispra (Varese), Italy
+AB  - As part of the EuroLifeNet program we measured personal exposure to PM2.5 in 90 pupils attending three schools in Milan, over a three-week period spanning November and December 2006, using a portable light-scattering nephelometer. The primary aim was to investigate the relationship between personal exposure to PM2.5 and background measurements obtained from a fixed monitoring station. Pearson's correlation coefficient between sampled daily mean exposures and reference values from background station varied from 0.64 to 0.75, with an overall value of 0.63, indicating good agreement. We also estimated that about 40% of the variability in the mean daily personal exposure at the three schools was due to variability in background exposure, the remaining 60% due to between-subject differences in exposures or to other sources of error. © 2011 Elsevier Ltd.
+KW  - Fine particles
+KW  - Indoor/outdoor
+KW  - Personal exposure
+KW  - Schools
+KW  - Students
+KW  - Italy
+KW  - Lombardy
+KW  - Milan
+KW  - Milano [Lombardy]
+KW  - Correlation methods
+KW  - Societies and institutions
+KW  - Fine particles
+KW  - Indoor/outdoor
+KW  - Monitoring stations
+KW  - Pearson's correlation coefficients
+KW  - Personal exposures
+KW  - Reference values
+KW  - Schools
+KW  - indoor air
+KW  - light scattering
+KW  - monitoring
+KW  - particulate matter
+KW  - pollution exposure
+KW  - student
+KW  - air quality control
+KW  - article
+KW  - environmental exposure
+KW  - high school student
+KW  - human
+KW  - Italy
+KW  - particulate matter
+KW  - priority journal
+KW  - Exposure controls
+SN  - 18732844 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-79959497039
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 26
+N1  - Correspondence Address: A. Borgini; Cancer Registry and Environmental Epidemiology Unit, National Cancer Institute, 20133 Milano, Via Venezian 1, Italy; email: alessandro.borgini@istitutotumori.mi.it
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Hegde, S.
+AU  - Min, K.T.
+AU  - Moore, J.
+AU  - Lundrigan, P.
+AU  - Patwari, N.
+AU  - Collingwood, S.
+AU  - Balch, A.
+AU  - Kelly, K.E.
+TI  - Indoor household particulate matter measurements using a network of low-cost sensors
+PY  - 2020
+T2  - Aerosol and Air Quality Research
+VL  - 20
+IS  - 2
+SP  - 381
+EP  - 394
+DO  - 10.4209/aaqr.2019.01.0046
+UR  - https://www.scopus.com/pages/publications/85081069267?origin=resultslist
+AD  - University of Utah, Department of Chemical Engineering, Salt Lake City, 84112, UT, United States
+AD  - University of Utah, Department of Electrical and Computer Engineering, Salt Lake City, 84112, UT, United States
+AD  - School of Computing, University of Utah, Salt Lake City, 84112, UT, United States
+AD  - Department of Pediatrics, University of Utah, Salt Lake City, 84112, UT, United States
+AB  - The World Health Organization estimates that 4.3 million deaths globally in 2012 were attributable to household air pollution, of which particulate matter (PM) with a diameter of 2.5 µm or less (PM2.5) is a significant contributor. When integrated with a wireless network, low-cost PM measurements potentially provide personalized information on indoor concentrations in real time so that individuals can take action. The objectives of this study were to (1) deploy a network of research-grade instruments and low-cost sensors in a home environment and evaluate the performance, (2) characterize activities and conditions that increase PM concentrations, and (3) identify how these activities affect the PM levels in different rooms of a home. The wireless sensor network included low-cost PM sensors, a gateway, and a database for storing data. Based on the commercially available Dylos DC1100 Pro (Utah Modified Dylos Sensor) and Plantower PMS sensor (AirU), the low-cost sensors were compared to three research-grade instruments—the GRIMM, DustTrak, and MiniVol—in two households in Salt Lake City during summer and winter, with the results suggesting that the low-cost sensors agreed well with the DustTrak. Of the activities, frying food and spraying aerosol products generated the largest increase in PM, both in the room of the activity (the kitchen and bedroom, respectively) and the adjacent rooms. High outdoor PM concentrations during a cold air pool episode also caused indoor levels to rise. In addition, different PM sources triggered different sensor responses. Consequently, obtaining accurate estimates of the mass concentration in an indoor environment, with its wide variety of PM sources, is challenging. However, low-cost PM sensors can be incorporated into an indoor air-quality measurement network to help individuals manage their personal exposure. © Taiwan Association for Aerosol Research.
+KW  - Cold air pool
+KW  - Indoor air
+KW  - Low-cost particulate matter sensor
+KW  - Particulate matter
+KW  - Sensor network
+KW  - Salt Lake City
+KW  - United States
+KW  - Utah
+KW  - Air quality
+KW  - Gateways (computer networks)
+KW  - Indoor air pollution
+KW  - Particles (particulate matter)
+KW  - Sensor networks
+KW  - Wireless sensor networks
+KW  - Cold air pools
+KW  - Indoor air
+KW  - Indoor air quality measurements
+KW  - Indoor concentration
+KW  - Particulate Matter
+KW  - Personal exposures
+KW  - Personalized information
+KW  - World Health Organization
+KW  - aerosol
+KW  - atmospheric pollution
+KW  - cold air
+KW  - concentration (composition)
+KW  - indoor air
+KW  - network analysis
+KW  - particulate matter
+KW  - seasonal variation
+KW  - sensor
+KW  - World Health Organization
+KW  - Costs
+PB  - AAGR Aerosol and Air Quality Research
+SN  - 16808584 (ISSN)
+LA  - English
+J2  - Aerosol Air Qual. Res.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85081069267
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 72
+N1  - Funding details: Prisms Informatics Platform-Federated Integration Architecture; National Institutes of Health, NIH, (UH3OD023249, U54EB021973)
+N1  - Funding text 1: We gratefully acknowledge support by NIH Grant Number U54EB021973, Prisms Informatics Platform-Federated Integration Architecture and the ECHO Program, National Institutes of Health under Award Number UH3OD023249.
+N1  - Correspondence Address: S. Hegde; University of Utah, Department of Chemical Engineering, Salt Lake City, 84112, United States; email: shruti.hegde@utah.edu
+ER  -
+
+TY  - JOUR
+AU  - Wu, T.-G.
+AU  - Chang, J.-C.
+AU  - Huang, S.-H.
+AU  - Lin, W.-Y.
+AU  - Chan, C.-C.
+AU  - Wu, C.-F.
+TI  - Exposures and health impact for bicycle and electric scooter commuters in Taipei
+PY  - 2021
+T2  - Transportation Research Part D: Transport and Environment
+VL  - 91
+C7  - 102696
+DO  - 10.1016/j.trd.2021.102696
+UR  - https://www.scopus.com/pages/publications/85099713448?origin=resultslist
+AD  - Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, Taipei, Taiwan
+AD  - Innovation and Policy Center for Population Health and Sustainable Environment, College of Public Health, National Taiwan University, Taipei, Taiwan
+AD  - Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taipei, Taiwan
+AB  - Bicycle and scooter commuters are known to expose to more traffic-related pollutants. Benzene, toluene, ethylbenzene, xylenes (BTEXs), and PM2.5 were measured along four routes during rush hour and non-rush hour periods by cyclists and motorcyclists in Taipei, Taiwan. The health impacts were also evaluated using health impact modeling (HIM) approach. The average exposures of total BTEX and PM2.5 were 20.07 ppb and 23.27 μg/m3 for the cyclists and 33.96 ppb and 27.65 μg/m3 for the motorcyclists, respectively. Riding on an “alternative” route resulted in lower exposure. Scooters could contribute more to PM2.5 exposure than buses/trucks and passenger cars. Cyclists could have a lower risk of all-cause mortality and a single-pollutant HIM was found to result in underestimations. In conclusion, the number of scooters in traffic should be reduced, and commuters should be encouraged to shift from gasoline scooters to bicycles to reduce air pollution. © 2021 Elsevier Ltd
+KW  - Bicycle
+KW  - Commuters
+KW  - Health impact modeling
+KW  - Mobile measurements
+KW  - Scooter
+KW  - Traffic-related air pollution
+KW  - Taipei
+KW  - Taiwan
+KW  - Bicycles
+KW  - Health
+KW  - Pollution
+KW  - Electric scooters
+KW  - Health impact
+KW  - Traffic-related pollutants
+KW  - atmospheric pollution
+KW  - commuting
+KW  - cycle transport
+KW  - electric vehicle
+KW  - health impact
+KW  - modeling
+KW  - pollution exposure
+KW  - traffic emission
+KW  - Electric bikes
+PB  - Elsevier Ltd
+SN  - 13619209 (ISSN)
+LA  - English
+J2  - Transp. Res. Part D Transp. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85099713448
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 14
+N1  - Correspondence Address: C.-F. Wu; Institute of Environmental and Occupational Health Sciences, College of Public Health, National Taiwan University, Taipei, No. 17, Xuzhou Rd, 10055, Taiwan; email: changfu@ntu.edu.tw
+N1  - CODEN: TRDTF
+ER  -
+
+TY  - JOUR
+AU  - Saksena, S.
+AU  - Quang, T.N.
+AU  - Nguyen, T.
+AU  - Dang, P.N.
+AU  - Flachsbart, P.
+TI  - Commuters' exposure to particulate matter and carbon monoxide in Hanoi, Vietnam
+PY  - 2008
+T2  - Transportation Research Part D: Transport and Environment
+VL  - 13
+IS  - 3
+SP  - 206
+EP  - 211
+DO  - 10.1016/j.trd.2008.02.001
+UR  - https://www.scopus.com/pages/publications/41849144421?origin=resultslist
+AD  - The East-West Center, Honolulu, 1601 East West Road, United States
+AD  - Center for Environmental Engineering of Towns and Industrial Areas, Hanoi, 55 Giai Phong Road, Viet Nam
+AD  - Hanoi School of Public Health, Hanoi, 138B Giang Vo, Viet Nam
+AD  - The University of Hawaii at Manoa, Honolulu, HI 96822, Saunders Hall, 2424 Maile Way, Room 107, United States
+AB  - This study provides estimates of personal exposures to particulate matter and carbon monoxide while traveling on four major roads in Hanoi, Vietnam. The effect of factors such as mode of transport (mobikes, buses, cars and walking), route, rush-hour, and air-conditioning on the exposure levels are examined. The mean value of particulate matter concentrations was found to be 455 μg m-3, with mobike riders being the most exposed and bus passengers being the least. The mean value of carbon monoxide concentrations was 15.7 ppm, with mobike riders being most exposed and pedestrians being the least exposed. Rush-hour levels for particulate matter and carbon monoxide are higher than during non-rush-hour periods. © 2008 Elsevier Ltd. All rights reserved.
+KW  - Bus
+KW  - Carbon monoxide
+KW  - Commuters' exposure
+KW  - Hanoi
+KW  - Motorcycle
+KW  - Particulate matter
+KW  - Asia
+KW  - Eurasia
+KW  - Hanoi
+KW  - Southeast Asia
+KW  - Viet Nam
+KW  - Buses
+KW  - Carbon monoxide
+KW  - Motor transportation
+KW  - Motorcycles
+KW  - Particulate emissions
+KW  - Mode of transport
+KW  - Particulate matter
+KW  - atmospheric pollution
+KW  - bus transport
+KW  - carbon monoxide
+KW  - commuting
+KW  - particulate matter
+KW  - pollution exposure
+KW  - Air pollution
+PB  - Elsevier Ltd
+SN  - 13619209 (ISSN)
+LA  - English
+J2  - Transp. Res. Part D Transp. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-41849144421
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 52
+N1  - Correspondence Address: S. Saksena; The East-West Center, Honolulu, 1601 East West Road, United States; email: saksenas@eastwestcenter.org
+N1  - CODEN: TRDTF
+ER  -
+

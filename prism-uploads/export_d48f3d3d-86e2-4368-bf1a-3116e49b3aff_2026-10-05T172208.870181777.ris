@@ -1,0 +1,583 @@
+TY  - JOUR
+AU  - Owczarek, T.
+AU  - Rogulski, M.
+AU  - Czechowski, P.O.
+TI  - Assessment of the equivalence of low-cost sensors with the reference method in measuring PM10 concentration using selected correction functions
+PY  - 2020
+T2  - Sustainability (Switzerland)
+VL  - 12
+IS  - 13
+C7  - 5368
+DO  - 10.3390/su12135368
+UR  - https://www.scopus.com/pages/publications/85088027028?origin=resultslist
+AD  - Faculty of Entrepreneurship and Quality Science, Gdynia Maritime University, Morska 81-87, Gdynia, 81-225, Poland
+AD  - Hydro and Environmental Engineering, Faculty of Building Services, Warsaw University of Technology, Nowowiejska 20, Warsaw, 00-653, Poland
+AB  - The aim of the work is to demonstrate the possibility of building models to correct the results of measurements of particulate matter PM10 concentrations obtained using low-cost devices. Such devices apply the optical method to values comparable with those obtained using the reference gravimetric method. An additional goal is to show that the results corrected in this way can be used to carry out the procedure for testing equivalence of these methods. The study used generalized regression models (GRMs) to construct corrective functions. The constructed models were assessed using the coefficients of determination and the methodology of calculating the measurement uncertainty of the device. Measurement data from the two tested devices and the reference method were used to estimate model parameters. The measurement data were collected on a daily basis from 1 February to 30 June 2018 in Nowy Sacz. Regression allowed building multiple models with various functional forms and very promising statistical properties as well as good ability to describe the variability of reference measurements. These models also had very low values of measurement uncertainty. Of all the models constructed, a linear model using the original PM10 concentrations from the tested devices, air humidity, and wind speed was chosen as the most accurate and simplest model. Apart from the coefficient of determination, expanded relative uncertainty served as the measure of quality of the obtained model. Its small value, much lower than 25%, indicates that after correcting the results it is possible to carry out the equivalence testing procedure for the low-cost devices and confirm the equivalence of the tested method with the reference method. © 2020 by the authors.
+KW  - Air pollution
+KW  - Equivalence of measurement methods
+KW  - Low cost meters
+KW  - Particulate matter
+KW  - PM<sub>10</sub> concentrations
+KW  - Uncertainty of measurement
+KW  - assessment method
+KW  - concentration (composition)
+KW  - correction
+KW  - measurement method
+KW  - optical method
+KW  - parameter estimation
+KW  - particulate matter
+KW  - regression analysis
+KW  - sensor
+KW  - uncertainty analysis
+PB  - MDPI
+SN  - 20711050 (ISSN)
+LA  - English
+J2  - Sustainability
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85088027028
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 8
+N1  - Correspondence Address: T. Owczarek; Faculty of Entrepreneurship and Quality Science, Gdynia Maritime University, Gdynia, Morska 81-87, 81-225, Poland; email: t.owczarek@wpit.umg.edu.pl
+ER  -
+
+TY  - CONF
+AU  - Owczarek, T.
+AU  - Rogulski, M.
+AU  - Badyda, A.
+TI  - Preliminary comparative assessment and elements of equivalence of air pollution measurement results of portable monitoring stations with using stochastic models
+PY  - 2018
+T2  - E3S Web of Conferences
+VL  - 28
+C7  - 01028
+DO  - 10.1051/e3sconf/20182801028
+UR  - https://www.scopus.com/pages/publications/85040968880?origin=resultslist
+AD  - Akademia Morska w Gdyni, Wydział Przedsiȩbiorczości i Towaroznawstwa, ul. Morska 83, Gdynia, 81-225, Poland
+AD  - Warsaw University of Technology, Faculty of Building Services, Hydro and Environmental Engineering, Nowowiejska 20, Warsaw, 00-653, Poland
+AB  - This article is an attempt to assess the suitability of new non-reference mobile measuring devices for the analysis of PM10 concentrations. The aim is to compare the concentration daily values measured by these devices with the concentrations obtained by the reference device. It also examines the possibility of building models that correct these values to equivalent reference values. The analysis allows to conclude that the properties of the obtained measurements indicate a good chance of constructing an effective model of correcting the concentration values. Comparison of frequency, time variation and correlation of concentrations indicates the ability to demonstrate the equivalence of mobile devices with the reference method. © The Authors, published by EDP Sciences, 2018.
+KW  - Stochastic systems
+KW  - Air pollution measurements
+KW  - Comparative assessment
+KW  - Concentration values
+KW  - Correlation of concentrations
+KW  - PM10 concentration
+KW  - Portable monitoring
+KW  - Reference devices
+KW  - Reference values
+KW  - Stochastic models
+A2  - Juda-Rezler K.
+A2  - Sowka I.
+A2  - Fudala J.
+A2  - Majewski G.
+A2  - Czaplicka M.
+A2  - Jablonska-Czapla M.
+A2  - Kyziol-Komosinska J.
+A2  - Rogula-Kozlowska W.
+A2  - Czechowski O.
+PB  - EDP Sciences
+SN  - 22671242 (ISSN)
+LA  - English
+J2  - E3S Web Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85040968880
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 5
+N1  - Correspondence Address: T. Owczarek; Akademia Morska w Gdyni, Wydział Przedsiȩbiorczości i Towaroznawstwa, Gdynia, ul. Morska 83, 81-225, Poland; email: t.owczarek@wpit.am.gdynia.pl
+N1  - Conference name: 2017 10th Scientific Conference on Air Protection in Theory and Practice
+N1  - Conference date: 18 October 2017 through 21 October 2017
+N1  - Conference code: 133470
+ER  -
+
+TY  - JOUR
+AU  - Šauer, P.
+AU  - Kreuz, J.
+AU  - Lisa, A.
+TI  - Assessing efforts to mitigate particulate matter air pollution in the moravian-silesian region
+PY  - 2014
+T2  - Polish Journal of Environmental Studies
+VL  - 23
+IS  - 6
+SP  - 2233
+EP  - 2242
+UR  - https://www.scopus.com/pages/publications/85045941335?origin=resultslist
+AD  - Institute for Sustainable Business, University of Economics, Prague W. Churchilla 4, Prague 3, 130 67, Czech Republic
+AB  - The Moravian-Silesian Region suffers from bad air quality, and air pollution levels even exceeding health limits. The national and local authorities are striving to solve this adverse situation in cooperation with the responsible bodies. Significant amounts of resources have been allocated to various interventions in the region. This article provides the results of a multi-criteria analysis that evaluates sets of various measures to mitigate air pollution in the region. Multiple criteria, including cost-effectiveness evaluation, uncertainty about both the information on the contribution of the respective sub-sectors to local pollution, and the actual longterm effects of the measures were applied in the analysis. The results suggest that implementation of best available technologies, energy-efficiency improvements, and road transportation management are to be the best measures in terms of efficient air quality improvement. Smog mitigation and fuel change represents mediumefficiency solutions. Closing of plants, end-of-pipe solutions, and imports of intermediate products are among the least-efficient measures. © 2014, HARD Publishing Company. All rights reserved.
+KW  - Air pollution
+KW  - Environmental policy
+KW  - Particulate matter (PM)
+KW  - Policy assessment
+PB  - HARD Publishing Company
+SN  - 12301485 (ISSN)
+LA  - English
+J2  - Pol. J. Environ. Stud.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85045941335
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 3
+N1  - Funding details: Grantová Agentura České Republiky, GA ČR, (13-07036S)
+N1  - Funding text 1: This paper was supported with a grant from the Czech Science Foundation, GACR No. 13-07036S. Our thanks also go to Prof. Jan Dobrowolski for his helpful comments.
+ER  -
+
+TY  - JOUR
+AU  - Winkel, A.
+AU  - Llorens Rubio, J.
+AU  - Huis in't Veld, J.W.H.
+AU  - Vonk, J.
+AU  - Ogink, N.W.M.
+TI  - Equivalence testing of filter-based, beta-attenuation, TEOM, and light-scattering devices for measurement of PM10 concentration in animal houses
+PY  - 2015
+T2  - Journal of Aerosol Science
+VL  - 80
+SP  - 11
+EP  - 26
+DO  - 10.1016/j.jaerosci.2014.10.009
+UR  - https://www.scopus.com/pages/publications/84911869272?origin=resultslist
+AD  - Wageningen UR Livestock Research, P.O. Box 338, Wageningen, 6700 AH, Netherlands
+AD  - Institute of Animal Science and Technology, Universidad Politécnica de Valencia, Camino de Vera s.n., Valencia, 46022, Spain
+AD  - National Institute for Public Health and the Environment, P.O Box 1, Bilthoven, 3720 BA, Netherlands
+AB  - Emissions of particulate matter (PM) from poultry and pig houses may contribute significantly to ambient concentrations. Yet, our knowledge on the accuracy and comparability of samplers available for measuring the high PM10 concentrations (>100μgm-3) in the inside air directly upstream of the ventilation exhausts of these buildings is very limited. The aim of this study was to provide insight into this matter for five candidate samplers: a filter-based cyclone sampler (CYS), the Thermo Scientific FH 62 I-R beta-attenuation sampler (BAS), the Thermo Scientific Tapered Element Oscillating Microbalance, model 1400ab (TEOM), the TSI DustTrak model 8520 (DT), and the GRIMM Portable Aerosol Spectrometer model 1.109 (PAS). Equivalence tests were carried out following European Standard EN 12341 using two devices for each candidate sampler (CAS) and four filter-based low-volume reference samplers (RES). Measurements were performed inside three major animal housings (a fattening pig house, a laying hen house, and a broiler house) and inside an office room. Our key results and conclusions are: (1) neither one of the five CASs, nor the RES itself, met the EN 12341 requirement for comparability between devices of the same sampler type. Using a less strict boundary for this aspect - in concert with performing duplicate sampling - may be appropriate. (2) The CYS met the EN 12341 accuracy requirements in pigs and layers, but overestimated the RES concentration in broilers. The BAS, TEOM, and DT underestimated, and the PAS overestimated, RES concentrations in a systematic manner. The use of correction factors seems to be a promising method to calibrate measured values to RES concentrations. (3) The BAS, TEOM, DT, and PAS started to show scattered regression after 432-500h of sampling, which stresses the need for shortened time intervals between full services. In conclusion, some of the samplers tested could be regarded acceptable when appropriate measures (such as duplicate sampling, correction factors, and more frequent servicing) are applied. © 2014 Elsevier Ltd.
+KW  - Animal houses
+KW  - Correction factors
+KW  - Equivalence testing
+KW  - Particulate matter
+KW  - Sampling methods
+KW  - Animalia
+KW  - Bandpass filters
+KW  - Equivalence classes
+KW  - Light scattering
+KW  - Mammals
+KW  - Particles (particulate matter)
+KW  - Ventilation exhausts
+KW  - Animal house
+KW  - Correction factors
+KW  - Equivalence testing
+KW  - Particulate Matter
+KW  - Sampling method
+KW  - aerosol
+KW  - air sampling
+KW  - concentration (composition)
+KW  - filter
+KW  - indoor air
+KW  - light scattering
+KW  - livestock farming
+KW  - particulate matter
+KW  - sampler
+KW  - testing method
+KW  - air sampler
+KW  - animal housing
+KW  - Article
+KW  - beta attenuation sampler
+KW  - broiler
+KW  - controlled study
+KW  - filter
+KW  - filter based cyclone sampler
+KW  - hen
+KW  - humidity
+KW  - light scattering
+KW  - light scattering device
+KW  - nonhuman
+KW  - particulate matter
+KW  - portable aerosol spectrometer
+KW  - swine
+KW  - tapered element oscillating microbalance
+KW  - temperature
+KW  - Houses
+PB  - Elsevier Ltd
+SN  - 00218502 (ISSN)
+LA  - English
+J2  - J. Aerosol Sci.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84911869272
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 33
+N1  - Funding details: Dutch Ministry of Economic Affairs; Dutch Ministry of Infrastructure and Environment
+N1  - Funding text 1: This work was financed by the Dutch Ministry of Economic Affairs and the Dutch Ministry of Infrastructure and Environment . We would like to express our gratitude to the participating farmers for allowing our presence in their buildings for many weeks. We thank Mr. Eef Lovink for carefully servicing the equipment, Mr. Jean Slangen for weighing the filters, Mr. Peter Hofschreuder for stimulating discussions, and Mr. Johan van Riel for advice on the Genstat procedures.  
+N1  - CODEN: JALSB
+ER  -
+
+TY  - JOUR
+AU  - Gebicki, J.
+AU  - Szymańska, K.
+TI  - Comparative field test for measurement of PM10 dust in atmospheric air using gravimetric (reference) method and β-absorption method (Eberline FH 62-1)
+PY  - 2012
+T2  - Atmospheric Environment
+VL  - 54
+SP  - 18
+EP  - 24
+DO  - 10.1016/j.atmosenv.2012.02.068
+UR  - https://www.scopus.com/pages/publications/84860502338?origin=resultslist
+AD  - Department of Chemical and Process Engineering, Chemical Faculty, Gdańsk University of Technology, 80-233 Gdańsk, Narutowicza Str. 11/12, Poland
+AD  - Agency of Regional Air Quality Monitoring in the Gdańsk Metropolitan Area (ARMAAG), 80-243 Gdańsk, Brzozowa Str. 15A, Poland
+AB  - The paper presents the results of a field test carried out in Gdańsk region between 01-01-2010 and 31-12-2010 in order to demonstrate equivalence of the Eberline FH 62-1 sampler to the reference gravimetric method of suspended PM10 dust measurement. The differences in PM10 dust concentration provided by both methods have been discussed for different seasons of the year. A method of estimation of the correction factors/correction equations has been described based on the European Union guide "Demonstration of Equivalence of Ambient Air Monitoring Methods. EC Working Group on Guidance for the Demonstration of Equivalence" The results obtained from Eberline sampler are equivalent to the ones from gravimetric method, but after application of data correction. The investigation revealed different correction factors/correction equations for winter and summer season. The winter season is characterized by higher PM10 concentration and bigger discrepancies between both methods. A lack of equivalence has been found for PM10 dust concentration higher than 30μgm-3. © 2012 Elsevier Ltd.
+KW  - Correction factors
+KW  - Eberline sampler
+KW  - Field test
+KW  - PM<sub>10</sub> dust
+KW  - Gdansk [Poland]
+KW  - Poland
+KW  - Atmospherics
+KW  - Earth atmosphere
+KW  - Ambient air monitoring
+KW  - Atmospheric air
+KW  - Correction factors
+KW  - Data corrections
+KW  - Dust concentrations
+KW  - Eberline sampler
+KW  - European union
+KW  - Field test
+KW  - Gravimetric methods
+KW  - Summer season
+KW  - Winter seasons
+KW  - Working groups
+KW  - absorption
+KW  - ambient air
+KW  - atmospheric correction
+KW  - atmospheric pollution
+KW  - comparative study
+KW  - dust
+KW  - European Union
+KW  - gravimetry
+KW  - particulate matter
+KW  - sampler
+KW  - spatiotemporal analysis
+KW  - absorption
+KW  - air monitoring
+KW  - ambient air
+KW  - article
+KW  - atmosphere
+KW  - dust
+KW  - European Union
+KW  - field study
+KW  - gravimetry
+KW  - particulate matter
+KW  - priority journal
+KW  - summer
+KW  - winter
+KW  - Dust
+SN  - 18732844 (ISSN)
+LA  - English
+J2  - Atmos. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84860502338
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 19
+N1  - Correspondence Address: J. Gebicki; Department of Chemical and Process Engineering, Chemical Faculty, Gdańsk University of Technology, 80-233 Gdańsk, Narutowicza Str. 11/12, Poland; email: jacek.gebicki@pg.gda.pl
+N1  - CODEN: AENVE
+ER  -
+
+TY  - JOUR
+AU  - Bralewska, K.
+AU  - Rogula-Kozłowska, W.
+AU  - Mucha, D.
+AU  - Badyda, A.J.
+AU  - Kostrzon, M.
+AU  - Bralewski, A.
+AU  - Biedugnis, S.
+TI  - Properties of Particulate Matter in the Air of the Wieliczka Salt Mine and Related Health Benefits for Tourists
+PY  - 2022
+T2  - International Journal of Environmental Research and Public Health
+VL  - 19
+IS  - 2
+C7  - 826
+DO  - 10.3390/ijerph19020826
+UR  - https://www.scopus.com/pages/publications/85122696384?origin=resultslist
+AD  - Safety Engineering Institute, The Main School of Fire Service, Slowackiego Street, 52/54, Warsaw, 01-629, Poland
+AD  - Faculty of Building Services, Hydro and Environmental Engineering, Warsaw University of Technology, Nowowiejska Street, 20, Warsaw, 00-653, Poland
+AD  - Wieliczka Salt Mine Health Resort, Park Kingi Street, 1, Wieliczka, 32-020, Poland
+AD  - Faculty of Safety Engineering and Civil Protection, The Main School of Fire Service, Slowackiego Street, 52/54, Warsaw, 01-629, Poland
+AB  - This study aimed to evaluate the mass concentration of size-resolved (PM1, PM2.5, PM4, PM10, PM100) particulate matter (PM) in the Wieliczka Salt Mine located in southern Poland, compare them with the concentrations of the same PM fractions in the atmospheric air, and estimate the dose of dry salt aerosol inhaled by the mine visitors. Measurements were conducted for 2 hours a day, simultaneously inside (tourist route, passage to the health resort, health resort) and outside the mine (duty-room), for three days in the summer of 2017 using DustTrak DRX devices (optical method). The highest average PM concentrations were recorded on the tourist route (54–81 µg/m3), while the lowest was in the passage to the health resort (49–62 µg/m3). At the same time, the mean outdoor PM concentrations were 14–20 µg/m3. Fine particles constituting the majority of PM mass (68–80%) in the mine originated from internal sources, while the presence of coarse particles was associated with tourist traffic. High PM deposition factors in the respiratory tract of children and adults estimated for particular mine chambers (0.58–0.70), the predominance of respirable particles in PM mass, and the high content of NaCl in PM composition indicate high health benefits for mine visitors. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Health effects
+KW  - Health resort
+KW  - Particle mass size distribution
+KW  - Particulate matter
+KW  - Salt aerosol
+KW  - Salt mine microclimate
+KW  - Aerosols
+KW  - Air Pollutants
+KW  - Child
+KW  - Environmental Monitoring
+KW  - Humans
+KW  - Particle Size
+KW  - Particulate Matter
+KW  - Seasons
+KW  - Sodium Chloride
+KW  - Malopolskie
+KW  - Poland [Central Europe]
+KW  - Wieliczka Mine
+KW  - sodium chloride
+KW  - sodium chloride
+KW  - aerosol
+KW  - concentration (composition)
+KW  - microclimate
+KW  - particle size
+KW  - particulate matter
+KW  - seasonal variation
+KW  - size distribution
+KW  - aerosol
+KW  - Article
+KW  - atmospheric deposition
+KW  - chemical composition
+KW  - chemical parameters
+KW  - concentration (parameter)
+KW  - environmental health
+KW  - health center
+KW  - human
+KW  - measurement
+KW  - microclimate
+KW  - mining
+KW  - particle size
+KW  - particulate matter
+KW  - particulate matter 1
+KW  - particulate matter 10
+KW  - particulate matter 100
+KW  - particulate matter 2.5
+KW  - particulate matter 4
+KW  - physical chemistry
+KW  - physical parameters
+KW  - Poland
+KW  - respiratory system
+KW  - summer
+KW  - tourism
+KW  - aerosol
+KW  - air pollutant
+KW  - child
+KW  - environmental monitoring
+KW  - procedures
+KW  - season
+PB  - MDPI
+SN  - 16617827 (ISSN)
+C2  - 35055648
+LA  - English
+J2  - Int. J. Environ. Res. Public Health
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85122696384
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 15
+N1  - Funding details: Ministry of the Interior and Administration
+N1  - Funding text 1: This research was funded from a subsidy of the Ministry of the Interior and Administration, Poland to The Main School of Fire Service in Warsaw, Poland.
+N1  - Correspondence Address: K. Bralewska; Safety Engineering Institute, The Main School of Fire Service, Warsaw, Slowackiego Street, 52/54, 01-629, Poland; email: kbralewska@sgsp.edu.pl
+ER  -
+
+TY  - JOUR
+AU  - Owczarek, T.
+AU  - Rogulski, M.
+AU  - Czechowski, P.O.
+AU  - Badyda, A.
+AU  - Czermański, E.
+TI  - EQUIVALENCE OF LOW-COST PM10 CONCENTRATION MEASURING DEVICES WITH A REFERENCE METHOD USING VARIOUS CORRECTION FUNCTIONS
+ST  - RÓWNOWAŻNOŚĆ NISKOKOSZTOWYCH URZĄDZEŃ DO POMIARU STĘŻENIA PM10 Z METODĄ REFERENCYJNĄ WYKORZYSTUJĄCĄ RÓŻNE FUNKCJE KOREKCYJNE
+PY  - 2023
+T2  - Economics and Environment
+VL  - 87
+IS  - 4
+DO  - 10.34659/eis.2023.87.4.627
+UR  - https://www.scopus.com/pages/publications/85184207499?origin=resultslist
+AD  - Gdynia Maritime University, Faculty of Enterpreneurship and Quality Science, Gdynia, Poland
+AD  - Warsaw University of Technology, Faculty of Building Services, Hydro and Environmental Engineering, Warsaw, Poland
+AD  - University of Gdansk, Faculty of Economics, Sopot, Poland
+AB  - The aim of the study was to build a corrective model that can be used in the analysed devices and to assess the impact of such a model on the values of the measured concentrations. The novelty of this study is the test of equivalence with the equivalent reference method for hourly data. The study used hourly data of PM10 concentrations measured in a chosen city in Poland. Data was collected from two PM10 sensors and a reference device placed in close proximity. In addition, air temperature, humidity and wind speed were also measured. Among the tested models, a linear model was selected that used primary measurements of PM10, temperature, air velocity, and humidity as the most accurate approximation of the actual PM10 concentration level. The results of the analysis showed that it is possible to build mathematical models that effectively convert PM10 concentration data from tested low-cost electronic measuring devices to concentrations obtained by the reference method. © 2023, Wydawnictwo Ekonomia i Srodowisko. All rights reserved.
+KW  - air quality
+KW  - environmental pollution management
+KW  - low-cost devices
+KW  - measurement equivalence
+KW  - PM<sub>10</sub>
+PB  - Wydawnictwo Ekonomia i Srodowisko
+SN  - 08678898 (ISSN)
+LA  - English
+J2  - Econ. Environ.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85184207499
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 1
+N1  - Correspondence Address: E. Czermański; Sopot, Armii Krajowej Street 119/121, 81-824, Poland; email: ernest.czermanski@ug.edu.pl
+ER  -
+
+TY  - CONF
+AU  - Czechowski, P.O.
+AU  - Owczarek, T.
+AU  - Badyda, A.
+AU  - Majewski, G.
+AU  - Rogulski, M.
+AU  - Ogrodnik, P.
+TI  - Preliminary comparative assessment of PM10 hourly measurement results from new monitoring stations type using stochastic and exploratory methodology and models
+PY  - 2018
+T2  - E3S Web of Conferences
+VL  - 28
+C7  - 01010
+DO  - 10.1051/e3sconf/20182801010
+UR  - https://www.scopus.com/pages/publications/85040989039?origin=resultslist
+AD  - Faculty of Entrepreneurship and Quality Science, Gdynia Maritime University, Gdynia, Poland
+AD  - Faculty of Building Services, Hydro- and Environmental Engineering, Warsaw University of Technology, 20 Nowowiejska St., Warsaw, PL00-653, Poland
+AD  - Warsaw University of Life Sciences, Faculty of Civil and Environmental Engineering, Nowoursynowska 166, Warsaw, 02-776, Poland
+AD  - Main School of Fire Sevice, Faculty of Fire Safety Engineering, Slowackiego 52/54, Warsaw, 01-629, Poland
+AB  - The paper presents selected preliminary stage key issues proposed extended equivalence measurement results assessment for new portable devices - the comparability PM10 concentration results hourly series with reference station measurement results with statistical methods. In article presented new portable meters technical aspects. The emphasis was placed on the comparability the results using the stochastic and exploratory methods methodology concept. The concept is based on notice that results series simple comparability in the time domain is insufficient. The comparison of regularity should be done in three complementary fields of statistical modeling: time, frequency and space. The proposal is based on model's results of five annual series measurement results new mobile devices and WIOS (Provincial Environmental Protection Inspectorate) reference station located in Nowy Sacz city. The obtained results indicate both the comparison methodology completeness and the high correspondence obtained new measurements results devices with reference. © The Authors, published by EDP Sciences, 2018.
+KW  - Biomonitoring
+KW  - Carcinogenic PAHs
+KW  - Non-heating time
+KW  - Picea abies
+KW  - Polycyclic aromatic hydrocarbons (PAHs)
+KW  - Aromatic hydrocarbons
+KW  - Statistical methods
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Time domain analysis
+KW  - Biomonitoring
+KW  - Carcinogenic PAHs
+KW  - Heating time
+KW  - Picea abies
+KW  - Polycyclic aromatic hydrocarbons (PAHS)
+KW  - Polycyclic aromatic hydrocarbons
+A2  - Juda-Rezler K.
+A2  - Sowka I.
+A2  - Fudala J.
+A2  - Majewski G.
+A2  - Czaplicka M.
+A2  - Jablonska-Czapla M.
+A2  - Kyziol-Komosinska J.
+A2  - Rogula-Kozlowska W.
+A2  - Czechowski O.
+PB  - EDP Sciences
+SN  - 22671242 (ISSN)
+LA  - English
+J2  - E3S Web Conf.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85040989039
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 2
+N1  - Correspondence Address: P.O. Czechowski; Faculty of Entrepreneurship and Quality Science, Gdynia Maritime University, Gdynia, Poland; email: oskar@am.gdynia.pl
+N1  - Conference name: 2017 10th Scientific Conference on Air Protection in Theory and Practice
+N1  - Conference date: 18 October 2017 through 21 October 2017
+N1  - Conference code: 133470
+ER  -
+
+TY  - JOUR
+AU  - Kuskowska, K.
+AU  - Rogula-Kozlowska, W.
+AU  - Widziewicz, K.
+AU  - Rogula-Kopiec, P.
+TI  - Knowledge gaps and recommendations for future research of indoor particulate matter in Poland
+PY  - 2019
+T2  - Polish Journal of Environmental Studies
+VL  - 28
+IS  - 5
+SP  - 3043
+EP  - 3062
+DO  - 10.15244/pjoes/93710
+UR  - https://www.scopus.com/pages/publications/85070199611?origin=resultslist
+AD  - Faculty of Civil Safety Engineering, The Main School of Fire Service, Warsaw, Poland
+AD  - Faculty of Fire Safety Engineering, The Main School of Fire Service, Warsaw, Poland
+AD  - Institute of Environmental Engineering, Polish Academy of Sciences, Zabrze, Poland
+AB  - Research concerning the ambient particulate matter (PM) in the indoor environment has attracted much interest lately. Most often, studies concern some aspect of PM mass concentrations for the PM10 and PM2.5 fractions and less often the chemical composition of the indoor PM. In the framework of this study, an overview of the existing data in the literature concerning PM in the indoor environment of non-residential buildings has been compiled. An in-depth literature review indicates a lack of comprehensive research data regarding the state and quality of atmospheric air in non-residential buildings. It also highlights an emerging need for more knowledge on the indoor/outdoor air pollution relationships in such facilities. Although several studies underline the topics connected to the concentrations and chemical properties of PM in public utility environments, like offices, kindergartens, schools, churches, libraries, or in occupational environments, only a limited number of those are concerned with its presence inside sports facilities. The concentration of PM in the indoor air of closed sports venues is an important parameter for the users of these facilities due to the potentially harmful effects associated with PM inhalation. This negative influence includes the loss of athletic performance and health reflected by, among other factors, the loss of lung capacity and decreased lung function. © 2019, Polish Journal of Environmental Studies. All rights reserved.
+KW  - Indoor air quality
+KW  - Indoor/outdoor
+KW  - PM<sub>10</sub> 
+KW  - PM<sub>2.5</sub> 
+KW  - Sport facilities
+PB  - HARD Publishing Company
+SN  - 12301485 (ISSN)
+LA  - English
+J2  - Pol. J. Environ. Stud.
+M3  - Review
+DB  - Scopus
+N1  - EID: 2-s2.0-85070199611
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 5
+N1  - Funding details: Ministerstwo Nauki i Szkolnictwa Wyższego, MNiSW, (S/E-422/32/17, S/E/422/8/16/17); Ministerstwo Nauki i Szkolnictwa Wyższego, MNiSW
+N1  - Funding text 1: The authors would like to acknowledge the Ministry of Science and Higher Education for their financial support as part of the statutory works Nos. S/E/422/8/16/17 and S/E-422/32/17.
+N1  - Correspondence Address: K. Kuskowska; Faculty of Civil Safety Engineering, The Main School of Fire Service, Warsaw, Poland; email: kkuskowska@sgsp.edu.pl
+ER  -
+
+TY  - JOUR
+AU  - Bralewska, K.
+AU  - Rogula-Kozłowska, W.
+AU  - Bralewski, A.
+TI  - Size-segregated particulate matter in a selected sports facility in Poland
+PY  - 2019
+T2  - Sustainability (Switzerland)
+VL  - 11
+IS  - 24
+C7  - 6911
+DO  - 10.3390/SU11246911
+UR  - https://www.scopus.com/pages/publications/85079489880?origin=resultslist
+AD  - Safety Engineering Institute, The Main School of Fire Service, Slowackiego Street, 52/54, Warsaw, 01629, Poland
+AD  - Internal Security Institute, The Main School of Fire Service, Slowackiego Street, 52/54, Warsaw, 01629, Poland
+AB  - The aims of this study were to determine the concentration of particulate matter, analyze the percentage share of four particulate matter subfractions (PM1, PM2.5, PM4, PM10) in TSP (total mass of particulate matter (PM) in a typical Polish sports hall at different day periods during heating and non-heating seasons, and compare the average daily doses of respirable dust (PM4) for three groups of the sports hall users (pupils, teachers, and athletes). Gravimetric measurements of PM4 and TSP concentrations and optical measurements of the concentrations of five PM fractions (PM1, PM2.5, PM4, PM10, PM100) were conducted for 8 h a day, simultaneously inside and outside the hall, for 20 days each in summer and winter. During training, PM mass was concentrated mainly in coarse particles (PM2.5-100) (summer-55%, winter-35%). Without activity, the main part of PM mass was from fine particles (PM2.5, summer-59%, winter-75%). In summer, PM inside the hall originated mainly from internal sources. In winter, the fine PM concentration was affected by outdoor sources. The daily doses of PM4 for different groups of sports hall users indicate that the health exposure of sports practitioners to PM may be greater than for non-practitioners staying in the same conditions. © 2019 by the authors.
+KW  - Dose
+KW  - I/O
+KW  - Indoor air quality (IAQ)
+KW  - Particle mass size distribution
+KW  - Particulate matter (PM)
+KW  - Sports facilities
+KW  - Poland [Central Europe]
+KW  - air quality
+KW  - concentration (composition)
+KW  - dose-response relationship
+KW  - heating
+KW  - indoor air
+KW  - particle size
+KW  - particulate matter
+KW  - size structure
+KW  - sports facility
+PB  - MDPI
+SN  - 20711050 (ISSN)
+LA  - English
+J2  - Sustainability
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85079489880
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 17
+N1  - Funding details: Ministry of Science and Higher Education; Ministerstwo Nauki i Szkolnictwa Wyższego, MNiSW, (S/E/422/8/16/17); Ministerstwo Nauki i Szkolnictwa Wyższego, MNiSW
+N1  - Funding text 1: Acknowledgments: The authors would like to acknowledge the Ministry of Science and Higher Education for their financial support as part of the statutory works Nos. S/E/422/8/16/17.
+N1  - Funding text 2: The authors would like to acknowledge the Ministry of Science and Higher Education for their financial support as part of the statutory works Nos. S/E/422/8/16/17.
+N1  - Correspondence Address: K. Bralewska; Safety Engineering Institute, The Main School of Fire Service, Warsaw, Slowackiego Street, 52/54, 01629, Poland; email: kbralewska@sgsp.edu.pl
+ER  -
+
+TY  - JOUR
+AU  - Gębicki, J.
+AU  - Dymerski, T.
+AU  - Namies̈nik, J.
+TI  - Monitoring of odour nuisance from landfill using electronic nose
+PY  - 2014
+T2  - Chemical Engineering Transactions
+VL  - 40
+IS  - Special Issue
+SP  - 85
+EP  - 90
+DO  - 10.3303/CET1440015
+UR  - https://www.scopus.com/pages/publications/84908251067?origin=resultslist
+AD  - Department of Chemical and Process Engineering, Chemical Faculty, Gdansk University of Technology, 11/12 G. Narutowicza Str., Gdansk, 80-233, Poland
+AD  - Department of Analytical Chemistry, Chemical Faculty, Gdansk University of Technology, 11/12 G. Narutowicza Str., Gdansk, 80-233, Poland
+AB  - The paper presents the results of investigation on classification of atmospheric air samples collected in a vicinity of municipal landfill with respect to their odour nuisance. The research was conducted using a prototype of electronic nose instrument and a commercial electronic nose of Fast/Flash GC type - HERACLES II. The prototype was equipped with a set of six semiconductor sensors by FIGARO Co.. Classification of the air samples with respect to the place of collection relative to the landfill was performed using linear discriminant function supported with cross-validation method. More than 70 % of the samples were correctly classified employing the analysis with HERACLES II. The prototype of electronic nose provided correct classification of 40 % of the samples. Copyright © 2014, AIDIC Servizi S.r.l.
+KW  - Land fill
+KW  - Air samples
+KW  - Atmospheric air
+KW  - Commercial electronics
+KW  - Cross-validation methods
+KW  - Electronic nose instruments
+KW  - Linear discriminant functions
+KW  - Municipal landfills
+KW  - Semiconductor sensors
+KW  - Electronic nose
+A2  - Del Rosso R.
+PB  - Italian Association of Chemical Engineering - AIDIC
+SN  - 22839216 (ISSN)
+LA  - English
+J2  - Chem. Eng. Trans.
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84908251067
+N1  - Export Date: 05 October 2026
+N1  - Cited By: 39
+N1  - Conference name: 4th International Conference on Environmental Odour Monitoring and Control, NOSE 2014
+N1  - Conference date: 14 September 2014 through 17 September 2014
+N1  - Conference code: 114672
+ER  -
+

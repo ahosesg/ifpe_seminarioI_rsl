@@ -1,0 +1,6 @@
+# Preserve os bytes recebidos do Prism, inclusive as quebras de linha.
+* -text
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.png binary
