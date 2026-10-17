@@ -66,7 +66,7 @@ registros ficam no artefato `revisao-sistematizada-pdfs` da execução.
 
 As figuras vetoriais e o perfil descritivo são derivados dos dados consolidados.
 Para regenerá-las, usar `python3 scripts/gerar_figuras.py` com ReportLab
-instalado; a opção `--check` exige apenas a biblioteca padrão de Python.
+instalado e Poppler para as prévias PNG; a opção `--check` exige apenas a biblioteca padrão de Python.
 O gerador do suplemento altera somente a apresentação derivada.
 
 A [revisão editorial](docs/revisao_editorial_2026-10-17_duas_colunas.md) documenta

@@ -24,12 +24,15 @@ if '--check' in sys.argv:
  print('Figuras: contagens e arquivos consistentes com 66 relatos.');raise SystemExit
 from reportlab.pdfgen import canvas
 from reportlab.lib.units import cm
-import math,subprocess
+import math,subprocess,shutil
 F.mkdir(exist_ok=True)
 def finish(c,name):
  c.showPage();c.save()
- poppler=Path(r'C:\Users\Andre\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin\pdftoppm.exe')
- if poppler.exists():subprocess.run([str(poppler),'-png','-singlefile','-r','220',str(F/(name+'.pdf')),str(F/name)],check=True,capture_output=True)
+ poppler=shutil.which('pdftoppm')
+ if not poppler:
+  bundled=Path(sys.executable).parent.parent/'native/poppler/Library/bin/pdftoppm.exe'
+  poppler=str(bundled) if bundled.is_file() else None
+ if poppler:subprocess.run([str(poppler),'-png','-singlefile','-r','220',str(F/(name+'.pdf')),str(F/name)],check=True,capture_output=True)
 c=canvas.Canvas(str(F/'fluxo_selecao.pdf'),pagesize=(16*cm,9*cm),invariant=1,pageCompression=1)
 c.setTitle('Fluxo de selecao dos relatos');c.setAuthor('André Henrique Oliveira Santos')
 def box(x,y,w,h,text,fill=(.95,.95,.95)):

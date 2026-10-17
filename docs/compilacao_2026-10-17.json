@@ -1,23 +1,32 @@
 {
-  "source_commit": "0a09bbcb966e695248f64ddcd0c5800bf37344d7",
-  "workflow_run": 39059998076,
-  "workflow_url": "https://github.com/ahosesg/ifpe_seminarioI_rsl/actions/runs/39059998076",
+  "source_commit": "90f97e25653c120a53ec26249001507f5eaf69e7",
+  "workflow_run": 39063700091,
+  "workflow_url": "https://github.com/ahosesg/ifpe_seminarioI_rsl/actions/runs/39063700091",
   "date": "2026-10-17",
+  "presentation": "artigo em duas colunas; título e autoria em largura integral; resumos lado a lado; suplemento em uma coluna",
   "validation": [
-    "dados e chaves bibliograficas consistentes",
-    "Biber e referencias cruzadas resolvidas",
-    "PDFs renderizados e conferidos visualmente"
+    "seleção e contagens preservadas em relação à consolidação anterior",
+    "437 registros; 66 relatos; 78 estratos; 68 chaves bibliográficas",
+    "resultados quantitativos destacados rechecados nas fontes integrais",
+    "Biber, citações e referências cruzadas resolvidos",
+    "19 páginas do artigo renderizadas; abertura, figuras, quadros, tabelas e referências inspecionados",
+    "páginas alteradas do suplemento renderizadas e inspecionadas",
+    "expressão administrativa solicitada ausente dos PDFs"
   ],
-  "status": "versao de trabalho; conferencia autoral cientifica nao documentada",
+  "layout_notes": [
+    "Três avisos residuais de caixa vertical inferior a 2 pontos no artigo; nenhum conteúdo cortado ou sobreposto na inspeção.",
+    "No suplemento, avisos horizontais inferiores a 0,2 ponto nas estratégias de busca; sem perda de texto."
+  ],
+  "scientific_scope": "Conferência focal assistida por IA; revisão independente e conferência autoral integral não documentadas.",
   "files": {
     "main.pdf": {
-      "sha256": "f66682087671385f89febdfadb48d73b8312fe58d9da61cfd6c3cecbc58432cc",
-      "size_bytes": 169039,
-      "pages": 20
+      "sha256": "bee75794893a0b7bab9cb2974e14384c951e07d38de50f05d865dbc5f5d700e4",
+      "size_bytes": 188326,
+      "pages": 19
     },
     "suplemento.pdf": {
-      "sha256": "e552dbe90eeca5f45bf4ae77f08bd16c115d5e45197bcf84e0287a38fc8e77ed",
-      "size_bytes": 264759,
+      "sha256": "71ffb355101661b035f931095d71268e6d37a482d31df559a6282a27d91c5cf3",
+      "size_bytes": 266678,
       "pages": 46
     }
   }
