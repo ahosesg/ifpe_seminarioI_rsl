@@ -22,16 +22,15 @@ for p in texts:
 assert not cites-set(keys),'Citações sem referência: '+str(cites-set(keys))
 for file in ['main.tex','suplemento.tex']:
  t=(R/file).read_text(encoding='utf-8')
- for item in re.findall(r'\\(?:input|usepackage)\{([^}]+)\}',t):
+ for command,item in re.findall(r'\\(input|usepackage)\{([^}]+)\}',t):
   if '/' in item or item in ['latex/metadados']:
-   assert (R/(item+('.sty' if 'abnt-revisao' in item else '.tex'))).exists(),item
+   assert (R/(item+('.sty' if command=='usepackage' else '.tex'))).exists(),item
 wc={}
 for name in ['resumo','abstract']:
  t=(R/f'texto/{name}.tex').read_text(encoding='utf-8').split('\\vspace')[0]
  t=re.sub(r'\\MPdez\{\}', 'MP10',t);t=re.sub(r'\\MPdoiscinco\{\}', 'MP2,5',t);t=t.replace('\\noindent','')
- wc[name]=len(t.split());assert 150<=wc[name]<=500,(name,wc[name])
-assert 'conferência autoral' in (R/'texto/metodos.tex').read_text(encoding='utf-8')
-assert len(re.findall(r'\\chapter\{', '\n'.join((R/f'texto/{n}.tex').read_text(encoding='utf-8') for n in ['introducao','metodos','resultados','discussao','conclusao'])))==5
+ wc[name]=len(t.split());assert 100<=wc[name]<=250,(name,wc[name])
+assert len(re.findall(r'\\section\{', '\n'.join((R/f'texto/{n}.tex').read_text(encoding='utf-8') for n in ['introducao','metodos','resultados','discussao','conclusao'])))==5
 if '--compiled' in sys.argv:
  for name in ['main','suplemento']:
   assert (R/f'{name}.pdf').stat().st_size>20000,name

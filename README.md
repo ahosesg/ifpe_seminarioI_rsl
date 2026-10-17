@@ -8,7 +8,8 @@ MP2,5 no ar ambiente: revisão sistematizada dos vieses e fatores condicionantes
 - [`main.tex`](main.tex): manuscrito, com fontes modulares em [`texto/`](texto/).
 - [`suplemento.tex`](suplemento.tex): material suplementar, gerado a partir dos
   dados consolidados.
-- [`latex/abnt-revisao.sty`](latex/abnt-revisao.sty): apresentação acadêmica.
+- [`latex/abnt-artigo.sty`](latex/abnt-artigo.sty): artigo em duas colunas.
+- [`latex/abnt-revisao.sty`](latex/abnt-revisao.sty): suplemento em uma coluna.
 - [`referencias_revisao.bib`](referencias_revisao.bib): bibliografia editorial
   dos 66 relatos e de duas fontes metodológicas.
 - [`dados/consolidacao_2026-10-17/`](dados/consolidacao_2026-10-17/): seleção de
@@ -27,7 +28,7 @@ A origem e as somas de verificação estão em
 
 ## Situação científica
 
-Versão de trabalho de 17/10/2026. Foram selecionados 66 relatos entre 84 avaliados
+Artigo ampliado em duas colunas em 17/10/2026. Foram selecionados 66 relatos entre 84 avaliados
 com relato disponível. Permaneceram 32 textos não recuperados e seis referências
 com identificação insuficiente; 315 registros foram excluídos por título/resumo
 e 18 após avaliação do relato.
@@ -52,6 +53,7 @@ completa exige Biber; executar apenas pdfLaTeX uma vez não resolve as referênc
 
 ```sh
 python3 scripts/gerar_suplemento.py
+python3 scripts/gerar_figuras.py --check
 python3 scripts/verificar_revisao.py
 latexmk -pdf -file-line-error -halt-on-error -interaction=nonstopmode main.tex
 latexmk -pdf -file-line-error -halt-on-error -interaction=nonstopmode suplemento.tex
@@ -62,8 +64,13 @@ O fluxo [`compilar-latex.yml`](.github/workflows/compilar-latex.yml) executa ess
 verificações e compila os dois documentos no GitHub Actions. Os PDFs e os
 registros ficam no artefato `revisao-sistematizada-pdfs` da execução.
 
-Os comandos de geração alteram apenas o suplemento derivado, não a seleção ou
-os julgamentos. `--check` verifica se a versão gerada corresponde aos dados.
+As figuras vetoriais e o perfil descritivo são derivados dos dados consolidados.
+Para regenerá-las, usar `python3 scripts/gerar_figuras.py` com ReportLab
+instalado; a opção `--check` exige apenas a biblioteca padrão de Python.
+O gerador do suplemento altera somente a apresentação derivada.
+
+A [revisão editorial](docs/revisao_editorial_2026-10-17_duas_colunas.md) documenta
+os seis exemplos consultados, as escolhas de estrutura e as métricas rechecadas.
 
 ## Histórico e fontes preservadas
 

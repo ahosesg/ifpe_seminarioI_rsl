@@ -1,25 +1,14 @@
-\begingroup\singlespacing\footnotesize
-\setlength{\tabcolsep}{3pt}
-\def\LTcaptype{quadro}
-\begin{longtable}{|P{0.155\textwidth}|P{0.245\textwidth}|P{0.285\textwidth}|P{\dimexpr0.315\textwidth-8\tabcolsep-5\arrayrulewidth\relax}|}
-\caption{Comparações focais por tecnologia, fração e configuração}\label{qua:comparabilidade}\\
-\hline\textbf{Tecnologia e fração} & \textbf{Configuração e comparador} & \textbf{Comportamento observado} & \textbf{Condicionantes e fontes} \\\hline
-\endfirsthead
-\multicolumn{4}{r}{\footnotesize Quadro~\thequadro{} -- continuação}\\
-\hline\textbf{Tecnologia e fração} & \textbf{Configuração e comparador} & \textbf{Comportamento observado} & \textbf{Condicionantes e fontes} \\\hline
-\endhead
-\multicolumn{4}{r}{\footnotesize Continua na página seguinte.}\\
-\endfoot
-\endlastfoot
-TEOM; \MPdoiscinco{} & Operação aquecida; Harvard Impactor não aquecido e, em outra etapa, aquecido a 50~\textcelsius{}. & Razões entre médias TEOM/impactador de 0,74 e 1,06 nas etapas respectivas. & Temperatura, semivoláteis e períodos sucessivos; a mudança não isola um efeito causal único \parencite{rsl201}. \\\hline
-TEOM diferencial; \MPdoiscinco{} & Sistema diferencial versus FRM em campanha com investigação química. & Médias de 36,4 e 26,8~\ugm{}, respectivamente; diferença de 9,6~\ugm{}. & Parte da diferença foi associada à perda de nitrato no filtro FRM \parencite{rsl101}. \\\hline
-TEOM-FDMS; \MPdez{} e \MPdoiscinco{} & Sistemas com compensação por dinâmica de filtro, avaliados contra gravimetria no programa britânico. & Cumprimento dos critérios do programa sem correção adicional de inclinação e intercepto. & Resultado específico das configurações e regras avaliadas; não estabelece equivalência universal \parencite{rsl161}. \\\hline
-Beta; \MPdez{} & Wedding beta versus amostradores de alto volume. & Razões beta/alto volume de 1,08--1,09 e 1,21--1,27 conforme a condição de deliquescência. & Água associada ao aerossol e composição; as faixas dependem do comparador \parencite{rsl170}. \\\hline
-Beta; \MPdez{} & Protótipo com filtro em cassete; leitura beta versus pesagem do mesmo filtro. & Inclinação 0,96; intercepto 0,88~\ugm{}; $r=0{,}98$. & Teste da determinação de massa; a coleta dos dois sistemas não é independente \parencite{rsl214}. \\\hline
-Híbrido SHARP; \MPdoiscinco{} & Sinal óptico combinado com atenuação beta; comparação com FRM. & $\mathrm{FRM}=0{,}92\times\mathrm{SHARP}+1{,}2$~\ugm{}; $R^2=0{,}88$; 207 pares após quatro exclusões. & Manter direção da equação, integração e seleção dos pares \parencite{rsl059}. \\\hline
-Ópticos convencionais; \MPdez{} e \MPdoiscinco{} & Fotômetros e contadores; filtros com corte e integração correspondentes em cada contraste elegível. & Ocorreram desvios de ambos os sinais; correções de umidade puderam melhorar a relação ou ser excessivas. & Composição, tamanho, umidade, sazonalidade e calibração. As evidências por fração são preservadas na matriz individual \parencite{rsl269,rsl224,rsl388,rsl376}. \\\hline
-SMPS--APS; \MPdez{} e \MPdoiscinco{} & Massa inferida da distribuição de tamanho; amostradores gravimétricos. & Em um estudo, incertezas de 27\% e 29\% e erros normalizados de 0,66 e 0,32 para \MPdez{} e \MPdoiscinco{}, respectivamente. & Densidade, forma, distribuição e corte; incerteza e erro normalizado não equivalem a viés percentual \parencite{rsl288,rsl283}. \\\hline
-\end{longtable}
-\Fonte{Elaboração própria a partir dos relatos citados em cada linha.}
-\NotaQuadro{Os contrastes são ilustrativos da extração focal. Não correspondem a oito estudos independentes ou ao inventário de todas as comparações. FRM: \textit{Federal Reference Method}; TEOM: \textit{Tapered Element Oscillating Microbalance}; FDMS: \textit{Filter Dynamics Measurement System}; SHARP: \textit{Synchronized Hybrid Ambient Real-time Particulate}; SMPS: \textit{Scanning Mobility Particle Sizer}; APS: \textit{Aerodynamic Particle Sizer}.}
+\begin{quadro*}[tbp]
+\caption{Desenhos de comparação e alcance da evidência obtida}\label{qua:desenhos}
+\begingroup\singlespacing\fontsize{10}{12}\selectfont
+\begin{tabularx}{\textwidth}{|P{.24\textwidth}|P{.34\textwidth}|X|}
+\hline\textbf{Desenho} & \textbf{O que o contraste avalia} & \textbf{Limite para a interpretação}\\\hline
+Sistemas completos em paralelo & Entrada, transporte, tratamento e determinação de massa, com períodos compatíveis \parencite{rsl201,rsl144}. & A diferença combina as características dos dois sistemas e suas condições de operação.\\\hline
+Leitura automática e pesagem do mesmo filtro & Determinação da massa depositada, mantendo a coleta comum \parencite{rsl214}. & Não valida independentemente a coleta de dois sistemas completos.\\\hline
+Subconjunto externo de estudo de exposição & Relação entre instrumentos no sítio e no período de calibração externos \parencite{rsl292,rsl427}. & Resultados internos ou posteriores já corrigidos não ampliam o número de validações.\\\hline
+Rede com agregação por monitor & Diferenças entre concentrações pareadas agregadas, preservando a unidade de análise \parencite{rsl026}. & Estações e médias anuais não equivalem a pares diários ou a experimentos independentes.\\\hline
+Massa inferida de tamanho de partículas & Desempenho da cadeia de medição e das hipóteses de conversão em massa \parencite{rsl288,rsl283}. & Densidade, forma e seleção por tamanho participam do resultado; incerteza não é viés percentual.\\\hline
+\end{tabularx}
+\Fonte{Elaboração própria a partir dos relatos citados.}
 \endgroup
+\end{quadro*}

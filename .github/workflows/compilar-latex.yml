@@ -2,9 +2,9 @@ name: Compilar e verificar revisão em LaTeX
 on:
   push:
     branches: [main, 'revisao/**']
-    paths: ['**.tex', '**.sty', '**.bib', 'scripts/gerar_suplemento.py', 'scripts/verificar_revisao.py', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
+    paths: ['**.tex', '**.sty', '**.bib', 'scripts/**', 'figuras/**', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
   pull_request:
-    paths: ['**.tex', '**.sty', '**.bib', 'scripts/**', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
+    paths: ['**.tex', '**.sty', '**.bib', 'scripts/**', 'figuras/**', 'dados/consolidacao_2026-10-17/**', '.github/workflows/compilar-latex.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -22,6 +22,7 @@ jobs:
       - name: Verificar dados, citações e material gerado
         run: |
           python3 scripts/gerar_suplemento.py --check
+          python3 scripts/gerar_figuras.py --check
           python3 scripts/verificar_revisao.py
       - name: Compilar manuscrito e suplemento com Biber
         uses: xu-cheng/latex-action@e2f99d4b3685b0da93f97e1b86ad8fab81105098 # v3

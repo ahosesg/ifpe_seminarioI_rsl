@@ -1,0 +1,66 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{latex/abnt-artigo}[2026/10/17 Artigo em duas colunas]
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[english,brazilian]{babel}
+\RequirePackage{mathptmx,textcomp,microtype,geometry}
+\geometry{a4paper,left=3cm,right=2cm,top=3cm,bottom=2cm,headheight=14pt,headsep=0.65cm}
+\setlength{\columnsep}{0.8cm}
+\RequirePackage{setspace,indentfirst}
+\singlespacing
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+\RequirePackage{amsmath,array,booktabs,tabularx,ragged2e,graphicx}
+\RequirePackage{float,caption,dblfloatfix,placeins,balance}
+\newfloat{quadro}{tbp}{loq}
+\floatname{quadro}{Quadro}
+\DeclareCaptionLabelSeparator{traco}{\space--\space}
+\DeclareCaptionFont{dez}{\fontsize{10}{12}\selectfont}
+\captionsetup{font=dez,labelfont=normalfont,labelsep=traco,justification=raggedright,singlelinecheck=false,position=top,skip=6pt}
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.12}
+\newcommand{\Fonte}[1]{\par\nobreak\noindent{\setstretch{1}\fontsize{10}{12}\selectfont Fonte: #1\par}}
+\newcommand{\NotaQuadro}[1]{\noindent{\setstretch{1}\fontsize{10}{12}\selectfont Nota: #1\par}}
+\RequirePackage{titlesec}
+\setcounter{secnumdepth}{5}
+\titleformat{\section}[hang]{\normalfont\bfseries\normalsize}{\thesection}{.7em}{}
+\titlespacing*{\section}{0pt}{1.25\baselineskip}{.7\baselineskip}
+\titleformat{\subsection}[hang]{\normalfont\bfseries\normalsize}{\thesubsection}{.7em}{}
+\titlespacing*{\subsection}{0pt}{\baselineskip}{.6\baselineskip}
+\titleformat{\subsubsection}[hang]{\normalfont\itshape\normalsize}{\thesubsubsection}{.7em}{}
+\titleformat{\paragraph}[hang]{\normalfont\normalsize}{\theparagraph}{.7em}{}
+\titleformat{\subparagraph}[hang]{\normalfont\itshape\normalsize}{\thesubparagraph}{.7em}{}
+\RequirePackage{fancyhdr}
+\fancypagestyle{plain}{\fancyhf{}\fancyhead[R]{\normalfont\small\thepage}\renewcommand{\headrulewidth}{0pt}}
+\pagestyle{plain}
+\RequirePackage{csquotes,xurl}
+\RequirePackage[backend=biber,style=abnt,sorting=nty,giveninits=true,maxcitenames=3,mincitenames=1,maxbibnames=99,uniquename=false,uniquelist=false,doi=true,url=true,isbn=false]{biblatex}
+\ifcsname NormalOrSCCite\endcsname\let\UpperOrSCCite\NormalOrSCCite\fi
+\DefineBibliographyStrings{brazilian}{andothers={\textit{et\addabbrvspace al\adddot}}}
+\renewcommand*{\bibfont}{\normalfont\normalsize}
+\setlength{\bibitemsep}{\baselineskip}
+\setlength{\bibparsep}{0pt}
+\AtBeginBibliography{\balance\singlespacing\RaggedRight\interlinepenalty=10000\setlength{\bibitemsep}{\baselineskip}}
+\defbibheading{referencias}[REFERÊNCIAS]{\section*{#1}}
+\RequirePackage[hidelinks,unicode,pdfencoding=auto]{hyperref}
+\hypersetup{bookmarksnumbered=true,pdfdisplaydoctitle=true}
+\urlstyle{same}
+\newcommand{\MPdez}{MP\textsubscript{10}}
+\newcommand{\MPdoiscinco}{MP\textsubscript{2,5}}
+\newcommand{\ugm}{\ensuremath{\mu\mathrm{g}\,\mathrm{m}^{-3}}}
+\renewcommand{\topfraction}{.9}
+\renewcommand{\bottomfraction}{.85}
+\renewcommand{\textfraction}{.08}
+\renewcommand{\floatpagefraction}{.65}
+\renewcommand{\dbltopfraction}{.9}
+\renewcommand{\dblfloatpagefraction}{.65}
+\setcounter{topnumber}{3}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{5}
+\setcounter{dbltopnumber}{2}
+\raggedbottom
+\emergencystretch=3em
+\clubpenalty=9500
+\widowpenalty=9500
+\displaywidowpenalty=9500

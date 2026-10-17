@@ -1,18 +1,19 @@
 # Estado do projeto em 17/10/2026
 
-O texto principal foi integrado a `main.tex` e `texto/`, com quadro comparativo,
-síntese por tecnologias/frações, discussão analítica e apresentação acadêmica.
-`suplemento.tex` é a fonte do material extenso. A bibliografia editorial é
-`referencias_revisao.bib`; a exportação original do Zotero foi preservada.
+O manuscrito em `main.tex` e `texto/` foi ampliado e reorganizado como artigo
+em duas colunas. Inclui duas figuras, duas tabelas quantitativas e dois quadros
+analíticos. A interpretação ocorre nos resultados e na discussão, sem seção
+isolada de síntese. A matriz dos 66 relatos permanece no suplemento.
 
-O delineamento vigente é revisão sistematizada, com extração focal e apreciação
-narrativa. Os dados consolidados de 437 registros e 66 relatos estão em
-`dados/consolidacao_2026-10-17/`. As matrizes anteriores e o protocolo 0.5 são
-históricos. A emenda 0.7 explicita o encerramento e as limitações executadas.
+O delineamento é revisão sistematizada com extração focal e apreciação narrativa.
+A seleção de 437 registros, os 66 relatos e os 78 estratos foram preservados.
+Os indicadores dos relatos RSL-085 e RSL-089 receberam esclarecimentos de
+definição e denominador, documentados na revisão editorial.
 
-A conferência autoral das decisões e dos resultados ainda não está documentada.
-Não há segundo revisor humano independente. A revisão editorial e a compilação
-não substituem essa conferência.
+O trabalho tem um pesquisador responsável, com assistência de IA e sem segundo
+revisor humano independente. A conferência autoral das decisões e estimativas
+não está documentada; a revisão editorial não cria esse registro.
 
-Consultar `normalizacao_abnt.md` para as normas adotadas e o alcance dos
-elementos pré-textuais. O README da raiz contém os comandos de compilação.
+Consultar `normalizacao_abnt.md` para a aplicação das normas ao gênero artigo
+e `revisao_editorial_2026-10-17_duas_colunas.md` para os seis modelos e as mudanças.
+O README contém os comandos de compilação e verificação.

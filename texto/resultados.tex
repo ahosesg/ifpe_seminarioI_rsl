@@ -1,85 +1,78 @@
-\chapter{RESULTADOS}
-\section{Seleção e características dos relatos}
+\section{RESULTADOS}
+\subsection{Composição do corpus e desenhos de comparação}
 
-Dos 437 registros integrados, 315 foram excluídos por título e resumo e seis permaneceram com identificação insuficiente. Para 116 registros buscou-se um relato; 32 não foram recuperados. Entre os 84 avaliados com relato disponível, 18 foram excluídos e 66 selecionados (Tabela~\ref{tab:selecao}).
+Dos 437 registros integrados, 315 foram excluídos por título e resumo e seis permaneceram com identificação insuficiente. Procuraram-se relatos para 116 registros; 32 não foram recuperados. Entre os 84 disponíveis e avaliados, 18 foram excluídos e 66 selecionados (Figura~\ref{fig:fluxo}). A distinção entre exclusão por conteúdo e indisponibilidade documental preserva o significado dessas perdas: a ausência de um texto não permite concluir que seus resultados seriam inelegíveis.
 
-\begin{table}[htbp]
-\centering\caption{Identificação e seleção dos registros}\label{tab:selecao}
-\begin{singlespace}
-\begin{tabularx}{\textwidth}{@{}Xr@{}}
-\toprule Etapa & Quantidade \\\midrule
-Registros únicos integrados & 437 \\
-Exclusões por título e resumo & 315 \\
-Referências com identificação insuficiente & 6 \\
-Encaminhados à obtenção de relato & 116 \\
-Textos não recuperados & 32 \\
-Avaliados com relato disponível & 84 \\
-Exclusões após avaliação do relato & 18 \\
-Relatos selecionados & 66 \\\bottomrule
-\end{tabularx}
-\Fonte{Elaboração própria a partir do registro de seleção.}
-\end{singlespace}
-\end{table}
+\begin{figure*}[tbp]
+\caption{Identificação, recuperação e seleção dos relatos}\label{fig:fluxo}
+\centering\includegraphics[width=\textwidth]{figuras/fluxo_selecao.pdf}
+\Fonte{Elaboração própria a partir do registro consolidado de seleção.}
+\NotaQuadro{A busca de citações é complementar e delimitada. A indisponibilidade de texto é distinguida da exclusão por conteúdo.}
+\end{figure*}
 
-As publicações selecionadas abrangem 1991 a 2025. Há 36 relatos restritos a \MPdoiscinco{}, 18 a \MPdez{} e 12 com ambas as frações: 48 abordam \MPdoiscinco{} e 30 abordam \MPdez{}. O total de relatos não representa um número de estudos independentes. Os motivos individuais das 18 exclusões, os 32 textos não recuperados e as seis identificações insuficientes constam do suplemento.
+As publicações abrangem 1991 a 2025. O intervalo de 2001 a 2005 concentra 25 relatos, seguido por 2006 a 2010, com 12. Há 36 relatos apenas de \MPdoiscinco{}, 18 apenas de \MPdez{} e 12 com ambas as frações (Figura~\ref{fig:perfil}). Considerando os relatos com ambas, 48 abordam \MPdoiscinco{} e 30 abordam \MPdez{}, originando os 78 estratos de relato e fração. As contagens descrevem publicações selecionadas; não medem o número de experimentos independentes, a produção total da área ou a robustez de uma tecnologia.
 
-As exclusões após leitura compreenderam comparações entre estações distintas, ausência de contraste gravimétrico próprio, contextos externos não separáveis e frações incompatíveis. Os resumos dos textos não recuperados não substituíram a extração integral. No estudo de \textcite{rsl376}, foram utilizados apenas instrumentos convencionais, mantendo a exclusão dos resultados do sensor AirBeam.
+\begin{figure*}[tbp]
+\caption{Perfil dos 66 relatos selecionados por período de publicação e fração}\label{fig:perfil}
+\centering\includegraphics[width=\textwidth]{figuras/perfil_corpus.pdf}
+\Fonte{Elaboração própria a partir dos metadados dos relatos selecionados.}
+\NotaQuadro{Os intervalos correspondem ao ano de publicação, não ao período de medição. As três categorias de fração são exclusivas; os 12 relatos com ambas as frações contribuem para os totais de 48 relatos de \MPdoiscinco{} e 30 de \MPdez{}.}
+\end{figure*}
 
-\section{Comparação entre tecnologias e frações}
+Os desenhos variam de campanhas locais e ensaios de configurações a análises de redes com centenas de estações. Essa amplitude não elimina diferenças no objeto validado. Comparar uma leitura beta com a pesagem do mesmo filtro examina uma etapa distinta daquela avaliada ao operar dois sistemas completos em paralelo. Da mesma forma, uma relação entre médias anuais de uma rede não substitui o exame das discrepâncias em cada intervalo de coleta. O Quadro~\ref{qua:desenhos} explicita esses alcances, utilizados na leitura dos resultados.
 
-O Quadro~\ref{qua:comparabilidade} reúne contrastes que ilustram as condições de comparabilidade. As métricas preservam suas definições e não representam uma escala comum de desempenho. A matriz individual dos 66 relatos e os 78 estratos de relato/fração estão no material suplementar.
-\input{texto/quadro_comparativo}
+As exclusões após avaliação do relato envolveram, entre outros motivos, estações distintas, ausência de contraste gravimétrico próprio, contextos não separáveis e frações incompatíveis. Os motivos individuais das 18 exclusões, os 32 textos não recuperados e as seis identificações insuficientes constam do suplemento. Nos estudos mistos, mantiveram-se apenas os contrastes elegíveis; em \textcite{rsl376}, por exemplo, os resultados dos instrumentos convencionais foram separados dos referentes ao AirBeam.
 
-\section{TEOM, aquecimento e compensação de perdas}
+\subsection{Aquecimento, compensação de perdas e gravimetria}
 
-O tratamento térmico modificou a relação com os filtros. Em Erfurt, a razão entre médias TEOM/Harvard Impactor passou de 0,74, com comparador não aquecido, a 1,06 na etapa em que o impactador operou a 50~\textcelsius{} \parencite{rsl201}. Os períodos sucessivos impedem atribuir toda a mudança exclusivamente ao aquecimento, mas o contraste é coerente com diferenças na retenção de semivoláteis. Aproximar o tratamento térmico também modifica a massa operacionalmente comparada.
+As comparações com TEOM mostram por que o tratamento da amostra precisa acompanhar a identificação do equipamento (Tabela~\ref{tab:teom}). Em Erfurt, \textcite{rsl201} encontraram razão entre médias TEOM/Harvard Impactor de 0,74 em 32 dias com impactador não aquecido. Em uma etapa posterior, de 14 dias, o aquecimento do impactador a 50~\textcelsius{} aproximou a razão de 1,06. As campanhas sucessivas não isolam um efeito causal único, mas a aproximação após tornar o tratamento térmico mais semelhante é consistente com perdas de componentes semivoláteis.
 
-Sistemas de equilíbrio da amostra reduziram diferenças negativas em campanhas de \MPdoiscinco{}. Em Addison, o desvio médio TEOM--FRM foi de $-2{,}23$~\ugm{} no sistema convencional e de $-1{,}22$~\ugm{} com equilíbrio da amostra; em Queens, passou de $-2{,}37$ a $-0{,}93$~\ugm{} \parencite{rsl144}. Esses resultados sustentam o efeito da configuração, condicionado ao local e ao período.
+\input{texto/tabela_teom}
 
-O sinal da diferença se inverteu quando a perda no comparador ganhou importância. \textcite{rsl101} observaram médias de 36,4~\ugm{} no TEOM diferencial e de 26,8~\ugm{} no FRM, relacionando parte da diferença à volatilização de nitrato no filtro. A avaliação de \textcite{rsl202} também associou discrepâncias entre TEOM diferencial e amostradores integrados a componentes semivoláteis. Valores automáticos maiores não indicam, isoladamente, excesso de massa em relação à existente no ar.
+O resultado de Erfurt também delimita a explicação química. Os autores reportaram baixos níveis de nitrato de amônio e atribuíram importância a outros componentes, como material orgânico semivolátil \parencite{rsl201}. Já nas comparações californianas de TEOM diferencial, a diferença em relação aos filtros foi relacionada à perda de nitrato \parencite{rsl101,rsl202}. Portanto, reconhecer a volatilização como mecanismo relevante não autoriza atribuir a todas as campanhas a mesma composição ou aplicar uma correção baseada exclusivamente em nitrato.
 
-A compensação por dinâmica de filtro, \textit{Filter Dynamics Measurement System} (FDMS), apresentou resultados distintos do TEOM convencional no programa britânico: os sistemas FDMS de \MPdez{} e \MPdoiscinco{} cumpriram os critérios empregados sem correção adicional de inclinação e intercepto, enquanto o TEOM de \MPdez{} não os cumpriu mesmo com fator adicional de 1,3 \parencite{rsl161}. Em outra campanha, o viés normalizado TEOM-FDMS foi de 13,86\% antes do ajuste e de $-0{,}85$\% depois \parencite{rsl085}. O ganho local não demonstra transferência da equação a outra rede.
+A redução da temperatura combinada ao controle de umidade por um sistema de equilíbrio da amostra, \textit{Sample Equilibration System} (SES), reduziu a diferença negativa frente ao FRM em dois sítios de Nova York. Em Addison, as estimativas médias passaram de $-2{,}23$ para $-1{,}22$~\ugm{}; em Queens, de $-2{,}37$ para $-0{,}93$~\ugm{} \parencite{rsl144}. Os denominadores não são idênticos entre todos os contrastes: Addison reuniu 843 pares para o TEOM convencional e 715 para o SES, enquanto Queens apresentou 383 conjuntos válidos. A leitura sustentada é a melhora observada nas configurações e campanhas avaliadas, sem transformar a diferença entre estimativas em efeito experimental universal.
 
-\section{Atenuação beta e monitoramento híbrido}
+A compensação por dinâmica de filtro, \textit{Filter Dynamics Measurement System} (FDMS), introduz outra relação com o comparador. Em Queens, um sistema FDMS apresentou regressão com inclinação 1,25 e $R^2=0{,}95$ frente ao FRM, em 283 pares; em Addison, a inclinação foi 1,088, em 349 pares distribuídos por 22 meses \parencite{rsl105}. O elevado acompanhamento das variações não eliminou a diferença de escala em Queens. A comparação reforça que reter ou compensar material que se perde no filtro pode aumentar a leitura em relação ao FRM.
 
-A resposta beta variou com água associada às partículas e nível de concentração. Para \MPdez{}, as razões beta/alto volume foram próximas de 1,08--1,09 sem exceder o ponto de deliquescência e de 1,21--1,27 quando essa condição foi excedida, conforme o comparador manual \parencite{rsl170}. Em ar de fundo, a razão monitor/referência foi de $1{,}06\pm0{,}12$, com diferença média de apenas 0,2~\ugm{}, mas discrepâncias maiores em episódios frios e úmidos \parencite{rsl073}. Diferenças absolutas e relativas precisam ser lidas conjuntamente, sobretudo em baixas concentrações.
+Esse sinal positivo também apareceu no TEOM diferencial de \textcite{rsl101}: as médias de 24~h foram de 36,4~\ugm{} no automático e 26,8~\ugm{} no FRM, diferença de 9,6~\ugm{}. As observações químicas relacionaram parte da discrepância à volatilização de nitrato no filtro de referência. Em \textcite{rsl202}, a comparação do sistema diferencial com amostragem integrada também indicou contribuição de semivoláteis. Nesses casos, denominar a diferença simplesmente como \enquote{superestimação do automático} omite a possibilidade de perda no próprio comparador.
 
-O desenho da comparação delimitou o que foi validado. No protótipo de \textcite{rsl214}, a inclinação de 0,96, o intercepto de 0,88~\ugm{} e $r=0{,}98$ descrevem a medição beta frente à pesagem do mesmo filtro. O ensaio examina a determinação da massa, sem verificar independentemente a eficiência de coleta de dois sistemas completos.
+As avaliações de equivalência precisam ser lidas no domínio em que foram conduzidas. No programa britânico de \textcite{rsl161}, os sistemas FDMS para as duas frações cumpriram os critérios empregados sem correção adicional de inclinação e intercepto; o TEOM de \MPdez{} não os cumpriu mesmo com fator adicional de 1,3. Em outra investigação, a aplicação desse fator produziu excesso de dias de excedência e das médias anuais \parencite{rsl066}. O conjunto restringe o uso do fator como regra geral, mas não transforma o resultado de um programa em certificação universal de todas as configurações FDMS.
 
-O monitor híbrido \textit{Synchronized Hybrid Ambient Real-time Particulate} (SHARP) apresentou relação com filtros expressa por $\mathrm{FRM}=0{,}92\times\mathrm{SHARP}+1{,}2$~\ugm{}, com $R^2=0{,}88$, após a exclusão de quatro dos 211 pares iniciais \parencite{rsl059}. A direção da equação e o denominador de 207 pares são parte do resultado; a regressão não pode ser invertida automaticamente.
+Há, ainda, contrastes próximos da unidade em aerossóis distintos. Em dois confinamentos bovinos do Kansas, \textcite{rsl106} obtiveram inclinações TEOM/alto volume de 1,07 e 1,04, com 208 e 98 pares. Em Bakersfield, por outro lado, a inclinação TEOM--gravimetria para \MPdez{} foi 0,37, embora $r=0{,}95$ \parencite{rsl129}. Essas diferenças afastam uma descrição fixa de \enquote{quanto o TEOM subestima}: entrada seletiva, composição, configuração, sítio e período precisam permanecer vinculados ao resultado.
 
-A análise secundária de 276 estações norte-americanas ampliou a perspectiva espacial: o viés médio na análise de razões anuais FEM/FRM foi de 22\%, com médias de 28\% nos instrumentos por espalhamento e de 12\% nos beta \parencite{rsl026}. Esses números refletem modelos, sítios e agregação anual daquela análise, não propriedades fixas dos princípios físicos.
+\subsection{Água, atenuação beta e sistemas híbridos}
 
-\section{Instrumentos ópticos e contexto do aerossol}
+Nas comparações por atenuação beta, a água associada às partículas aparece como condicionante da diferença de massa (Tabela~\ref{tab:betaopticos}). \textcite{rsl170} reportaram razões beta/alto volume de 1,08--1,09 quando não se excedeu a condição de deliquescência e de 1,21--1,27 quando ela foi excedida. As duas faixas também variaram com o amostrador de alto volume utilizado. O contraste indica que a resposta à umidade deve ser examinada conjuntamente com as características do aerossol e do comparador, em vez de ser atribuída a um limite ambiental único válido para qualquer monitor beta.
 
-Respostas distintas ocorreram entre fotômetros convencionais num mesmo contexto. A comparação em Como identificou tendência de subestimação em um equipamento e superestimação em outros, enquanto outra campanha encontrou dependência sazonal e viés proporcional \parencite{rsl388,rsl376}. A classificação ampla ``óptico'' é insuficiente para determinar a direção do desvio.
+\input{texto/tabela_beta_opticos}
 
-A correção de umidade melhorou a relação pDR--gravimetria em \textcite{rsl269}, que reportaram $R^2=0{,}88$ nas conclusões. Entretanto, \textcite{rsl224} identificaram condições em que a correção do pDR poderia ser excessiva. Os resultados indicam que o benefício depende do aerossol e do algoritmo, exigindo distinguir a série bruta da corrigida.
+Em concentrações mais baixas, diferenças absolutas e relativas dão perspectivas distintas. No sítio finlandês de fundo de \textcite{rsl073}, 42 pares produziram razão monitor/referência de 1,06 e diferença média de 0,2~\ugm{}, em uma faixa aproximada de 1,5 a 18~\ugm{}. Discrepâncias maiores ocorreram em condições frias e úmidas. Uma diferença absoluta pequena pode representar parcela relevante de uma concentração baixa; uma média próxima da unidade também pode ocultar episódios em que a relação se altera.
 
-Subconjuntos externos de estudos de exposição também forneceram comparações elegíveis. A razão FRM/pDR foi de 0,66 em 28 dias na calibração externa de \textcite{rsl292}. Em outro estudo, as relações externas pDR--Harvard Impactor apresentaram $R^2$ de 0,85 no inverno e de 0,78 no verão; as análises de infiltração subsequentes já incorporavam correções sazonais e não constituíram novas validações \parencite{rsl427}.
+O protótipo beta de \textcite{rsl214} apresentou inclinação 0,96, intercepto 0,88~\ugm{} e $r=0{,}98$ em médias de 24~h. Entretanto, a leitura beta foi comparada à pesagem do mesmo filtro. O ensaio informa sobre a determinação da massa, sem testar de modo independente a eficiência de coleta e o transporte de partículas de dois sistemas completos. Essa diferença de desenho explica por que um resultado muito próximo da gravimetria não deve ser equiparado, sem qualificação, a uma comparação de campo entre amostradores distintos.
 
-O tipo de episódio alterou a resposta. Durante uma implosão, a média pDR de 398~\ugm{} correspondeu a 73\% da média gravimétrica de 545~\ugm{} no mesmo intervalo \parencite{rsl368}. A observação é específica do evento e não define uma relação geral para poeiras urbanas.
+O sistema híbrido \textit{Synchronized Hybrid Ambient Real-time Particulate} (SHARP), que combina resposta óptica e atenuação beta, foi avaliado por \textcite{rsl059}. A relação principal foi $\mathrm{FRM}=0{,}92\times\mathrm{SHARP}+1{,}2$~\ugm{}, com $R^2=0{,}88$ e 207 pares após quatro exclusões dos 211 iniciais. A equação estima FRM a partir de SHARP; inverter seus coeficientes não produz automaticamente a regressão apropriada para estimar SHARP a partir de FRM. A seleção dos pares e a direção da relação fazem parte do resultado, tanto quanto a magnitude do coeficiente.
 
-\section{Inferência da massa a partir da distribuição de tamanho}
+Em Taiwan, \textcite{rsl085} reuniram 265 observações diárias em nove combinações de sítio e estação do ano, distribuídas por cinco estações. Para o BAM-1020, a média dos desvios relativos diários passou de $1{,}67\pm12{,}43\%$ a $0{,}63\pm8{,}75\%$ após correção; para o TEOM-FDMS, de $13{,}86\pm14{,}50\%$ a $-0{,}85\pm9{,}00\%$, com dispersões expressas como desvios-padrão. As equações incorporaram concentração, temperatura e umidade relativa. Um procedimento as derivou de metade dos pontos selecionados aleatoriamente e as aplicou ao conjunto completo; outro empregou todos os pontos na derivação. Assim, os resultados principais demonstram melhora no conjunto estudado, com sobreposição entre dados de desenvolvimento e avaliação, sem constituir, por si, validação em uma rede externa.
 
-Sistemas que associam a análise de mobilidade elétrica, \textit{Scanning Mobility Particle Sizer} (SMPS), ao dimensionamento aerodinâmico, \textit{Aerodynamic Particle Sizer} (APS), inferem massa por hipóteses sobre densidade e forma. A avaliação de \textcite{rsl288} encontrou melhor comparabilidade na fração fina que na grossa. \textcite{rsl283} reportaram incertezas de 27\% para \MPdez{} e de 29\% para \MPdoiscinco{}, com erros normalizados de 0,66 e de 0,32, respectivamente. Esses indicadores não são vieses percentuais e não foram combinados com razões automático/gravimétrico.
+A análise secundária de \textcite{rsl026} ampliou a escala para 276 estações norte-americanas com monitores colocalizados. Os autores calcularam desvios a partir de razões FEM/FRM de médias anuais pareadas e reportaram média de 22\%, com 28\% nos instrumentos por espalhamento e 12\% nos beta. Esses percentuais não são equivalentes às médias de desvios relativos diários do estudo de Taiwan. As diferenças entre modelos, estações e agregações impedem usar as duas investigações como uma comparação direta de desempenho ou transportar as médias de rede como fatores de correção locais.
 
-\section{Condicionantes e limitações da evidência}
+\subsection{Resposta óptica, correções e propriedades do aerossol}
 
-A síntese identificou seis eixos recorrentes (Quadro~\ref{qua:condicionantes}). Relatos curtos, campanhas restritas e resultados apenas agregados limitaram a generalização. Houve participação de fabricantes em parte da literatura, informação considerada na apreciação narrativa sem constituir prova isolada de viés. O conjunto não recebeu uma classificação global uniforme de risco.
+Os resultados ópticos mostram a importância de separar a coleta da conversão do sinal em massa. Em \textcite{rsl089}, a média geométrica das razões entre a massa gravimétrica coletada pelos pDR e a massa do Partisol foi 1,027 em 20 comparações de 24~h. Já a média geométrica das razões entre a resposta óptica e a gravimetria dos próprios filtros foi 1,528 antes da correção de umidade e 1,058 depois, com 18 pares no subconjunto corrigido. A diferença entre as duas etapas localiza parte do problema na resposta óptica, mesmo quando a coleta apresenta boa relação com a referência.
 
-\begin{quadro}[htbp]
-\caption{Fatores condicionantes e implicações para a interpretação}\label{qua:condicionantes}
-\begin{singlespace}\small
-\begin{tabularx}{\textwidth}{|P{0.24\textwidth}|X|}
-\hline \textbf{Condicionante} & \textbf{Implicação para comparar resultados} \\\hline
-Aquecimento e semivoláteis & Registrar tratamento térmico e possíveis perdas nos dois métodos. \\\hline
-Umidade e higroscopicidade & Preservar condições ambientais e distinguir resultados brutos e corrigidos. \\\hline
-Tamanho, densidade e composição & Delimitar a validade das hipóteses de conversão do sinal em massa. \\\hline
-Faixa de concentração & Examinar diferenças absolutas e relativas e a resposta em episódios. \\\hline
-Integração e seleção de dados & Informar pareamento, denominadores, perdas e escala de agregação. \\\hline
-Desenvolvimento da correção & Distinguir ajuste, validação independente e aplicação em novo contexto. \\\hline
-\end{tabularx}
-\Fonte{Elaboração própria a partir dos relatos sintetizados nas seções anteriores.}
-\end{singlespace}
-\end{quadro}
+A aproximação das razões geométricas após a correção não elimina a necessidade de examinar a dispersão, e a mudança de 20 para 18 pares precisa acompanhar a interpretação. Também não se deve converter esses números em uma razão entre médias aritméticas. Em campanhas italianas, \textcite{rsl269} encontraram melhora na relação pDR--gravimetria após correção de umidade, enquanto \textcite{rsl224} discutiram respostas dependentes de condições e algoritmos. Nesse último relato, parte importante das comparações ópticas utilizou um monitor beta como referência operacional; tais contrastes não foram promovidos a evidência direta óptico--gravimétrica.
+
+O nome da tecnologia tampouco fixa a direção do desvio. Em comparações no mesmo contexto de Como, um fotômetro convencional tendeu a subestimar, enquanto outros tenderam a superestimar as concentrações gravimétricas \parencite{rsl388}. A investigação de \textcite{rsl376}, limitada aqui aos equipamentos convencionais, também identificou comportamento sazonal e viés proporcional. Além de água, distribuição de tamanho, propriedades ópticas e hipóteses de conversão condicionam a relação entre sinal e massa; a coerência temporal entre séries não resolve isoladamente essas diferenças.
+
+Resultados de outros ambientes reforçam essa dependência. Em dois sítios de Riohacha, \textcite{rsl226} reportaram médias DataRAM/alto volume de 23,64/25,09 e 36,86/36,64~\ugm{}, com 28 amostras por sítio. Durante uma implosão em Baltimore, o pDR harmonizado ao intervalo dos filtros apresentou 398~\ugm{} frente a 545~\ugm{} na gravimetria, correspondendo a 73\% do valor gravimétrico \parencite{rsl368}. A pequena diferença entre médias em um contexto e a diferença expressiva em um episódio de poeira não descrevem uma propriedade constante dos fotômetros.
+
+Os estudos de exposição contribuíram apenas por seus subconjuntos externos. \textcite{rsl020} reportaram $R^2=0{,}88$ em 303 pares distribuídos por 38 locais externos. Em áreas com influência de fumaça, \textcite{rsl427} encontraram relações pDR--Harvard Impactor com $R^2=0{,}85$ no inverno e 0,78 no verão. Esses resultados informam associação e calibração no ambiente externo; as análises posteriores de infiltração, já corrigidas, não constituem novas validações independentes. A separação evita ampliar artificialmente a base de evidências ao reutilizar a mesma calibração em diferentes etapas de um estudo.
+
+\subsection{Distribuições de tamanho e diferenças entre frações}
+
+Nos sistemas que associam \textit{Scanning Mobility Particle Sizer} (SMPS) e \textit{Aerodynamic Particle Sizer} (APS), a massa é inferida de distribuições de tamanho. A conversão depende de densidade, forma e da relação entre diâmetros de mobilidade e aerodinâmico. A comparação com gravimetria, portanto, envolve tanto a descrição do tamanho quanto as hipóteses usadas para converter essa descrição em massa. Atribuir a discrepância apenas à resposta de um detector omite essas etapas.
+
+A avaliação em quatro sítios da região de Los Angeles encontrou melhor comparabilidade para \MPdoiscinco{} que para a fração grossa e destacou a dependência da densidade assumida \parencite{rsl288}. \textcite{rsl283} reportaram incertezas relativas de 27\% para \MPdez{} e 29\% para \MPdoiscinco{}, com erros normalizados de 0,66 e 0,32, respectivamente. Os dois pares de indicadores não têm o mesmo significado: incerteza caracteriza a dispersão atribuída ao resultado; erro normalizado expressa uma comparação que incorpora incertezas. Nenhum deles corresponde diretamente a um viés percentual automático/gravimétrico.
+
+A fração mais grossa também torna mais visíveis diferenças de seleção e amostragem. Em Owens Lake, diferentes coletores gravimétricos apresentaram relações distintas com o mesmo TEOM, enquanto uma das comparações com Partisol se aproximou da unidade \parencite{rsl136}. A referência escolhida passa, assim, a integrar a interpretação do contraste. Os dados não sustentam extrapolar o desempenho observado para \MPdoiscinco{} a \MPdez{}, nem estabelecer superioridade geral de comparabilidade de uma fração com base em campanhas heterogêneas.

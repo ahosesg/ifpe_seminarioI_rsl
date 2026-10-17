@@ -1,0 +1,60 @@
+{
+  "dados": {
+    "unidade": "relato selecionado; nao estudo independente",
+    "n": 66,
+    "periodos": [
+      {
+        "periodo": "1991-1995",
+        "relatos": 1
+      },
+      {
+        "periodo": "1996-2000",
+        "relatos": 9
+      },
+      {
+        "periodo": "2001-2005",
+        "relatos": 25
+      },
+      {
+        "periodo": "2006-2010",
+        "relatos": 12
+      },
+      {
+        "periodo": "2011-2015",
+        "relatos": 8
+      },
+      {
+        "periodo": "2016-2020",
+        "relatos": 8
+      },
+      {
+        "periodo": "2021-2025",
+        "relatos": 3
+      }
+    ],
+    "fracoes": {
+      "Apenas MP2,5": 36,
+      "Apenas MP10": 18,
+      "Ambas as frações": 12
+    },
+    "fluxo": {
+      "bases_brutas": 233,
+      "bases_deduplicadas": 150,
+      "novos_por_citacoes": 287,
+      "integrados": 437,
+      "excluidos_titulo_resumo": 315,
+      "identificacao_insuficiente": 6,
+      "procurados": 116,
+      "nao_recuperados": 32,
+      "avaliados": 84,
+      "excluidos_apos_relato": 18,
+      "incluidos": 66
+    }
+  },
+  "sha256": {
+    "fluxo_selecao.pdf": "f6c3dbc97c940d0b0588550c819a1762ebcecf05ab3ede36985636f4748fa2b4",
+    "perfil_corpus.pdf": "f9e3cf886c2d2f8f96097f12a34537b3226cb382e69f7d347645d9938a3c655f",
+    "fluxo_selecao.png": "66e006497a81cb5453322847e3f78ef349fe81c0297c283c1d68bd5ae3c598c3",
+    "perfil_corpus.png": "61bec3bcf8287729df243d55f18a144d668a613ebd3148bedef3ba811db80ebd"
+  }
+}

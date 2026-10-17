@@ -1,26 +1,33 @@
-
-% Fonte principal. Compilar com latexmk -pdf main.tex (Biber automático).
-\documentclass[12pt,a4paper,oneside]{report}
-\usepackage{latex/abnt-revisao}
+% Artigo em duas colunas; compilar com latexmk -pdf main.tex (Biber).
+\documentclass[12pt,a4paper,twocolumn]{article}
+\usepackage{latex/abnt-artigo}
 \input{latex/metadados}
 \addbibresource{referencias_revisao.bib}
 \hypersetup{pdftitle={\TituloRevisao},pdfauthor={\AutorRevisao}}
 \begin{document}
-\CapaRevisao{\TituloRevisao}
-\FolhaRostoRevisao{\TituloRevisao}{Revisão sistematizada desenvolvida no âmbito do Programa de Pós-Graduação em Gestão Ambiental do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco. Versão de trabalho para conferência autoral.}
-\TituloPretextual{RESUMO}
+\twocolumn[{%
+\begin{center}
+{\bfseries\large\TituloRevisao\par}
+\vspace{1em}
+{\AutorRevisao\par}
+\vspace{.35em}
+{\small Mestrando em Gestão Ambiental. Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco, Recife, Brasil.\par}
+\end{center}
+\vspace{.7em}
+\noindent\textbf{RESUMO}\par\nopagebreak
 \input{texto/resumo}
-\TituloPretextual{ABSTRACT}
+\vspace{.7em}
+\noindent\textbf{ABSTRACT}\par\nopagebreak
 \begin{otherlanguage}{english}
 \input{texto/abstract}
 \end{otherlanguage}
-\SumarioRevisao
-\AtivarPaginacao
+\vspace{1em}
+}]
 \input{texto/introducao}
 \input{texto/metodos}
 \input{texto/resultados}
 \input{texto/discussao}
 \input{texto/conclusao}
+\FloatBarrier
 \printbibliography[heading=referencias,title={REFERÊNCIAS}]
 \end{document}
-
